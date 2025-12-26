@@ -1,0 +1,21 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+body {
+	background: #071918;
+	background: -webkit-linear-gradient(top, #273938, black);
+	background: -moz-linear-gradient(top, #273938, black);
+	background-attachment: fixed;
+}
+
+main .wrapper {
+	background-color: lightgray;
+	border-radius: 10px;
+}
+
+footer a:hover {
+	color: pink;
+}
