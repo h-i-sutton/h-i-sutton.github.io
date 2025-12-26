@@ -34,12 +34,13 @@ youtube_username: HISuttonCovertShores
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-paginate
+#plugins:
+  #- jekyll-paginate
   #- jekyll-feed
 
 excerpt_separator: <!--more-->
-paginate: 10
+paginate: 50
+paginate_path: "/posts/page:num"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
