@@ -2,7 +2,7 @@
 layout: post
 title: "Season's Greetings & Update on Books"
 date: "2022-12-27 09:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
   Season's greetings. 2022 has seen the Covert Shores blog (and Twitter) focusing
   on the naval aspects of the war in Ukraine. I will continue this focus as long as
   the fighting continues. I hope to return to submarine cutaways (there are several

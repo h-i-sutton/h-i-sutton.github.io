@@ -2,15 +2,15 @@
 layout: post
 title: "TacOps_Podcast_Covert-Shores"
 date: "2019-05-05 11:00:00"
-excerpt: "<br clear=\"right\"/><a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"\
-  ><img align=\"right\" src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Tac Ops\
+excerpt: "<br clear=\"right\"/><a href=\"https://twitter.com/covertshores\" target=\"blank\"\
+  ><img align=\"right\" src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Tac Ops\
   \ podcast with Covert Shores**</font><br/>.Submarine veteran and speaker, Eric Moreno\
   \ has joined up with Covert Cabal to produce a new pod cast. It was a pleasure to\
   \ join Eric and Greg at the Tac Ops Podcast last week. The mammoth 1 hr 45 min session\
   \ has been uploaded to youtube. In it we discuss the recent launch of the new Russian\
   \ \u2018super submarine\u2019 Belgorod, and the Poseidon Inter-continental autonomous\
-  \ torpedo it will carry and much much more...<br/> [Read More &gt;....]({% post_url 2019-05-05-TacOps_Podcast_Covert-Shores %}\
-  \ \"READ MORE\")<br/><a href=\"{% post_url 2019-05-05-TacOps_Podcast_Covert-Shores %}\"><img src=\"\
+  \ torpedo it will carry and much much more...<br/> [Read More &gt;....](/TacOps_Podcast_Covert-Shores.html\
+  \ \"READ MORE\")<br/><a href=\"/TacOps_Podcast_Covert-Shores.html\"><img src=\"\
   /images/Tac_Ops_Pod_CovertShores900.jpg\"/></a>"
 
 ---

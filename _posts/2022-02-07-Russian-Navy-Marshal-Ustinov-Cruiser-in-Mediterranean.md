@@ -2,12 +2,12 @@
 layout: post
 title: "Russia Sends Second SLAVA Class Cruiser Into Mediterranean"
 date: "2022-02-07 10:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-02-07-Russian-Navy-Marshal-Ustinov-Cruiser-in-Mediterranean %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Navy-Marshal-Ustinov-Cruiser-in-Mediterranean.html"><img
   align="left" src="/images/Russia-Ustinov-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   It appears that Russia has deployed a second SLAVA Class cruiser, **Marhsal Ustinov**,
   to the Mediterranean. Added to the one in the Black Sea, this represents a serious
-  concentration of firepower in the region.  <br/>[Read More &gt;....]({% post_url 2022-02-07-Russian-Navy-Marshal-Ustinov-Cruiser-in-Mediterranean %}
+  concentration of firepower in the region.  <br/>[Read More &gt;....](/Russian-Navy-Marshal-Ustinov-Cruiser-in-Mediterranean.html
   "READ MORE")<br clear="left"/>
 ...
 

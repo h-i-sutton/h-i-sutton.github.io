@@ -2,7 +2,7 @@
 layout: post
 title: "Work starts on XSV-17 Special Forces interceptor"
 date: "2016-06-19 02:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>![Flag](/images/flag_ireland.jpg)
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>![Flag](/images/flag_ireland.jpg)
   Safehaven Marine (<a href="http://www.safehavenmarine.com/" target="blank">Website</a>)
   have begun the manufacture of the new XSV 17m wave piercer design. The 60kts boat
   is a larger (17m / 56ft) version of their **Barracuda** series.... [Read More &gt;....](/Work

@@ -2,7 +2,7 @@
 layout: post
 title: "AQAP improvised sea mines"
 date: "2016-10-08 01:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>Photos
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>Photos
   have emerged of improvised sea mines planted in Mukalla in Yemen by retreating Al-Qaeda
   in the Arabian Peninsula (AQAP) forces who left the port city in April this year.
   The mines were spotted by local divers and have been removed by divers from Hadrami

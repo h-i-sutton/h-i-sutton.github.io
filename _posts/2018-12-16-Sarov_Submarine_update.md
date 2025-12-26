@@ -2,11 +2,11 @@
 layout: post
 title: "Sarov_Submarine_update"
 date: "2018-12-16 07:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">OSINT: **Russia''s Sarov Class special test submarine in shed**</font><br/><img
   src="/images/flag_russia.jpg"/> Sometimes it is what is missing rather than what
-  is present that is interesting in a satellite image... <br/><a href="{% post_url 2018-12-16-Sarov_Submarine_update %}"><img
-  src="/images/Ru_Sarov_After900.jpg"/></a><br/>[Read More &gt;....]({% post_url 2018-12-16-Sarov_Submarine_update %}
+  is present that is interesting in a satellite image... <br/><a href="/Sarov_Submarine_update.html"><img
+  src="/images/Ru_Sarov_After900.jpg"/></a><br/>[Read More &gt;....](/Sarov_Submarine_update.html
   "READ MORE")'
 
 ---

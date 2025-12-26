@@ -2,14 +2,14 @@
 layout: post
 title: "Narco_Seehund"
 date: "2017-08-16 23:01:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Narco-Sub based on German\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Narco-Sub based on German\
   \ Seehund Midget Submarine**</font> <br/> One of the most unusual drug smuggling\
   \ \u2018narco-subs\u2019 was this fully submersible midget submarine captured by\
   \ Columbian forces in a jungle factory near the Ecuadorian border on or around 27th\
   \ November 2011. It has an uncanny resemblance to German World War Two Seehund midget\
-  \ submarine... [Read More &gt;....]({% post_url 2017-08-16-Narco_Seehund %} \"READ MORE\")<br/><a href=\"\
-  {% post_url 2017-08-16-Narco_Seehund %}\"><img src=\"/images/Narco_Seehund900.jpg\"/></a><br clear=\"\
+  \ submarine... [Read More &gt;....](/Narco_Seehund.html \"READ MORE\")<br/><a href=\"\
+  /Narco_Seehund.html\"><img src=\"/images/Narco_Seehund900.jpg\"/></a><br clear=\"\
   right\"/>"
 
 ---

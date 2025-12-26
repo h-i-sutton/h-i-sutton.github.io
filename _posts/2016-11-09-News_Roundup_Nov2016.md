@@ -2,8 +2,8 @@
 layout: post
 title: "News_Roundup_Nov2016"
 date: "2016-11-09 00:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>
-  [Read More &gt;....]({% post_url 2016-11-09-News_Roundup_Nov2016 %} "READ MORE")<br/><a href="{% post_url 2016-11-09-News_Roundup_Nov2016 %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
+  [Read More &gt;....](/News_Roundup_Nov2016.html "READ MORE")<br/><a href="/News_Roundup_Nov2016.html"><img
   src="/images/news900.jpg"/></a>
 ...
 

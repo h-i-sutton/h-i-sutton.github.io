@@ -2,13 +2,13 @@
 layout: post
 title: "Russia’s Washed Up Invasion: Mystery Objects Found On Beaches"
 date: "2022-09-15 23:01:00"
-excerpt: '**Updated**<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2022-09-15-Mystery-Objects-Found-On-Black-Sea-Beaches %}"><img
+excerpt: '**Updated**<a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"/><a href="/Mystery-Objects-Found-On-Black-Sea-Beaches.html"><img
   align="left" src="/images/Russian-Mystery-Objects-Beach-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   ![Flag](/images/flag_ukraine.jpg) Amid the debris of war, mysterious round objects
   have been washing up on Black Sea beaches. Metal spheres, with a series of horns
   protruding, they have been reported in local media as mines.<br/><br/>Indeed their
-  nature seems obvious. But it is not, these are not mines...<br/>[Read More &gt;....]({% post_url 2022-09-15-Mystery-Objects-Found-On-Black-Sea-Beaches %}
+  nature seems obvious. But it is not, these are not mines...<br/>[Read More &gt;....](/Mystery-Objects-Found-On-Black-Sea-Beaches.html
   "READ MORE")<br clear="left"/>'
 
 ---

@@ -2,13 +2,13 @@
 layout: post
 title: "Previously Unreported Italian Special Forces BIR-87 SDV Seen For First Time"
 date: "2023-12-14 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-12-14-Italy-COMSUBIN-Submarine-BIR-87 %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Italy-COMSUBIN-Submarine-BIR-87.html"><img align="left"
   src="/images/Italy-COMSUBIN-BIR-87_317.jpg"/></a> ![Flag Italy](/images/flag_italy.jpg)
   Italy's elite naval special forces, COMSUBIN (aka Incursori / GOI), is extremely
   secretive. And their swimmer delivery vehicles (SDVs) and submarines are among their
   best kept secrets.<br/><br/>Only now, after it has been retired, has the BIR-87
-  been displayed to the public...<br/>[Read More &gt;....]({% post_url 2023-12-14-Italy-COMSUBIN-Submarine-BIR-87 %}
+  been displayed to the public...<br/>[Read More &gt;....](/Italy-COMSUBIN-Submarine-BIR-87.html
   "READ MORE")<br clear="left"/>
 ...
 

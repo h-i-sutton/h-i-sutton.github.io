@@ -2,12 +2,12 @@
 layout: post
 title: "Iran Copies' Russian SPP-1M Underwater Pistol"
 date: "2021-05-25 20:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-05-25-Iran-SPP-1M-Underwater-Pistol %}"><img align="left" src="/images/Iran-SPP-1M-Copy-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Iran-SPP-1M-Underwater-Pistol.html"><img align="left" src="/images/Iran-SPP-1M-Copy-317.jpg"/></a>
   ![Flag Iran](/images/flag_iran.jpg) Russia's distinctive four-barrel SPP-1 underwater
   pistol was introduced into service in 1971. Its relative compactness, simplicity
   and robustness make it still relevant today.<br/><br/>So it is perhaps no surprise
-  that Iran has copied it.<br/>[Read More &gt;....]({% post_url 2021-05-25-Iran-SPP-1M-Underwater-Pistol %}
+  that Iran has copied it.<br/>[Read More &gt;....](/Iran-SPP-1M-Underwater-Pistol.html
   "READ MORE")<br clear="left"/>
 ...
 

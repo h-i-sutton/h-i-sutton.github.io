@@ -2,11 +2,11 @@
 layout: post
 title: "Israeli-Navy-Dolphin-Class-Submarine-with-Special-Forces-Hangar"
 date: "2020-10-05 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Image reveals Shayetet-13's submarine hangar**</font> <br/>![Flag](/images/flag_isreal.jpg)  A
   photo published in several Israeli news outlets may reveal one of Shayetet-13's
-  previously unreported capability... <br/>[Read More &gt;....]({% post_url 2020-10-05-Israeli-Navy-Dolphin-Class-Submarine-with-Special-Forces-Hangar %}
-  "READ MORE")<br/><a href="{% post_url 2020-10-05-Israeli-Navy-Dolphin-Class-Submarine-with-Special-Forces-Hangar %}"><img
+  previously unreported capability... <br/>[Read More &gt;....](/Israeli-Navy-Dolphin-Class-Submarine-with-Special-Forces-Hangar.html
+  "READ MORE")<br/><a href="/Israeli-Navy-Dolphin-Class-Submarine-with-Special-Forces-Hangar.html"><img
   src="/images/Israel-Navy-Dolphin-Submarine-Hangar-900.jpg"/></a><br clear="right"><br/></br>
 ...
 

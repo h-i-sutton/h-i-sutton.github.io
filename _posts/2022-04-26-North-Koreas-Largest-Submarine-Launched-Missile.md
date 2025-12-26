@@ -2,12 +2,12 @@
 layout: post
 title: "Seen For First Time : North Korea's Largest Submarine Launched Missile"
 date: "2022-04-26 16:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-04-26-North-Koreas-Largest-Submarine-Launched-Missile %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/North-Koreas-Largest-Submarine-Launched-Missile.html"><img
   align="left" src="/images/DPRK-North-Korea-New-Missile-2022-317.jpg"/></a> ![Flag
   China](/images/flag_nork.jpg) The latest military parade in the North Korean capital
   showcased yet another new missile.<br/><br/>The days when observers mocked North
-  Korean missile capabilities feel long gone...<br/>[Read More &gt;....]({% post_url 2022-04-26-North-Koreas-Largest-Submarine-Launched-Missile %}
+  Korean missile capabilities feel long gone...<br/>[Read More &gt;....](/North-Koreas-Largest-Submarine-Launched-Missile.html
   "READ MORE")<br clear="left"/>
 ...
 

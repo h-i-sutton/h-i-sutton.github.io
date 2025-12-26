@@ -2,12 +2,12 @@
 layout: post
 title: "NASA Detects Burning Russian Controlled Oil Platform After Ukrainian Attack"
 date: "2022-06-20 22:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-06-20-Burning-Russian-Oil-Rig-Detected %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Burning-Russian-Oil-Rig-Detected.html"><img align="left"
   src="/images/Russia-Ukraine-Attack-Oil-Rig-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   Ukraine attacked oil platforms controlled by Russia today. Images have yet to emerge<br/><br/>However,
   a technique new to Naval OSINT, has revealed the location of a burning oil rig...<br/>[Read
-  More &gt;....]({% post_url 2022-06-20-Burning-Russian-Oil-Rig-Detected %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Burning-Russian-Oil-Rig-Detected.html "READ MORE")<br clear="left"/>
 ...
 
 ---

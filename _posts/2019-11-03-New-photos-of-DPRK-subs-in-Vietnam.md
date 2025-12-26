@@ -2,13 +2,13 @@
 layout: post
 title: "New-photos-of-DPRK-subs-in-Vietnam"
 date: "2019-11-03 00:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
   <font size="6">**New rare images show DPRK subs (in Vietnam)**</font><br/> ![Flag](/images/flag_nork.jpg)
   Stills of a Vietnamese television show have recently surfaced on  Vietnamese language
   social media showing the country's imported North Korean submersibles. These images
   are of interest in themselves, but also show further details which apply to the
-  types in North Korean service...  [Read More &gt;....]({% post_url 2019-11-03-New-photos-of-DPRK-subs-in-Vietnam %}
-  "READ MORE")<br/><a href="{% post_url 2019-11-03-New-photos-of-DPRK-subs-in-Vietnam %}"><img src="/images/DPRK_ISILC_Vietnam900.jpg"/></a><br/>
+  types in North Korean service...  [Read More &gt;....](/New-photos-of-DPRK-subs-in-Vietnam.html
+  "READ MORE")<br/><a href="/New-photos-of-DPRK-subs-in-Vietnam.html"><img src="/images/DPRK_ISILC_Vietnam900.jpg"/></a><br/>
 ...
 
 ---

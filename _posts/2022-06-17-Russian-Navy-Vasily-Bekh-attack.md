@@ -2,13 +2,13 @@
 layout: post
 title: "Russian Navy Ship Vasily Bekh Hit Off Snake Island"
 date: "2022-06-17 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-06-17-Russian-Navy-Vasily-Bekh-attack %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Navy-Vasily-Bekh-attack.html"><img align="left"
   src="/images/Russia-Vasily-Bekh-SB-739-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   There are credible reports that the Russian Navy Pr.22870 Rescue Tug Spasatel Vasily
   Bekh (SB-739) has been hit and sunk by Ukrainian navy missiles.<br/><br/>This is
   important, beyond the obvious morale boost for Ukrainian Forces.<br/>[Read More
-  &gt;....]({% post_url 2022-06-17-Russian-Navy-Vasily-Bekh-attack %} "READ MORE")<br clear="left"/>
+  &gt;....](/Russian-Navy-Vasily-Bekh-attack.html "READ MORE")<br clear="left"/>
 ...
 
 ---

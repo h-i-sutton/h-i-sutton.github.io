@@ -2,12 +2,12 @@
 layout: post
 title: "Arctic_Gambit_review"
 date: "2018-08-06 01:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a>![Flag](/images/stars-five.png)<font size=\"\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a>![Flag](/images/stars-five.png)<font size=\"\
   7\">**Arctic Gambit**</font> by Larry Bond &amp; Chris Carlson<br/>![Flag](/images/flag_USA.jpg)\
   \ ![Flag](/images/flag_russia.jpg) The only boat for the mission is the US Navy\u2019\
-  s specialist spy sub USS Jimmy Carter....<br/>[Read More]({% post_url 2018-08-06-Arctic_Gambit_review %}\
-  \ \"READ MORE\")<br/><a href=\"{% post_url 2018-08-06-Arctic_Gambit_review %}\"><img src=\"/images/LarryBond_ArcticGambit_900.jpg\"\
+  s specialist spy sub USS Jimmy Carter....<br/>[Read More](/Arctic_Gambit_review.html\
+  \ \"READ MORE\")<br/><a href=\"/Arctic_Gambit_review.html\"><img src=\"/images/LarryBond_ArcticGambit_900.jpg\"\
   /></a><br clear=\"right\"/>"
 
 ---

@@ -2,15 +2,15 @@
 layout: post
 title: "Summary Of Increased Russian Defenses At Sevastopol And Novorossiysk"
 date: "2022-11-20 11:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-11-20-Russian-Navy-Defenses-Sevastopol-Novorossiysk %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Navy-Defenses-Sevastopol-Novorossiysk.html"><img
   align="left" src="/images/Ukraine-Russia-Novorossiysk-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   ![Flag](/images/flag_ukraine.jpg) Since Ukraine's attacks on Sevastopol on October
   29, Russia has dramatically increased its harbor defenses. In the same way that
   the sinking of the cruiser Moskva may be the end of one chapter in naval warfare,
   the attack of the 'maritime drones' signals another.<br/><br/>Sevastopol is now
   protected by two layers of floating booms at the harbor entrance...<br/>[Read More
-  &gt;....]({% post_url 2022-11-20-Russian-Navy-Defenses-Sevastopol-Novorossiysk %} "READ MORE")<br clear="left"/>
+  &gt;....](/Russian-Navy-Defenses-Sevastopol-Novorossiysk.html "READ MORE")<br clear="left"/>
 ...
 
 ---

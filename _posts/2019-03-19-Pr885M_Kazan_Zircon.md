@@ -2,10 +2,10 @@
 layout: post
 title: "Pr885M_Kazan_Zircon"
 date: "2019-03-19 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Russia to equip cruise missile submarine with hypersonic anti-ship missile**</font><br/><img
   src="/images/flag_russia.jpg"/> Reports that the Mach 7 **Zircon** hypersonic anti-ship
-  missile will be tested aboard K-561 Kazan in 2019... <br/><a href="{% post_url 2019-03-19-Pr885M_Kazan_Zircon %}"><img
+  missile will be tested aboard K-561 Kazan in 2019... <br/><a href="/Pr885M_Kazan_Zircon.html"><img
   src="/images/Ru_Zircon900.jpg"/></a><br clear="right"/>
 ...
 

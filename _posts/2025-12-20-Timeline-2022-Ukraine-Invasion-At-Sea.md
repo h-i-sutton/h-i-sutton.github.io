@@ -4,11 +4,11 @@ title: "Timeline of Ukraine Invasion: War In The Black Sea"
 date: "2025-12-20 23:00:00"
 excerpt: '**Regularly UPDATED**<br/><a href="https://bsky.app/profile/covertshores.bsky.social"
   target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a
-  href="{% post_url 2025-12-20-Timeline-2022-Ukraine-Invasion-At-Sea %}"><img align="left" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a>
+  href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a>
   ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg)
   Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most
   relevant events in the Black Sea. This should provide a useful overview...<br/>[Read
-  More &gt;....]({% post_url 2025-12-20-Timeline-2022-Ukraine-Invasion-At-Sea %} "READ MORE")<br clear="left"/></br>'
+  More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/></br>'
 
 ---
 [![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

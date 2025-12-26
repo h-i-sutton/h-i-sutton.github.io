@@ -2,12 +2,12 @@
 layout: post
 title: "Yugo_X-Craft"
 date: "2017-12-19 01:01:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br/><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br/><font
   size="6">**Yugoslavian X-Craft: R-3E**</font> <br/>![Flag](/images/flag_Yugo.jpg)
   ![Flag](/images/flag_croatia.jpg) Yugoslavia gained a reputation for special forces
   crat, chief among which was the R-3E X-craft. Developed in the Cold War it was in
-  many respects ahead of its time as a dry-SDV....<br/>[Read More]({% post_url 2017-12-19-Yugo_X-Craft %}
-  "READ MORE")<br/><a href="{% post_url 2017-12-19-Yugo_X-Craft %}"><img src="/images/R3E_900.jpg"/></a><br
+  many respects ahead of its time as a dry-SDV....<br/>[Read More](/Yugo_X-Craft.html
+  "READ MORE")<br/><a href="/Yugo_X-Craft.html"><img src="/images/R3E_900.jpg"/></a><br
   clear="right"/>'
 
 ---

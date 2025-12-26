@@ -2,14 +2,14 @@
 layout: post
 title: "New Videos On My Youtube Channel"
 date: "2021-10-16 23:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
   clear="right"/><a href="https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ"
   target="blank"><img align="left" src="/images/Covert-Shores-Youtube-202110-317.jpg"/></a>
   * Japanese Postwar Submarines (JMSDF)<br/> * The New Stealth Submarines Explained
   (Quick Guide)<br/> * Submarine Rankings: World''s 10 Largest Subs<br/> * What you
   need to know about the KSS-III Submarine<br/> * Top 5 SSK Submarines and Other Questions
   (Q&amp;A)<br/> * Apex Predators: AIP Submarines Explained by Covert Shores (Air
-  Independent Propulsion)<br/><br/>[Read More &gt;....]({% post_url 2021-10-16-Covert-Shores-Youtube-2021-10 %}
+  Independent Propulsion)<br/><br/>[Read More &gt;....](/Covert-Shores-Youtube-2021-10.html
   "READ MORE")<br clear="left"/>'
 
 ---

@@ -2,12 +2,12 @@
 layout: post
 title: "Mystery Object Found On Indonesian Beach Identified"
 date: "2022-02-17 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-02-17-Mystery-Object-Found-On-Indonesian-Beach %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Mystery-Object-Found-On-Indonesian-Beach.html"><img align="left"
   src="/images/Indonesia-Mystery-Object-317.jpg"/></a> Another 'mystery object' has
   washed up on an Indonesian beach. Some reports describe it as missile-like. Others,
   possibly influenced by a spate of Chinese ocean gliders which washed up in Indonesia,
-  label it another "seaglider".<br/><br/>It is neither.<br/>[Read More &gt;....]({% post_url 2022-02-17-Mystery-Object-Found-On-Indonesian-Beach %}
+  label it another "seaglider".<br/><br/>It is neither.<br/>[Read More &gt;....](/Mystery-Object-Found-On-Indonesian-Beach.html
   "READ MORE")<br clear="left"/>
 ...
 

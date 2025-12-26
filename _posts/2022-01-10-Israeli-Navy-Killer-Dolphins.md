@@ -2,14 +2,14 @@
 layout: post
 title: "Hamas Alleges That Israel Has 'Killer Dolphins'"
 date: "2022-01-10 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-01-10-Israeli-Navy-Killer-Dolphins %}"><img align="left" src="/images/Israeli-Navy-Dolphin-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Israeli-Navy-Killer-Dolphins.html"><img align="left" src="/images/Israeli-Navy-Dolphin-317.jpg"/></a>
   ![Flag Israel](/images/flag_isreal.jpg) A video posted by Hamas alleges that one
   of its frogmen was killed by an Israeli trained dolphin. This may not be as far
   fetched as it at first sounds. The video shows a harness which it alleges was recovered.
   The harness appears to fit the nose of a dolphin. And is similar to those used in
   US Navy and Russian Navy marine mammal programs.<br/><br/>The harness appears to
-  have a spear gun-like device attached.<br/>[Read More &gt;....]({% post_url 2022-01-10-Israeli-Navy-Killer-Dolphins %}
+  have a spear gun-like device attached.<br/>[Read More &gt;....](/Israeli-Navy-Killer-Dolphins.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,12 +2,12 @@
 layout: post
 title: "UAE-ArmaCraft-Trident-Submarines"
 date: "2021-02-25 01:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**New Swimmer Delivery Vehicles (SDVs) From UAE**</font><br clear="right"/><a
-  href="{% post_url 2021-02-25-UAE-ArmaCraft-Trident-Submarines %}"><img align="left" src="/images/UAE-Trident-317.jpg"/></a>![Flag](/images/flag_UEA.jpg)
+  href="/UAE-ArmaCraft-Trident-Submarines.html"><img align="left" src="/images/UAE-Trident-317.jpg"/></a>![Flag](/images/flag_UEA.jpg)
   ![Flag](/images/flag_sweden.jpg) UAE (/Sweden) based Arma-Craft have reportedly
   signed a substantial order for its new Trident SDVs.<br/><br/>The exact model of
-  craft and Foreign Navy customer have not been released.<br/>[Read More &gt;....]({% post_url 2021-02-25-UAE-ArmaCraft-Trident-Submarines %}
+  craft and Foreign Navy customer have not been released.<br/>[Read More &gt;....](/UAE-ArmaCraft-Trident-Submarines.html
   "READ MORE")<br clear="left"/>
 ...
 

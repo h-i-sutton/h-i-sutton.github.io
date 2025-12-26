@@ -2,8 +2,8 @@
 layout: post
 title: "Special Forces Jet Skis"
 date: "2018-09-12 02:00:00"
-excerpt: '*Updated. Originally posted 29th Aug 2016*<br/><a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>Special Forces
+excerpt: '*Updated. Originally posted 29th Aug 2016*<br/><a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a>Special Forces
   use of Jet Skis has slowly become common knowledge.  [Read More &gt;....](/Special
   Forces Jet Skis.html "READ MORE")<br/><a href="/Special Forces Jet Skis.html"><img
   src="/images/jetski900.jpg"/></a><br clear="right"/>'

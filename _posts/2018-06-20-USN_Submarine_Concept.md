@@ -2,13 +2,13 @@
 layout: post
 title: "USN_Submarine_Concept"
 date: "2018-06-20 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Unbuilt US Navy next generation spy submarine**</font><br/><img src="/images/flag_USA.jpg"/>
   An unlabeled photograph halfway through an <a href="https://www.public.navy.mil/subfor/underseawarfaremagazine/Issues/Archives/issue_08/challenge_of_future.html"
   target="_blank">essay on the US Navy submarine force</a> hints at a previously unreported
   submarine design optimized for Seabed Warfare. This article reveals more about the
-  design. ... [Read More &gt;....]({% post_url 2018-06-20-USN_Submarine_Concept %} "Read More")<br/><a
-  href="{% post_url 2018-06-20-USN_Submarine_Concept %}"><img src="/images/Unbuilt_USN_SpySub900.jpg"/></a><br
+  design. ... [Read More &gt;....](/USN_Submarine_Concept.html "Read More")<br/><a
+  href="/USN_Submarine_Concept.html"><img src="/images/Unbuilt_USN_SpySub900.jpg"/></a><br
   clear="right"/>
 ...
 

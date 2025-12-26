@@ -2,11 +2,11 @@
 layout: post
 title: "Russian_Submarine_Forces_2018"
 date: "2018-07-25 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**Russian Submarine Forces 2018**</font><br/><img src="/images/flag_russia.jpg"/>
   Russia maintains one of the largest and most powerful submarine fleets on the planet.
   This article summarizes current capabilities and main types.... <br/>[Read More
-  &gt;....]({% post_url 2018-07-25-Russian_Submarine_Forces_2018 %} "READ MORE")<br/><a href="{% post_url 2018-07-25-Russian_Submarine_Forces_2018 %}"><img
+  &gt;....](/Russian_Submarine_Forces_2018.html "READ MORE")<br/><a href="/Russian_Submarine_Forces_2018.html"><img
   src="/images/Ru_SubForces2018_900.jpg"/></a><br clear="right"/>
 ...
 

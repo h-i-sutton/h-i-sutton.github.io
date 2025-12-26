@@ -2,12 +2,12 @@
 layout: post
 title: "Centaur_assault_boat"
 date: "2018-09-15 03:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Ukrainian Centaur Class armored\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Ukrainian Centaur Class armored\
   \ assault boat**</font><br/><img src=\"/images/flag_ukraine.jpg\"/> The new Project\
   \ 58181 **Centaur Class** are a hybrid of Ukraine\u2019s stereotypical Armored Artillery\
-  \ Boat concept and the Swedish Assault Boat concept..... <br/> <br/><a href=\"{% post_url 2018-09-15-Centaur_assault_boat %}\"\
-  ><img src=\"/images/Ukraine_Centaur_900.jpg\"/></a><br/>[Read More &gt;....]({% post_url 2018-09-15-Centaur_assault_boat %}\
+  \ Boat concept and the Swedish Assault Boat concept..... <br/> <br/><a href=\"/Centaur_assault_boat.html\"\
+  ><img src=\"/images/Ukraine_Centaur_900.jpg\"/></a><br/>[Read More &gt;....](/Centaur_assault_boat.html\
   \ \"READ MORE\")"
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "USASOC folding Kayaks"
 date: "2016-08-21 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>![Flag](/images/flag_USA.jpg)
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>![Flag](/images/flag_USA.jpg)
   It may come as a surprise that the US Army Special Operations Command (**USASOC**)
   has a requirement for *Foldable Kayaks*. Pioneered by the British during World War
   Two and associated with the British way of doing things throughout the Cold War

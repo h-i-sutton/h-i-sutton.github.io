@@ -2,13 +2,13 @@
 layout: post
 title: "Evidence Of Russia's Planned Amphibious Landings in Ukraine"
 date: "2022-03-01 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-03-01-Russias-Planned-Amphibious-Landings-in-Ukraine %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russias-Planned-Amphibious-Landings-in-Ukraine.html"><img
   align="left" src="/images/Russia-Ukraine-Amphibious-Landings-317.jpg"/></a> ![Flag
   Russia](/images/flag_russia.jpg) Belarusian president  Alexander Lukashenko has
   shown plans for an amphibious landing near Odessa on Ukraine's southern coast.<br/><br/>It
   is an apparent intelligence blunder as no landings have been reported there. <br/>[Read
-  More &gt;....]({% post_url 2022-03-01-Russias-Planned-Amphibious-Landings-in-Ukraine %} "READ MORE")<br
+  More &gt;....](/Russias-Planned-Amphibious-Landings-in-Ukraine.html "READ MORE")<br
   clear="left"/>
 ...
 

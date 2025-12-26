@@ -2,11 +2,11 @@
 layout: post
 title: "Uncrewed Narco Kayak Found by Italy"
 date: "2024-05-24 11:30:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-05-24-Narco-Kayak-Drone %}"><img align="left" src="/images/Narcos-Italy-USV-Kayak-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Narco-Kayak-Drone.html"><img align="left" src="/images/Narcos-Italy-USV-Kayak-317.jpg"/></a>
   An Uncrewed 'narco submarine', based on a fiberglass kayak has been discovered by
   Italian police.<br/><br/>The Torino Carabinieri reported that the vessel had been
-  tested on a lake....<br/>[Read More &gt;....]({% post_url 2024-05-24-Narco-Kayak-Drone %} "READ MORE")<br
+  tested on a lake....<br/>[Read More &gt;....](/Narco-Kayak-Drone.html "READ MORE")<br
   clear="left"/>
 ...
 

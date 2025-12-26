@@ -2,14 +2,14 @@
 layout: post
 title: "F-117A of The Seas: Lockheed Skunk Work's Sonar-Invisible Submarine"
 date: "2021-09-12 16:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-09-12-Lockheed-Stealth-Submarine-Design %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Lockheed-Stealth-Submarine-Design.html"><img align="left"
   src="/images/US-Lockheed-Stealth-Submarine-317.jpg"/></a>![Flag](/images/flag_USA.jpg)
   While developing the stealth aircraft which we know today as the F-117A Nighthawk
   (aka Stealth Fighter), Lockheed chanced upon something. It turned out that the faceted
   sides of the aircraft didn't only deflect radar, they deflected sonar too. <br/><br/>This
   is relevant today because faceted sides are slowly becoming a thing on submarines.<br/>[Read
-  More &gt;....]({% post_url 2021-09-12-Lockheed-Stealth-Submarine-Design %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Lockheed-Stealth-Submarine-Design.html "READ MORE")<br clear="left"/>
 ...
 
 ---

@@ -2,13 +2,13 @@
 layout: post
 title: "Covert Shores Guide: World Navy's Rail Gun Projects"
 date: "2021-06-06 00:50:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-06-06-Covert-Shores-Guide-to-Rail-Guns %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Covert-Shores-Guide-to-Rail-Guns.html"><img align="left"
   src="/images/RailGun-Guide-317.jpg"/></a> ![Flag USA](/images/flag_USA.jpg)![Flag
   Turkey](/images/flag_Turkey.jpg) ![Flag China](/images/flag_China.jpg)  With the
   US Navy's recent step-back from putting Electromagnetic Railguns (EMRG) on warships
   raises questions on the much vaunted technology.<br/><br/>However the US Navy was
-  not alone in developing RailGun technology.<br/>[Read More &gt;....]({% post_url 2021-06-06-Covert-Shores-Guide-to-Rail-Guns %}
+  not alone in developing RailGun technology.<br/>[Read More &gt;....](/Covert-Shores-Guide-to-Rail-Guns.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,14 +2,14 @@
 layout: post
 title: "Possible New Information On Russia's Mysterious 'Cephalopod' AUV"
 date: "2021-05-10 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><h1>Possible
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><h1>Possible
   New Information On Russia's Mysterious 'Cephalopod' Armed AUV</h1><br clear="right"/><a
-  href="{% post_url 2021-05-10-Russian-AUV-of-interest %}"><img align="left" src="/images/Russian-Rubin-AUV-317.jpg"/></a>![Flag
+  href="/Russian-AUV-of-interest.html"><img align="left" src="/images/Russian-Rubin-AUV-317.jpg"/></a>![Flag
   Russia](/images/flag_russia.jpg) Russian submarine design bureau Rubin has been
   targeted by suspected Chinese state hackers. The alleged attack was made via a malware
   loaded Word document, which was emailed to Rubin's Director General, Igor V. Vilnit.<br/><br/>The
   story is interesting, but the image used in the attack is particularly interesting.
-  It appears to show the little-known armed AUV 'Cephalopod'. <br/>[Read More &gt;....]({% post_url 2021-05-10-Russian-AUV-of-interest %}
+  It appears to show the little-known armed AUV 'Cephalopod'. <br/>[Read More &gt;....](/Russian-AUV-of-interest.html
   "READ MORE")<br clear="left"/>
 ...
 

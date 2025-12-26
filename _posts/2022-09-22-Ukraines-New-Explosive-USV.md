@@ -2,12 +2,12 @@
 layout: post
 title: "Ukraine's New USV Compared"
 date: "2022-09-22 23:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-09-22-Ukraines-New-Explosive-USV %}"><img align="left" src="/images/Ukraine-Explosive-Boat-USV-317.jpg"/></a>![Flag](/images/flag_ukraine.jpg)
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Ukraines-New-Explosive-USV.html"><img align="left" src="/images/Ukraine-Explosive-Boat-USV-317.jpg"/></a>![Flag](/images/flag_ukraine.jpg)
   On September 21 it was revealed that Ukraine operates a previously unreported USV
   (uncrewed surface vessel). The small, low-profile design appears to be a form of
   uncrewed explosive boat. Its conceptual simplicity combined with relative sophistication
-  set it apart from previous explosive boats...<br/>[Read More &gt;....]({% post_url 2022-09-22-Ukraines-New-Explosive-USV %}
+  set it apart from previous explosive boats...<br/>[Read More &gt;....](/Ukraines-New-Explosive-USV.html
   "READ MORE")<br clear="left"/>
 ...
 

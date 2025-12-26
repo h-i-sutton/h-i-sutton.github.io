@@ -2,7 +2,7 @@
 layout: post
 title: "Sphyrene SDV"
 date: "2016-11-24 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><img
   src="/images/flag_france.jpg"/> ![Flag](/images/Updated.jpg) <font size="6"> **Sphyrene
   + Coryphene SDVs** </font> <br/>The Sphyrene is an advanced six-man Swimmer Delivery
   Vehicle (SDV) currently on the market from French firm Alseamar. It is one of the

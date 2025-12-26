@@ -2,11 +2,11 @@
 layout: post
 title: "China-Assault-Carrier-LPD-progress"
 date: "2020-03-10 03:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Chinese Type-075 Class LPD**</font><br/><img src="/images/flag_China.jpg"/>
   China''s second amphibious carrier, the Type-075 LHD, could be launched as soon
-  as April based on #OSINT of the construction progress....<br/><a href="{% post_url 2020-03-10-China-Assault-Carrier-LPD-progress %}"><img
-  src="/images/China-Type-075-LPD-March2020-900.jpg"/></a><br/>[Read More &gt;....]({% post_url 2020-03-10-China-Assault-Carrier-LPD-progress %}
+  as April based on #OSINT of the construction progress....<br/><a href="/China-Assault-Carrier-LPD-progress.html"><img
+  src="/images/China-Type-075-LPD-March2020-900.jpg"/></a><br/>[Read More &gt;....](/China-Assault-Carrier-LPD-progress.html
   "READ MORE")'
 
 ---

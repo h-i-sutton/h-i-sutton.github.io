@@ -2,11 +2,11 @@
 layout: post
 title: "SwarmDiver"
 date: "2018-12-07 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**SwarmDiver unmanned surface vessel**</font><br/><img src="/images/flag_USA.jpg"/>
   Massachusetts based robotics company Aqua Botix have unveiled a new military family
-  of micro-Unmanned surface Vessels....   [Read More &gt;....]({% post_url 2018-12-07-SwarmDiver %} "READ
-  MORE")<br/><a href="{% post_url 2018-12-07-SwarmDiver %}"><img src="/images/US_SwarmDiver_900.jpg"/></a><br
+  of micro-Unmanned surface Vessels....   [Read More &gt;....](/SwarmDiver.html "READ
+  MORE")<br/><a href="/SwarmDiver.html"><img src="/images/US_SwarmDiver_900.jpg"/></a><br
   clear="right"/>
 ...
 

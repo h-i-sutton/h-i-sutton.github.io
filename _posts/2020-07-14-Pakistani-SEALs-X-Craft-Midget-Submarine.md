@@ -2,13 +2,13 @@
 layout: post
 title: "Pakistani-SEALs-X-Craft-Midget-Submarine"
 date: "2020-07-14 03:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"5\">**New OSINT: Mystery Submarine\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**New OSINT: Mystery Submarine\
   \ In Service With Pakistan\u2019s Navy SEALs**</font> <br/>![Flag](/images/flag_pakistan.jpg)\
   \ An official video of the Passing Out Parade of the latest Pakistan Navy SEAL Course\
   \ provides fresh OSINT on Pakistan's unreported midget submarine. .. <br/>[Read\
-  \ More &gt;....]({% post_url 2020-07-14-Pakistani-SEALs-X-Craft-Midget-Submarine %} \"READ MORE\")<br/><a\
-  \ href=\"{% post_url 2020-07-14-Pakistani-SEALs-X-Craft-Midget-Submarine %}\"><img src=\"/images/Pakistan-Midget-Submarines-900.jpg\"\
+  \ More &gt;....](/Pakistani-SEALs-X-Craft-Midget-Submarine.html \"READ MORE\")<br/><a\
+  \ href=\"/Pakistani-SEALs-X-Craft-Midget-Submarine.html\"><img src=\"/images/Pakistan-Midget-Submarines-900.jpg\"\
   /></a><br clear=\"right\"><br/></br>"
 
 ---

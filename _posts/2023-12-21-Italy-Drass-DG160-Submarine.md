@@ -2,12 +2,12 @@
 layout: post
 title: "Italian Midget Submarine under Construction In Romania For Undisclosed Customer"
 date: "2023-12-21 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-12-21-Italy-Drass-DG160-Submarine %}"><img align="left" src="/images/Italy-Drass-DG160-Submarine-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Italy-Drass-DG160-Submarine.html"><img align="left" src="/images/Italy-Drass-DG160-Submarine-317.jpg"/></a>
   ![Flag Italy](/images/flag_italy.jpg) The Italians have a reputation for building
   small submarines. One is under construction in Romania. In Italian arms sales tradition
   of mystery and speculation, we know of the project but we do not know of the customer....<br/>[Read
-  More &gt;....]({% post_url 2023-12-21-Italy-Drass-DG160-Submarine %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Italy-Drass-DG160-Submarine.html "READ MORE")<br clear="left"/>
 ...
 
 ---

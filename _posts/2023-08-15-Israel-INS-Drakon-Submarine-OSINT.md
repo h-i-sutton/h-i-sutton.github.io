@@ -2,13 +2,13 @@
 layout: post
 title: "Israel's Newest Submarine, INS Drakon, Size Estimate"
 date: "2023-08-15 22:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-08-15-Israel-INS-Drakon-Submarine-OSINT %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Israel-INS-Drakon-Submarine-OSINT.html"><img align="left"
   src="/images/Israel-Dolphin-Class-Size-317.jpg"/></a> ![Flag Israel](/images/flag_isreal.jpg)
   Since it was rolled out of the shed last week, Israel's latest submarine, INS Drakon,
   has been challenging analysts to make sense of it. The submarine features an unusually
   large sail.<br/><br/>Less obvious, is that the hull is also much larger than the
-  preceding Dolphin-II boats...<br/>[Read More &gt;....]({% post_url 2023-08-15-Israel-INS-Drakon-Submarine-OSINT %}
+  preceding Dolphin-II boats...<br/>[Read More &gt;....](/Israel-INS-Drakon-Submarine-OSINT.html
   "READ MORE")<br clear="left"/>
 ...
 

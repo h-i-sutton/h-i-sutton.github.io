@@ -2,11 +2,11 @@
 layout: post
 title: "Project_09852_Belgorod"
 date: "2010-05-28 03:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Pending: Covert Shores update\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Pending: Covert Shores update\
   \ on Belgorod and Poseidon**</font><br/>![Flag](/images/flag_russia.jpg) Placeholder\
   \ \u2013 expect major updates and fresh analysis in next days or weeks...... [Read\
-  \ More &gt;....]({% post_url 2010-05-28-Project_09852_Belgorod %} \"READ MORE\")<br/><a href=\"{% post_url 2010-05-28-Project_09852_Belgorod %}\"\
+  \ More &gt;....](/Project_09852_Belgorod.html \"READ MORE\")<br/><a href=\"/Project_09852_Belgorod.html\"\
   ><img src=\"/images/Ru_Belgorod900.jpg\"/></a><br clear=\"right\"/>"
 
 ---

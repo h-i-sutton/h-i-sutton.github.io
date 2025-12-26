@@ -2,14 +2,14 @@
 layout: post
 title: "2 New Russian USVs at ARMY-2024"
 date: "2024-08-21 22:00:00"
-excerpt: '**UPDATED** *Originally posted Aug 8 2024*<a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a
-  href="{% post_url 2024-08-15-Russia-USVs-ARMY-2024 %}"><img align="left" src="/images/Russia-ARMY2024-317.jpg"/></a>
+excerpt: '**UPDATED** *Originally posted Aug 8 2024*<a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><br clear="right"/><a
+  href="/Russia-USVs-ARMY-2024.html"><img align="left" src="/images/Russia-ARMY2024-317.jpg"/></a>
   ![Flag Russia](/images/flag_russia.jpg) USVs (uncrewed surface vessels) have been
   under development for navies for some years, but the war in the Black Sea has redefined
   them.<br/><br/>Russia has displayed at least two ''new'' uncrewed surface vessels
   (USVs) at the ARMY-2024 defense expo. Actually, one is new, the other is a rebranding
-  of a type seen earlier this year...<br/>[Read More &gt;....]({% post_url 2024-08-15-Russia-USVs-ARMY-2024 %}
+  of a type seen earlier this year...<br/>[Read More &gt;....](/Russia-USVs-ARMY-2024.html
   "READ MORE")<br clear="left"/>'
 
 ---

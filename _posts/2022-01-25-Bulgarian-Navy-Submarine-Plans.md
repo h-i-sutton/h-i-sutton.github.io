@@ -2,12 +2,12 @@
 layout: post
 title: "More NATO Submarines In The Black Sea: Bulgaria's Options?"
 date: "2022-01-25 18:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-01-25-Bulgarian-Navy-Submarine-Plans %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Bulgarian-Navy-Submarine-Plans.html"><img align="left"
   src="/images/Bulgaria-Submarines-317.jpg"/></a> Against the backdrop of NATO-Russia
   tensions, NATO member Bulgaria is reprioritizing its needs. Bulgaria is speeding
   up reestablishing its submarine capability. The country is said to already be in
-  talks with another country. <br/><br/>Here is a 'hot take'...<br/>[Read More &gt;....]({% post_url 2022-01-25-Bulgarian-Navy-Submarine-Plans %}
+  talks with another country. <br/><br/>Here is a 'hot take'...<br/>[Read More &gt;....](/Bulgarian-Navy-Submarine-Plans.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,15 +2,15 @@
 layout: post
 title: "COMSUBIN_Container"
 date: "2016-10-14 02:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\"> **Rare photo of COMSUBIN Special\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\"> **Rare photo of COMSUBIN Special\
   \ Forces container emerges** </font> <br/>![Flag](/images/flag_italy.jpg) A photo\
   \ has emerged of Italian Navy U212 Class submarine *Venuti* with a Special Forces\
   \ container fitted. Italy\u2019s famous COMSUBIN Special Forces unit have a long\
   \ history of maintaining extreme secrecy surrounding their extensive waterborne\
-  \ capabilities...  [Read More &gt;....]({% post_url 2016-10-14-COMSUBIN_Container %} \"READ MORE\")<br/><a\
-  \ href=\"{% post_url 2016-10-14-COMSUBIN_Container %}\"><img src=\"/images/COMSUBIN_sub1_900.jpg\"/></a><br/><a\
-  \ href=\"{% post_url 2016-10-14-COMSUBIN_Container %}\"><img src=\"/images/Todaro900.jpg\"/></a><br\
+  \ capabilities...  [Read More &gt;....](/COMSUBIN_Container.html \"READ MORE\")<br/><a\
+  \ href=\"/COMSUBIN_Container.html\"><img src=\"/images/COMSUBIN_sub1_900.jpg\"/></a><br/><a\
+  \ href=\"/COMSUBIN_Container.html\"><img src=\"/images/Todaro900.jpg\"/></a><br\
   \ clear=\"right\"/>"
 
 ---

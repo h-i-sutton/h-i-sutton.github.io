@@ -2,13 +2,13 @@
 layout: post
 title: "Unidentified-Wave-Glider-off-USA-Coast"
 date: "2020-06-29 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**Unidentified Wave Glider seen off U.S. Coast**</font> <br/>![Flag](/images/flag_USA.jpg)
   A photo has been shared on Instagram asking 'what is this?' Well, it is a version
   of the **Wave Glider** with a previously unseen aerial attached... <br/><br/>**Update:**
   Since posting, the antenna has been identified as the **SeaWatch** system from Thayer
-  Mahan.<br/>[Read More &gt;....]({% post_url 2020-06-29-Unidentified-Wave-Glider-off-USA-Coast %} "READ
-  MORE")<br/><a href="{% post_url 2020-06-29-Unidentified-Wave-Glider-off-USA-Coast %}"><img src="/images/Wave-Glider-mystery-900.jpg"/></a><br
+  Mahan.<br/>[Read More &gt;....](/Unidentified-Wave-Glider-off-USA-Coast.html "READ
+  MORE")<br/><a href="/Unidentified-Wave-Glider-off-USA-Coast.html"><img src="/images/Wave-Glider-mystery-900.jpg"/></a><br
   clear="right"><br/></br>
 ...
 

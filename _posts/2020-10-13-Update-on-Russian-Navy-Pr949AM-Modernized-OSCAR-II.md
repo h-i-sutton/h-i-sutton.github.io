@@ -2,15 +2,15 @@
 layout: post
 title: "Update-on-Russian-Navy-Pr949AM-Modernized-OSCAR-II"
 date: "2020-10-13 04:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Upgraded OSCAR-II Submarines May Not Have Latest Missiles**</font> <br/>![Flag](/images/flag_russia.jpg)
   The Russian Navy's upgraded Pr.949AM OSCAR-II Class submarine Orel test fired a
   cruise missile in the Barents Sea today. Significantly, it was a P-700 Granit (SS-N-19
   SHIPWRECK) missile. 24 of these massive supersonic missiles constituted the original
   primary weapon fit of the class. This suggests that despite being upgraded to 'AM'
   standard, Orel has not had the new cruise missile armament fitted... <br/>[Read
-  More &gt;....]({% post_url 2020-10-13-Update-on-Russian-Navy-Pr949AM-Modernized-OSCAR-II %} "READ MORE")<br/><a
-  href="{% post_url 2020-10-13-Update-on-Russian-Navy-Pr949AM-Modernized-OSCAR-II %}"><img src="/images/Russia-Navy-OSCAR-II-Submarine-Orel.jpg"/></a><br
+  More &gt;....](/Update-on-Russian-Navy-Pr949AM-Modernized-OSCAR-II.html "READ MORE")<br/><a
+  href="/Update-on-Russian-Navy-Pr949AM-Modernized-OSCAR-II.html"><img src="/images/Russia-Navy-OSCAR-II-Submarine-Orel.jpg"/></a><br
   clear="right"><br/></br>
 ...
 

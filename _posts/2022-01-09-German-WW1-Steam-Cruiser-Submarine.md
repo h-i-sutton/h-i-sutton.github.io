@@ -2,15 +2,15 @@
 layout: post
 title: "The Kaiser's Forgotten Steam-Powered Super Submarine, Project 50"
 date: "2022-01-09 01:00:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2022-01-09-German-WW1-Steam-Cruiser-Submarine %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/German-WW1-Steam-Cruiser-Submarine.html"><img
   align="left" src="/images/Germany-WW1-Project-50-Steam-Cruiser-Submarine-317.jpg"/></a>
   ![Flag germany](/images/flag_germany.jpg) During World War One Germany was undoubtedly
   one of the leading countries for submarines. Their mainstay types were extremely  combat
   effective. But they were not known for extreme designs. In tis regard, the British
   generally built bigger and more elaborate designs. But Germany did build a few large
   submarines. <br/><br/>The most impressive design was the steam-powered Project 50
-  *Tauchschiff*...<br/>[Read More &gt;....]({% post_url 2022-01-09-German-WW1-Steam-Cruiser-Submarine %}
+  *Tauchschiff*...<br/>[Read More &gt;....](/German-WW1-Steam-Cruiser-Submarine.html
   "READ MORE")<br clear="left"/></br>
 ...
 

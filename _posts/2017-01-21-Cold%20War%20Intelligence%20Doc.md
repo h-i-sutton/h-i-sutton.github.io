@@ -2,8 +2,8 @@
 layout: post
 title: "Cold War Intelligence Doc"
 date: "2017-01-21 02:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Analysis of Soviet Cold War\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Analysis of Soviet Cold War\
   \ Intelligence document on Naval Special Forces**</font><br/><font size=\"5\">*Organizing\
   \ Combat Against Underwater Sabotage Forces and Means in Naval Theaters*</font><br/>![Flag](/images/flag_USA.jpg)![Flag](/images/flag_russia.jpg)\
   \ This is an analysis of a document found on the CIA Records Search Tool (CREST)\

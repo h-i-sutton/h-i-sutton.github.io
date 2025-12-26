@@ -2,15 +2,15 @@
 layout: post
 title: "US Navy's Super Cruise Missile Submarine: USS Permit's Original Design"
 date: "2021-08-27 09:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-08-27-US-Navy-Super-Cruise-Missile-Submarine-SSGN-594 %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/US-Navy-Super-Cruise-Missile-Submarine-SSGN-594.html"><img
   align="left" src="/images/USN-USS-Permit-SSGN-594-Sub-317.jpg"/></a>![Flag](/images/flag_USA.jpg)
   History remembers the USS Permit (SSN-594) as the name-ship of the Permit Class
   attack submarines. The Permits were the ultimate attack submarines of their time,
   and introduced several core features which became standard for US Navy submarines
   for decades.<br/><br/>But there is a major part of the story which is not widely
   known. This article explores the USS Permit's original cruise missile submarine
-  form.<br/>[Read More &gt;....]({% post_url 2021-08-27-US-Navy-Super-Cruise-Missile-Submarine-SSGN-594 %}
+  form.<br/>[Read More &gt;....](/US-Navy-Super-Cruise-Missile-Submarine-SSGN-594.html
   "READ MORE")<br clear="left"/>
 ...
 

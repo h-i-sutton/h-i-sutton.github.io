@@ -3,13 +3,13 @@ layout: post
 title: "The Soviet's Elaborate Saturation Diver Submarine In The Black Sea"
 date: "2025-03-02 12:00:00"
 excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2025-03-02-Russia-LIMA-Class-Submarine %}"><img
+  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Russia-LIMA-Class-Submarine.html"><img
   align="left" src="/images/Russia-LIMA-Class-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   The Soviet Navy Project 1840 **LIMA Class** submarine, was a unique special purpose
   boat operational in the Black Sea from 1979 until 1994. Her retro lines, reminiscent
   of a 1950s submarine, belied an unusual internal arrangement.<br/><br/>Instead of
   a torpedo room, her forward hull contained an elaborate set of pressurized chambers
-  for divers to live, cut off from the crew...<br/>[Read More &gt;....]({% post_url 2025-03-02-Russia-LIMA-Class-Submarine %}
+  for divers to live, cut off from the crew...<br/>[Read More &gt;....](/Russia-LIMA-Class-Submarine.html
   "READ MORE")<br clear="left"/>
 ...
 

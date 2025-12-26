@@ -2,13 +2,13 @@
 layout: post
 title: "Russian Navy Also Deployed Trained Dolphins To Novorossiysk In Black Sea"
 date: "2022-07-17 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-07-17-Russian-Navy-Trained-Dolphins-in-Novorossiysk %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Navy-Trained-Dolphins-in-Novorossiysk.html"><img
   align="left" src="/images/Russia-Dolphins-Novorossiysk-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   The revelation, based on analysis of open source intelligence, that the Russia has
   deployed dolphins to guard Sevastopol, brought marine mammal programs into focus.<br/><br/>As
   part of the research into this I also discovered that the dolphins have previously
-  been deployed to Novorossiysk.<br/>[Read More &gt;....]({% post_url 2022-07-17-Russian-Navy-Trained-Dolphins-in-Novorossiysk %}
+  been deployed to Novorossiysk.<br/>[Read More &gt;....](/Russian-Navy-Trained-Dolphins-in-Novorossiysk.html
   "READ MORE")<br clear="left"/>
 ...
 

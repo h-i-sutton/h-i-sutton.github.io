@@ -2,11 +2,11 @@
 layout: post
 title: "Interview-in-The-Diplomat"
 date: "2020-01-22 10:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Interview in The Diplomat**</font><br/>**H.I. Sutton on the Future of
   Underwater Warfare in the Indo-Pacific Region**. What are some of the future strategic
-  and technological challenges to submarine forces in the region?...<br/><a href="{% post_url 2020-01-22-Interview-in-The-Diplomat %}"><img
-  src="/images/theDiplomat_202001.jpg"/></a><br/>[Read More &gt;....]({% post_url 2020-01-22-Interview-in-The-Diplomat %}
+  and technological challenges to submarine forces in the region?...<br/><a href="/Interview-in-The-Diplomat.html"><img
+  src="/images/theDiplomat_202001.jpg"/></a><br/>[Read More &gt;....](/Interview-in-The-Diplomat.html
   "READ MORE")
 ...
 

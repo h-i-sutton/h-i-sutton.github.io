@@ -2,13 +2,13 @@
 layout: post
 title: "Narco Submarine Discovered On Beach"
 date: "2021-12-10 09:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><br clear=\"right\"/><a href=\"{% post_url 2021-12-10-Narco-Submarine-Found-On-Beach %}\"\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Narco-Submarine-Found-On-Beach.html\"\
   ><img align=\"left\" src=\"/images/Narco-Submarine-LPV-2021-12-09-317.jpg\"/></a>\
   \ The Colombian Navy has sized another 'narco submarine' in operations against the\
   \ \u201CClan del Golfo\u201D group.<br/><br/>The Organized Armed Group (OAG) is\
   \ known to use improvised explosive devices to protect its shipments.<br/>[Read\
-  \ More &gt;....]({% post_url 2021-12-10-Narco-Submarine-Found-On-Beach %} \"READ MORE\")<br clear=\"\
+  \ More &gt;....](/Narco-Submarine-Found-On-Beach.html \"READ MORE\")<br clear=\"\
   left\"/>"
 
 ---

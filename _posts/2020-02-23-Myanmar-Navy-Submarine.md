@@ -2,11 +2,11 @@
 layout: post
 title: "Myanmar-Navy-Submarine"
 date: "2020-02-23 01:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**OSINT confirms Myanmar KILO Class submarine**</font> <br/> A set of photos
   published on Facebook appear to confirm that Myanmar's first submarine, a KILO Class
-  boat, has arrived in the country...<br/><a href="{% post_url 2020-02-23-Myanmar-Navy-Submarine %}"><img
-  src="/images/Myanmar_Kilo-900.jpg"/></a><br/>[Read More]({% post_url 2020-02-23-Myanmar-Navy-Submarine %}
+  boat, has arrived in the country...<br/><a href="/Myanmar-Navy-Submarine.html"><img
+  src="/images/Myanmar_Kilo-900.jpg"/></a><br/>[Read More](/Myanmar-Navy-Submarine.html
   "READ MORE")<br clear="right"/>
 ...
 

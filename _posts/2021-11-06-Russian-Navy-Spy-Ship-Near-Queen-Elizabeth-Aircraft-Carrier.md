@@ -2,14 +2,14 @@
 layout: post
 title: "Russian Navy Spy Ship Near UK Carrier Strike Group"
 date: "2021-11-06 23:45:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-11-06-Russian-Navy-Spy-Ship-Near-Queen-Elizabeth-Aircraft-Carrier %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Navy-Spy-Ship-Near-Queen-Elizabeth-Aircraft-Carrier.html"><img
   align="left" src="/images/Russian-Navy-Spy-Ship-Muscat-Oman-317.jpg"/></a> ![Flag
   Russia](/images/flag_russia.jpg) The arrival of the UK-led Carrier Strike Group
   (CSG), centered on HMS Queen Elizabeth, in the Middle East has presented many opportunities.
   Exercises with the Omani Navy and other allies, pass-exercises and photo opportunities.
   But for certain camera shy ships, there are clearly other opportunities.<br/><br/>There
-  appears to be a Russian Navy ship tagging along.<br/>[Read More &gt;....]({% post_url 2021-11-06-Russian-Navy-Spy-Ship-Near-Queen-Elizabeth-Aircraft-Carrier %}
+  appears to be a Russian Navy ship tagging along.<br/>[Read More &gt;....](/Russian-Navy-Spy-Ship-Near-Queen-Elizabeth-Aircraft-Carrier.html
   "READ MORE")<br clear="left"/>
 ...
 

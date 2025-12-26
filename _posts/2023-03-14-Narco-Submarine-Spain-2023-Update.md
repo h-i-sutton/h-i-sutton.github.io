@@ -2,12 +2,12 @@
 layout: post
 title: "Confirmed: Narco Submarine Discovered In Spain Is Directly Related To 2019 Incident"
 date: "2023-03-14 22:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><br clear=\"right\"/><a href=\"{% post_url 2023-03-14-Narco-Submarine-Spain-2023-Update %}\"\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Narco-Submarine-Spain-2023-Update.html\"\
   ><img align=\"left\" src=\"/images/Narco-Submarine-LPV-2023-03-Spain-317.jpg\"/></a>Images\
   \ of the narco submarine found in Vilaxo\xE1n, Galicia, Spain being lifted confirm\
   \ yesterday's analysis. The vessel is directly related to the 2019 incident.<br/><br/>[Read\
-  \ More &gt;....]({% post_url 2023-03-14-Narco-Submarine-Spain-2023-Update %} \"READ MORE\")<br clear=\"\
+  \ More &gt;....](/Narco-Submarine-Spain-2023-Update.html \"READ MORE\")<br clear=\"\
   left\"/>"
 
 ---

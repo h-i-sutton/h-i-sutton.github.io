@@ -2,15 +2,15 @@
 layout: post
 title: "North Korea's New Missile Submarine: Hero Kim Gun-ok"
 date: "2024-02-11 17:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-02-11-North-Korean-Submarine-Hero-Kim-Gun-Ok %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/North-Korean-Submarine-Hero-Kim-Gun-Ok.html"><img align="left"
   src="/images/DPRK-ROMEO-MOD-Hero-Kim-Gun-ok-317.jpg"/></a> ![Flag DPRK](/images/flag_nork.jpg)
   North Korea is known for its large fleet of outdated submarines. The backbone of
   its patrol submarine force are approximately 15-20 ROMEO class boats. They have
   poor stealth, weak sensors and limited endurance. Yet when competently commanded
   they still represent a serious threat to shipping.<br/><br/>What is more, North
   Korea has begun re building them into more more dangerous submarines...<br/>[Read
-  More &gt;....]({% post_url 2024-02-11-North-Korean-Submarine-Hero-Kim-Gun-Ok %} "READ MORE")<br clear="left"/>
+  More &gt;....](/North-Korean-Submarine-Hero-Kim-Gun-Ok.html "READ MORE")<br clear="left"/>
 ...
 
 ---

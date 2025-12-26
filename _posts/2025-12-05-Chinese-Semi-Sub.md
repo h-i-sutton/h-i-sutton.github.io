@@ -3,10 +3,10 @@ layout: post
 title: "China’s Firefox Of The Seas: New Trimaran Semi-Sub"
 date: "2025-12-05 15:00:00"
 excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2025-12-05-Chinese-Semi-Sub %}"><img
+  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Chinese-Semi-Sub.html"><img
   align="left" src="/images/China-Semi-Sub-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
   The vessel is clearly designed for submerged or semi-submerged operations yet is
-  equally clearly intended to principally sail on the surface....<br/>[Read More &gt;....]({% post_url 2025-12-05-Chinese-Semi-Sub %}
+  equally clearly intended to principally sail on the surface....<br/>[Read More &gt;....](/Chinese-Semi-Sub.html
   "READ MORE")<br clear="left"/>
 ...
 

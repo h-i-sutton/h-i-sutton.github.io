@@ -2,14 +2,14 @@
 layout: post
 title: "Chinese-Navy-Type-927-Anti-Submarine-Sonar-Ship"
 date: "2021-03-30 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**China Launches A New Long-Range Anti-Submarine Detection Ship**</font><br
-  clear="right"/><a href="{% post_url 2021-03-30-Chinese-Navy-Type-927-Anti-Submarine-Sonar-Ship %}"><img
+  clear="right"/><a href="/Chinese-Navy-Type-927-Anti-Submarine-Sonar-Ship.html"><img
   align="left" src="/images/China-Navy-Type-927-317.jpg"/></a>![Flag China](/images/flag_China.jpg)
   There are a few capabilities which only a handful of navies have. Extremely long-range
   anti-submarine detection ships is one of them.<br/><br/>China has launched another
   Type-927 sound detection ship, the Chinese Navy (PLAN) equivalent to the US Navy's
-  SURTASS ships.<br/>[Read More &gt;....]({% post_url 2021-03-30-Chinese-Navy-Type-927-Anti-Submarine-Sonar-Ship %}
+  SURTASS ships.<br/>[Read More &gt;....](/Chinese-Navy-Type-927-Anti-Submarine-Sonar-Ship.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -5,8 +5,8 @@ date: "2020-10-21 10:00:00"
 excerpt: '<font size="6">**Update: Wreck of Iran''s Fake Aircraft Carrier Moves Again**</font>
   <br/><img src="/images/flag_iran.jpg"/> Iran''s fake aircraft carrier which sunk
   off Bandar Abbas near Strait of Hormuz at the end of July, has moved again(!)...
-  <br/><a href="{% post_url 2020-10-21-Iranian-Fake-Aircraft-Carrier-Wreck %}"><img src="/images/Iran-Fake-Carrier-wreck-900.jpg"/></a><br/>[Read
-  More]({% post_url 2020-10-21-Iranian-Fake-Aircraft-Carrier-Wreck %} "READ MORE")<br/>'
+  <br/><a href="/Iranian-Fake-Aircraft-Carrier-Wreck.html"><img src="/images/Iran-Fake-Carrier-wreck-900.jpg"/></a><br/>[Read
+  More](/Iranian-Fake-Aircraft-Carrier-Wreck.html "READ MORE")<br/>'
 
 ---
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

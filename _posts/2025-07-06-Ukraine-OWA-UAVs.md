@@ -2,14 +2,14 @@
 layout: post
 title: "Guide To Ukraine's Long Range Attack Drones"
 date: "2025-07-06 10:01:00"
-excerpt: "**UPDATED** *Originally posted Jan 24*.<br/><a href=\"https://bsky.app/profile/covertshores.bsky.social\"\
-  \ target=\"blank\"><img align=\"right\" src=\"/images/Icon_Bluesky.jpg\"/></a><br clear=\"\
-  right\"><a href=\"{% post_url 2025-07-06-Ukraine-OWA-UAVs %}\"><img align=\"left\" src=\"/images/Ukraine-OWA-UAVs-317.jpg\"\
+excerpt: "**UPDATED** *Originally posted Jan 24*.<br/><a href=\"https://twitter.com/covertshores\"\
+  \ target=\"blank\"><img align=\"right\" src=\"/images/twitter.jpg\"/></a><br clear=\"\
+  right\"><a href=\"/Ukraine-OWA-UAVs.html\"><img align=\"left\" src=\"/images/Ukraine-OWA-UAVs-317.jpg\"\
   /></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Russia\u2019s use of long range\
   \ drones, principally the Iranian Shahed type, against Ukraine is well documented.\
   \ Ukraine too is increasingly using this category of drone.<br/><br/>This article\
   \ will focus on the Ukrainian OWA-UAVs which can strike deep into Russia...<br/>[Read\
-  \ More &gt;....]({% post_url 2025-07-06-Ukraine-OWA-UAVs %} \"READ MORE\")<br clear=\"left\"/></br>"
+  \ More &gt;....](/Ukraine-OWA-UAVs.html \"READ MORE\")<br clear=\"left\"/></br>"
 
 ---
 [![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

@@ -2,10 +2,10 @@
 layout: post
 title: "Improbable Navy Submarine Seen In Caspian Sea"
 date: "2021-11-18 09:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-11-18-Azerbaijan-Navy-Submarine %}"><img align="left" src="/images/Azerbaijan-SeaMagine-Submarine-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Azerbaijan-Navy-Submarine.html"><img align="left" src="/images/Azerbaijan-SeaMagine-Submarine-317.jpg"/></a>
   A video has surfaced showing an unusual submarine being used by the Azerbaijani
-  State Border Service (SBS)... <br/>[Read More &gt;....]({% post_url 2021-11-18-Azerbaijan-Navy-Submarine %}
+  State Border Service (SBS)... <br/>[Read More &gt;....](/Azerbaijan-Navy-Submarine.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Jiangnan-Shipyard-China-Update"
 date: "2020-11-20 23:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**New Imagery Shows Ginormous Warship Construction, China**</font><br clear="right"/><a
-  href="{% post_url 2020-11-20-Jiangnan-Shipyard-China-Update %}"><img align="left" src="/images/China-Jiangnan-Shipyard-GE-317.jpg"/></a>![Flag](/images/flag_China.jpg)
+  href="/Jiangnan-Shipyard-China-Update.html"><img align="left" src="/images/China-Jiangnan-Shipyard-GE-317.jpg"/></a>![Flag](/images/flag_China.jpg)
   Google Earth has updated its imagery of Shanghai, providing clear images of Jiangnan
   shipyard. This is where the Type-003 aircraft carrier is being built.<br/><br/>But
-  it is also where the enigmatic sailless submarine is...<br/><br/>[Read More &gt;....]({% post_url 2020-11-20-Jiangnan-Shipyard-China-Update %}
+  it is also where the enigmatic sailless submarine is...<br/><br/>[Read More &gt;....](/Jiangnan-Shipyard-China-Update.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,17 +2,17 @@
 layout: post
 title: "Russian-Navy-Submarines-Surface-In-Artic"
 date: "2021-03-27 12:00:00"
-excerpt: '*updated with fresh intelligence*<br/><a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font size="5">**Spy
+excerpt: '*updated with fresh intelligence*<br/><a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="5">**Spy
   Sub Among Russian Navy Submarines Which Surfaced In Artic**</font><br clear="right"><a
-  href="{% post_url 2021-03-27-Russian-Navy-Submarines-Surface-In-Artic %}"><img align="left" src="/images/Russia-Submarines-Arctic-317.jpg"/></a>![Flag
+  href="/Russian-Navy-Submarines-Surface-In-Artic.html"><img align="left" src="/images/Russia-Submarines-Arctic-317.jpg"/></a>![Flag
   Russia](/images/flag_russia.jpg) The Russian Navy''s ICEEX, ''* Umka-21 *'', is
   taking place in the Arctic. As part of the exercises, three nuclear submarines surfaced  within
   300m of each other. They surfaced in pre-marked locations.   They were widely reported
   (including here!) as ballistic missile subs (SSBNs); the two DELTA-IVs and a single
   Borei-II (K-549 Knyaz Vladimir) were within 300m. <br/><br/>Actually one of the
   DELTAs was BS-64  Podmoskovye, a "special mission" submarine (read: spy sub). <br/>[Read
-  More &gt;....]({% post_url 2021-03-27-Russian-Navy-Submarines-Surface-In-Artic %} "READ MORE")<br clear="left"/></br>'
+  More &gt;....](/Russian-Navy-Submarines-Surface-In-Artic.html "READ MORE")<br clear="left"/></br>'
 
 ---
 *updated with fresh intelligence*  

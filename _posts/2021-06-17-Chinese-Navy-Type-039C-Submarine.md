@@ -2,12 +2,12 @@
 layout: post
 title: "New Images Of Chinese Navy's Latest Type-039C Yuan Class Submarine"
 date: "2021-06-17 08:50:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-06-17-Chinese-Navy-Type-039C-Submarine %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Chinese-Navy-Type-039C-Submarine.html"><img align="left"
   src="/images/China-Type-039C-Yuan-Submarine-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)  A
   clearer video has emerged of the new model of Type-039A 'Yuan' family submarines.
   Provisionally known as the Type-039**C**, the new design is likely to be significant,
-  a major upgrade to an already competitive design. <br/><br/>[Read More &gt;....]({% post_url 2021-06-17-Chinese-Navy-Type-039C-Submarine %}
+  a major upgrade to an already competitive design. <br/><br/>[Read More &gt;....](/Chinese-Navy-Type-039C-Submarine.html
   "READ MORE")<br clear="left"/>
 ...
 

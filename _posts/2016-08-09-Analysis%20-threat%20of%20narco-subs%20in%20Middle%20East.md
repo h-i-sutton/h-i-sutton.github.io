@@ -2,8 +2,8 @@
 layout: post
 title: "Analysis -threat of narco-subs in Middle East"
 date: "2016-08-09 03:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a> Naval planners are doubtless considering the\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a> Naval planners are doubtless considering the\
   \ potential of \u2018narco-sub\u2019 technology being used by terrorist organizations\
   \ in North Africa and the Middle East. The threat of this technology proliferating\
   \ to terrorist and similar non-governmental forces has been highlighted several\

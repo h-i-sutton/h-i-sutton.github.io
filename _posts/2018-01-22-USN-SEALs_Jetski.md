@@ -4,7 +4,7 @@ title: "USN-SEALs_Jetski"
 date: "2018-01-22 11:00:00"
 excerpt: <font size="6">**US Navy SEALs' modified jetski revealed**</font><br/><img src="/images/flag_USA.jpg"/>
   A photo published by the US Navy shows the heavily modified YAMAHA 2016 FX CRUISER
-  SHO jetski... <br/><a href="{% post_url 2018-01-22-USN-SEALs_Jetski %}"><img src="/images/Jetski_USNSEALs_900.jpg"/></a>
+  SHO jetski... <br/><a href="/USN-SEALs_Jetski.html"><img src="/images/Jetski_USNSEALs_900.jpg"/></a>
 ...
 
 ---

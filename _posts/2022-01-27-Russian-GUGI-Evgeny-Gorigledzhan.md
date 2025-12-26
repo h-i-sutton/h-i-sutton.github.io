@@ -2,13 +2,13 @@
 layout: post
 title: "Russia's New GUGI Spy Ship Slips Her Moorings"
 date: "2022-01-27 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-01-27-Russian-GUGI-Evgeny-Gorigledzhan %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-GUGI-Evgeny-Gorigledzhan.html"><img align="left"
   src="/images/Russia-GUGI-Evgeny-Gorigledzhan-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   There is growing interest in Russia's capabilities against internet cables.<br/><br/>Credible
   reports in Russian sources suggests that Russia's newest special spy ship has moved
   from its fitting out mooring. **Evgeny Gorigledzhan** is expected to start sea trials
-  imminently. <br/>[Read More &gt;....]({% post_url 2022-01-27-Russian-GUGI-Evgeny-Gorigledzhan %} "READ
+  imminently. <br/>[Read More &gt;....](/Russian-GUGI-Evgeny-Gorigledzhan.html "READ
   MORE")<br clear="left"/>
 ...
 

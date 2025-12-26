@@ -2,12 +2,12 @@
 layout: post
 title: "BREAKING: Russian Spy Ship Yantar Enters English Channel"
 date: "2021-09-13 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-09-13-Russia-Spy-Ship-Yantar-Update-Sept13-2021 %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russia-Spy-Ship-Yantar-Update-Sept13-2021.html"><img align="left"
   src="/images/Russia-Yantar-English-Channel-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)Controversial
   Russian 'research vessel' Yantar has entered the English Channel heading northbound.
   It is currently south of the Lizard. The ship has turned on its AIS (automated Information
-  System)...<br/>[Read More &gt;....]({% post_url 2021-09-13-Russia-Spy-Ship-Yantar-Update-Sept13-2021 %}
+  System)...<br/>[Read More &gt;....](/Russia-Spy-Ship-Yantar-Update-Sept13-2021.html
   "READ MORE")<br clear="left"/>
 ...
 

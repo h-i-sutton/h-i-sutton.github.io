@@ -2,16 +2,16 @@
 layout: post
 title: "Ortega_SDV"
 date: "2017-06-09 11:00:00"
-excerpt: "*Updated text on Mk.1D 9th June 2018*<br/><a href=\"https://bsky.app/profile/covertshores.bsky.social\"\
-  \ target=\"blank\"><img align=\"right\" src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"\
+excerpt: "*Updated text on Mk.1D 9th June 2018*<br/><a href=\"https://twitter.com/covertshores\"\
+  \ target=\"blank\"><img align=\"right\" src=\"/images/twitter.jpg\"/></a><font size=\"\
   5\">**Latest Dutch Special Forces Swimmer Delivery Vehicles**</font><br/><img src=\"\
   /images/flag_netherlands.jpg\"/> Dutch Swimmer Delivery Vehicles built by Ortega\
   \ are based on the original World War Two \u2018Sleeping Beauty\u2019. That was\
   \ a small single-person boat designed to run for long distances on the surface,\
   \ only submerging when it approached the target area. Despite the unambiguous influence,\
   \ the Ortega designs add modern hydrodynamics and the latest technology to create\
-  \ a cutting-edge Special Forces vehicle.. [Read More &gt;....]({% post_url 2017-06-09-Ortega_SDV %}\
-  \ \"READ MORE\")<br/><a href=\"{% post_url 2017-06-09-Ortega_SDV %}\"><img src=\"/images/Ortega_Mk1D_side900.jpg\"\
+  \ a cutting-edge Special Forces vehicle.. [Read More &gt;....](/Ortega_SDV.html\
+  \ \"READ MORE\")<br/><a href=\"/Ortega_SDV.html\"><img src=\"/images/Ortega_Mk1D_side900.jpg\"\
   /></a><br clear=\"right\"/>"
 
 ---

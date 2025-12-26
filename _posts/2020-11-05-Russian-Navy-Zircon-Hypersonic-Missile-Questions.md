@@ -2,13 +2,13 @@
 layout: post
 title: "Russian-Navy-Zircon-Hypersonic-Missile-Questions"
 date: "2020-11-05 03:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Russia''s Much Vaunted Zircon Hypersonic Missile Launch: Not All It Seems?**</font><br
-  clear="right"/><a href="{% post_url 2020-11-05-Russian-Navy-Zircon-Hypersonic-Missile-Questions %}"><img
+  clear="right"/><a href="/Russian-Navy-Zircon-Hypersonic-Missile-Questions.html"><img
   align="left" src="/images/Russia-Zircon-300.jpg"/></a><br/><br/>![Flag](/images/flag_russia.jpg)
   In the race to field hypersonics, Russia is forging ahead by rolling out the **3M22
   Zircon** missile to its Navy. <br/><br/>But there is a catch...<br/><br/>[Read More
-  &gt;....]({% post_url 2020-11-05-Russian-Navy-Zircon-Hypersonic-Missile-Questions %} "READ MORE")<br
+  &gt;....](/Russian-Navy-Zircon-Hypersonic-Missile-Questions.html "READ MORE")<br
   clear="left"/>'
 
 ---

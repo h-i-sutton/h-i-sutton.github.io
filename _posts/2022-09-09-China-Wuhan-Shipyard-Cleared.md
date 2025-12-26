@@ -2,13 +2,13 @@
 layout: post
 title: "Gone: Famous Chinese Shipyard Disappears"
 date: "2022-09-09 23:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-09-09-China-Wuhan-Shipyard-Cleared %}"><img align="left" src="/images/China-Wuhan-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/China-Wuhan-Shipyard-Cleared.html"><img align="left" src="/images/China-Wuhan-317.jpg"/></a>
   ![Flag China](/images/flag_China.jpg) For many years Chinese warships and submarines
   have been built at a shipyard in downtown Wuhan. The yard, on the Yangtze River
   defined the area. But as the urban environment developed, it seemed increasingly
   out of place.<br/><br/>There is now clear evidence that the yard has closed...<br/>[Read
-  More &gt;....]({% post_url 2022-09-09-China-Wuhan-Shipyard-Cleared %} "READ MORE")<br clear="left"/>
+  More &gt;....](/China-Wuhan-Shipyard-Cleared.html "READ MORE")<br clear="left"/>
 ...
 
 ---

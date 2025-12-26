@@ -2,12 +2,12 @@
 layout: post
 title: "Otranto_unmanned-drug-vessel"
 date: "2019-06-23 04:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**First narco-USV**</font><br/>A unique craft was recently intercepted
   that may drastically change the threat profile in the Adriatic and potentially foretell
   of similar developments elsewhere: a sea-going unmanned surface vessel (USV) for
-  smuggling drugs....<br/><a href="{% post_url 2019-06-23-Otranto_unmanned-drug-vessel %}"><img src="/images/Narcosub_Otranto_900.jpg"/></a><br/>[Read
-  More &gt;....]({% post_url 2019-06-23-Otranto_unmanned-drug-vessel %} "READ MORE")'
+  smuggling drugs....<br/><a href="/Otranto_unmanned-drug-vessel.html"><img src="/images/Narcosub_Otranto_900.jpg"/></a><br/>[Read
+  More &gt;....](/Otranto_unmanned-drug-vessel.html "READ MORE")'
 
 ---
 ##### Share: __

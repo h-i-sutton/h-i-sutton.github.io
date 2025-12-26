@@ -2,12 +2,12 @@
 layout: post
 title: "First-Narco-Submarine-of-2021"
 date: "2021-01-08 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**First 'Narco Submarine' Incident of 2021** </font><br clear="right"/><a
-  href="{% post_url 2021-01-08-First-Narco-Submarine-of-2021 %}"><img align="left" src="/images/First-Narco-Submarine-Of-2021-317.jpg"/></a><br/>The
+  href="/First-Narco-Submarine-of-2021.html"><img align="left" src="/images/First-Narco-Submarine-Of-2021-317.jpg"/></a><br/>The
   Mexican Navy has made the first reported Narco submarine interdiction of the year.<br/><br/>Last
   year saw over 20 of the so-called "narco submarines". This incident shows that they
-  aren't going away...<br/>[Read More &gt;....]({% post_url 2021-01-08-First-Narco-Submarine-of-2021 %}
+  aren't going away...<br/>[Read More &gt;....](/First-Narco-Submarine-of-2021.html
   "READ MORE")<br clear="left"/>
 ...
 

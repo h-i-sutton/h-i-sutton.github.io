@@ -2,14 +2,14 @@
 layout: post
 title: "Iranian Nazir-1 XLUUV submarine drone"
 date: "2020-07-11 03:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"5\">**Iranian Islamic Revolutionary\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**Iranian Islamic Revolutionary\
   \ Guards (IRGC) XLUUV**</font> <br/>![Flag](/images/flag_iran.jpg) Iran has revealed\
   \ its first large Uncrewed Underwater Vehicle (UUV). Once developed this will add\
   \ a new dimension to Iran\u2019s systematic warfare capability. It will also mean\
   \ that Iran joins an elite club with only the U.S. Navy and Britain\u2019s Royal\
-  \ Navy having such large UUVs... <br/>[Read More &gt;....]({% post_url 2020-07-11-Iranian-XLUUV-submarine-drone %}\
-  \ \"READ MORE\")<br/><a href=\"{% post_url 2020-07-11-Iranian-XLUUV-submarine-drone %}\"><img src=\"\
+  \ Navy having such large UUVs... <br/>[Read More &gt;....](/Iranian-XLUUV-submarine-drone.html\
+  \ \"READ MORE\")<br/><a href=\"/Iranian-XLUUV-submarine-drone.html\"><img src=\"\
   /images/Iran-XLUUV-900.jpg\"/></a><br clear=\"right\"><br/></br>"
 
 ---

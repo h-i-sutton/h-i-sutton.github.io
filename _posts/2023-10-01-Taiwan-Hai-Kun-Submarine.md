@@ -2,13 +2,13 @@
 layout: post
 title: "Taiwan's Hai Kun Class Submarine"
 date: "2023-10-01 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-10-01-Taiwan-Hai-Kun-Submarine %}"><img align="left" src="/images/Taiwan-Hai-Kun-Submarine-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Taiwan-Hai-Kun-Submarine.html"><img align="left" src="/images/Taiwan-Hai-Kun-Submarine-317.jpg"/></a>
   ![Flag Taiwan](/images/flag_taiwan.jpg) Taiwan held the launch ceremony for their
   first indigenous submarine on September 28 2023. The **Hai Kun** was built at  CSBC
   Corp.'s shipyard in Kaohsiung on the country's west coast in an impressively short
   period of time. Keel laying to launch was less than 2 years.<br/><br/>The submarine
-  is also an interesting design...<br/>[Read More &gt;....]({% post_url 2023-10-01-Taiwan-Hai-Kun-Submarine %}
+  is also an interesting design...<br/>[Read More &gt;....](/Taiwan-Hai-Kun-Submarine.html
   "READ MORE")<br clear="left"/>
 ...
 

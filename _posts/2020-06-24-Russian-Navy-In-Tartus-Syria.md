@@ -2,12 +2,12 @@
 layout: post
 title: "Russian-Navy-In-Tartus-Syria"
 date: "2020-06-24 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**Russian Navy deployed Marine Mammals to Defend Base in Syria**</font>
   <br/>![Flag](/images/flag_russia.jpg) The Russian Navy deployed marine mammals to
   Tartus in Syria during September-December 2018. The animals, most likely seals,
-  were positioned next to the harbor defense units.. [Read More &gt;....]({% post_url 2020-06-24-Russian-Navy-In-Tartus-Syria %}
-  "READ MORE")<br/><a href="{% post_url 2020-06-24-Russian-Navy-In-Tartus-Syria %}"><img src="/images/Syria-Tartus-Marine-Mammals900.jpg"/></a><br
+  were positioned next to the harbor defense units.. [Read More &gt;....](/Russian-Navy-In-Tartus-Syria.html
+  "READ MORE")<br/><a href="/Russian-Navy-In-Tartus-Syria.html"><img src="/images/Syria-Tartus-Marine-Mammals900.jpg"/></a><br
   clear="right"/>
 ...
 

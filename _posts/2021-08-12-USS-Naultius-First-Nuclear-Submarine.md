@@ -2,12 +2,12 @@
 layout: post
 title: "The World's First Nuclear Submarine: USS Nautilus (SSN-571)"
 date: "2021-08-12 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-08-12-USS-Naultius-First-Nuclear-Submarine %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/USS-Naultius-First-Nuclear-Submarine.html"><img align="left"
   src="/images/US-Navy-USS-Nautilus-317.jpg"/></a>![Flag](/images/flag_USA.jpg) The
   USS Nautilus ushered in the age of the nuclear submarine, and overnight transformed
   naval warfare. It is undeniably one of the most influential submarines ever.<br/>[Read
-  More &gt;....]({% post_url 2021-08-12-USS-Naultius-First-Nuclear-Submarine %} "READ MORE")<br clear="left"/>
+  More &gt;....](/USS-Naultius-First-Nuclear-Submarine.html "READ MORE")<br clear="left"/>
 ...
 
 ---

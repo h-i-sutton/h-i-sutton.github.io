@@ -2,15 +2,15 @@
 layout: post
 title: "OSINT: China's Radar Cross-Section Test Facility For Stealth Aircraft"
 date: "2021-09-26 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-09-26-China-Radar-Cross-Section-Base %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/China-Radar-Cross-Section-Base.html"><img align="left"
   src="/images/China-Radar-Cross-Section-Test-Site-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
   China is developing a large number of low-observable ('stealth') aircraft and uncrewed
   air vehicles. These include flying wing designs such as the GJ-11 and CH-7 designs.
   However in order to validate their stealth qualities, a large radar test facility
   has had to be built. <br/><br/>I do not normally do OSINT (open source intelligence)
   pieces on aviation topics but this one is interesting. So let's go a bit off-topic...<br/>[Read
-  More &gt;....]({% post_url 2021-09-26-China-Radar-Cross-Section-Base %} "READ MORE")<br clear="left"/>
+  More &gt;....](/China-Radar-Cross-Section-Base.html "READ MORE")<br clear="left"/>
 ...
 
 ---

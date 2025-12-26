@@ -2,13 +2,13 @@
 layout: post
 title: "OSINT Suggests Around Half Of Moskva's Crew Killed Or Injured"
 date: "2022-04-16 22:00:00"
-excerpt: '**UPDATED Apr 17**<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img
-  align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2022-04-16-Moskva-Cruiser-Loss-Estimate %}"><img
+excerpt: '**UPDATED Apr 17**<a href="https://twitter.com/covertshores" target="blank"><img
+  align="right" src="/images/twitter.jpg"/></a><br clear="right"/><a href="/Moskva-Cruiser-Loss-Estimate.html"><img
   align="left" src="/images/Russia-Cruiser-Moskva-Crew-Count-317.jpg"/></a> ![Flag
   Russia](/images/flag_russia.jpg) The Russian Ministry of Defense released a video
   showing a parade of the Moskva''s crew. This follows the loss of the Russian Navy''s
   Black Sea Fleet flagship, reportedly to Ukrainian missiles, on April 13/14.<br/><br/>It
-  makes sober watching.<br/>[Read More &gt;....]({% post_url 2022-04-16-Moskva-Cruiser-Loss-Estimate %}
+  makes sober watching.<br/>[Read More &gt;....](/Moskva-Cruiser-Loss-Estimate.html
   "READ MORE")<br clear="left"/>'
 
 ---

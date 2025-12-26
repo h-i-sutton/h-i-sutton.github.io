@@ -2,14 +2,14 @@
 layout: post
 title: "Guide To Russian Seabed Warfare Capabilities In Black Sea"
 date: "2023-06-12 23:30:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-06-12-Russian-Seabed-Warfare-Capabilities-In-Black-Sea %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Seabed-Warfare-Capabilities-In-Black-Sea.html"><img
   align="left" src="/images/Russia-Kommuna-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   A Russian Navy Vishnya class Intelligence Ship was reportedly attacked by Ukrainian
   maritime drones (USVs) on June 11. Russia's claims that the ship was  defending
   gas pipelines in the Black Sea raises some questions.<br/><br/>Was that is really
   why it was there? Do the pipelines need protecting, and if so, who from?<br/>[Read
-  More &gt;....]({% post_url 2023-06-12-Russian-Seabed-Warfare-Capabilities-In-Black-Sea %} "READ MORE")<br
+  More &gt;....](/Russian-Seabed-Warfare-Capabilities-In-Black-Sea.html "READ MORE")<br
   clear="left"/>
 ...
 

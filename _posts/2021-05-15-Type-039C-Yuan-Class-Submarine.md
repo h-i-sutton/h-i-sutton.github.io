@@ -2,14 +2,14 @@
 layout: post
 title: "New Variant Of China's Yuan Class Submarine, Possible Type-039C"
 date: "2021-05-15 20:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-05-15-Type-039C-Yuan-Class-Submarine %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Type-039C-Yuan-Class-Submarine.html"><img align="left"
   src="/images/China-Possible-Type-039C-317.jpg"/></a>![Flag](/images/flag_China.jpg)
   A candid photograph, taken from a moving vehicle on a bridge, shows the submarine
   on the slipway at Wuchang shipyard in Wuhan.<br/><br/>I have not yet been able to
   corroborate the image with other public sources, so caution is needed. However,
   Google Earth satellite imagery does show three submarine hull sections in the latest
-  (February 2021) imagery. <br/>[Read More &gt;....]({% post_url 2021-05-15-Type-039C-Yuan-Class-Submarine %}
+  (February 2021) imagery. <br/>[Read More &gt;....](/Type-039C-Yuan-Class-Submarine.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,7 +2,7 @@
 layout: post
 title: "4 New T-Shirts In The Store"
 date: "2021-12-12 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
   clear="right"/><a href="https://covert-shores.creator-spring.com/" target="blank"><img
   align="left" src="/images/Covert-Shores-T-Shirts-317.jpg"/></a> II don't plug the
   Covert Shores store very often, it is not what this site is about. The T-shirts,

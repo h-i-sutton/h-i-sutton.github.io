@@ -6,8 +6,8 @@ excerpt: <font size="6">**New evidence of China's Copy of U.S. Navy Sea Hunter U
   <br/><img src="/images/flag_China.jpg"/> The US Navy's Sea Hunter drone may have
   lost the crown of the largest Uncrewed Surface Vessel (USV). A photo posted on Wiebo
   shows the Chinese equivalent, which is similar in almost every respect.... <br/><a
-  href="{% post_url 2020-09-25-Chinese-Navy-Sea-Hunter-USV %}"><img src="/images/China-Navy-USC-Sea-Hunter-photo-900.jpg"/></a><br/>[Read
-  More]({% post_url 2020-09-25-Chinese-Navy-Sea-Hunter-USV %} "READ MORE")<br/>
+  href="/Chinese-Navy-Sea-Hunter-USV.html"><img src="/images/China-Navy-USC-Sea-Hunter-photo-900.jpg"/></a><br/>[Read
+  More](/Chinese-Navy-Sea-Hunter-USV.html "READ MORE")<br/>
 ...
 
 ---

@@ -2,14 +2,14 @@
 layout: post
 title: "Russia's New Super Submarine, Belgorod (K-329)"
 date: "2021-06-29 23:01:00"
-excerpt: '*Updated. Originally posted Feb 28, 2021*<a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a
-  href="{% post_url 2021-06-29-Belgorod-Class-Submarine %}"><img align="left" src="/images/Pr-09852-Belgorod-317.jpg"/></a>![Flag
+excerpt: '*Updated. Originally posted Feb 28, 2021*<a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><br clear="right"/><a
+  href="/Belgorod-Class-Submarine.html"><img align="left" src="/images/Pr-09852-Belgorod-317.jpg"/></a>![Flag
   Russia](/images/flag_russia.jpg) Belgorod is one of the least understood submarines
   currently being built. It was launched in April 2019 and started sea trials on June
   25 2021. It will be armed with the Poseidon strategic nuclear weapon, and also perform
   secretive seabed warfare missions.<br/><br/>It is unclear which role will take precedence...<br/>[Read
-  More &gt;....]({% post_url 2021-06-29-Belgorod-Class-Submarine %} "READ MORE")<br clear="left"/>'
+  More &gt;....](/Belgorod-Class-Submarine.html "READ MORE")<br clear="left"/>'
 
 ---
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)  

@@ -2,13 +2,13 @@
 layout: post
 title: "OSINT: Russia's Last KILO Class Submarine Leaves Mediterranean"
 date: "2023-10-06 10:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-10-06-Russia-Kilo-Class-Submarine-Leaving-Mediterranean %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russia-Kilo-Class-Submarine-Leaving-Mediterranean.html"><img
   align="left" src="/images/Russia-Kilo-sub-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   The Russian Navy deployments in the Mediterranean can be seen as part of the outer
   guard for the invasion of Ukraine. They deter NATO involvement, particularly from
   aircraft carriers in the sea.<br/><br/>Now the last submarine based there appears
-  to be leaving. ..<br/>[Read More &gt;....]({% post_url 2023-10-06-Russia-Kilo-Class-Submarine-Leaving-Mediterranean %}
+  to be leaving. ..<br/>[Read More &gt;....](/Russia-Kilo-Class-Submarine-Leaving-Mediterranean.html
   "READ MORE")<br clear="left"/>
 ...
 

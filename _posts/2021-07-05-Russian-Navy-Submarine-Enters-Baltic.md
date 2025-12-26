@@ -2,13 +2,13 @@
 layout: post
 title: "Russian Navy Oscar-II Class Cruise Missile Submarine Seen Entering Baltic"
 date: "2021-07-05 09:55:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-07-05-Russian-Navy-Submarine-Enters-Baltic %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Navy-Submarine-Enters-Baltic.html"><img align="left"
   src="/images/Russian-Navy-Oscar-Submarine-Baltic-317.jpg"/></a>![Flag Russia](/images/flag_russia.jpg)
   A Russian Navy Pr.949A OSCAR-II cruise missile submarine has been observed entering
   the Baltic this morning.<br/><br/>It is very rare to see nuclear submarines in the
   Baltic although Russia deploys them there from time to time. These deployments act
-  as a show of strength for both home and foreign audiences. <br/>[Read More &gt;....]({% post_url 2021-07-05-Russian-Navy-Submarine-Enters-Baltic %}
+  as a show of strength for both home and foreign audiences. <br/>[Read More &gt;....](/Russian-Navy-Submarine-Enters-Baltic.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Suspicious Super Go-Fast Boats Seen Loitering Off Taiwanese Island"
 date: "2022-05-21 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-05-21-Suspected-Chinese-Boats-Off-Taiwance-Island %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Suspected-Chinese-Boats-Off-Taiwance-Island.html"><img
   align="left" src="/images/China-Go-Fast-May2022-317.jpg"/></a> Taiwanese media has
   reported that four boats were observed acting suspiciously near one of the county's
   small islands. The vessels are super-go fasts, a custom type used by smugglers in
-  the region.<br/>[Read More &gt;....]({% post_url 2022-05-21-Suspected-Chinese-Boats-Off-Taiwance-Island %}
+  the region.<br/>[Read More &gt;....](/Suspected-Chinese-Boats-Off-Taiwance-Island.html
   "READ MORE")<br clear="left"/>
 ...
 

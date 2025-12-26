@@ -2,8 +2,8 @@
 layout: post
 title: "WP-18 Tactical Strike Craft"
 date: "2019-03-26 17:00:00"
-excerpt: '*Updated. Originally posted 25th June 2016*<a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/>![Flag](/images/flag_UEA.jpg)  With
+excerpt: '*Updated. Originally posted 25th June 2016*<a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><br clear="right"/>![Flag](/images/flag_UEA.jpg)  With
   its sleek wave-piercing hull and stealthy lines, the blisteringly quick WP-18 Tactical
   Strike Craft is the fastest naval vessel in the world. And possibly the most stylish
   Special Forces boat too. And it is not all good looks! [Read More &gt;....](/WP-18

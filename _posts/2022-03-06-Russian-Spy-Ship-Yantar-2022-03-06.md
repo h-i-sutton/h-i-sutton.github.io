@@ -2,12 +2,12 @@
 layout: post
 title: "Controversial Russian Spy Ship Yantar Leaves Base"
 date: "2022-03-06 22:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-03-06-Russian-Spy-Ship-Yantar-2022-03-06 %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Spy-Ship-Yantar-2022-03-06.html"><img align="left"
   src="/images/Russia-Yantar-Spy-Ship-2022-03-06-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   Yantar, the special mission ship reputed to be involved in spying on undersea internet
   cables, has left her base. The controversial ship has departed Olenya Guba near
-  the Kola Peninsular in Russia's arctic north. <br/>[Read More &gt;....]({% post_url 2022-03-06-Russian-Spy-Ship-Yantar-2022-03-06 %}
+  the Kola Peninsular in Russia's arctic north. <br/>[Read More &gt;....](/Russian-Spy-Ship-Yantar-2022-03-06.html
   "READ MORE")<br clear="left"/>
 ...
 

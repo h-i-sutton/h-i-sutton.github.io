@@ -2,13 +2,13 @@
 layout: post
 title: "Russian Navy Warship Seen Off Odessa Identified"
 date: "2022-03-21 09:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-03-21-Russian-Navy-Warship-Seen-Off-Odessa-Mar21-2022 %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Navy-Warship-Seen-Off-Odessa-Mar21-2022.html"><img
   align="left" src="/images/Russia-Ukraine-Odessa-2022-03-21-317.jpg"/></a> ![Flag
   Russia](/images/flag_russia.jpg) The residents of Odessa awoke this morning to the
   sounds of shelling. Several videos are already circulating.<br/><br/>Based on images
   shared online, I have been able to identify one of the ships as a Russian Navy frigate.<br/>[Read
-  More &gt;....]({% post_url 2022-03-21-Russian-Navy-Warship-Seen-Off-Odessa-Mar21-2022 %} "READ MORE")<br
+  More &gt;....](/Russian-Navy-Warship-Seen-Off-Odessa-Mar21-2022.html "READ MORE")<br
   clear="left"/>
 ...
 

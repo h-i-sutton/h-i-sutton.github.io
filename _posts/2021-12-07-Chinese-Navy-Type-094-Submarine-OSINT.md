@@ -2,14 +2,14 @@
 layout: post
 title: "UPDATED: Chinese Navy Type-094 Jin SSBN in Taiwan Strait"
 date: "2021-12-07 13:00:00"
-excerpt: '*Updated. Originally posted Nov 29, 2021*<br/><a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a
-  href="{% post_url 2021-12-07-Chinese-Navy-Type-094-Submarine-OSINT %}"><img align="left" src="/images/China-Type-094-submarine-OSINT-317.jpg"/></a>
+excerpt: '*Updated. Originally posted Nov 29, 2021*<br/><a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><br clear="right"><a
+  href="/Chinese-Navy-Type-094-Submarine-OSINT.html"><img align="left" src="/images/China-Type-094-submarine-OSINT-317.jpg"/></a>
   ![Flag China](/images/flag_China.jpg) A Chinese Navy submarine, provisionally identified
   as a Type-094 Jin Class SSBN, is transiting the Taiwan Strait. The submarine is
   transiting north from the submarine base at Yulin in the South China Sea. It is
   surfaced and escorted by another vessel. <br/><br/>Update: A submarine, likely the
-  same one, is now in Huludao in Northern China.<br/>[Read More &gt;....]({% post_url 2021-12-07-Chinese-Navy-Type-094-Submarine-OSINT %}
+  same one, is now in Huludao in Northern China.<br/>[Read More &gt;....](/Chinese-Navy-Type-094-Submarine-OSINT.html
   "READ MORE")<br clear="left"/></br>'
 
 ---

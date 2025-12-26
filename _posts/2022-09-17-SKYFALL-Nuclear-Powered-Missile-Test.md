@@ -2,13 +2,13 @@
 layout: post
 title: "SKYFALL Imminent: Signs Of Russia's Next Nuclear-Powered Missile Test"
 date: "2022-09-17 23:01:00"
-excerpt: '**Updated**<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2022-09-17-SKYFALL-Nuclear-Powered-Missile-Test %}"><img
+excerpt: '**Updated**<a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"/><a href="/SKYFALL-Nuclear-Powered-Missile-Test.html"><img
   align="left" src="/images/Russia-SKYFALL-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   There are clear indications that Russia is preparing to test the nuclear-powered
   Burevestnik (NATO: SKYFALL) missile. The test site at Pankovo on Novaya Zemlya in
   the Russian Arctic is extremely remote.<br/><br/>Increased activity at the site
-  has been monitored by defense analysts for some time...<br/>[Read More &gt;....]({% post_url 2022-09-17-SKYFALL-Nuclear-Powered-Missile-Test %}
+  has been monitored by defense analysts for some time...<br/>[Read More &gt;....](/SKYFALL-Nuclear-Powered-Missile-Test.html
   "READ MORE")<br clear="left"/>'
 
 ---

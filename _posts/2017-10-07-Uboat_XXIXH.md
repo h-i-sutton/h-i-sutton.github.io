@@ -2,14 +2,14 @@
 layout: post
 title: "Uboat_XXIXH"
 date: "2017-10-07 01:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Type-XXIX-H stealth U-boat design, 1944**</font><br/><img src="/images/flag_GermanyWW2_ensign.jpg"/>
   This unbuilt design was intended to replace the ubiquitous Type-VIIC U-Boat family.
   It was conceived as a relatively modest design, albeit incorporating the latest
   thinking, and yet it was the first submarine to incororate sonar stealth shaping
-  as part of its core design...<br/>[Read More]({% post_url 2017-10-07-Uboat_XXIXH %} "READ MORE")<br/><a
-  href="{% post_url 2017-10-07-Uboat_XXIXH %}"><img src="/images/uboot-XXIXH_header900.jpg"/></a><br/><a
-  href="{% post_url 2017-10-07-Uboat_XXIXH %}"><img src="/images/Uboot-XXIIX_CiTrus90_900.jpg"/></a><br
+  as part of its core design...<br/>[Read More](/Uboat_XXIXH.html "READ MORE")<br/><a
+  href="/Uboat_XXIXH.html"><img src="/images/uboot-XXIXH_header900.jpg"/></a><br/><a
+  href="/Uboat_XXIXH.html"><img src="/images/Uboot-XXIIX_CiTrus90_900.jpg"/></a><br
   clear="right"/>
 ...
 

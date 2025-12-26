@@ -2,12 +2,12 @@
 layout: post
 title: "Iran's First Drone Carrier Gets Ski Jump"
 date: "2023-05-01 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-05-01-Iran-IRGC-Drone-Carrier-Update-04-2023 %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Iran-IRGC-Drone-Carrier-Update-04-2023.html"><img align="left"
   src="/images/Iran-Drone-Carrier-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg)
   Further to the article in December 2022, the ski-jump arrangement of Iran's first
   drone carrier is now confirmed in photos.<br/><br/>The carrier, to be named  Shahid
-  Bagheri, has an unique flight deck layout. <br/>[Read More &gt;....]({% post_url 2023-05-01-Iran-IRGC-Drone-Carrier-Update-04-2023 %}
+  Bagheri, has an unique flight deck layout. <br/>[Read More &gt;....](/Iran-IRGC-Drone-Carrier-Update-04-2023.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,15 +2,15 @@
 layout: post
 title: "Swedish_Sub_Incursions_RYAN"
 date: "2017-03-02 03:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Swedish news article on Cold\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Swedish news article on Cold\
   \ War imcursions**</font> <br/>![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_russia.jpg)\
   \ This morning\u2019s Blekinge Lans Tidning (BLT) newspaper ran a story on the Swedish\
   \ Cold War submarine Incursions. Retired Naval Officer Nils-Ove Jansson  drew parallels\
   \ to when Soviet Spetsnaz combat swimmers came ashore in Sweden to reconnoiter the\
   \ placing of nuclear mines (allegedly). An interesting article in a few ways...\
-  \ [Read More &gt;....]({% post_url 2017-03-02-Swedish_Sub_Incursions_RYAN %} \"READ MORE\")<br/><a href=\"\
-  {% post_url 2017-03-02-Swedish_Sub_Incursions_RYAN %}\"><img src=\"/images/Swe_Incursions_Nils-Ove_Jansson900.jpg\"\
+  \ [Read More &gt;....](/Swedish_Sub_Incursions_RYAN.html \"READ MORE\")<br/><a href=\"\
+  /Swedish_Sub_Incursions_RYAN.html\"><img src=\"/images/Swe_Incursions_Nils-Ove_Jansson900.jpg\"\
   /></a><br clear=\"right\"/>"
 
 ---

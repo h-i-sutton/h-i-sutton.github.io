@@ -2,12 +2,12 @@
 layout: post
 title: "Thales-AUSS-underwater-drone-concept"
 date: "2020-01-02 13:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br/><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br/><font
   size="6">**AUSS Drone - Autonomous Underwater &amp; Surface System**</font><br/><img
   src="/images/flag_france.jpg"/> Thales has an interesting concept for a torpedo-sized
   underwater drone (autonomous underwater vehicle - AUV) which can also perform on
-  the surface... <br/><a href="{% post_url 2020-01-02-Thales-AUSS-underwater-drone-concept %}"><img src="/images/Fr-thales-AUSS-Drone-900.jpg"/></a><br
-  clear="right">[Read More &gt;....]({% post_url 2020-01-02-Thales-AUSS-underwater-drone-concept %} "READ
+  the surface... <br/><a href="/Thales-AUSS-underwater-drone-concept.html"><img src="/images/Fr-thales-AUSS-Drone-900.jpg"/></a><br
+  clear="right">[Read More &gt;....](/Thales-AUSS-underwater-drone-concept.html "READ
   MORE")<br/></br>
 ...
 

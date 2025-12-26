@@ -2,14 +2,14 @@
 layout: post
 title: "China-Censors-Numbers-On-Planes"
 date: "2021-03-31 12:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**OSINT: China Censors Numbers On Navy Plane**</font><br clear="right"/><a
-  href="{% post_url 2021-03-31-China-Censors-Numbers-On-Planes %}"><img align="left" src="/images/China-Y8Q-MPA-planes-317.jpg"/></a>![Flag
+  href="/China-Censors-Numbers-On-Planes.html"><img align="left" src="/images/China-Y8Q-MPA-planes-317.jpg"/></a>![Flag
   China](/images/flag_China.jpg) Chinese media post some excellent photographs of
   Chinese Navy (PLAN) equipment. But one photo shoot of Y-8Q maritime patrol aircraft
   (MPAs) was digitally altered to hide the number. An eagle-eyed OSINT analyst spotted
   it.<br/><br/>This is only tangential to my normal focus but I thought it is interesting
-  so hope you agree that it is worth sharing. <br/><br/>[Read More &gt;....]({% post_url 2021-03-31-China-Censors-Numbers-On-Planes %}
+  so hope you agree that it is worth sharing. <br/><br/>[Read More &gt;....](/China-Censors-Numbers-On-Planes.html
   "READ MORE")<br clear="left"/>'
 
 ---

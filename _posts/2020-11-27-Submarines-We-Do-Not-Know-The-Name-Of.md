@@ -2,14 +2,14 @@
 layout: post
 title: "Submarines-We-Do-Not-Know-The-Name-Of"
 date: "2020-11-27 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**4 Submarines Which Are So Secret, We Do Not Know Their Name**</font><br
-  clear="right"/><a href="{% post_url 2020-11-27-Submarines-We-Do-Not-Know-The-Name-Of %}"><img align="left"
+  clear="right"/><a href="/Submarines-We-Do-Not-Know-The-Name-Of.html"><img align="left"
   src="/images/4-submarines-we-dont-know-the-name-317.jpg"/></a><br/>Submarines are
   shrouded in secrecy. But their mere existence is hard to keep under wraps. <br/><br/>Yet
   here are four submarines, currently out there in the oceans of the world, whose
   development has been so secret that we do not even know their name.<br/><br/>[Read
-  More &gt;....]({% post_url 2020-11-27-Submarines-We-Do-Not-Know-The-Name-Of %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Submarines-We-Do-Not-Know-The-Name-Of.html "READ MORE")<br clear="left"/>
 ...
 
 ---

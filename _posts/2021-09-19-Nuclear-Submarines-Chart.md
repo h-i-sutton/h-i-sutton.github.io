@@ -2,13 +2,13 @@
 layout: post
 title: "Nuclear Submarines - Quick Guide To An Important Difference"
 date: "2021-09-19 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-09-19-Nuclear-Submarines-Chart %}"><img align="left" src="/images/Nuclear-Submarine-Chart-Power-Vs-Armament-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Nuclear-Submarines-Chart.html"><img align="left" src="/images/Nuclear-Submarine-Chart-Power-Vs-Armament-317.jpg"/></a>
   Following the announcement that Australia will acquire "nuclear submarines" through
   the AUKUS partnership, some confusion has arisen. Many observers, some apparently
   deliberately, have invited confusion and speculation by implying that it means nuclear
   armed submarines.<br/><br/>This quick chart should hopefully help clear things up
-  for those less familiar with submarine matters.<br/>[Read More &gt;....]({% post_url 2021-09-19-Nuclear-Submarines-Chart %}
+  for those less familiar with submarine matters.<br/>[Read More &gt;....](/Nuclear-Submarines-Chart.html
   "READ MORE")<br clear="left"/>
 ...
 

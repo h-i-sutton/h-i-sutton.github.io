@@ -2,7 +2,7 @@
 layout: post
 title: "Poseidon_demystified"
 date: "2019-01-21 11:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**Poseidon Intercontinental Nuclear Autonomous Torpedo demystified**</font><br/><img
   src="/images/flag_russia.jpg"/> Poseidon represents a completely new category of
   underwater weapons that will significantly alter the mission priorities of the US
@@ -10,7 +10,7 @@ excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="bla
   material on the weapon, it has an air of super-weapon mystery similar to Soviet
   weapon developments of the Cold War. This article seeks to step back from the mess
   and provide a reasoned understanding of what Poseidon is and is not... <br/>[Read
-  More &gt;....]({% post_url 2019-01-21-Poseidon_demystified %} "READ MORE")<br clear="right"/>
+  More &gt;....](/Poseidon_demystified.html "READ MORE")<br clear="right"/>
 ...
 
 ---

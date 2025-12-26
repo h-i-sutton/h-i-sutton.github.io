@@ -2,12 +2,12 @@
 layout: post
 title: "Russian Aircraft Suspected Of Laying Mines Off Odesa, Ukraine"
 date: "2023-10-26 16:45:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-10-26-Russia-Mines-Odesa-Shipping-Lane %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russia-Mines-Odesa-Shipping-Lane.html"><img align="left"
   src="/images/Russia-mine-Il38-MAY-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   Ukrainian mediareported that Russian aircraft dropped four explosive devices in
   the shipping lane to/from Odesa on October 25.<br/><br/>The objects are likely  mines
-  intended to effect a blockade on the port...<br/>[Read More &gt;....]({% post_url 2023-10-26-Russia-Mines-Odesa-Shipping-Lane %}
+  intended to effect a blockade on the port...<br/>[Read More &gt;....](/Russia-Mines-Odesa-Shipping-Lane.html
   "READ MORE")<br clear="left"/>
 ...
 

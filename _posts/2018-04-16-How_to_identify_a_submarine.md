@@ -2,9 +2,9 @@
 layout: post
 title: "How_to_identify_a_submarine"
 date: "2018-04-16 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**New Submarine Recognition poster**</font><br/> Essential reference for
-  Journalists and surface navy alike. .... <br/><a href="{% post_url 2018-04-16-How_to_identify_a_submarine %}"><img
+  Journalists and surface navy alike. .... <br/><a href="/How_to_identify_a_submarine.html"><img
   src="/images/SM_recognition_250.jpg"/></a><br clear="right"/>
 ...
 

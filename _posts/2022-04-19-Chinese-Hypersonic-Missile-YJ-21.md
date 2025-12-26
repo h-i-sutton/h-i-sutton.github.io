@@ -2,13 +2,13 @@
 layout: post
 title: "China Shows New Hypersonic Missile On Type-055 Cruiser For First Time"
 date: "2022-04-19 23:00:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2022-04-19-Chinese-Hypersonic-Missile-YJ-21 %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Chinese-Hypersonic-Missile-YJ-21.html"><img
   align="left" src="/images/China-Type-055-Hypersonic-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
   The Chinese Navy (PLAN) has been showing off its maturing capabilities. A video
   released today and shared on social media shows a new missile being launched from
   a Type-055 Renhai Class cruiser.<br/><br/>It appears to be the hypersonic YJ-21
-  anti-ship ballistic missile (ASBM).<br/>[Read More &gt;....]({% post_url 2022-04-19-Chinese-Hypersonic-Missile-YJ-21 %}
+  anti-ship ballistic missile (ASBM).<br/>[Read More &gt;....](/Chinese-Hypersonic-Missile-YJ-21.html
   "READ MORE")<br clear="left"/></br>
 ...
 

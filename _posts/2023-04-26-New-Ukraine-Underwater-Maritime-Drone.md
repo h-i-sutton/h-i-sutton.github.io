@@ -2,13 +2,13 @@
 layout: post
 title: "Russia Faces New Threat: Ukraine’s ‘Toloka’ Underwater Maritime Drone"
 date: "2023-04-26 18:20:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-04-26-New-Ukraine-Underwater-Maritime-Drone %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/New-Ukraine-Underwater-Maritime-Drone.html"><img align="left"
   src="/images/Ukraine-Toloka-UUV-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)The
   Russian Navy has a new problem in the Black Sea. Ukrainian group Brave-1 have shown
   their Toloka weaponized UUV (uncrewed underwater vehicle). The design is evidently
   intended to operate as a form of loitering torpedo.<br/><br/>It is a concept that
-  makes a lot of sense.<br/>[Read More &gt;....]({% post_url 2023-04-26-New-Ukraine-Underwater-Maritime-Drone %}
+  makes a lot of sense.<br/>[Read More &gt;....](/New-Ukraine-Underwater-Maritime-Drone.html
   "READ MORE")<br clear="left"/>
 ...
 

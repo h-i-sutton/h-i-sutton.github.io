@@ -2,13 +2,13 @@
 layout: post
 title: "Indian Navy's Third Ballistic Missile Submarine Doubles Missile Armament"
 date: "2021-12-29 11:00:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2021-12-29-Indian-Navy-S4-SSBN %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Indian-Navy-S4-SSBN.html"><img
   align="left" src="/images/Arihant-Class-Submarine-S4-317.jpg"/></a> ![Flag India](/images/flag_india.jpg)
   The quiet launch of India's 3rd Arihant Class ballistic missile submarine (SSBN)
   did not go unnoticed. Satellite images confirm that it is much longer than the first
   two boats of the class. <br/><br/>This supports reports that the new submarine has
-  8 instead of 4 missile tubes.<br/>[Read More &gt;....]({% post_url 2021-12-29-Indian-Navy-S4-SSBN %}
+  8 instead of 4 missile tubes.<br/>[Read More &gt;....](/Indian-Navy-S4-SSBN.html
   "READ MORE")<br clear="left"/></br>
 ...
 

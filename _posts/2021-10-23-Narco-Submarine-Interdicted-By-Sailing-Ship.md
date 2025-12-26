@@ -2,12 +2,12 @@
 layout: post
 title: "Narco Submarine Stopped By Ecuadorian Navy Sailing Ship"
 date: "2021-10-23 19:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-10-23-Narco-Submarine-Interdicted-By-Sailing-Ship %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Narco-Submarine-Interdicted-By-Sailing-Ship.html"><img
   align="left" src="/images/Guayas-Tall-Ship-stops-Narco-Submarine-317.jpg"/></a>
   Not what you expect to hear, this might be unique. A modern-day smuggler's boat
   was interdicted by a navy operated sailing ship in the Pacific. <br/>[Read More
-  &gt;....]({% post_url 2021-10-23-Narco-Submarine-Interdicted-By-Sailing-Ship %} "READ MORE")<br clear="left"/>
+  &gt;....](/Narco-Submarine-Interdicted-By-Sailing-Ship.html "READ MORE")<br clear="left"/>
 ...
 
 ---

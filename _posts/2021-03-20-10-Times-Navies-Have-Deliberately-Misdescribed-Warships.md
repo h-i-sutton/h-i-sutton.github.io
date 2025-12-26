@@ -2,14 +2,14 @@
 layout: post
 title: "10-Times-Navies-Have-Deliberately-Misdescribed-Warships"
 date: "2021-03-20 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**10 Times Navies Have Deliberately Misdescribed A Warship**</font><br
-  clear="right"/><a href="{% post_url 2021-03-20-10-Times-Navies-Have-Deliberately-Misdescribed-Warships %}"><img
+  clear="right"/><a href="/10-Times-Navies-Have-Deliberately-Misdescribed-Warships.html"><img
   align="left" src="/images/US-Navy-USS-Halibut-317.jpg"/></a>Three Chinese warships
   recently passed northward through the Tsushima Strait toward the Sea of Japan. They
   are described as two destroyers and a frigate.<br/><br/>Except one of them, the
   Type-055 Renhai Class ship  Nanchang, is better described as a cruiser. This type
-  of misdescription is more common than you might realize.<br/>[Read More &gt;....]({% post_url 2021-03-20-10-Times-Navies-Have-Deliberately-Misdescribed-Warships %}
+  of misdescription is more common than you might realize.<br/>[Read More &gt;....](/10-Times-Navies-Have-Deliberately-Misdescribed-Warships.html
   "READ MORE")<br clear="left"/>
 ...
 

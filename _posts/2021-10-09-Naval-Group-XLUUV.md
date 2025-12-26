@@ -2,12 +2,12 @@
 layout: post
 title: "Naval Group Reveal XLUUV Demonstrator"
 date: "2021-10-09 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-10-09-Naval-Group-XLUUV %}"><img align="left" src="/images/France-NG-XLUUV-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Naval-Group-XLUUV.html"><img align="left" src="/images/France-NG-XLUUV-317.jpg"/></a>
   ![Flag France](/images/flag_france.jpg) Described as an '**Oceanic Underwater Drone
   Demonstrator'**, French defense giant Naval Group's entry into the XLUUV arena is
   impressive. The innovative design uses sleek whale-like lines, reminiscent of the
-  SMX-31 concept...<br/>[Read More &gt;....]({% post_url 2021-10-09-Naval-Group-XLUUV %} "READ MORE")<br
+  SMX-31 concept...<br/>[Read More &gt;....](/Naval-Group-XLUUV.html "READ MORE")<br
   clear="left"/>
 ...
 

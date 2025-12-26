@@ -2,11 +2,11 @@
 layout: post
 title: "Nautilus-2020_Luxury_Submarine"
 date: "2018-12-15 04:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Nautilus-2020 Private Private Submarine**</font><br/>What better way
   to blow the Monaco Yacht show out of the water than with your own private luxury
-  submarine?<br/><a href="{% post_url 2018-12-15-Nautilus-2020_Luxury_Submarine %}"><img src="/images/Nautilus2020_cutaway_900.jpg"/></a><br/>[Read
-  More &gt;....]({% post_url 2018-12-15-Nautilus-2020_Luxury_Submarine %} "READ MORE")
+  submarine?<br/><a href="/Nautilus-2020_Luxury_Submarine.html"><img src="/images/Nautilus2020_cutaway_900.jpg"/></a><br/>[Read
+  More &gt;....](/Nautilus-2020_Luxury_Submarine.html "READ MORE")
 ...
 
 ---

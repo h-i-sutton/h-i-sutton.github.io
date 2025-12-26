@@ -2,13 +2,13 @@
 layout: post
 title: "North-Korea-Builds-Surface-Effect-Warship"
 date: "2021-04-04 12:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**Alert: New Intelligence Shows North Korea Built Another Warship**</font><br
-  clear="right"/><a href="{% post_url 2021-04-04-North-Korea-Builds-Surface-Effect-Warship %}"><img align="left"
+  clear="right"/><a href="/North-Korea-Builds-Surface-Effect-Warship.html"><img align="left"
   src="/images/DPRK-SES-317.jpg"/></a>![Flag China](/images/flag_nork.jpg) North Korea
   continues to build Surface-Effect-Ships (SES) for its navy despite the generally
   slow pace of surface ship construction. An unfinished SES has been moved to the
-  outside of the ''new'' construction hall at Nampo. <br/>[Read More &gt;....]({% post_url 2021-04-04-North-Korea-Builds-Surface-Effect-Warship %}
+  outside of the ''new'' construction hall at Nampo. <br/>[Read More &gt;....](/North-Korea-Builds-Surface-Effect-Warship.html
   "READ MORE")<br clear="left"/>'
 
 ---

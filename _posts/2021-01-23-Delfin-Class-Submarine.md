@@ -2,13 +2,13 @@
 layout: post
 title: "Delfin-Class-Submarine"
 date: "2021-01-23 02:00:00"
-excerpt: '*Updated. Originally posted Oct 10 2016 and Feb 27 2020.*<br/><a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font size="6">**Delfin
-  Class: The Cuban Navy''s Only Submarine**</font> <br clear="right"><a href="{% post_url 2021-01-23-Delfin-Class-Submarine %}"><img
+excerpt: '*Updated. Originally posted Oct 10 2016 and Feb 27 2020.*<br/><a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="6">**Delfin
+  Class: The Cuban Navy''s Only Submarine**</font> <br clear="right"><a href="/Delfin-Class-Submarine.html"><img
   align="left" src="/images/Cuban-Navy-Delfin-class-submarine-317.jpg"/></a>![Flag](/images/flag_cuba.jpg)
   Cuba maintains a shroud of secrecy around its sole active submarine. However OSINT
   continues to emerge and I now feel that we know enough to create a cutaway. Caveats
-  apply...<br/>[Read More &gt;....]({% post_url 2021-01-23-Delfin-Class-Submarine %} "READ MORE")<br clear="left"/></br>'
+  apply...<br/>[Read More &gt;....](/Delfin-Class-Submarine.html "READ MORE")<br clear="left"/></br>'
 
 ---
 *Updated. Originally posted Oct 10 2016 and Feb 27 2020.*  

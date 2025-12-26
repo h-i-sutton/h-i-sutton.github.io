@@ -2,8 +2,8 @@
 layout: post
 title: "World Guide To Large Underwater Drones"
 date: "2024-04-25 09:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-04-25-World-XLUUVs %}"><img align="left" src="/images/World-XLUUVs-317.jpg"/></a>![Flag](/images/flag_aus.jpg)
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/World-XLUUVs.html"><img align="left" src="/images/World-XLUUVs-317.jpg"/></a>![Flag](/images/flag_aus.jpg)
   ![Flag](/images/flag_canada.jpg) ![Flag](/images/flag_China.jpg) ![Flag](/images/flag_france.jpg)
   ![Flag](/images/flag_india.jpg) ![Flag](/images/flag_iran.jpg) ![Flag](/images/flag_isreal.jpg)
   ![Flag](/images/flag_japan.jpg) ![Flag](/images/flag_nork.jpg) ![Flag](/images/flag_norway.jpg)
@@ -12,7 +12,7 @@ excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="bla
   drones (AUVs - autonomous underwater vehicles) is changing rapidly. Within the past
   2-3 years more and more navies are seriously developing extra-large vehicles (XLUUVs).<br/><br/>This
   article will focus on the most relevant current projects around the world...<br/>[Read
-  More &gt;....]({% post_url 2024-04-25-World-XLUUVs %} "READ MORE")<br clear="left"/>
+  More &gt;....](/World-XLUUVs.html "READ MORE")<br clear="left"/>
 ...
 
 ---

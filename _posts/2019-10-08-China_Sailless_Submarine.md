@@ -2,12 +2,12 @@
 layout: post
 title: "China_Sailless_Submarine"
 date: "2019-10-08 03:00:00"
-excerpt: Updated. Originally posted March 29 2019<br/><a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font size="6">**New
+excerpt: Updated. Originally posted March 29 2019<br/><a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="6">**New
   Satellite images of Chinese Sailless submarine**</font><br/><img src="/images/flag_China.jpg"/>
   A video capture posted on Chinese social media earlier today appears to show an
-  unknown Chinese submarine design first reported in October 2018....<br/><a href="{% post_url 2019-10-08-China_Sailless_Submarine %}"><img
-  src="/images/CN_Sailless900.jpg"/></a><br/>[Read More &gt;....]({% post_url 2019-10-08-China_Sailless_Submarine %}
+  unknown Chinese submarine design first reported in October 2018....<br/><a href="/China_Sailless_Submarine.html"><img
+  src="/images/CN_Sailless900.jpg"/></a><br/>[Read More &gt;....](/China_Sailless_Submarine.html
   "READ MORE")
 ...
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Ukrainian Special Forces Poloz-M16 Canoe"
 date: "2023-08-08 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-08-08-Ukraine-Poloz-M16 %}"><img align="left" src="/images/Ukraine-Poloz-M16-Kayak-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Ukraine-Poloz-M16.html"><img align="left" src="/images/Ukraine-Poloz-M16-Kayak-317.jpg"/></a>
   ![Flag Ukraine](/images/flag_ukraine.jpg) Ukrainian armed forces have been shown
   testing an indigenous motorized canoe, the Poloz-M16. The two-person design is not
   typical of military canoes.<br/><br/>The canoe was seen armed with a single locally
-  designed UAG-40 40mm grenade launcher...<br/>[Read More &gt;....]({% post_url 2023-08-08-Ukraine-Poloz-M16 %}
+  designed UAG-40 40mm grenade launcher...<br/>[Read More &gt;....](/Ukraine-Poloz-M16.html
   "READ MORE")<br clear="left"/>
 ...
 

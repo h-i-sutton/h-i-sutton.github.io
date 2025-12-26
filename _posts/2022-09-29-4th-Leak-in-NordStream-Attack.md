@@ -2,11 +2,11 @@
 layout: post
 title: "Location Of 4th Leak On Russia's NordStream Gas Pipeline In Baltic"
 date: "2022-09-29 09:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-09-29-4th-Leak-in-NordStream-Attack %}"><img align="left" src="/images/Nordstream2-attack-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/4th-Leak-in-NordStream-Attack.html"><img align="left" src="/images/Nordstream2-attack-317.jpg"/></a>
   The September 27 attacks on the Nordstream gas pipelines near the Danish island
   of Bornholm is a serious international incident. There is now little doubt that
-  it was sabotage...<br/>[Read More &gt;....]({% post_url 2022-09-29-4th-Leak-in-NordStream-Attack %}
+  it was sabotage...<br/>[Read More &gt;....](/4th-Leak-in-NordStream-Attack.html
   "READ MORE")<br clear="left"/>
 ...
 

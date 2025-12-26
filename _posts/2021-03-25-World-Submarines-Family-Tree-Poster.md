@@ -2,7 +2,7 @@
 layout: post
 title: "World-Submarines-Family-Tree-Poster"
 date: "2021-03-25 12:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**World submarines Family Tree Now Available As Wall Poster**</font><br
   clear="right"/><a href="https://covert-shores.creator-spring.com/listing/world-submarine-family-tree-v2"
   target="_blank"><img align="left" src="/images/Submarine-History-Family-Tree-Poster-317.jpg"/></a>The

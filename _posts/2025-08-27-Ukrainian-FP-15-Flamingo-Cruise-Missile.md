@@ -3,10 +3,10 @@ layout: post
 title: "Dance Of The Flamingos: Ukraine’s FP-5 Heavy Cruise Missile"
 date: "2025-08-27 23:00:00"
 excerpt: '**UPDATED**<br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img
-  align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2025-08-27-Ukrainian-FP-15-Flamingo-Cruise-Missile %}"><img
+  align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="/Ukrainian-FP-15-Flamingo-Cruise-Missile.html"><img
   align="left" src="/images/Ukraine-FP-5-Flamingo-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)
   The FP-5 Flamingo marks a significant increase in the range and payload of Ukraine''s
-  deep strike capability...<br/>[Read More &gt;....]({% post_url 2025-08-27-Ukrainian-FP-15-Flamingo-Cruise-Missile %}
+  deep strike capability...<br/>[Read More &gt;....](/Ukrainian-FP-15-Flamingo-Cruise-Missile.html
   "READ MORE")<br clear="left"/></br>'
 
 ---

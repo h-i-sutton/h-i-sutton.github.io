@@ -3,12 +3,12 @@ layout: post
 title: "Chinese Invasion Barges Seen In Wild"
 date: "2025-03-13 18:00:00"
 excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2025-03-13-Chinese-Invasion-Barge-OSINT %}"><img
+  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Chinese-Invasion-Barge-OSINT.html"><img
   align="left" src="/images/China-invasion-barges-exercise-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
   I broke the invasion barge story in January. At the time, only satellite imagery
   was available, at least publicly.<br/><br/>Now a short video has emerged showing
   the barges being exercised on a Chinese beach. The resulting images confirm the
-  earlier analysis; these are invasion barges...<br/>[Read More &gt;....]({% post_url 2025-03-13-Chinese-Invasion-Barge-OSINT %}
+  earlier analysis; these are invasion barges...<br/>[Read More &gt;....](/Chinese-Invasion-Barge-OSINT.html
   "READ MORE")<br clear="left"/>
 ...
 

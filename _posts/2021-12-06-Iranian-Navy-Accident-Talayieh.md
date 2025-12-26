@@ -2,13 +2,13 @@
 layout: post
 title: "OSINT: Another Major Iranian Warship Accident"
 date: "2021-12-06 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-12-06-Iranian-Navy-Accident-Talayieh %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Iranian-Navy-Accident-Talayieh.html"><img align="left"
   src="/images/Iran-Navy-Accident-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg)
   The Iranian Navy seems to have more bad luck than most when it comes to warship
   accidents. On December 5 2021 their newest warship, **IRIS Talayieh**, which has
   not yet been commissioned, capsized in a partially flooded dry dock. <br/>[Read
-  More &gt;....]({% post_url 2021-12-06-Iranian-Navy-Accident-Talayieh %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Iranian-Navy-Accident-Talayieh.html "READ MORE")<br clear="left"/>
 ...
 
 ---

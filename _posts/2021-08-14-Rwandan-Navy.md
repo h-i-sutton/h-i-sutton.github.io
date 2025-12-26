@@ -2,12 +2,12 @@
 layout: post
 title: "Landlocked Navy Goes To War: Rwanda's mystery 'Squad 007' Boat Grabs Attention"
 date: "2021-08-14 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-08-14-Rwandan-Navy %}"><img align="left" src="/images/Rwanda-RDF-Marine-Boat-317.jpg"/></a>Being
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Rwandan-Navy.html"><img align="left" src="/images/Rwanda-RDF-Marine-Boat-317.jpg"/></a>Being
   land-locked, the Rwandan Defense Force (RDF) is not well known for its navy. However
   a small force which normally patrols a lake has been flung into the lime-light,
   operating in Mozambique.<br/><br/>The boats appear to be a military variant of the
-  Italian-made Fabio Buzzi racing RIB...<br/>[Read More &gt;....]({% post_url 2021-08-14-Rwandan-Navy %}
+  Italian-made Fabio Buzzi racing RIB...<br/>[Read More &gt;....](/Rwandan-Navy.html
   "READ MORE")<br clear="left"/>
 ...
 

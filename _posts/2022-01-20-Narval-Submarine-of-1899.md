@@ -2,12 +2,12 @@
 layout: post
 title: "The Revolutionary Submarine You Haven't Heard Of: Narval (1899)"
 date: "2022-01-20 23:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-01-20-Narval-Submarine-of-1899 %}"><img align="left" src="/images/France-Narval-1899-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Narval-Submarine-of-1899.html"><img align="left" src="/images/France-Narval-1899-317.jpg"/></a>
   ![Flag](/images/flag_france.jpg) Many histories of submarines start with the designs
   of John Philip Holland. Yet there was, at the same time, a French designer who was
   arguably equally important.<br/><br/>Maxime Laubeuf's ideas and designs literally
-  shaped submarines to this day.<br/>[Read More &gt;....]({% post_url 2022-01-20-Narval-Submarine-of-1899 %}
+  shaped submarines to this day.<br/>[Read More &gt;....](/Narval-Submarine-of-1899.html
   "READ MORE")<br clear="left"/>
 ...
 

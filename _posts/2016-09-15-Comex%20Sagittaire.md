@@ -2,7 +2,7 @@
 layout: post
 title: "Comex Sagittaire"
 date: "2016-09-15 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><img
   src="/images/flag_france.jpg"/> The **Sagittaire** was an innovative midget submarine
   design from French submarine builder Comex Industries. The 200 ton submarine came
   in two versions; a Special Forces *Diver Intervention* (DI) model and the torpedo

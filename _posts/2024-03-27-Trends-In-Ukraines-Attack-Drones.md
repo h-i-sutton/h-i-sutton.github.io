@@ -2,13 +2,13 @@
 layout: post
 title: "Maximizing Bang For Bucks: Ukraine’s New Low-Cost Strike Drones"
 date: "2024-03-27 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-03-27-Trends-In-Ukraines-Attack-Drones %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Trends-In-Ukraines-Attack-Drones.html"><img align="left"
   src="/images/Ukraine-OWA-UAVs-trends-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)
   How do you turn a length of plastic plumbing pipe, some wood, plastic wrapping and
   some water bottles into a strategic weapon? Ukraine's growing array of long-range
   attack drones are evolving to be much cheaper to build.<br/><br/>This may allow
-  much larger and more frequent strikes...<br/>[Read More &gt;....]({% post_url 2024-03-27-Trends-In-Ukraines-Attack-Drones %}
+  much larger and more frequent strikes...<br/>[Read More &gt;....](/Trends-In-Ukraines-Attack-Drones.html
   "READ MORE")<br clear="left"/>
 ...
 

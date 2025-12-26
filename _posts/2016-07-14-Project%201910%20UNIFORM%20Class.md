@@ -2,8 +2,8 @@
 layout: post
 title: "Project 1910 UNIFORM Class"
 date: "2016-07-14 12:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><br clear=\"right\"/><img src=\"/images/flag_russia.jpg\"\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><img src=\"/images/flag_russia.jpg\"\
   /> The Project 1910 *Kashalot* Class deep-submergence special missions submarine\
   \ (NATO: UNIFORM Class) was introduced in the 1980s, analogous to the US Navy\u2019\
   s NR-1.  ... [Read More &gt;....](Project 1910 UNIFORM Class.html \"READ MORE\"\

@@ -2,11 +2,11 @@
 layout: post
 title: "Biomimetic_Autonomous_Underwater_Vehicles"
 date: "2019-11-02 05:00:00"
-excerpt: Updated with Cinese projects. Originally posted Sept 29<br/><a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font size="6">**Guide
+excerpt: Updated with Cinese projects. Originally posted Sept 29<br/><a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="6">**Guide
   to Biomimetic Underwater Vehicles**</font><br/> Overview of projects... <br/><a
-  href="{% post_url 2019-11-02-Biomimetic_Autonomous_Underwater_Vehicles %}"><img src="/images/Bio_900.jpg"/></a><br/>[Read
-  More &gt;....]({% post_url 2019-11-02-Biomimetic_Autonomous_Underwater_Vehicles %} "READ MORE")
+  href="/Biomimetic_Autonomous_Underwater_Vehicles.html"><img src="/images/Bio_900.jpg"/></a><br/>[Read
+  More &gt;....](/Biomimetic_Autonomous_Underwater_Vehicles.html "READ MORE")
 ...
 
 ---

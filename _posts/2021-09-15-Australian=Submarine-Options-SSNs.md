@@ -2,13 +2,13 @@
 layout: post
 title: "Australian Navy May Be Looking At Nuclear Submarines"
 date: "2021-09-15 10:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-09-15-Australian=Submarine-Options-SSNs %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Australian=Submarine-Options-SSNs.html"><img align="left"
   src="/images/Australian-Nuclear-Sub-317.jpg"/></a> ![Flag Australia](/images/flag_aus.jpg)
   Rumors have surfaced that the US, and Britain, could be about to step in to help
   the Australian Navy realize a nuclear submarine capability. We may know whether
   this is true, and what it means, soon. In the meantime, these are the relevant submarines.<br/>
-  [Read More &gt;....]({% post_url 2021-09-15-Australian=Submarine-Options-SSNs %} "READ MORE")<br clear="left"/>
+  [Read More &gt;....](/Australian=Submarine-Options-SSNs.html "READ MORE")<br clear="left"/>
 ...
 
 ---

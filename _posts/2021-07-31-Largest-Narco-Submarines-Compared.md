@@ -2,12 +2,12 @@
 layout: post
 title: "Largest Narco Submarines Compared To Navy Subs"
 date: "2021-07-31 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-07-31-Largest-Narco-Submarines-Compared %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Largest-Narco-Submarines-Compared.html"><img align="left"
   src="/images/Giant-Narco-Submarine-Comp-317.jpg"/></a>Typically so-called "narco
   submarines" are generally quite small. But occasionally much larger narco subs have
   been found. How do they compare to the submarines in service with navies around
-  the world?<br/>[Read More &gt;....]({% post_url 2021-07-31-Largest-Narco-Submarines-Compared %} "READ
+  the world?<br/>[Read More &gt;....](/Largest-Narco-Submarines-Compared.html "READ
   MORE")<br clear="left"/>
 ...
 

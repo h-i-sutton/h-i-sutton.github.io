@@ -2,8 +2,8 @@
 layout: post
 title: "Russian_Arctic_Update"
 date: "2017-03-29 23:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Russian shipbuilder proposes\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Russian shipbuilder proposes\
   \ range of arctic projects**</font> <br/>![Flag](/images/flag_russia.jpg) An exhibition\
   \ in Arkhangelsk, Russia, called **Arctic \u2013 Territory Dialogue** (\u0410\u0440\
   \u043A\u0442\u0438\u043A\u0430 - \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\
@@ -12,9 +12,9 @@ excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\
   \ Power Plants. Shipbuilder USC and famous design bureau **Rubin** showed models\
   \ of a nuclear-powered under-ice oil or gas drilling platform called *Iceberg*.\
   \ The submarines are of special interest, and the topic is related to naval projects\
-  \ under the icecap... [Read More &gt;....]({% post_url 2017-03-29-Russian_Arctic_Update %} \"READ MORE\"\
-  )<br/><a href=\"{% post_url 2017-03-29-Russian_Arctic_Update %}\"><img src=\"/images/RuArctic_art900.jpg\"\
-  /></a><br/><a href=\"{% post_url 2017-03-29-Russian_Arctic_Update %}\"><img src=\"/images/RuArctic_guide900.jpg\"\
+  \ under the icecap... [Read More &gt;....](/Russian_Arctic_Update.html \"READ MORE\"\
+  )<br/><a href=\"/Russian_Arctic_Update.html\"><img src=\"/images/RuArctic_art900.jpg\"\
+  /></a><br/><a href=\"/Russian_Arctic_Update.html\"><img src=\"/images/RuArctic_guide900.jpg\"\
   /></a><br clear=\"right\"/>"
 
 ---

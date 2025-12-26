@@ -2,13 +2,13 @@
 layout: post
 title: "Ukrainian Magura USV armed With R-73/AA-11 ARCHER FrankenSAM"
 date: "2024-05-05 22:00:00"
-excerpt: '**UPDATED**<br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2024-05-06-Ukraine-USV-FrankenSAM %}"><img
+excerpt: '**UPDATED**<br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Ukraine-USV-FrankenSAM.html"><img
   align="left" src="/images/Ukraine-USV-Archer-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)
   Footage has emerged, taken from the Russian side, of a Ukrainian uncrewed surface
   vessel (USV) armed with an improvised air-defense system. This is the first time
   anything like this has been observed.<br/><br/>The system uses repurposed air-air
-  missiles in an arrangement often termed a ''FrankenSAM''...<br/>[Read More &gt;....]({% post_url 2024-05-06-Ukraine-USV-FrankenSAM %}
+  missiles in an arrangement often termed a ''FrankenSAM''...<br/>[Read More &gt;....](/Ukraine-USV-FrankenSAM.html
   "READ MORE")<br clear="left"/></br>'
 
 ---

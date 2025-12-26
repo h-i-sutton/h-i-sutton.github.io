@@ -2,13 +2,13 @@
 layout: post
 title: "List-Of-Submarine-Accidents"
 date: "2021-04-24 20:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><h1>Serious
-  Submarine Accidents 2000 to 2021</h1><br clear="right"/><a href="{% post_url 2021-04-24-List-Of-Submarine-Accidents %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><h1>Serious
+  Submarine Accidents 2000 to 2021</h1><br clear="right"/><a href="/List-Of-Submarine-Accidents.html"><img
   align="left" src="/images/Submarine-Disasters-2000-2021-317.jpg"/></a> The Indonesian
   submarine KRI Nanggala (402) is now believed to have sunk. While we hold out hope
   for survivors. Evidence found by the rescue effort confirms that it is sunk in 838
   meters of water. Realistically there is now no expectation that any of the 53 persons
-  aboard survived. <br/>[Read More &gt;....]({% post_url 2021-04-24-List-Of-Submarine-Accidents %} "READ
+  aboard survived. <br/>[Read More &gt;....](/List-Of-Submarine-Accidents.html "READ
   MORE")<br clear="left"/>
 ...
 

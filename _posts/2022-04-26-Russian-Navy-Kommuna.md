@@ -2,12 +2,12 @@
 layout: post
 title: "Russia's Unique 110-Year-Old Ship, Kommuna"
 date: "2022-04-26 10:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-04-26-Russian-Navy-Kommuna %}"><img align="left" src="/images/Russia-Kommuna-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Navy-Kommuna.html"><img align="left" src="/images/Russia-Kommuna-317.jpg"/></a>
   ![Flag Russia](/images/flag_russia.jpg) The vintage rescue ship Kommuna has a long
   and at times distinguished career. Now 110 years old, she finds herself in active
   duty in the Russian-Ukraine war.<br/><br/>Kommuna is one of the more interesting
-  ships afloat today<br/>[Read More &gt;....]({% post_url 2022-04-26-Russian-Navy-Kommuna %} "READ MORE")<br
+  ships afloat today<br/>[Read More &gt;....](/Russian-Navy-Kommuna.html "READ MORE")<br
   clear="left"/>
 ...
 

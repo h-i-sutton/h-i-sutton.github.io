@@ -2,8 +2,8 @@
 layout: post
 title: "North Koreas next Ballistic Missile Sub"
 date: "2016-09-09 12:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><img src=\"/images/flag_nork.jpg\"/> Making predictions\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><img src=\"/images/flag_nork.jpg\"/> Making predictions\
   \ is a fool\u2019s business. Naval developments are constantly evolving and one\
   \ year\u2019s hot topic is the next year\u2019s forgotten fad. Not to mention that\
   \ naval architects are forever coming up with ingenious and unpredictable ways to\

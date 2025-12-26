@@ -2,7 +2,7 @@
 layout: post
 title: "Nuclear Missile Submarines"
 date: "2017-01-10 02:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>First
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>First
   posted 18th June 2016. ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_russia.jpg)
   ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_france.jpg) ![Flag](/images/flag_China.jpg)  +  ![Flag](/images/flag_india.jpg)
   ![Flag](/images/flag_nork.jpg) ![Flag](/images/flag_isreal.jpg) ![Flag](/images/flag_pakistan.jpg)

@@ -2,12 +2,12 @@
 layout: post
 title: "Candid Photo Of India's New Midget Submarine Under Construction"
 date: "2023-09-22 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-09-22-India-MDL-Midget-Submarine-Construction %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/India-MDL-Midget-Submarine-Construction.html"><img align="left"
   src="/images/India-Midget-Submarine-Construction-317.jpg"/></a> ![Flag](/images/flag_india.jpg)
   The new midget submarine being built by MDL (Mazagon Dock Shipbuilders Limited)
   is visible in a photo of a VIP visit to the yard. The image was shared on social
-  media by MDL...<br/>[Read More &gt;....]({% post_url 2023-09-22-India-MDL-Midget-Submarine-Construction %}
+  media by MDL...<br/>[Read More &gt;....](/India-MDL-Midget-Submarine-Construction.html
   "READ MORE")<br clear="left"/>
 ...
 

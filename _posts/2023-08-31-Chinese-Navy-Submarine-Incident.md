@@ -2,16 +2,16 @@
 layout: post
 title: "Possible Fatal Accident Aboard Chinese Navy Nuclear Submarine"
 date: "2023-08-31 16:00:00"
-excerpt: '**Treat with Caution: Unverified Rumors**<br/><a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a
-  href="{% post_url 2023-08-31-Chinese-Navy-Submarine-Incident %}"><img align="left" src="/images/China-Shang-317.jpg"/></a>
+excerpt: '**Treat with Caution: Unverified Rumors**<br/><a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><br clear="right"><a
+  href="/Chinese-Navy-Submarine-Incident.html"><img align="left" src="/images/China-Shang-317.jpg"/></a>
   ![Flag China](/images/flag_China.jpg) Since August 22 there have been persistent
   rumors that a Chinese Navy (PLAN) nuclear submarine experienced a serious accident.
   They were first widely circulated on certain Chinese language social media. It has
   since been reported in Taiwanese media and there has been much wild speculation.
   However the rumor hasn''t gone away, notably in Chinese sources.<br/><br/>It is
   worth recording them for reference. Where there is smoke, sometimes there is fire...<br/>[Read
-  More &gt;....]({% post_url 2023-08-31-Chinese-Navy-Submarine-Incident %} "READ MORE")<br clear="left"/></br>'
+  More &gt;....](/Chinese-Navy-Submarine-Incident.html "READ MORE")<br clear="left"/></br>'
 
 ---
 [![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

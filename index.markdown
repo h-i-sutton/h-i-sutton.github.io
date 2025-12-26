@@ -7,5 +7,10 @@ layout: home
 
 {% for post in site.posts %}
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-<p>{{ post.date | date: "%-d %B %Y" }} {{ post.excerpt }}
+<% if post.modified %>
+    <p>{{ post.modified | date: "%-d %B %Y" }}</p>
+<% elif post.date %>
+    <p>{{ post.date | date: "%-d %B %Y" }}</p>
+<% endif %>
+<p>{{ post.excerpt }}</p>
 {% endfor %}

@@ -2,13 +2,13 @@
 layout: post
 title: "New Improved Yuan Class Submarine In China, May Have VLS"
 date: "2024-07-28 16:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-07-28-Chinese-Submarine-With-X-Rudders %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Chinese-Submarine-With-X-Rudders.html"><img align="left"
   src="/images/China-X-Rudder-Submarine-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
   A new type of submarine has been observed at the Wuchang shipyard in Wuhan, China.
   The vessel was spotted by Defense analyst Tom Shugart.<br/><br/>Initial analysis
   suggests that it is noticibly longer than the existing Type-039A/B/C Yuan Class,
-  and also features an X-form rudder...<br/>[Read More &gt;....]({% post_url 2024-07-28-Chinese-Submarine-With-X-Rudders %}
+  and also features an X-form rudder...<br/>[Read More &gt;....](/Chinese-Submarine-With-X-Rudders.html
   "READ MORE")<br clear="left"/>
 ...
 

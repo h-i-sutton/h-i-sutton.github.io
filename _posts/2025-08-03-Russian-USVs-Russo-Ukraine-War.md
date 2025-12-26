@@ -3,10 +3,10 @@ layout: post
 title: "Overview Of Russian Maritime Drones (USVs) Of The Russo-Ukrainian War"
 date: "2025-08-03 18:30:00"
 excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2025-08-03-Russian-USVs-Russo-Ukraine-War %}"><img
+  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Russian-USVs-Russo-Ukraine-War.html"><img
   align="left" src="/images/Russia-USVs-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   Russia has been slower to adopt uncrewed surface vessels (USVs), but has been using
-  them in the Black Sea...<br/>[Read More &gt;....]({% post_url 2025-08-03-Russian-USVs-Russo-Ukraine-War %}
+  them in the Black Sea...<br/>[Read More &gt;....](/Russian-USVs-Russo-Ukraine-War.html
   "READ MORE")<br clear="left"/>
 ...
 

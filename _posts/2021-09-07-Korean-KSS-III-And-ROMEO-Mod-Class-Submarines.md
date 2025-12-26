@@ -2,15 +2,15 @@
 layout: post
 title: "Quick Comparison Between Korean KSS-III And ROMEO-Mod Class SSB Submarines"
 date: "2021-09-07 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-09-07-Korean-KSS-III-And-ROMEO-Mod-Class-Submarines %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Korean-KSS-III-And-ROMEO-Mod-Class-Submarines.html"><img
   align="left" src="/images/Korean-KSS-III-Submarine-ROMEO-Class-317.jpg"/></a> ![Flag
   South Korea](/images/flag_nork.jpg) ![Flag DPRK](/images/flag_RoK.jpg) South Korea
   has test fired its Hyunmoo-4-4 ballistic missile from a KSS-III ( Dosan Ahn Changho
   class) submarine. The new weapon is potentially a game changer, especially as it
   is combined with a modern AIP-equipped launch platform.<br/><br/>This quick comparison
   shows it next to North Korea's own ballistic missile submarine, the ROMEO-Mod Class.<br/><br/>[Read
-  More &gt;....]({% post_url 2021-09-07-Korean-KSS-III-And-ROMEO-Mod-Class-Submarines %} "READ MORE")<br
+  More &gt;....](/Korean-KSS-III-And-ROMEO-Mod-Class-Submarines.html "READ MORE")<br
   clear="left"/>
 ...
 

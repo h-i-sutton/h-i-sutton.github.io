@@ -2,12 +2,12 @@
 layout: post
 title: "Rare Smuggling Boat Captured In Malaysia"
 date: "2022-12-12 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-12-12-Smuggling-Boat-Malaysia %}"><img align="left" src="/images/Smuggling-Malaysia-2022-11-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Smuggling-Boat-Malaysia.html"><img align="left" src="/images/Smuggling-Malaysia-2022-11-317.jpg"/></a>
   A large go-fast boat has been interdicted by the Malaysian Coast Guard. The vessel
   is generally similar to those used off China for smuggling cars and other goods.<br/><br/>while
   smuggling is not unknown in Southeast Asia, these types of boats are rare there.
-  Or at least rarely reported...<br/>[Read More &gt;....]({% post_url 2022-12-12-Smuggling-Boat-Malaysia %}
+  Or at least rarely reported...<br/>[Read More &gt;....](/Smuggling-Boat-Malaysia.html
   "READ MORE")<br clear="left"/>
 ...
 

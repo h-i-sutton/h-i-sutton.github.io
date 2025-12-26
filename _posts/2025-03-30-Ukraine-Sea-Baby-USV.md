@@ -3,12 +3,12 @@ layout: post
 title: "Ukraine's Sea Baby Maritime Drone (USV)"
 date: "2025-03-30 23:00:00"
 excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2025-03-30-Ukraine-Sea-Baby-USV %}"><img
+  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Ukraine-Sea-Baby-USV.html"><img
   align="left" src="/images/Ukraine-Sea-Baby-USV-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)
   The public first learnt of the now-famous 'Sea Baby' surface drones when they were
   used on July 17 2023 to destroy a section of the Kerch Bridge.<br/><br/>These small
   vessels have since shown themselves to be a versitile and enduring design...<br/>[Read
-  More &gt;....]({% post_url 2025-03-30-Ukraine-Sea-Baby-USV %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Ukraine-Sea-Baby-USV.html "READ MORE")<br clear="left"/>
 ...
 
 ---

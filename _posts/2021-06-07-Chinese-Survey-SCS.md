@@ -2,13 +2,13 @@
 layout: post
 title: "Survey Warfare: 3 Chinese Ships Of Interest In The South China Sea"
 date: "2021-06-07 23:50:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-06-07-Chinese-Survey-SCS %}"><img align="left" src="/images/China-Survey-SCS-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Chinese-Survey-SCS.html"><img align="left" src="/images/China-Survey-SCS-317.jpg"/></a>
   ![Flag China](/images/flag_China.jpg)  Chinese ships, of various types and capabilities,
   have been surveying the South China Sea. Regardless of the individual ship or organization,
   these activities may have either military and civilian motives.<br/><br/>During
   the last couple of years three vessels have performed particularly interesting surveys.
-  <br/>[Read More &gt;....]({% post_url 2021-06-07-Chinese-Survey-SCS %} "READ MORE")<br clear="left"/>
+  <br/>[Read More &gt;....](/Chinese-Survey-SCS.html "READ MORE")<br clear="left"/>
 ...
 
 ---

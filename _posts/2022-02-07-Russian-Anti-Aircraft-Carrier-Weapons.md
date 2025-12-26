@@ -2,12 +2,12 @@
 layout: post
 title: "Russian Carrier Killers"
 date: "2022-02-07 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-02-07-Russian-Anti-Aircraft-Carrier-Weapons %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Anti-Aircraft-Carrier-Weapons.html"><img align="left"
   src="/images/Russian-Carrier-Killers-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   If the Ukraine situation goes up in smoke, the Mediterranean could become a front
   line between Russian and NATO navies. NATO has three carriers there. <br/><br/>Russia
-  has a strong focus on anti-carrier capabilities. <br/>[Read More &gt;....]({% post_url 2022-02-07-Russian-Anti-Aircraft-Carrier-Weapons %}
+  has a strong focus on anti-carrier capabilities. <br/>[Read More &gt;....](/Russian-Anti-Aircraft-Carrier-Weapons.html
   "READ MORE")<br clear="left"/>
 ...
 

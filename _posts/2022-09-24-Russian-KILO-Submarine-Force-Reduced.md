@@ -2,13 +2,13 @@
 layout: post
 title: "Russia Forced To Reduce Submarines In Mediterranean Despite Risk Of Escalation In Ukraine"
 date: "2022-09-24 18:01:00"
-excerpt: '**Updated**<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2022-09-24-Russian-KILO-Submarine-Force-Reduced %}"><img
+excerpt: '**Updated**<a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"/><a href="/Russian-KILO-Submarine-Force-Reduced.html"><img
   align="left" src="/images/Russia-KILO-Med-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   ![Flag](/images/flag_ukraine.jpg) This morning a Russian Navy submarine sailed,
   on the surface, past Gibraltar where it exited the Mediterranean. The Pr.636.3 Improved-KILO
   class boat is likely heading to the Baltic for much needed maintenance.<br/><br/>This
-  weakens their forces in the Mediterranean....<br/>[Read More &gt;....]({% post_url 2022-09-24-Russian-KILO-Submarine-Force-Reduced %}
+  weakens their forces in the Mediterranean....<br/>[Read More &gt;....](/Russian-KILO-Submarine-Force-Reduced.html
   "READ MORE")<br clear="left"/>'
 
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "Articles_for_Forbes"
 date: "2019-08-22 11:01:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**First articles on Forbes**</font><br/>The\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**First articles on Forbes**</font><br/>The\
   \ first three articles for Forbes have gone live. The first summarizes the <a href=\"\
   https://www.forbes.com/sites/hisutton/2019/08/13/north-korea-appears-to-have-built-its-first-real-ballistic-missile-submarine/\"\
   \ target=\"Blank\">North Korean ROMEO-MOD</a> ballistic missile submarine. The second\
@@ -14,7 +14,7 @@ excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\
   \ target=\"blank\"><img src=\"/images/Forbes_ROMEO-MOD.jpg\"/></a><a href=\"https://www.forbes.com/sites/hisutton/2019/08/17/russia-testing-nuclear-powered-mega-torpedo-near-where-deadly-explosion-occurred/\"\
   \ target=\"blank\"><img src=\"/images/Forbes_Poseidon.jpg\"/></a><a href=\"https://www.forbes.com/sites/hisutton/2019/08/22/naval-special-warfare-operating-jet-skis/\"\
   \ target=\"blank\"><img src=\"/images/Forbes_Jetskis.jpg\"/></a><br/>[Read More\
-  \ &gt;....]({% post_url 2019-08-22-Articles_for_Forbes %} \"READ MORE\")<br clear=\"right\"/>"
+  \ &gt;....](/Articles_for_Forbes.html \"READ MORE\")<br clear=\"right\"/>"
 
 ---
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

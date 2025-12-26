@@ -2,12 +2,12 @@
 layout: post
 title: "Ukrainian Weaponized Yamaha Jet Ski USV Found On Turkish Beach"
 date: "2024-07-27 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-07-27-Ukraine-USV-Jetski %}"><img align="left" src="/images/Ukraine-OWA-USV-Jetski-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Ukraine-USV-Jetski.html"><img align="left" src="/images/Ukraine-OWA-USV-Jetski-317.jpg"/></a>
   ![Flag Ukraine](/images/flag_ukraine.jpg) A weaponized Yamaha Waverunner FX jet
   ski has been found on Turkish beach near Istanbul.<br/><br/>Two small black cylinders,
   mounted either side of the forward body, appear to be explosive charges...<br/>[Read
-  More &gt;....]({% post_url 2024-07-27-Ukraine-USV-Jetski %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Ukraine-USV-Jetski.html "READ MORE")<br clear="left"/>
 ...
 
 ---

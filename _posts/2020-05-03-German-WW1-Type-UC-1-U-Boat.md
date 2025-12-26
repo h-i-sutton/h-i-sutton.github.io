@@ -2,12 +2,12 @@
 layout: post
 title: "German-WW1-Type-UC-1-U-Boat"
 date: "2020-05-03 00:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Forgotten Super-Weapon of WW1: Type UC-1 Uboat**</font> <br/>![Flag](/images/flag_germany.jpg)
   Mine laying submarines are largely forgotten in spite of being one of the most successful
   weapons of the war. This article will focus on the first German type, the UC-1 Class.
-  It was an elegant, innovative and effective design.... <br/><a href="{% post_url 2020-05-03-German-WW1-Type-UC-1-U-Boat %}"><img
-  src="/images/German-UC-1-900.jpg"/></a><br clear="right">[Read More &gt;....]({% post_url 2020-05-03-German-WW1-Type-UC-1-U-Boat %}
+  It was an elegant, innovative and effective design.... <br/><a href="/German-WW1-Type-UC-1-U-Boat.html"><img
+  src="/images/German-UC-1-900.jpg"/></a><br clear="right">[Read More &gt;....](/German-WW1-Type-UC-1-U-Boat.html
   "READ MORE")<br/></br>'
 
 ---

@@ -2,15 +2,15 @@
 layout: post
 title: "Guide-to-heavyweight-533mm-torpedoes"
 date: "2020-03-20 00:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>**Covert
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>**Covert
   Shores Guide**<br/><font size="6">**World Heavyweight Torpedoes**</font> <br/>!![Flag](/images/flag_USA.jpg)
   ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_russia.jpg) ![Flag](/images/flag_japan.jpg)
   ![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_france.jpg) ![Flag](/images/flag_italy.jpg)
   ![Flag](/images/flag_germany.jpg) ![Flag](/images/flag_RoK.jpg) ![Flag](/images/flag_india.jpg)
   ![Flag](/images/flag_nork.jpg) ![Flag](/images/flag_iran.jpg) ![Flag](/images/flag_Turkey.jpg)
   <br/>This article will cover contemporary heavyweight (533mm / 21") torpedoes. <br/><a
-  href="{% post_url 2020-03-20-Guide-to-heavyweight-533mm-torpedoes %}"><img src="/images/Torpedo-900.jpg"/></a><br
-  clear="right">[Read More &gt;....]({% post_url 2020-03-20-Guide-to-heavyweight-533mm-torpedoes %} "READ
+  href="/Guide-to-heavyweight-533mm-torpedoes.html"><img src="/images/Torpedo-900.jpg"/></a><br
+  clear="right">[Read More &gt;....](/Guide-to-heavyweight-533mm-torpedoes.html "READ
   MORE")<br/></br>
 ...
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Moskva Sinking: Images Reveal Once Powerful Russian Navy Ship On Fire"
 date: "2022-04-18 01:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-04-18-Russian-Navy-Moskva-Sinking %}"><img align="left" src="/images/Russia-Navy-Moskva-Damage-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Navy-Moskva-Sinking.html"><img align="left" src="/images/Russia-Navy-Moskva-Damage-317.jpg"/></a>
   ![Flag Russia](/images/flag_russia.jpg) The first images of the stricken Russian
   Navy cruiser Moskva are emerging. They show the once-mighty warship listing to port
   (left). Smoke is pouring out of the superstructure and there are signs of fires.<br/><br/>A
-  quick analysis of what we are seeing.<br/>[Read More &gt;....]({% post_url 2022-04-18-Russian-Navy-Moskva-Sinking %}
+  quick analysis of what we are seeing.<br/>[Read More &gt;....](/Russian-Navy-Moskva-Sinking.html
   "READ MORE")<br clear="left"/>
 ...
 

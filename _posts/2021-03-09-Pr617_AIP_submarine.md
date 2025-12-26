@@ -2,15 +2,15 @@
 layout: post
 title: "Pr617_AIP_submarine"
 date: "2021-03-09 11:00:00"
-excerpt: '**Updated: originally posted Feb 5, 2017**<br/><a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br/><font size="6">**Soviet
+excerpt: '**Updated: originally posted Feb 5, 2017**<br/><a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><br/><font size="6">**Soviet
   Russia''s forgotten high-speed AIP submarine** </font><br/>![Flag](/images/flag_russia.jpg)
   When in May 1958 CIA intelligence analysts poured over a set of spy photographs
   of Soviet submarine construction they noticed that one submarine was different to
   the rest. They soon realized that they were dealing with an entirely new class of
   submarine. <br/><br/>What was undetectable in the photo was that it was equipped
-  with Air Independent Propulsion (AIP)... <a href="{% post_url 2021-03-09-Pr617_AIP_submarine %}">Read
-  More</a><br/><a href="{% post_url 2021-03-09-Pr617_AIP_submarine %}"><img src="/images/Pr617_900.jpg"/></a><br/>'
+  with Air Independent Propulsion (AIP)... <a href="/Pr617_AIP_submarine.html">Read
+  More</a><br/><a href="/Pr617_AIP_submarine.html"><img src="/images/Pr617_900.jpg"/></a><br/>'
 
 ---
 **Updated: originally posted Feb 5, 2017**  

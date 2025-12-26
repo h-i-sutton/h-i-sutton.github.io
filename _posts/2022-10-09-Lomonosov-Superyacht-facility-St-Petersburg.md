@@ -2,13 +2,13 @@
 layout: post
 title: "Putin's Superyacht Makes Dark Run To Special Facility Near St. Petersburg"
 date: "2022-10-09 18:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-10-09-Lomonosov-Superyacht-facility-St-Petersburg %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Lomonosov-Superyacht-facility-St-Petersburg.html"><img
   align="left" src="/images/Russia-Putin-Yacht-Graceful-St-Petersburg-317.jpg"/></a>
   ![Flag Russia](/images/flag_russia.jpg) There are indications that a special facility
   for superyachts has been built at Lomonosov outside St Petersburg, Russia following
   the Ukraine Invasion.<br/><br/>Putin's Superyacht Graceful recently made a *Dark
-  Run* there...<br/>[Read More &gt;....]({% post_url 2022-10-09-Lomonosov-Superyacht-facility-St-Petersburg %}
+  Run* there...<br/>[Read More &gt;....](/Lomonosov-Superyacht-facility-St-Petersburg.html
   "READ MORE")<br clear="left"/>
 ...
 

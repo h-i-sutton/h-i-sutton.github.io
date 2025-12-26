@@ -2,12 +2,12 @@
 layout: post
 title: "OSINT: Iran's IRGC Getting Massive New Ship"
 date: "2022-05-18 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-05-18-Iran-IRGC-Shahid-Mahdavi %}"><img align="left" src="/images/Iran-IRGC-Shahid-Mahdavi-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Iran-IRGC-Shahid-Mahdavi.html"><img align="left" src="/images/Iran-IRGC-Shahid-Mahdavi-317.jpg"/></a>
   ![Flag Iran](/images/flag_iran.jpg) The Iranian military is continuing its love
   affair with large forward base ships. The IRGC (Islamic Revolutionary Guard) are
   commissioning a new vessel, the **I.R.I.S. Shahid Mahdavi** (110-3)<br/>[Read More
-  &gt;....]({% post_url 2022-05-18-Iran-IRGC-Shahid-Mahdavi %} "READ MORE")<br clear="left"/>
+  &gt;....](/Iran-IRGC-Shahid-Mahdavi.html "READ MORE")<br clear="left"/>
 ...
 
 ---

@@ -2,13 +2,13 @@
 layout: post
 title: "French Navy Suffren Class Submarine"
 date: "2021-05-09 01:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><h1>French
-  Navy Suffren Class (Barracuda) Submarine</h1><br clear="right"/><a href="{% post_url 2021-05-09-Suffren-Barracuda-Class-Submarine %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><h1>French
+  Navy Suffren Class (Barracuda) Submarine</h1><br clear="right"/><a href="/Suffren-Barracuda-Class-Submarine.html"><img
   align="left" src="/images/Suffren-Sub-317.jpg"/></a>![Flag France](/images/flag_france.jpg)
   As naval threats go, nuclear-powered attack submarines (SSNs) are the apex predators.
   The new Suffren Class will bring France's SSNs closer to their British and American
   allies boats in overall capabilities.<br/><br/>6 of these submarines will form the
-  backbone of the French Navy (Marine Nationale). <br/>[Read More &gt;....]({% post_url 2021-05-09-Suffren-Barracuda-Class-Submarine %}
+  backbone of the French Navy (Marine Nationale). <br/>[Read More &gt;....](/Suffren-Barracuda-Class-Submarine.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,13 +2,13 @@
 layout: post
 title: "Satellite Imagery Shows Progress In China's New Submarine Construction"
 date: "2022-04-12 11:00:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2022-04-12-OSINT-China-Building-New-Submarines-Apr22 %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/OSINT-China-Building-New-Submarines-Apr22.html"><img
   align="left" src="/images/China-Submarine-Const-Mar2022-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
   Fresh satellite imagery shows steady progress at China's new submarine construction
   facility. The new Maxar imagery has been  uploaded to Google Earth. It is very recent,
   less than a month old, which is unusual for the platform.<br/><br/>Fortunately,
-  some interesting things can be observed. <br/>[Read More &gt;....]({% post_url 2022-04-12-OSINT-China-Building-New-Submarines-Apr22 %}
+  some interesting things can be observed. <br/>[Read More &gt;....](/OSINT-China-Building-New-Submarines-Apr22.html
   "READ MORE")<br clear="left"/></br>
 ...
 

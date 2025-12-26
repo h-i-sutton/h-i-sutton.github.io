@@ -2,12 +2,12 @@
 layout: post
 title: "US-Navy-SEAL-Delivery-Vehicle-SDV-Mk-8-Mod-0"
 date: "2020-01-21 10:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**SEAL Delivery Vehicle (SDV) Mk.8 Mod 0**</font><br/><img src="/images/flag_USA.jpg"/>
   The 'Gator Class' SEAL Delivery Vehicle has been the backbone of USSOCOM's SDV capabilities
-  since the end of the Cold War...<br/><a href="{% post_url 2020-01-21-US-Navy-SEAL-Delivery-Vehicle-SDV-Mk-8-Mod-0 %}"><img
+  since the end of the Cold War...<br/><a href="/US-Navy-SEAL-Delivery-Vehicle-SDV-Mk-8-Mod-0.html"><img
   src="/images/US-Navy-SEAL-Delivery-Vehicle-SDV-Mk-8-Mod-0_900.jpg"/></a><br/>[Read
-  More &gt;....]({% post_url 2020-01-21-US-Navy-SEAL-Delivery-Vehicle-SDV-Mk-8-Mod-0 %} "READ MORE")
+  More &gt;....](/US-Navy-SEAL-Delivery-Vehicle-SDV-Mk-8-Mod-0.html "READ MORE")
 ...
 
 ---

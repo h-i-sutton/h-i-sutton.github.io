@@ -2,12 +2,12 @@
 layout: post
 title: "OSINT: First Images Of New Inlay Class Warship For Myanmar Navy"
 date: "2021-12-26 12:00:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2021-12-26-Myanmar-Navy-New-Inay-Class-Warship %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Myanmar-Navy-New-Inay-Class-Warship.html"><img
   align="left" src="/images/Myanmar-Navy-Inlay-Class-317.jpg"/></a> The arrival of
   a Chinese Type-035 Ming Class submarine in Myanmar has brought a brief moment of
   renewed interest in the country's navy.<br/><br/>Images also show another new warship.
-  <br/>[Read More &gt;....]({% post_url 2021-12-26-Myanmar-Navy-New-Inay-Class-Warship %} "READ MORE")<br
+  <br/>[Read More &gt;....](/Myanmar-Navy-New-Inay-Class-Warship.html "READ MORE")<br
   clear="left"/></br>
 ...
 

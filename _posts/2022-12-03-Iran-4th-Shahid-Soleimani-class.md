@@ -2,14 +2,14 @@
 layout: post
 title: "Iran Building 4th Missile Catamaran, And New Stealth Version Launched"
 date: "2022-12-03 08:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-12-03-Iran-4th-Shahid-Soleimani-class %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Iran-4th-Shahid-Soleimani-class.html"><img align="left"
   src="/images/Iran-IRGC-Shahid-Soleimani-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg)
   Double OSINT (open source intelligence) news on the IRGC's (Islamic Revolutionary
   Guard Corp).<br/><br/>The Shahid Soleimani class will be by far the most potent
   and modern of the IRGC's warships. As well as a mix of short and long range anti-ship
   missiles, it can carry three fast boats in a hangar under the helicopter deck...<br/>[Read
-  More &gt;....]({% post_url 2022-12-03-Iran-4th-Shahid-Soleimani-class %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Iran-4th-Shahid-Soleimani-class.html "READ MORE")<br clear="left"/>
 ...
 
 ---

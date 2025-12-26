@@ -3,12 +3,12 @@ layout: post
 title: "Chinese Navy (PLAN) Submarine Seen Configured To Carry Minisub"
 date: "2025-11-03 09:00:00"
 excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2025-11-03-Chinese-Type-039-Song-DSRV %}"><img
+  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Chinese-Type-039-Song-DSRV.html"><img
   align="left" src="/images/China-Song-Class-Mod-202510-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
   The most advanced submarine in PLAN (Peoples Liberation Army Navy) service when
   she entered service in 1999, the first of class Type-039 Song class submarine 320
   is now nearing the end of her useful life.<br/><br/>The submarine has been observed
-  fitted with mountings...<br/>[Read More &gt;....]({% post_url 2025-11-03-Chinese-Type-039-Song-DSRV %}
+  fitted with mountings...<br/>[Read More &gt;....](/Chinese-Type-039-Song-DSRV.html
   "READ MORE")<br clear="left"/>
 ...
 

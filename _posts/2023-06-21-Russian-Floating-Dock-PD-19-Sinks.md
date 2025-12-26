@@ -2,12 +2,12 @@
 layout: post
 title: "Another Russian Floating Dock Sinks In Sevastopol"
 date: "2023-06-21 22:30:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-06-21-Russian-Floating-Dock-PD-19-Sinks %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Floating-Dock-PD-19-Sinks.html"><img align="left"
   src="/images/Russia-Floating-Dock-PD-19-sunk-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   Marked by an orange floating boom, there is now a dark hole of calm water in Sevastopol
   Harbour. Beneath it, a floating dock sits on the bottom, sunk...<br/>[Read More
-  &gt;....]({% post_url 2023-06-21-Russian-Floating-Dock-PD-19-Sinks %} "READ MORE")<br clear="left"/>
+  &gt;....](/Russian-Floating-Dock-PD-19-Sinks.html "READ MORE")<br clear="left"/>
 ...
 
 ---

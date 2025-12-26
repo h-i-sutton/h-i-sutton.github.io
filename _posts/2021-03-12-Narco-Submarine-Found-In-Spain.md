@@ -2,12 +2,12 @@
 layout: post
 title: "Narco-Submarine-Found-In-Spain"
 date: "2021-03-12 09:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Disguised  Narco Submarine Found In Europe**</font><br clear="right"/><a
-  href="{% post_url 2021-03-12-Narco-Submarine-Found-In-Spain %}"><img align="left" src="/images/Narco-Submarine-Spain-317.jpg"/></a>
+  href="/Narco-Submarine-Found-In-Spain.html"><img align="left" src="/images/Narco-Submarine-Spain-317.jpg"/></a>
   Police in Malaga, Spain have reported that they have discovered a narco-submarine
   aboard a ship. It is the fourth so-called narco submarine found in Europe in the
-  last 15 years...<br/>[Read More &gt;....]({% post_url 2021-03-12-Narco-Submarine-Found-In-Spain %} "READ
+  last 15 years...<br/>[Read More &gt;....](/Narco-Submarine-Found-In-Spain.html "READ
   MORE")<br clear="left"/>
 ...
 

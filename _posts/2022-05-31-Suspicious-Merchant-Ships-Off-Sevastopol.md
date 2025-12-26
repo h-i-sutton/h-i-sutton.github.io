@@ -2,13 +2,13 @@
 layout: post
 title: "OSINT: 3 'Dark' Merchant Ships Appear Off Russian Base In Crimea"
 date: "2022-05-31 20:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-05-31-Suspicious-Merchant-Ships-Off-Sevastopol %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Suspicious-Merchant-Ships-Off-Sevastopol.html"><img align="left"
   src="/images/Russia-Merchant-Vessels=Sevastopol-May31-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   Much of the focus today in the naval OSINT (open source intelligence) sphere has
   surrounded the large number of Russian Navy ships in Sevastopol. But perhaps a bigger
   story is the innocent looking ships anchored just outside the harbor.<br/><br/>Three
-  merchant ships were visible today off Sevastopol...<br/>[Read More &gt;....]({% post_url 2022-05-31-Suspicious-Merchant-Ships-Off-Sevastopol %}
+  merchant ships were visible today off Sevastopol...<br/>[Read More &gt;....](/Suspicious-Merchant-Ships-Off-Sevastopol.html
   "READ MORE")<br clear="left"/>
 ...
 

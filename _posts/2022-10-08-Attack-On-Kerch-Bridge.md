@@ -2,13 +2,13 @@
 layout: post
 title: "Attack On Kerch Bridge: Initial Geolocation Of Damage"
 date: "2022-10-08 10:01:00"
-excerpt: '**UPDATED**<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2022-10-08-Attack-On-Kerch-Bridge %}"><img
+excerpt: '**UPDATED**<a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"/><a href="/Attack-On-Kerch-Bridge.html"><img
   align="left" src="/images/Russia-Ukraine-Kerch-Bridge-Attack-317.jpg"/></a> ![Flag
   Russia](/images/flag_russia.jpg) ![Flag](/images/flag_ukraine.jpg) This will undoubtedly
   go down in history as a textbook conventional strategic strike on vital infrastructure.
   Yet we do not yet know how it was achieved.<br/><br/>Ahead of fresh satellite imagery,
-  I have made a first pass at geolocating the damage...<br/>[Read More &gt;....]({% post_url 2022-10-08-Attack-On-Kerch-Bridge %}
+  I have made a first pass at geolocating the damage...<br/>[Read More &gt;....](/Attack-On-Kerch-Bridge.html
   "READ MORE")<br clear="left"/>'
 
 ---

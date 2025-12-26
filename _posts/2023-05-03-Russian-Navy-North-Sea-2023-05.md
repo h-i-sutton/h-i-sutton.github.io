@@ -2,12 +2,12 @@
 layout: post
 title: "OSINT: Concentration Of Five Russian Warships In North Sea"
 date: "2023-05-03 23:30:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2023-05-03-Russian-Navy-North-Sea-2023-05 %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Russian-Navy-North-Sea-2023-05.html"><img
   align="left" src="/images/Russia-Karakurt-OSINT-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   A concentration of at least five Russian Navy warships, plus two auxiliaries, has
   formed in the North Sea.<br/><br/>3 of  warships are Kalibr cruise missile capable.<br/>[Read
-  More &gt;....]({% post_url 2023-05-03-Russian-Navy-North-Sea-2023-05 %} "READ MORE")<br clear="left"/></br>
+  More &gt;....](/Russian-Navy-North-Sea-2023-05.html "READ MORE")<br clear="left"/></br>
 ...
 
 ---

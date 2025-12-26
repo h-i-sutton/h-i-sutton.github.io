@@ -2,14 +2,14 @@
 layout: post
 title: "Countering_Russian_Poseidon_Torpedo"
 date: "2018-08-15 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Killing KANYON:** </font><font size="5"> *Countering new Russian Intercontinental
   Nuclear Torpedoes*</font><br/><img src="/images/flag_russia.jpg"/> <img )"="" src="/images/flag_USA.jpg"/>
   <img src="/images/flag_UK.jpg"/> The Russian Navy fields the **Poseidon** Intercontinental
   Nuclear-Powered Nuclear-Armed Autonomous Torpedo will run much deeper and faster
   than submarines. Therefore new weapon systems will be required to counter it. ....
-  <br/>[Read More &gt;....]({% post_url 2018-08-15-Countering_Russian_Poseidon_Torpedo %} "READ MORE")<br/><a
-  href="{% post_url 2018-08-15-Countering_Russian_Poseidon_Torpedo %}"><img src="/images/Ru_KillingKanyon_900.jpg"/></a><br
+  <br/>[Read More &gt;....](/Countering_Russian_Poseidon_Torpedo.html "READ MORE")<br/><a
+  href="/Countering_Russian_Poseidon_Torpedo.html"><img src="/images/Ru_KillingKanyon_900.jpg"/></a><br
   clear="right"/>
 ...
 

@@ -2,13 +2,13 @@
 layout: post
 title: "OSINT: Chinese Type-003 Aircraft Carrier Moved, May Indicate Sea Trials"
 date: "2023-11-19 18:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-11-19-Chinese-Navy-Type-003-Carrier-Nov23 %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Chinese-Navy-Type-003-Carrier-Nov23.html"><img align="left"
   src="/images/China-Type-033-Carrier-Nov23-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
   China's newest and largest aircraft carrier, the Type-003 Fujian, has been moved
   away from the quayside today. The ship has been being fitted out in a basin at the
   Jiangnan Shipyard in Shanghai since June last year. <br/><br/>It may be a leading
-  indicator of the commencement of sea trials...<br/>[Read More &gt;....]({% post_url 2023-11-19-Chinese-Navy-Type-003-Carrier-Nov23 %}
+  indicator of the commencement of sea trials...<br/>[Read More &gt;....](/Chinese-Navy-Type-003-Carrier-Nov23.html
   "READ MORE")<br clear="left"/>
 ...
 

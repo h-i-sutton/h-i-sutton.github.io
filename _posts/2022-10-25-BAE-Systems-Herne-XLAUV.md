@@ -2,10 +2,10 @@
 layout: post
 title: "Britain's New Large Submarine Drone: Herne XLAUV Design"
 date: "2022-10-25 19:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-10-25-BAE-Systems-Herne-XLAUV %}"><img align="left" src="/images/United-Kingdom-Herne-XLAUV-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/BAE-Systems-Herne-XLAUV.html"><img align="left" src="/images/United-Kingdom-Herne-XLAUV-317.jpg"/></a>
   ![Flag UK](/images/flag_UK.jpg) Britain's largest defense company, BAE Systems,
-  has entered the underwater drone space in a big way...<br/>[Read More &gt;....]({% post_url 2022-10-25-BAE-Systems-Herne-XLAUV %}
+  has entered the underwater drone space in a big way...<br/>[Read More &gt;....](/BAE-Systems-Herne-XLAUV.html
   "READ MORE")<br clear="left"/>
 ...
 

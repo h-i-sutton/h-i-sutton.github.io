@@ -2,14 +2,14 @@
 layout: post
 title: "OSINT: Indications That Russian Navy Has Shifted Focus In Black Sea"
 date: "2022-07-16 10:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-07-16-Russian-Navy-Has-Shifted-Focus %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Navy-Has-Shifted-Focus.html"><img align="left"
   src="/images/Russia-Crimea-Patrol-Navy-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   Open Source Intelligence (OSINT) increasingly suggests that key elements of the
   Russian Navy have changed their patrol areas. Remaining warships, notably the Project
   11356R Admiral Grigorovich-class frigates, are patrolling off the southern tip of
   Crimea.<br/><br/>One theory is that this is to protect the Kerch Bridge....<br/>[Read
-  More &gt;....]({% post_url 2022-07-16-Russian-Navy-Has-Shifted-Focus %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Russian-Navy-Has-Shifted-Focus.html "READ MORE")<br clear="left"/>
 ...
 
 ---

@@ -2,14 +2,14 @@
 layout: post
 title: "The_First_Clearance_Diver"
 date: "2016-11-25 11:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><img src=\"/images/flag_UK.jpg\"/><font size=\"\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><img src=\"/images/flag_UK.jpg\"/><font size=\"\
   6\"> **John Deane, Diver in Crimean War** </font> <br/> Someone forwarded me a link\
   \ to James Nestor\u2019s account of the Deane brother\u2019s *unfathomable* exploits\
-  \ in Epic Magazine. An excellent read. <br/><a href=\"{% post_url 2016-11-25-The_First_Clearance_Diver %}\"\
+  \ in Epic Magazine. An excellent read. <br/><a href=\"/The_First_Clearance_Diver.html\"\
   ><img src=\"/images/DeaneHelmet900.jpg\"/></a><br/>A quick note re the Deane Brothers\
   \ and particularly John Deane\u2019s work clearing naval mines in the Crimean War\u2026\
-  .[Read More &gt;....]({% post_url 2016-11-25-The_First_Clearance_Diver %} \"READ MORE\")<br clear=\"\
+  .[Read More &gt;....](/The_First_Clearance_Diver.html \"READ MORE\")<br clear=\"\
   right\"/>"
 
 ---

@@ -2,12 +2,12 @@
 layout: post
 title: "Guide To Ukraine's Longer Ranged Missiles"
 date: "2024-09-24 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-09-24-Ukraine-missiles %}"><img align="left" src="/images/Ukraine-Missiles-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Ukraine-missiles.html"><img align="left" src="/images/Ukraine-Missiles-317.jpg"/></a>
   ![Flag Ukraine](/images/flag_ukraine.jpg) Although missiles are normally outside
   my swim lane, I feel that this topic is a natural complement to the visual guides
   I prepared for maritime drones (OWA-USVs) and aerial drones (OWA-UAVs...<br/>[Read
-  More &gt;....]({% post_url 2024-09-24-Ukraine-missiles %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Ukraine-missiles.html "READ MORE")<br clear="left"/>
 ...
 
 ---

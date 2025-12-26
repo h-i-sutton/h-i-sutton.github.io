@@ -2,13 +2,13 @@
 layout: post
 title: "Lazurit_Rescue_Sub"
 date: "2017-04-25 23:01:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Unbuilt Russian rescue submarine\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Unbuilt Russian rescue submarine\
   \ to replace INDIA Class**</font> <br/>![Flag](/images/flag_russia.jpg) Russian\
   \ design bureau Lazurit (\u041B\u0430\u0437\u0443\u0440\u0438\u0442) may be pitching\
   \ for a new role for their SIERRA Class attack submarines which were built during\
-  \ the Cold War...<br/>[Read More]({% post_url 2017-04-25-Lazurit_Rescue_Sub %} \"READ MORE\")<br/><a\
-  \ href=\"{% post_url 2017-04-25-Lazurit_Rescue_Sub %}\"><img src=\"/images/Lazurit_Patent900.jpg\"/></a><br\
+  \ the Cold War...<br/>[Read More](/Lazurit_Rescue_Sub.html \"READ MORE\")<br/><a\
+  \ href=\"/Lazurit_Rescue_Sub.html\"><img src=\"/images/Lazurit_Patent900.jpg\"/></a><br\
   \ clear=\"right\"/>"
 
 ---

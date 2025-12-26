@@ -2,8 +2,8 @@
 layout: post
 title: "SAROV-Class_Submarine"
 date: "2019-02-22 10:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><br/>Originally posted 9th Sept 2014.<br/><img\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><br/>Originally posted 9th Sept 2014.<br/><img\
   \ src=\"/images/flag_russia.jpg\"/> <font size=\"6\">**Sarov Class submarine demystified**</font><br\
   \ clear=\"right\">The Project 20120 **Sarov** Class submarine is critical to Russia\u2019\
   s development of the new KANYON (Status-6) nuclear armed nuclear powered strategic\
@@ -11,7 +11,7 @@ excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\
   \ form and curious appendages merely adds to the mystery. She is a boat which is\
   \ not well documented, and many illustrations of her turn out to be quite misleading.\
   \ The same can be said of much of the early analysis which still affects write-ups\
-  \ on the subject. <a href=\"{% post_url 2019-02-22-SAROV-Class_Submarine %}\"><img src=\"/images/Sarov_900_1.jpg\"\
+  \ on the subject. <a href=\"/SAROV-Class_Submarine.html\"><img src=\"/images/Sarov_900_1.jpg\"\
   /></a><br/></br>"
 
 ---

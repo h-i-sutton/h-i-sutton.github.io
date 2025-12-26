@@ -2,13 +2,13 @@
 layout: post
 title: "USS_Parche"
 date: "2016-11-29 11:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><img src=\"/images/flag_USA.jpg\"/><font size=\"\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><img src=\"/images/flag_USA.jpg\"/><font size=\"\
   6\"> **US Navy Spy Sub par-excellence** </font> <br/>When she was finally decommissioned\
   \ in 2004, after 31 years and 19 deployments, USS Parche was the most decorated\
-  \ submarine in US Navy history. <br/>\u2026.[Read More &gt;....]({% post_url 2016-11-29-USS_Parche %}\
-  \ \"READ MORE\")<br/><a href=\"{% post_url 2016-11-29-USS_Parche %}\"><img src=\"/images/parche_shilloette.png\"\
-  /></a><br/><a href=\"{% post_url 2016-11-29-USS_Parche %}\"><img src=\"/images/Parche_cutaway900.jpg\"\
+  \ submarine in US Navy history. <br/>\u2026.[Read More &gt;....](/USS_Parche.html\
+  \ \"READ MORE\")<br/><a href=\"/USS_Parche.html\"><img src=\"/images/parche_shilloette.png\"\
+  /></a><br/><a href=\"/USS_Parche.html\"><img src=\"/images/Parche_cutaway900.jpg\"\
   /></a><br clear=\"right\"/>"
 
 ---

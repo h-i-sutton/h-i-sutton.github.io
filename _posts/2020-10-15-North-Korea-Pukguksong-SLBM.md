@@ -2,13 +2,13 @@
 layout: post
 title: "North-Korea-Pukguksong-SLBM"
 date: "2020-10-15 04:00:00"
-excerpt: "*Updated, originally posted on Oct 10, 2020*<br/><a href=\"https://bsky.app/profile/covertshores.bsky.social\"\
-  \ target=\"blank\"><img align=\"right\" src=\"/images/Icon_Bluesky.jpg\"/></a><br clear=\"\
-  right\"><a href=\"{% post_url 2020-10-15-North-Korea-Pukguksong-SLBM %}\"><img align=\"Left\" src=\"\
+excerpt: "*Updated, originally posted on Oct 10, 2020*<br/><a href=\"https://twitter.com/covertshores\"\
+  \ target=\"blank\"><img align=\"right\" src=\"/images/twitter.jpg\"/></a><br clear=\"\
+  right\"><a href=\"/North-Korea-Pukguksong-SLBM.html\"><img align=\"Left\" src=\"\
   /images/North-Korea-Pukguksong-missiles-350.jpg\"/></a><font size=\"6\">**North\
   \ Korea Reveals New SLBM: Pukguksong-4**</font> <br/><br/>![Flag](/images/flag_nork.jpg)\
   \ The Pukguksong-4 (\"\uBD81\uADF9\uC131-4\u3145\") will presumably be carried by\
-  \ the North Korean Navy's ROMEO-MOD submarines... <br/>[Read More &gt;....]({% post_url 2020-10-15-North-Korea-Pukguksong-SLBM %}\
+  \ the North Korean Navy's ROMEO-MOD submarines... <br/>[Read More &gt;....](/North-Korea-Pukguksong-SLBM.html\
   \ \"READ MORE\")<br clear=\"left\"/></br>"
 
 ---

@@ -2,13 +2,13 @@
 layout: post
 title: "First Look At Israeli Navy Dakar Class Submarine"
 date: "2022-01-21 12:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-01-21-Israel-Dakar-Class-Submarine %}"><img align="left" src="/images/Israel-Dakar-submarine-31.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Israel-Dakar-Class-Submarine.html"><img align="left" src="/images/Israel-Dakar-submarine-31.jpg"/></a>
   ![Flag](/images/flag_isreal.jpg) Confirmation that Israel has signed for German
   shipbuilder TKMS to build 3 Dakar class submarines provides our first look at the
   new design.<br/><br/>An official graphic released by TKMS shows that the submarine
   will be significantly different from the current Dolphin-II class.<br/>[Read More
-  &gt;....]({% post_url 2022-01-21-Israel-Dakar-Class-Submarine %} "READ MORE")<br clear="left"/>
+  &gt;....](/Israel-Dakar-Class-Submarine.html "READ MORE")<br clear="left"/>
 ...
 
 ---

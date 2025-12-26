@@ -2,8 +2,8 @@
 layout: post
 title: "Unbuilt_Russian_Spy_Subs"
 date: "2017-02-28 03:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Multifunctional underwater\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Multifunctional underwater\
   \ station (MPS)**</font> <br/>![Flag](/images/flag_russia.jpg) In 2010 the Russian\
   \ Ministry of Industry and Trade patented a \u2018Multifunctional underwater station\
   \ (MPS) (Russian: \u041C\u043D\u043E\u0433\u043E\u0444\u0443\u043D\u043A\u0446\u0438\
@@ -13,8 +13,8 @@ excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\
   \ design for a range of underwater engineering tasks. Although presented as a civilian\
   \ platform the design gives us good insight into the Russian \u2018deep station\u2019\
   \ spy submarines operated by GUGI (Main Directorate of Deep-Sea Research, Military\
-  \ Unit 40056)... [Read More &gt;....]({% post_url 2017-02-28-Unbuilt_Russian_Spy_Subs %} \"READ MORE\"\
-  )<br/><a href=\"{% post_url 2017-02-28-Unbuilt_Russian_Spy_Subs %}\"><img src=\"/images/Ru_GUGI_900.jpg\"\
+  \ Unit 40056)... [Read More &gt;....](/Unbuilt_Russian_Spy_Subs.html \"READ MORE\"\
+  )<br/><a href=\"/Unbuilt_Russian_Spy_Subs.html\"><img src=\"/images/Ru_GUGI_900.jpg\"\
   /></a><br clear=\"right\"/>"
 
 ---

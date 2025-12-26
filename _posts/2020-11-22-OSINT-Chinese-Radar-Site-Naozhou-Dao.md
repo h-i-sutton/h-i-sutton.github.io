@@ -2,16 +2,16 @@
 layout: post
 title: "OSINT-Chinese-Radar-Site-Naozhou-Dao"
 date: "2020-11-22 23:01:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**OSINT Crosshairs: Pinpointing a Radar Transmitter in China**</font><br
-  clear="right"/><a href="{% post_url 2020-11-22-OSINT-Chinese-Radar-Site-Naozhou-Dao %}"><img align="left"
+  clear="right"/><a href="/OSINT-Chinese-Radar-Site-Naozhou-Dao.html"><img align="left"
   src="/images/China-Radars-Naozhou-317.jpg"/></a>![Flag](/images/flag_China.jpg)
   Following on from the article on some radar transmissions being visible on some
   satellite imagery, here is a quick worked example.<br/><br/>The interference is
   a a right-angle to the path of the satellite, running directly across the image.
   So we know that the transmitter is somewhere along the line of the interference.
   And if the satellite passes overhead on different flightpaths, where the two lines
-  cross is the source...<br/>[Read More &gt;....]({% post_url 2020-11-22-OSINT-Chinese-Radar-Site-Naozhou-Dao %}
+  cross is the source...<br/>[Read More &gt;....](/OSINT-Chinese-Radar-Site-Naozhou-Dao.html
   "READ MORE")<br clear="left"/>'
 
 ---

@@ -2,11 +2,11 @@
 layout: post
 title: "Houthi_Navy"
 date: "2018-10-13 01:00:00"
-excerpt: '*Updated. Originally posted 11th Sept. 2018*<br/><a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font size="6">**Houthi
+excerpt: '*Updated. Originally posted 11th Sept. 2018*<br/><a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="6">**Houthi
   sneak craft 2018**</font><br/>The Houthis have increasingly adopted an asymmetrical
   naval doctrine focusing on small boats and shore based anti-ship missiles..... <br/>[Read
-  More &gt;....]({% post_url 2018-10-13-Houthi_Navy %} "READ MORE")<br/><a href="{% post_url 2018-10-13-Houthi_Navy %}"><img
+  More &gt;....](/Houthi_Navy.html "READ MORE")<br/><a href="/Houthi_Navy.html"><img
   src="/images/houthi_navy_header900.jpg"/></a><br clear="right"/>'
 
 ---

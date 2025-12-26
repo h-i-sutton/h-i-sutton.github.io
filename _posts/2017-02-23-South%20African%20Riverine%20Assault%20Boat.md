@@ -2,7 +2,7 @@
 layout: post
 title: "South African Riverine Assault Boat"
 date: "2017-02-23 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>*Originally
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>*Originally
   posted 5th September 2016*<br/>![Flag](/images/flag_RSA.jpg) Images have emerged
   of the new South African riverine assault boat in service. Two boats were acquired
   under Project Carol, joining the SA Navy MRS Operational Boat Division... [Read

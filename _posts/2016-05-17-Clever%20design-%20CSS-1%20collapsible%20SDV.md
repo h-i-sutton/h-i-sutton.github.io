@@ -2,7 +2,7 @@
 layout: post
 title: "Clever design- CSS-1 collapsible SDV"
 date: "2016-05-17 01:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
   clear="right"/>![Flag](/images/flag_germany.jpg) The concept of folding canoes is
   common in military circles, but conventional thinking has it that *Swimmer Delivery
   Vehicles* (SDVs) are too large. Their bulk requires winches or cranes and dedicated

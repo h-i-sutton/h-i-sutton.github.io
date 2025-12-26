@@ -2,12 +2,12 @@
 layout: post
 title: "200th-Narco-Submarine-in-Covert-Shores-Database"
 date: "2020-12-23 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
-  size="6">**200th 'Narco Submarine'** </font><br clear="right"/><a href="{% post_url 2020-12-23-200th-Narco-Submarine-in-Covert-Shores-Database %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
+  size="6">**200th 'Narco Submarine'** </font><br clear="right"/><a href="/200th-Narco-Submarine-in-Covert-Shores-Database.html"><img
   align="left" src="/images/Narco-Submarine-200th-317.jpg"/></a><br/>On December 9
   the Coast Guard Cutter **Active** (WMEC 618) interdicted a  low-profile vessel (LPV)
   in the Eastern Pacific. <br/><br/>It is the 200th incident in my Covert Shores Narco
-  Submarines database...<br/>[Read More &gt;....]({% post_url 2020-12-23-200th-Narco-Submarine-in-Covert-Shores-Database %}
+  Submarines database...<br/>[Read More &gt;....](/200th-Narco-Submarine-in-Covert-Shores-Database.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Piranha Special Forces submarine"
 date: "2017-11-24 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>Updated.<br/><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>Updated.<br/><img
   src="/images/flag_russia.jpg"/> The p.865 'Piranha' midget submarine was a dedicated
   Spetsnaz special operations craft capable of delivering 6 frogmen to a target over
   400 miles from its base. [Read More &gt;....](/Piranha Special Forces submarine.html

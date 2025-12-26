@@ -2,12 +2,12 @@
 layout: post
 title: "Artwork-Walrus-Class-Submarine"
 date: "2021-02-22 01:01:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**New Artwork Collaboration: Walrus Class Submarine**</font><br clear="right"/><a
-  href="{% post_url 2021-02-22-Artwork-Walrus-Class-Submarine %}"><img align="left" src="/images/Dutch-Walrus-Class-Sub317.jpg"/></a>![Flag](/images/flag_netherlands.jpg)
+  href="/Artwork-Walrus-Class-Submarine.html"><img align="left" src="/images/Dutch-Walrus-Class-Sub317.jpg"/></a>![Flag](/images/flag_netherlands.jpg)
   As a collaboration with 800Tonnes Naval Art, we illustrated a cutaway of the Royal
   Netherlands Navy Walrus Class submarine.<br/> <br/>800Tonnes did the outer hull,
-  and I drew in the innards...<br/><br/>[Read More &gt;....]({% post_url 2021-02-22-Artwork-Walrus-Class-Submarine %}
+  and I drew in the innards...<br/><br/>[Read More &gt;....](/Artwork-Walrus-Class-Submarine.html
   "READ MORE")<br clear="left"/>'
 
 ---

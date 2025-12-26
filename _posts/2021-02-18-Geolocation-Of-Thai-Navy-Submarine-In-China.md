@@ -2,12 +2,12 @@
 layout: post
 title: "Geolocation-Of-Thai-Navy-Submarine-In-China"
 date: "2021-02-18 09:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Geo-location Of Thai Navy Submarine in China**</font><br clear="right"/><a
-  href="{% post_url 2021-02-18-Geolocation-Of-Thai-Navy-Submarine-In-China %}"><img align="left" src="/images/China-Thai-Navy-Sub-317.jpg"/></a>![Flag](/images/flag_China.jpg)
+  href="/Geolocation-Of-Thai-Navy-Submarine-In-China.html"><img align="left" src="/images/China-Thai-Navy-Sub-317.jpg"/></a>![Flag](/images/flag_China.jpg)
   China's new Wuchang Shipyard is pumping out Yuan Class AIP submarines (SSP). While
   I will not share all of the sources, there is some collaborating evidence which
-  is easily accessible...<br/>[Read More &gt;....]({% post_url 2021-02-18-Geolocation-Of-Thai-Navy-Submarine-In-China %}
+  is easily accessible...<br/>[Read More &gt;....](/Geolocation-Of-Thai-Navy-Submarine-In-China.html
   "READ MORE")<br clear="left"/>
 ...
 

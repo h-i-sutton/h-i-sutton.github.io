@@ -2,7 +2,7 @@
 layout: post
 title: "Undersea_Cables"
 date: "2017-12-10 01:01:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>*Updated:
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>*Updated:
   DG-450 and DG-350 added. Originally posted 10th June 2017.*<br/><font size="6">**Russian
   capabilities against undersea cables**</font> <br/>![Flag](/images/flag_russia.jpg)
   A recently published <a href="https://policyexchange.org.uk/wp-content/uploads/2017/11/Undersea-Cables.pdf"
@@ -15,8 +15,8 @@ excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="bl
   ground truth of this new naval arena clearly favors Russia both in terms of naval
   investment and the circumstances of geography.<br/><br/>This article summarizes
   my own thoughts and analysis on the topic.<br/><br/> Corrections and comments welcome.<br/><a
-  href="{% post_url 2017-12-10-Undersea_Cables %}"><img src="/images/UnderseaCable_Cover900.jpg"/></a><br/>[Read
-  More]({% post_url 2017-12-10-Undersea_Cables %} "READ MORE")<br clear="right"/>'
+  href="/Undersea_Cables.html"><img src="/images/UnderseaCable_Cover900.jpg"/></a><br/>[Read
+  More](/Undersea_Cables.html "READ MORE")<br clear="right"/>'
 
 ---
 **Russian capabilities against undersea cables**   

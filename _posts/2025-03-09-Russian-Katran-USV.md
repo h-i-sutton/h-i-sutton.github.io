@@ -3,12 +3,12 @@ layout: post
 title: "Russia Reveals 'Katran' Trimaran USV"
 date: "2025-03-09 18:00:00"
 excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2025-03-09-Russian-Katran-USV %}"><img
+  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Russian-Katran-USV.html"><img
   align="left" src="/images/Russia-USV-Katran_317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   Russia's Center for Unmanned Systems and Technologies, a tech accelerator, have
   revealed a new trimaran aluminum surface drone (USV). The USV has been labelled
   'Katran', the Russian name for the Spiny Dogfish, a small species of shark....<br/>[Read
-  More &gt;....]({% post_url 2025-03-09-Russian-Katran-USV %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Russian-Katran-USV.html "READ MORE")<br clear="left"/>
 ...
 
 ---

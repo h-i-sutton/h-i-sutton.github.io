@@ -2,12 +2,12 @@
 layout: post
 title: "Russian Oligarch’s Ginormous Yacht Arrives In Unlikely Hiding Place"
 date: "2022-03-31 09:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-03-31-Russian-Oligarch-Yacht-Nord-In-Vladivostok %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Oligarch-Yacht-Nord-In-Vladivostok.html"><img align="left"
   src="/images/Russia-Super-Yacht-Nord-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   Russian Oligarchs are used to a life of luxury, sometimes owning multiple massive
   yachts. Yet since many countries have sanctioned key Oligarchs, the yachts have
-  been on the run. <br/>[Read More &gt;....]({% post_url 2022-03-31-Russian-Oligarch-Yacht-Nord-In-Vladivostok %}
+  been on the run. <br/>[Read More &gt;....](/Russian-Oligarch-Yacht-Nord-In-Vladivostok.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,14 +2,14 @@
 layout: post
 title: "Chinese-Navy-Submarine-OSINT"
 date: "2020-11-04 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Satellite Image of Chinese Navy Submarine in South China Sea**</font><br
-  clear="right"/><a href="{% post_url 2020-11-04-Chinese-Navy-Submarine-OSINT %}"><img align="left" src="/images/China-Submarine-Type-094-Jin-Class-OSINT-300.jpg"/></a>![Flag](/images/flag_China.jpg)
+  clear="right"/><a href="/Chinese-Navy-Submarine-OSINT.html"><img align="left" src="/images/China-Submarine-Type-094-Jin-Class-OSINT-300.jpg"/></a>![Flag](/images/flag_China.jpg)
   At around 11:20 local time on November 3 a Type-094 Jin Class ballistic missile
   submarine left its base in Yulin, China. It was heading out into the South China
   Sea, where these submarines perform their nuclear deterrence patrols. <br/><br/>Such
   things are considered secret in China. Yet as it did so, a satellite passed overhead,
-  capturing this fleeting activity...<br/>[Read More &gt;....]({% post_url 2020-11-04-Chinese-Navy-Submarine-OSINT %}
+  capturing this fleeting activity...<br/>[Read More &gt;....](/Chinese-Navy-Submarine-OSINT.html
   "READ MORE")<br clear="left"/>
 ...
 

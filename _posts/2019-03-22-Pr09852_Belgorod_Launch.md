@@ -2,12 +2,12 @@
 layout: post
 title: "Pr09852_Belgorod_Launch"
 date: "2019-03-22 13:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Belgorod due for launch**</font><br/><img src="/images/flag_russia.jpg"/>
   The unique Project 09852 Class submarine, Belgorod, is expected to be rolled out
   of the sheds at Sevmash shipyard in Severodvinsk in just less than two weeks time....
-  <br/><a href="{% post_url 2019-03-22-Pr09852_Belgorod_Launch %}"><img src="/images/Ru_Belgorod_badge900.jpg"/></a><br/>[Read
-  More &gt;....]({% post_url 2019-03-22-Pr09852_Belgorod_Launch %} "READ MORE")
+  <br/><a href="/Pr09852_Belgorod_Launch.html"><img src="/images/Ru_Belgorod_badge900.jpg"/></a><br/>[Read
+  More &gt;....](/Pr09852_Belgorod_Launch.html "READ MORE")
 ...
 
 ---

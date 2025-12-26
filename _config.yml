@@ -33,7 +33,7 @@ youtube_username: HISuttonCovertShores
 # Build settings
 theme: minima
 plugins:
-  jekyll-paginate
+  - jekyll-paginate
   #- jekyll-feed
 
 excerpt_separator: <!--more-->

@@ -2,7 +2,7 @@
 layout: post
 title: "LTTE Sea Tigers sneak attack craft and midget subs"
 date: "2016-04-24 01:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
   clear="right"/>The Liberation Tigers of Tamil Eelam (**LTTE**, popularly known as
   the **Tamil Tigers**) waged a bloody civil war with the Sri Lankan government from
   1983 until 2009, when they were defeated. <br/><a href="/LTTE Sea Tigers sneak attack

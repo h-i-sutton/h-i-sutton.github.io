@@ -2,9 +2,9 @@
 layout: post
 title: "Submarine_Recognition_Poster"
 date: "2018-04-21 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Submarine Recognition poster**</font><br/> Essential reference for Journalists
-  and surface navy alike.... <br/><a href="{% post_url 2018-04-21-Submarine_Recognition_Poster %}"><img
+  and surface navy alike.... <br/><a href="/Submarine_Recognition_Poster.html"><img
   src="/images/SM_recognition_v2_250.jpg"/></a><br clear="right"/>
 ...
 

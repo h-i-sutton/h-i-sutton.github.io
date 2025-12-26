@@ -2,12 +2,12 @@
 layout: post
 title: "Colombian Navy Seizes Another Narco Submarine In Jungle Raid"
 date: "2021-08-02 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-08-02-Narco-Submarines-Update-2021-08-02 %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Narco-Submarines-Update-2021-08-02.html"><img align="left"
   src="/images/Narco-Submarine-2021-08-02-317.jpg"/></a>The Colombian Navy, in coordination
   with the  Army and Attorney General's Office has captured a narco-submarine. The
   low-Profile Vessel (LPV) was discovered in the jungle at least partially laden with
-  narcotics. <br/>[Read More &gt;....]({% post_url 2021-08-02-Narco-Submarines-Update-2021-08-02 %} "READ
+  narcotics. <br/>[Read More &gt;....](/Narco-Submarines-Update-2021-08-02.html "READ
   MORE")<br clear="left"/>
 ...
 

@@ -2,12 +2,12 @@
 layout: post
 title: "OSINT: China Likely Scrapping KILO Class Submarines"
 date: "2022-01-28 12:00:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2022-01-28-OSINT-China-Retires-KILO-Class-Submarines %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/OSINT-China-Retires-KILO-Class-Submarines.html"><img
   align="left" src="/images/China-KILO-Class-Submarine-Scrapping-317.jpg"/></a> ![Flag
   China](/images/flag_China.jpg) Photos have surfaced of one of the two original Pr.877EKM
   type boats beached.<br/><br/>I have geolocated it to a small shipyard not previously
-  associated with submarines or other PLAN work...<br/>[Read More &gt;....]({% post_url 2022-01-28-OSINT-China-Retires-KILO-Class-Submarines %}
+  associated with submarines or other PLAN work...<br/>[Read More &gt;....](/OSINT-China-Retires-KILO-Class-Submarines.html
   "READ MORE")<br clear="left"/></br>
 ...
 

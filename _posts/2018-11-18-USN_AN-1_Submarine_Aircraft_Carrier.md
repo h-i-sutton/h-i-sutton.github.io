@@ -2,11 +2,11 @@
 layout: post
 title: "USN_AN-1_Submarine_Aircraft_Carrier"
 date: "2018-11-18 13:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br/><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br/><font
   size="6">**US Navy SubmarineAircraft Carrier design**</font><br/><img src="/images/flag_USA.jpg"/>
   In the late 1950s the US Navy experimented with the concept of aircraft carrying
-  submarines armed with jet fighters... <br/><a href="{% post_url 2018-11-18-USN_AN-1_Submarine_Aircraft_Carrier %}"><img
-  src="/images/USN_AN-1_side900.jpg"/></a><br clear="right">[Read More &gt;....]({% post_url 2018-11-18-USN_AN-1_Submarine_Aircraft_Carrier %}
+  submarines armed with jet fighters... <br/><a href="/USN_AN-1_Submarine_Aircraft_Carrier.html"><img
+  src="/images/USN_AN-1_side900.jpg"/></a><br clear="right">[Read More &gt;....](/USN_AN-1_Submarine_Aircraft_Carrier.html
   "READ MORE")<br/></br>
 ...
 

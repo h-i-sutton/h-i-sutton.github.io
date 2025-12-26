@@ -2,11 +2,11 @@
 layout: post
 title: "Countries That Can Design And Build Submarines Today"
 date: "2023-03-09 15:30:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2023-03-09-Submarine-Building-Countries-List %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Submarine-Building-Countries-List.html"><img
   align="left" src="/images/Submarine-Construction-317.jpg"/></a> There are more countries
   building submarines today than there has ever been.<br/><br/>This is the list.<br/>[Read
-  More &gt;....]({% post_url 2023-03-09-Submarine-Building-Countries-List %} "READ MORE")<br clear="left"/></br>
+  More &gt;....](/Submarine-Building-Countries-List.html "READ MORE")<br clear="left"/></br>
 ...
 
 ---

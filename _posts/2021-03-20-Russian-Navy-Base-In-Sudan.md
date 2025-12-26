@@ -2,15 +2,15 @@
 layout: post
 title: "Russian-Navy-Base-In-Sudan"
 date: "2021-03-20 10:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"5\">**Russia\u2019s Increasing Global\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**Russia\u2019s Increasing Global\
   \ Reach: 2nd Navy Ship Calls At Port Sudan in Red Sea**</font><br clear=\"right\"\
-  /><a href=\"{% post_url 2021-03-20-Russian-Navy-Base-In-Sudan %}\"><img align=\"left\" src=\"/images/Russian-navy-Sudan-317.jpg\"\
+  /><a href=\"/Russian-Navy-Base-In-Sudan.html\"><img align=\"left\" src=\"/images/Russian-navy-Sudan-317.jpg\"\
   /></a>![Flag Russia](/images/flag_russia.jpg) The strategic impact of Russia\u2019\
   s new base in Port Sudan, Sudan, may take years to fully appreciate. And the overseas\
   \ base has yet to be built. But in the meantime Russian warships are already increasingly\
   \ using the port. Recently the RFS Stoikiy (545), an Pr.20380 Steregushchiy class\
-  \ corvette, called at the port. <br/><br/>[Read More &gt;....]({% post_url 2021-03-20-Russian-Navy-Base-In-Sudan %}\
+  \ corvette, called at the port. <br/><br/>[Read More &gt;....](/Russian-Navy-Base-In-Sudan.html\
   \ \"READ MORE\")<br clear=\"left\"/>"
 
 ---

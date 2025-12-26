@@ -2,13 +2,13 @@
 layout: post
 title: "Manta-U-Boat-of-World-War-Two"
 date: "2020-11-16 01:01:00"
-excerpt: "*Updated, Originally published Jan 28, 2020* <br/><a href=\"https://bsky.app/profile/covertshores.bsky.social\"\
-  \ target=\"blank\"><img align=\"right\" src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"\
+excerpt: "*Updated, Originally published Jan 28, 2020* <br/><a href=\"https://twitter.com/covertshores\"\
+  \ target=\"blank\"><img align=\"right\" src=\"/images/twitter.jpg\"/></a><font size=\"\
   6\">**Manta** Untersee-Gleitfl\xE4chen-Schnellboot</font><br clear=\"right\"><a\
-  \ href=\"{% post_url 2020-11-16-Manta-U-Boat-of-World-War-Two %}\"><img align=\"left\" src=\"/images/WW2-Manta-midget-submarine-cutaway-900.jpg\"\
+  \ href=\"/Manta-U-Boat-of-World-War-Two.html\"><img align=\"left\" src=\"/images/WW2-Manta-midget-submarine-cutaway-900.jpg\"\
   /></a>As the situation in Europe worsened for Nazi Germany during World War Two,\
   \ the  Kriegsmarine turned to ever more desperate ideas.<br/><br/>Possibly the most\
-  \ ambitious was the Manta...<br/><br/>[Read More &gt;....]({% post_url 2020-11-16-Manta-U-Boat-of-World-War-Two %}\
+  \ ambitious was the Manta...<br/><br/>[Read More &gt;....](/Manta-U-Boat-of-World-War-Two.html\
   \ \"READ MORE\")<br clear=\"left\"/></br>"
 
 ---

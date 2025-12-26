@@ -2,8 +2,8 @@
 layout: post
 title: "Russian_Arctic_update2"
 date: "2017-04-24 23:01:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**New info on Pr-09852 Belgorod\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**New info on Pr-09852 Belgorod\
   \ submarine and Arctic plans**</font> <br/>![Flag](/images/flag_russia.jpg) Less\
   \ than a week after Russia unveiled its new arctic base on Alexandra Island in the\
   \ Arctic Circle, Russian media have begun reporting on the future launch of the\
@@ -11,8 +11,8 @@ excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\
   \ largest (or at least o=longest) submarine in in the world, at 184m. This is thanks\
   \ to a 30m hull insert which allows her to accommodate the relatively large Losharik\
   \ deep sea submersible (AGS). However, her size isn\u2019t the real headline here\u2026\
-  . <br/>[Read More &gt;....]({% post_url 2017-04-24-Russian_Arctic_update2 %} \"READ MORE\")<br/><a href=\"\
-  {% post_url 2017-04-24-Russian_Arctic_update2 %}\"><img src=\"/images/Belgorod_subsCompare900.jpg\"\
+  . <br/>[Read More &gt;....](/Russian_Arctic_update2.html \"READ MORE\")<br/><a href=\"\
+  /Russian_Arctic_update2.html\"><img src=\"/images/Belgorod_subsCompare900.jpg\"\
   /></a><br clear=\"right\"/>"
 
 ---

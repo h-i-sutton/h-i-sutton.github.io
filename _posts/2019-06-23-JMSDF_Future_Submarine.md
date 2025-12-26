@@ -2,12 +2,12 @@
 layout: post
 title: "JMSDF_Future_Submarine"
 date: "2019-06-23 03:00:00"
-excerpt: '*Updated. Originally posted 18th June 2019*<br/><a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font size="6">**29SS:
+excerpt: '*Updated. Originally posted 18th June 2019*<br/><a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="6">**29SS:
   Japan''s Future Submarine**</font><br/>![Flag](/images/flag_japan.jpg) Japanese
   submarine builder Mitsubishi Heavy Industries showed off their next generation submarine
-  design.... [Read More &gt;....]({% post_url 2019-06-23-JMSDF_Future_Submarine %} "READ MORE")<br/><a
-  href="{% post_url 2019-06-23-JMSDF_Future_Submarine %}"><img src="/images/Jp_Future_SS_profile900.jpg"/></a><br
+  design.... [Read More &gt;....](/JMSDF_Future_Submarine.html "READ MORE")<br/><a
+  href="/JMSDF_Future_Submarine.html"><img src="/images/Jp_Future_SS_profile900.jpg"/></a><br
   clear="right"/>'
 
 ---

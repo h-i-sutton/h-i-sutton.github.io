@@ -2,13 +2,13 @@
 layout: post
 title: "Chinese Navy Ship Seen At Important African Base For First Time"
 date: "2022-03-26 22:00:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2022-03-26-OSINT-China-Navy-Ship-Djibouti %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/OSINT-China-Navy-Ship-Djibouti.html"><img
   align="left" src="/images/Chinese-Navy-Ship-Djibouti-March-2022-317.jpg"/></a> ![Flag
   China](/images/flag_China.jpg) The Chinese Navy is extending its reach to the world's
   oceans. A Chinese Navy warship has been observed calling at the new base in Djibouti.
   This location is strategic, and has been years in the building, but until now Chinese
-  warships had not docked there.<br/>[Read More &gt;....]({% post_url 2022-03-26-OSINT-China-Navy-Ship-Djibouti %}
+  warships had not docked there.<br/>[Read More &gt;....](/OSINT-China-Navy-Ship-Djibouti.html
   "READ MORE")<br clear="left"/></br>
 ...
 

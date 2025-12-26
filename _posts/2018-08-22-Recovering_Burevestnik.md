@@ -2,14 +2,14 @@
 layout: post
 title: "Recovering_Burevestnik"
 date: "2018-08-22 11:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Vessels of interest regarding\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Vessels of interest regarding\
   \ recovery of Burevestnik nuclear-powered missiles**</font><br/><img src=\"/images/flag_russia.jpg\"\
   /> When Russian state media reported that a naval detachment from Russia\u2019s\
   \ Northern Fleet was departing on an expedition from Severomorsk, the interesting\
   \ mix of vessels piqued analysts' interest. Now a timeline has emerged that points\
-  \ to one possible real mission of the detachment... <br/>[Read More &gt;....]({% post_url 2018-08-22-Recovering_Burevestnik %}\
-  \ \"READ MORE\")<br/><a href=\"{% post_url 2018-08-22-Recovering_Burevestnik %}\"><img src=\"/images/Ru_KIL-143_900.jpg\"\
+  \ to one possible real mission of the detachment... <br/>[Read More &gt;....](/Recovering_Burevestnik.html\
+  \ \"READ MORE\")<br/><a href=\"/Recovering_Burevestnik.html\"><img src=\"/images/Ru_KIL-143_900.jpg\"\
   /></a><br clear=\"right\"/>"
 
 ---

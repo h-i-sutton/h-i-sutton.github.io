@@ -2,13 +2,13 @@
 layout: post
 title: "Russian Submarine Concept: Amur e600"
 date: "2022-09-04 09:01:00"
-excerpt: '**UPDATED Sept 4**<br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img
-  align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2022-09-04-Russian-Submarine-Concept-Amur-e600 %}"><img
+excerpt: '**UPDATED Sept 4**<br/><a href="https://twitter.com/covertshores" target="blank"><img
+  align="right" src="/images/twitter.jpg"/></a><br clear="right"><a href="/Russian-Submarine-Concept-Amur-e600.html"><img
   align="left" src="/images/Russia-Submarine-Concept-Amur-e600-317.jpg"/></a> ![Flag
   Russia](/images/flag_russia.jpg) An unusual and interesting design, the **e600**
   is the latest submarine from Russian design bureau Rubin. Being a single-hull design
   it fits within the ''Amur'' family.<br/><br/>The key to an all-electric propulsion
-  is lithium based battery technologies...<br/>[Read More &gt;....]({% post_url 2022-09-04-Russian-Submarine-Concept-Amur-e600 %}
+  is lithium based battery technologies...<br/>[Read More &gt;....](/Russian-Submarine-Concept-Amur-e600.html
   "READ MORE")<br clear="left"/></br>'
 
 ---

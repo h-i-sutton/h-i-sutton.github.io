@@ -2,8 +2,8 @@
 layout: post
 title: "Chinese High-Altitude Balloons Also Used Over Indian Military Bases"
 date: "2023-02-04 11:00:00"
-excerpt: '**UPDATED**<br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2023-02-04-Chinese-Navy-High-Altitude-Spy-Balloons %}"><img
+excerpt: '**UPDATED**<br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Chinese-Navy-High-Altitude-Spy-Balloons.html"><img
   align="left" src="/images/China-Spy-Balloons-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
   ![Flag USA](/images/flag_USA.jpg) ![Flag Japan](/images/flag_japan.jpg) ![Flag Taiwan](/images/flag_taiwan.jpg)
   ![Flag India](/images/flag_india.jpg) The Chinese balloon flying over the United
@@ -11,7 +11,7 @@ excerpt: '**UPDATED**<br/><a href="https://bsky.app/profile/covertshores.bsky.so
   but claim that it is civilian in nature and that the overflight is accidental.<br/><br/>There
   is very strong circumstantial evidence that these are military related ''spy balloons''
   and that there is a pattern of operation going back at least a year...<br/>[Read
-  More &gt;....]({% post_url 2023-02-04-Chinese-Navy-High-Altitude-Spy-Balloons %} "READ MORE")<br clear="left"/></br>'
+  More &gt;....](/Chinese-Navy-High-Altitude-Spy-Balloons.html "READ MORE")<br clear="left"/></br>'
 
 ---
 **UPDATED**  

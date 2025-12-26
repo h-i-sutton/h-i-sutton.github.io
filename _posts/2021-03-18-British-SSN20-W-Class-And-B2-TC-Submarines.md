@@ -2,13 +2,13 @@
 layout: post
 title: "British-SSN20-W-Class-And-B2-TC-Submarines"
 date: "2021-03-18 10:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**The Astute Journey: Unbuilt British Submarine Designs After The Trafalgar
-  Class**</font><br clear="right"/><a href="{% post_url 2021-03-18-British-SSN20-W-Class-And-B2-TC-Submarines %}"><img
+  Class**</font><br clear="right"/><a href="/British-SSN20-W-Class-And-B2-TC-Submarines.html"><img
   align="left" src="/images/Royal-navy-SSN20-W-Class-Submarine-317.jpg"/></a>![Flag](/images/flag_UK.jpg)
   Today the Astute is one of the most impressive, and recognizable, attack submarines
   afloat.<br/><br/>This article will lay out the unbuilt submarine designs which plot
-  the story from the Trafalgar Class to the Astute class.. <br/><br/>[Read More &gt;....]({% post_url 2021-03-18-British-SSN20-W-Class-And-B2-TC-Submarines %}
+  the story from the Trafalgar Class to the Astute class.. <br/><br/>[Read More &gt;....](/British-SSN20-W-Class-And-B2-TC-Submarines.html
   "READ MORE")<br clear="left"/>'
 
 ---

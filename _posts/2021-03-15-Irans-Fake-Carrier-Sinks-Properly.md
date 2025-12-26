@@ -2,13 +2,13 @@
 layout: post
 title: "Irans-Fake-Carrier-Sinks-Properly"
 date: "2021-03-15 10:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**Goodbye My Old Friend: Iran''s Fake Aircraft Carrier Sinks, Properly,
-  At Last**</font><br clear="right"/><a href="{% post_url 2021-03-15-Irans-Fake-Carrier-Sinks-Properly %}"><img
+  At Last**</font><br clear="right"/><a href="/Irans-Fake-Carrier-Sinks-Properly.html"><img
   align="left" src="/images/Iran-IRGC-Fake-Carrier-Gone-317.jpg"/></a>![Flag](/images/flag_iran.jpg)
   There is something tragic about watching an over-enthusiastic actor wallow in their
   stage death. Running it out for longer than the audience can bear to watch. <br/><br/>It''s
-  all over. Finally(?). <br/><br/>[Read More &gt;....]({% post_url 2021-03-15-Irans-Fake-Carrier-Sinks-Properly %}
+  all over. Finally(?). <br/><br/>[Read More &gt;....](/Irans-Fake-Carrier-Sinks-Properly.html
   "READ MORE")<br clear="left"/>'
 
 ---

@@ -4,8 +4,8 @@ title: "HDS-400_Midget-Submarine"
 date: "2019-09-14 11:00:00"
 excerpt: "![Flag](/images/flag_RoK.jpg) The lead boat of South Korea\u2019s next generation\
   \ midget submarine design, currently termed the **HDS-400**, was launched earlier\
-  \ this year... [Read More &gt;....]({% post_url 2019-09-14-HDS-400_Midget-Submarine %} \"READ MORE\"\
-  )<br/><a href=\"{% post_url 2019-09-14-HDS-400_Midget-Submarine %}\"><img src=\"/images/HDS-400_900.jpg\"\
+  \ this year... [Read More &gt;....](/HDS-400_Midget-Submarine.html \"READ MORE\"\
+  )<br/><a href=\"/HDS-400_Midget-Submarine.html\"><img src=\"/images/HDS-400_900.jpg\"\
   /></a>"
 
 ---

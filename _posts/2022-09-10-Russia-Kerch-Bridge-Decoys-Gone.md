@@ -2,13 +2,13 @@
 layout: post
 title: "OSINT: Russia Removes 2 Radar Decoys Protecting Kerch Bridge"
 date: "2022-09-10 18:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-09-10-Russia-Kerch-Bridge-Decoys-Gone %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russia-Kerch-Bridge-Decoys-Gone.html"><img align="left"
   src="/images/Russia-Target-Barge-Kerch-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   ![Flag](/images/flag_ukraine.jpg) The Kerch Bridge, built by Russia since it annexed
   Crimea, is of strategic importance. In June extra steps were taken to protect it
   from Ukrainian attack.<br/><br/>Now some of these defenses have been removed....<br/>[Read
-  More &gt;....]({% post_url 2022-09-10-Russia-Kerch-Bridge-Decoys-Gone %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Russia-Kerch-Bridge-Decoys-Gone.html "READ MORE")<br clear="left"/>
 ...
 
 ---

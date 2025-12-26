@@ -2,7 +2,7 @@
 layout: post
 title: "Houthi_mines_in_Red_Sea"
 date: "2017-03-25 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**New threat to international shipping in Red Sea**</font> <br/>Images
   have just surfaced (<a href="https://twitter.com/mohmad15541/status/845306006536118272"
   target="blank">Twitter</a>) of the type of mine laid by retreating Houthi rebels
@@ -11,8 +11,8 @@ excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="bla
   target="blank">Alarabiya</a>). It is possible that the two sources are reporting
   the same mines. The improvised weapons appear to be of the floating type with contact
   detonators. Although they appear basic, they are a significant threat to merchant
-  shipping using the busy Red Sea route... [Read More &gt;....]({% post_url 2017-03-25-Houthi_mines_in_Red_Sea %}
-  "READ MORE")<br/><a href="{% post_url 2017-03-25-Houthi_mines_in_Red_Sea %}"><img src="/images/Yemen_Mines_Cover900.jpg"/></a><br
+  shipping using the busy Red Sea route... [Read More &gt;....](/Houthi_mines_in_Red_Sea.html
+  "READ MORE")<br/><a href="/Houthi_mines_in_Red_Sea.html"><img src="/images/Yemen_Mines_Cover900.jpg"/></a><br
   clear="right"/>
 ...
 

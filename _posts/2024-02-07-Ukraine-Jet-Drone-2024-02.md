@@ -2,13 +2,13 @@
 layout: post
 title: "Ukraine's Sleek New Jet-Powered Attack Drone Seen For First Time"
 date: "2024-02-07 22:00:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2024-02-07-Ukraine-Jet-Drone-2024-02 %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Ukraine-Jet-Drone-2024-02.html"><img
   align="left" src="/images/Ukraine-OWA-UAV-jet-drone-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)
   A new type of Ukrainian long range drone has appeared in Russia. A crashed example
   of the jet powered drone was shared on Russian social media. It is evidently a type
   of one-way attack drone (OWA-UAV).<br/><br/>The drone is interesting in several
-  ways...<br/>[Read More &gt;....]({% post_url 2024-02-07-Ukraine-Jet-Drone-2024-02 %} "READ MORE")<br
+  ways...<br/>[Read More &gt;....](/Ukraine-Jet-Drone-2024-02.html "READ MORE")<br
   clear="left"/></br>
 ...
 

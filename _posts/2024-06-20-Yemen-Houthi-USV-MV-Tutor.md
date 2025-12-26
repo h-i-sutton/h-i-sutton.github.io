@@ -2,12 +2,12 @@
 layout: post
 title: "Houthi's Blowfish: Disguised Uncrewed Surface Vessel (USV) Sunk MV Tutor"
 date: "2024-06-20 10:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-06-20-Yemen-Houthi-USV-MV-Tutor %}"><img align="left" src="/images/Yemen-Houthi-MV-Tutor-USV-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Yemen-Houthi-USV-MV-Tutor.html"><img align="left" src="/images/Yemen-Houthi-MV-Tutor-USV-317.jpg"/></a>
   ![Flag Houthi](/images/flag_Houthi.jpg) On June 12 2024 the merchant ship MV Tutor,
   was hit by a Houthi uncrewed surface vessel (USV) 66 nautical miles southwest of
   Al Hudaydah, Yemen.<br/><br/>The ship has since sunk, causing an oil slick...<br/>[Read
-  More &gt;....]({% post_url 2024-06-20-Yemen-Houthi-USV-MV-Tutor %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Yemen-Houthi-USV-MV-Tutor.html "READ MORE")<br clear="left"/>
 ...
 
 ---

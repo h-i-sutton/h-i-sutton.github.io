@@ -2,7 +2,7 @@
 layout: post
 title: "Shelf-ATGU-connected-to-ice-breaking submarine"
 date: "2020-01-07 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**New OSINT on Russian 'Shelf' autonomous underwater reactor (ATGU)**</font>
   <br/>![Flag](/images/flag_russia.jpg) The reactor section of the "Submarine for
   servicing underwater mining complexes on the Arctic shelf and other underwater operations"

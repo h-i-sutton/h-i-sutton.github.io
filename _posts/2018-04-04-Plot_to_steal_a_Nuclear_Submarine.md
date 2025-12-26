@@ -2,12 +2,12 @@
 layout: post
 title: "Plot_to_steal_a_Nuclear_Submarine"
 date: "2018-04-04 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**1978 plan to steal USS Trepang (Sturgeon Class SSN)**</font><br/><img
   src="/images/flag_USA.jpg"/> In a plot straight out of a straight-to-video movie,
   two ambitious would-be super-villains planned to steal a Sturgeon Class nuclear
   powered attack submarine, sail it into the North Atlantic and then sell it to the
-  Mafia... <br/><a href="{% post_url 2018-04-04-Plot_to_steal_a_Nuclear_Submarine %}"><img src="/images/USS_Trepang900.jpg"/></a>
+  Mafia... <br/><a href="/Plot_to_steal_a_Nuclear_Submarine.html"><img src="/images/USS_Trepang900.jpg"/></a>
 ...
 
 ---

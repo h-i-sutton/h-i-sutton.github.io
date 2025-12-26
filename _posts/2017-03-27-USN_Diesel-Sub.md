@@ -2,7 +2,7 @@
 layout: post
 title: "USN_Diesel-Sub"
 date: "2017-03-27 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**An independent case for the US Navy to return to diesel-electric submarines**</font>
   <br/>**Opinion piece with a ronin research approach** - Alternative title **Diesel
   Boats for**<strike>ever</strike> **tomorrow**<br/>![Flag](/images/flag_USA.jpg)
@@ -13,8 +13,8 @@ excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="bla
   for the Submarine Force to have at least some diesel-boats on hand. This article
   takes the form of *ronin research* which is masterless, and therefore free to challenge
   the conventional thinking on this topic, and highlight emerging capabilities which
-  are beyond the scope of current planning... [Read More &gt;....]({% post_url 2017-03-27-USN_Diesel-Sub %}
-  "READ MORE")<br/><a href="{% post_url 2017-03-27-USN_Diesel-Sub %}"><img src="/images/SWS_cutaway_900.jpg"/></a><br
+  are beyond the scope of current planning... [Read More &gt;....](/USN_Diesel-Sub.html
+  "READ MORE")<br/><a href="/USN_Diesel-Sub.html"><img src="/images/SWS_cutaway_900.jpg"/></a><br
   clear="right"/>
 ...
 

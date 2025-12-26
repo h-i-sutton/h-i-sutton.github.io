@@ -2,13 +2,13 @@
 layout: post
 title: "Iranian-IRGC-Navy-Preparing"
 date: "2021-01-04 13:01:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**IRGC Seen Practicing Swarm Tactics Day Before South Korean Tanker Seizure**</font><br
-  clear="right"/><a href="{% post_url 2021-01-04-Iranian-IRGC-Navy-Preparing %}"><img align="left" src="/images/Iran-IRGC-N-boats-Straits-of-Hormuz-317.jpg"/></a>![Flag](/images/flag_iran.jpg)
+  clear="right"/><a href="/Iranian-IRGC-Navy-Preparing.html"><img align="left" src="/images/Iran-IRGC-N-boats-Straits-of-Hormuz-317.jpg"/></a>![Flag](/images/flag_iran.jpg)
   ![Flag](/images/flag_RoK.jpg) Iran''s IRGC Navy (Islamic Revolutionary Guard Corps)  has
   seized a South Korean chemical tanker, the **HANKUK CHEMI** (IMO: 9232369). The
   day before, on Jan 3 2020, boats which appear to be IRGC-N were seen exercising
-  swarm tactics...<br/><br/>[Read More &gt;....]({% post_url 2021-01-04-Iranian-IRGC-Navy-Preparing %}
+  swarm tactics...<br/><br/>[Read More &gt;....](/Iranian-IRGC-Navy-Preparing.html
   "READ MORE")<br clear="left"/>'
 
 ---

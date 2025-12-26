@@ -2,15 +2,15 @@
 layout: post
 title: "Egyptian Navy Opens New Naval Base In Mediterranean"
 date: "2021-07-05 09:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-07-05-New-Egyptian-Navy-Base-Al-Nujaila %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/New-Egyptian-Navy-Base-Al-Nujaila.html"><img align="left"
   src="/images/Egypt-Navy-New-Base-317.jpg"/></a>![Flag Egypt](/images/flag_egypt.jpg)  Egypt's
   Navy is rapidly modernizing and expanding its capabilities. New warships from France,
   including two Mistral Class amphibious assault ships, and Italy, make it one of
   the best equipped mid-tier navies. But historically its footprint has been limited
   to a relatively small number of bases.<br/><br/>The *July 3 Naval Base* may further
   strengthen Egypt's increasingly powerful Navy in the Mediterranean. <br/>[Read More
-  &gt;....]({% post_url 2021-07-05-New-Egyptian-Navy-Base-Al-Nujaila %} "READ MORE")<br clear="left"/>
+  &gt;....](/New-Egyptian-Navy-Base-Al-Nujaila.html "READ MORE")<br clear="left"/>
 ...
 
 ---

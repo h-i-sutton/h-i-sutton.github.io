@@ -2,13 +2,13 @@
 layout: post
 title: "Chinese-Navy-Submarine=Construction-Bohai"
 date: "2020-11-03 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**Probable First Image Of New Nuclear Submarine Under Construction In China**</font><br/><img
   src="/images/flag_China.jpg"/> New commercial satellite images, taken on November
   2, appear to show a large submarine hull section at the Bohai Shipyard. I have been
-  waiting for exactly this....<br/><a href="{% post_url 2020-11-03-Chinese-Navy-Submarine=Construction-Bohai %}"><img
+  waiting for exactly this....<br/><a href="/Chinese-Navy-Submarine=Construction-Bohai.html"><img
   src="/images/China-Submarine-Construction-Bohai-2020-11-02-900.jpg"/></a><br/>[Read
-  More &gt;....]({% post_url 2020-11-03-Chinese-Navy-Submarine=Construction-Bohai %} "READ MORE")
+  More &gt;....](/Chinese-Navy-Submarine=Construction-Bohai.html "READ MORE")
 ...
 
 ---

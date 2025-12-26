@@ -2,13 +2,13 @@
 layout: post
 title: "North_Korean_VSV"
 date: "2016-09-28 18:40:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5"> **Very Slender Vessel (VSV)** </font><br/><img src="/images/flag_nork.jpg"/>
   It is a myth that North Korean naval vessels are by definition clones of older Russia
   or Chinese designs. In fact North Korean naval architects have produced a long string
   of original designs, often with novel features. They have Semi-Submersibles, catamarans,
   Surface Effect Ships (SES) and now they have **Very Slender Vessels** (VSVs)....
-  [Read More &gt;....]({% post_url 2016-09-28-North_Korean_VSV %} "READ MORE")<br/><a href="{% post_url 2016-09-28-North_Korean_VSV %}"><img
+  [Read More &gt;....](/North_Korean_VSV.html "READ MORE")<br/><a href="/North_Korean_VSV.html"><img
   src="/images/DPRK_VSV_900.jpg"/></a><br clear="right"/>
 ...
 

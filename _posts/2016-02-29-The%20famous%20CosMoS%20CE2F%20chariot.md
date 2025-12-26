@@ -2,8 +2,8 @@
 layout: post
 title: "The famous CosMoS CE2F chariot"
 date: "2016-02-29 14:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><br clear=\"right\"/>![Flag](/images/flag_italy.jpg)\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/>![Flag](/images/flag_italy.jpg)\
   \ <img src=\"/images/Updated.jpg\"/> For much of the Cold War and beyond, within\
   \ naval circles, the Cos.Mo.S CE2F was the prototypical two-man \u2018chariot\u2019\
   . Based on tactics employed with devastating effect in WW2, it provided a means\

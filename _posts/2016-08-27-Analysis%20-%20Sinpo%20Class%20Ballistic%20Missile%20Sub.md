@@ -4,8 +4,8 @@ title: "Analysis - Sinpo Class Ballistic Missile Sub"
 date: "2016-08-27 12:00:00"
 excerpt: "<img src=\"/images/Updated.jpg\"/>*17th April 2017*<br/><font size=\"6\"> **North\
   \ Korea's** *Polaris* </font> (Gorae / SINPO Class ballistic missile submarine)<a\
-  \ href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><br clear=\"right\"><img src=\"/images/flag_nork.jpg\"\
+  \ href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"><img src=\"/images/flag_nork.jpg\"\
   /> A lot of things have changed since I first discovered the Gorae Class ballistic\
   \ missile submarine (aka SINPO Class) in Google Earth imagery in October 2014. At\
   \ the time, North Korea\u2019s submarine launched ballistic missile (SLBM) program\

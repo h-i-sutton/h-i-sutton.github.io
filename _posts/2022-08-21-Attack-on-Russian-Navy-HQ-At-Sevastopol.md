@@ -2,15 +2,15 @@
 layout: post
 title: "OSINT: Ukrainian Drone Took Inland Approach To Attack Russian Navy Headquarters At Sevastopol"
 date: "2022-08-21 22:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><br clear=\"right\"/><a href=\"{% post_url 2022-08-21-Attack-on-Russian-Navy-HQ-At-Sevastopol %}\"\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Attack-on-Russian-Navy-HQ-At-Sevastopol.html\"\
   ><img align=\"left\" src=\"/images/Russia-Crimea-Sevastopol-Navy-HQ-317.jpg\"/></a>\
   \ ![Flag Russia](/images/flag_russia.jpg) Sevastopol harbour, the main naval base\
   \ for Russia\u2019s Black Sea fleet (BSF) has, until now, been largely unaffected\
   \ by the sharp end of the Ukraine War. Butthe past week or so has seen Ukraine bring\
   \ the war to Crimea.<br/><br/>On August 20 a drone hit the navy headquarters, in\
   \ broad daylight. Interestingly, the drone approached from inland...<br/>[Read More\
-  \ &gt;....]({% post_url 2022-08-21-Attack-on-Russian-Navy-HQ-At-Sevastopol %} \"READ MORE\")<br clear=\"\
+  \ &gt;....](/Attack-on-Russian-Navy-HQ-At-Sevastopol.html \"READ MORE\")<br clear=\"\
   left\"/>"
 
 ---

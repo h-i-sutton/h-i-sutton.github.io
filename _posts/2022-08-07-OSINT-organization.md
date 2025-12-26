@@ -2,12 +2,12 @@
 layout: post
 title: "Idea - OSINT organization"
 date: "2022-08-07 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-08-07-OSINT-organization %}"><img align="left" src="/images/OSINT-Russia-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/OSINT-organization.html"><img align="left" src="/images/OSINT-Russia-317.jpg"/></a>
   Western governments should set up dedicated information and analysis units using
   open source intelligence (OSINT) and commercially sourced imagery to monitor and
   record 'areas of interest'. This is to win the information war with facts.<br/>[Read
-  More &gt;....]({% post_url 2022-08-07-OSINT-organization %} "READ MORE")<br clear="left"/>
+  More &gt;....](/OSINT-organization.html "READ MORE")<br clear="left"/>
 ...
 
 ---

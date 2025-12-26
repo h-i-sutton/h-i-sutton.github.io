@@ -2,13 +2,13 @@
 layout: post
 title: "OSINT on Iranian Ship Makran, Sailing To Venezuela"
 date: "2021-06-02 23:50:00"
-excerpt: '**Frequent updates since publishing**<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img
-  align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2021-06-02-OSINT-Update-Makran-Iran-Venezuela %}"><img
+excerpt: '**Frequent updates since publishing**<a href="https://twitter.com/covertshores" target="blank"><img
+  align="right" src="/images/twitter.jpg"/></a><br clear="right"/><a href="/OSINT-Update-Makran-Iran-Venezuela.html"><img
   align="left" src="/images/Iran-Venezuela-Makran-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg)
   **OSINT**. An Iranian Navy forward base ship, Makran, is believed to be transporting
   arms to Venezuela. I was able to break the story on USNI News. This piece complements
   that write up by providing a few additional OSINT elements for reference.  <br/>[Read
-  More &gt;....]({% post_url 2021-06-02-OSINT-Update-Makran-Iran-Venezuela %} "READ MORE")<br clear="left"/>'
+  More &gt;....](/OSINT-Update-Makran-Iran-Venezuela.html "READ MORE")<br clear="left"/>'
 
 ---
 **Frequent updates since publishing**[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

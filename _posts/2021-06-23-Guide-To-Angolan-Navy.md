@@ -2,12 +2,12 @@
 layout: post
 title: "Quick Guide To Angola's Navy"
 date: "2021-06-23 08:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-06-23-Guide-To-Angolan-Navy %}"><img align="left" src="/images/Angolan-Navy-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Guide-To-Angolan-Navy.html"><img align="left" src="/images/Angolan-Navy-317.jpg"/></a>
   ![Flag Angola](/images/Flag_Angola.jpg) Many reference sources still list the Angolan
   Navy as having OSA-II Class missile boats and SHERSHEN class torpedo boats. These
   haven't been around for over 20 years. Instead the Angolan Navy is going through
-  a process of rebirth<br/><br/>[Read More &gt;....]({% post_url 2021-06-23-Guide-To-Angolan-Navy %} "READ
+  a process of rebirth<br/><br/>[Read More &gt;....](/Guide-To-Angolan-Navy.html "READ
   MORE")<br clear="left"/>
 ...
 

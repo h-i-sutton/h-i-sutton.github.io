@@ -2,12 +2,12 @@
 layout: post
 title: "Covert Shores Guide To Mozambique Navy: New, Fast, and Stuck In The Mud"
 date: "2021-05-26 19:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-05-26-Guide-To-Mozambique-Navy %}"><img align="left" src="/images/Mozambique-Ocean-Eagle-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Guide-To-Mozambique-Navy.html"><img align="left" src="/images/Mozambique-Ocean-Eagle-317.jpg"/></a>
   ![Flag Mozambique](/images/flag_mozambique.jpg) Mozambique has one of the most impressive
   fleets of any small navy. On paper. It is equipped with futuristic trimaran offshore
   patrol boats, robust interceptors and the world's fastest military boat.<br/><br/>This
-  article will provide an overview of their vessel types.<br/>[Read More &gt;....]({% post_url 2021-05-26-Guide-To-Mozambique-Navy %}
+  article will provide an overview of their vessel types.<br/>[Read More &gt;....](/Guide-To-Mozambique-Navy.html
   "READ MORE")<br clear="left"/>
 ...
 

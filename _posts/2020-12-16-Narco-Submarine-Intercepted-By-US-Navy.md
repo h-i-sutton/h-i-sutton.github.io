@@ -2,12 +2,12 @@
 layout: post
 title: "Narco-Submarine-Intercepted-By-US-Navy"
 date: "2020-12-16 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Cutaway of Narco VSV interdicted by US Navy LCS** </font><br clear="right"/><a
-  href="{% post_url 2020-12-16-Narco-Submarine-Intercepted-By-US-Navy %}"><img align="left" src="/images/Narco-Submarine-VSV-Cutaway-317.jpg"/></a><br/>The
+  href="/Narco-Submarine-Intercepted-By-US-Navy.html"><img align="left" src="/images/Narco-Submarine-VSV-Cutaway-317.jpg"/></a><br/>The
   USS Gabrielle Giffords, an  Independence-class littoral combat ship  (LCS) interdicted
   a narco-submarine in the Pacific Ocean on December 5.<br/><br/>The cutaway shows
-  the internal arrangement of this specific type of narco-VSV....<br/>[Read More &gt;....]({% post_url 2020-12-16-Narco-Submarine-Intercepted-By-US-Navy %}
+  the internal arrangement of this specific type of narco-VSV....<br/>[Read More &gt;....](/Narco-Submarine-Intercepted-By-US-Navy.html
   "READ MORE")<br clear="left"/>
 ...
 

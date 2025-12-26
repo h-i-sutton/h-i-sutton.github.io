@@ -6,7 +6,7 @@ excerpt: "**Revised**<br/><font size=\"6\">**Iran's Jask-2 submarine launched mi
   \ src=\"/images/flag_iran.jpg\"/> On the third day of Iran\u2019s Velayat 97 exercises,\
   \ the Iranian media published reports that a cruise missile had been demonstrated\
   \ aboard an IS-120 Ghadir Class midget submarine. This article disects the footage...<br/><a\
-  \ href=\"{% post_url 2019-02-26-Iran_SLCM_video_analysis %}\"><img src=\"/images/Ir_Jask2_900.jpg\"\
+  \ href=\"/Iran_SLCM_video_analysis.html\"><img src=\"/images/Ir_Jask2_900.jpg\"\
   /></a><br/>"
 
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "New type of Narco-sub"
 date: "2016-05-28 02:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
   clear="right"/>Just when you thought that the design of narco-subs had standardized,
   a new type arrives. On 20th May the Colombian and Ecuadorian forces intercepted
   a drug-laden narco-sub near the Galapagos Islands in the Pacific. The design is

@@ -2,14 +2,14 @@
 layout: post
 title: "Chinese-Submarines-Seen-At-Wuchang"
 date: "2021-03-13 10:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**China''s Submarine Modernization Continues: 2 Submarines Seen Outside
-  New Shipyard**</font><br clear="right"/><a href="{% post_url 2021-03-13-Chinese-Submarines-Seen-At-Wuchang %}"><img
+  New Shipyard**</font><br clear="right"/><a href="/Chinese-Submarines-Seen-At-Wuchang.html"><img
   align="left" src="/images/China-Wuchang-317.jpg"/></a>![Flag](/images/flag_China.jpg)
   Following on from my previous  <a href="https://www.navalnews.com/naval-news/2021/02/china-increases-production-of-aip-submarines-with-massive-new-shipyard/"
   target="blank">analysis for Naval News</a>, multiple Type-039A/B Yuan Class submarines
   are being built at the Wuchang shipyard outside Wuhan. This can now be clearly evidenced
-  using commercial satellite imagery. <br/><br/>[Read More &gt;....]({% post_url 2021-03-13-Chinese-Submarines-Seen-At-Wuchang %}
+  using commercial satellite imagery. <br/><br/>[Read More &gt;....](/Chinese-Submarines-Seen-At-Wuchang.html
   "READ MORE")<br clear="left"/>'
 
 ---

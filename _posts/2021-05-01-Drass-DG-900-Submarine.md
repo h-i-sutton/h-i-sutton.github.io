@@ -2,13 +2,13 @@
 layout: post
 title: "DRASS DG-900 Compact Submarine"
 date: "2021-05-01 01:02:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><h1>Drass
-  DG-900 Compact Submarine</h1><br clear="right"/><a href="{% post_url 2021-05-01-Drass-DG-900-Submarine %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><h1>Drass
+  DG-900 Compact Submarine</h1><br clear="right"/><a href="/Drass-DG-900-Submarine.html"><img
   align="left" src="/images/Italy-Drass-DG900-317.jpg"/></a> ![Flag](/images/flag_italy.jpg)
   There is renewed attention on Italy's tradition of midget submarine design and construction.
   Qatar has ordered two subs from an unreported Italian midget submarine manufacturer.
   One of the possible firms is Drass.<br/><br/>The DG-900 represents the most capable
-  design in the current range.<br/>[Read More]({% post_url 2021-05-01-Drass-DG-900-Submarine %} "READ
+  design in the current range.<br/>[Read More](/Drass-DG-900-Submarine.html "READ
   MORE")<br clear="left"/>
 ...
 

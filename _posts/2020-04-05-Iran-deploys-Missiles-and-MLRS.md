@@ -2,13 +2,13 @@
 layout: post
 title: "Iran-deploys-Missiles-and-MLRS"
 date: "2020-04-05 01:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Iran deploys MLRS and anti-ship missiles to Strait of Hormuz**</font><br/>![Flag](/images/flag_iran.jpg)
   Videos are emerging of Iranian rocket and missile systems lined up along beaches,
   apparently to cover the Strait of Hormuz. They appear to show an assortment of systems
   including Fajr-5, Fajr-3 MLRS and a Khatam-5 anti-ship missile launcher...<br/><a
-  href="{% post_url 2020-04-05-Iran-deploys-Missiles-and-MLRS %}"><img src="/images/Iran-straits-HormuzVid-900.jpg"/></a><br/>[Read
-  More &gt;....]({% post_url 2020-04-05-Iran-deploys-Missiles-and-MLRS %} "READ MORE")
+  href="/Iran-deploys-Missiles-and-MLRS.html"><img src="/images/Iran-straits-HormuzVid-900.jpg"/></a><br/>[Read
+  More &gt;....](/Iran-deploys-Missiles-and-MLRS.html "READ MORE")
 ...
 
 ---

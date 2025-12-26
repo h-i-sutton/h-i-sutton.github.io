@@ -2,11 +2,11 @@
 layout: post
 title: "Iranian-Navy-Mowj-Class"
 date: "2021-01-01 09:01:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Iran''s latest Mowj Class warship: IRIS Dena**</font><br clear="right"/><a
-  href="{% post_url 2021-01-01-Iranian-Navy-Mowj-Class %}"><img align="left" src="/images/Iran-Dena-Frigate-Mowj-Class-317.jpg"/></a>![Flag](/images/flag_iran.jpg)
+  href="/Iranian-Navy-Mowj-Class.html"><img align="left" src="/images/Iran-Dena-Frigate-Mowj-Class-317.jpg"/></a>![Flag](/images/flag_iran.jpg)
   Although it has barely been reported in English language sources, the Iranian Navy
-  has taken delivery of another Mowj class frigate...<br/>[Read More &gt;....]({% post_url 2021-01-01-Iranian-Navy-Mowj-Class %}
+  has taken delivery of another Mowj class frigate...<br/>[Read More &gt;....](/Iranian-Navy-Mowj-Class.html
   "READ MORE")<br clear="left"/>'
 
 ---

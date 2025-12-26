@@ -2,11 +2,11 @@
 layout: post
 title: "Transatlantic-Narco-submarine-Galicia"
 date: "2020-03-03 04:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Transatlantic NarcoSub cutaway**</font><br/>Low Profile vessel (LPV)
   was intercepted by the USCG Cutter Valiant in the early hours of 1st September..
-  and more... <br/><a href="{% post_url 2020-03-03-Transatlantic-Narco-submarine-Galicia %}"><img src="/images/NarcoSub_Transatlantic_900.jpg"/></a><br/>[Read
-  More &gt;....]({% post_url 2020-03-03-Transatlantic-Narco-submarine-Galicia %} "READ MORE")
+  and more... <br/><a href="/Transatlantic-Narco-submarine-Galicia.html"><img src="/images/NarcoSub_Transatlantic_900.jpg"/></a><br/>[Read
+  More &gt;....](/Transatlantic-Narco-submarine-Galicia.html "READ MORE")
 ...
 
 ---

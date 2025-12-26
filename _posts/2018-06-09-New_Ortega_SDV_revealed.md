@@ -2,15 +2,15 @@
 layout: post
 title: "New_Ortega_SDV_revealed"
 date: "2018-06-09 11:00:00"
-excerpt: "*Updated.*<br/><a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img\
-  \ align=\"right\" src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"5\">**Revealed:\
+excerpt: "*Updated.*<br/><a href=\"https://twitter.com/covertshores\" target=\"blank\"><img\
+  \ align=\"right\" src=\"/images/twitter.jpg\"/></a><font size=\"5\">**Revealed:\
   \ Latest Dutch Special Forces Swimmer Delivery Vehicles**</font><br/><img src=\"\
   /images/flag_netherlands.jpg\"/> Previously unpublished blurry mobile phone photographs\
   \ of an unusual boat seen on a Dutch lake showed the latest Ortega Mk.1D 4-person\
   \ Swimmer Delivery Vehicle (SDV). The craft was undergoing manufacturer\u2019s trials\
   \ prior to delivery to a defense customer. Covert Shores can reveal further details\
-  \ and high-resolution photos.<br/>[Read More &gt;....]({% post_url 2018-06-09-New_Ortega_SDV_revealed %}\
-  \ \"READ MORE\")<br/><a href=\"{% post_url 2018-06-09-New_Ortega_SDV_revealed %}\"><img src=\"/images/Ortega_Mk1D_side900.jpg\"\
+  \ and high-resolution photos.<br/>[Read More &gt;....](/New_Ortega_SDV_revealed.html\
+  \ \"READ MORE\")<br/><a href=\"/New_Ortega_SDV_revealed.html\"><img src=\"/images/Ortega_Mk1D_side900.jpg\"\
   /></a><br clear=\"right\"/>"
 
 ---

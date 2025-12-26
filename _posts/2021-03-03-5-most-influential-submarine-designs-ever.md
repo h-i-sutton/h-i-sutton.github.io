@@ -2,12 +2,12 @@
 layout: post
 title: "5-most-influential-submarine-designs-ever"
 date: "2021-03-03 18:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**5 Most Influential Submarine Designs Ever**</font><br clear="right"/><a
-  href="{% post_url 2021-03-03-5-most-influential-submarine-designs-ever %}"><img align="left" src="/images/Most-influential-subs-317.jpg"/></a>These
+  href="/5-most-influential-submarine-designs-ever.html"><img align="left" src="/images/Most-influential-subs-317.jpg"/></a>These
   five submarines can easily be argued to have been the most important in overall
   terms. <br/><br/>**Not** the Surcouf, I-400, Alfa Class, USS Jimmy Carter or the
-  mighty Typhoon.<br/><br/>[Read More &gt;....]({% post_url 2021-03-03-5-most-influential-submarine-designs-ever %}
+  mighty Typhoon.<br/><br/>[Read More &gt;....](/5-most-influential-submarine-designs-ever.html
   "READ MORE")<br clear="left"/>
 ...
 

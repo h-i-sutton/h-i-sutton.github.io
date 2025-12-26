@@ -2,13 +2,13 @@
 layout: post
 title: "Object-found-on-Indonesian-beach"
 date: "2021-01-20 19:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Another Suspected-Chinese device found in Indonesia**</font><br clear="right"/><a
-  href="{% post_url 2021-01-20-Object-found-on-Indonesian-beach %}"><img align="left" src="/images/Underwater-Sensor-Indonesia-317.jpg"/></a>The
+  href="/Object-found-on-Indonesian-beach.html"><img align="left" src="/images/Underwater-Sensor-Indonesia-317.jpg"/></a>The
   tales of "missile like" objects washing up in Indonesia continue. Just a couple
   of weeks after the forth Chinese-made Sea Wing underwater glider turned up in Indonesian
   territorial waters, another China-linked device has turned up on a beach in the
-  country. <br/><br/>This object isn't a Sea Wing however...<br/>[Read More &gt;....]({% post_url 2021-01-20-Object-found-on-Indonesian-beach %}
+  country. <br/><br/>This object isn't a Sea Wing however...<br/>[Read More &gt;....](/Object-found-on-Indonesian-beach.html
   "READ MORE")<br clear="left"/>
 ...
 

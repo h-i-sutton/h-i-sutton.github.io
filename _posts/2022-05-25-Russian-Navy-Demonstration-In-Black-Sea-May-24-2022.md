@@ -2,14 +2,14 @@
 layout: post
 title: "Russian Navy Performed A Major Demonstration In Black Sea"
 date: "2022-05-25 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-05-25-Russian-Navy-Demonstration-In-Black-Sea-May-24-2022 %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Navy-Demonstration-In-Black-Sea-May-24-2022.html"><img
   align="left" src="/images/Russian-Navy-Black-Sea-May24-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   May 24 saw a major amphibious demonstration by the Russian Navy in the Black Sea.
   This is an exercise where their landing ships are used to threaten an amphibious
   assault. This stresses the Ukrainian defenses and creates uncertainty. <br/><br/>The
   demonstration is visible in a Sentinel-2 satellite overpass of the western Black
-  Sea<br/>[Read More &gt;....]({% post_url 2022-05-25-Russian-Navy-Demonstration-In-Black-Sea-May-24-2022 %}
+  Sea<br/>[Read More &gt;....](/Russian-Navy-Demonstration-In-Black-Sea-May-24-2022.html
   "READ MORE")<br clear="left"/>
 ...
 

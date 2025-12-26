@@ -2,15 +2,15 @@
 layout: post
 title: "Another Narco-Submarine Found In Colombian Jungle"
 date: "2021-04-10 20:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"5\">**Another Narco-Submarine Found\
-  \ In Colombian Jungle**</font><br clear=\"right\"/><a href=\"{% post_url 2021-04-10-Narco-Submarine-April-10-2021 %}\"\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**Another Narco-Submarine Found\
+  \ In Colombian Jungle**</font><br clear=\"right\"/><a href=\"/Narco-Submarine-April-10-2021.html\"\
   ><img align=\"left\" src=\"/images/Narco-Submarine-Colombian-Jungle-April2021-317.jpg\"\
   /></a> This almost complete narcosub was found at a complex for the production of\
   \ cocaine. The make-shift facility is believed to relate to the \u201CWestern Block\
   \ Alfonso Cano\u201D (*Bloque Occidental Alfonso Cano*).<br/><br/>Based on the limited\
   \ photographs available the vessel is provisionally identified as a LPV-OM-VSV-8.<br/>\
-  \ [Read More &gt;....]({% post_url 2021-04-10-Narco-Submarine-April-10-2021 %} \"READ MORE\")<br clear=\"\
+  \ [Read More &gt;....](/Narco-Submarine-April-10-2021.html \"READ MORE\")<br clear=\"\
   left\"/>"
 
 ---

@@ -2,12 +2,12 @@
 layout: post
 title: "Iran's IRGC Shows Off New Warship"
 date: "2024-01-07 17:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-01-07-Iran-IRGC-Abu-Mahdi-Class %}"><img align="left" src="/images/Iran-IRGC-Ship-Abu-Mahdi-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Iran-IRGC-Abu-Mahdi-Class.html"><img align="left" src="/images/Iran-IRGC-Ship-Abu-Mahdi-317.jpg"/></a>
   ![Flag Iran](/images/flag_iran.jpg) Iran showcased another batch of new boats for
   the IRGC (Islamic Revolutionary Guard Corp). The exact number of new vessels in
   these parades needs to be taken with a pinch of salt.<br/><br/>This time a new missile
-  boat stole the show...<br/>[Read More &gt;....]({% post_url 2024-01-07-Iran-IRGC-Abu-Mahdi-Class %}
+  boat stole the show...<br/>[Read More &gt;....](/Iran-IRGC-Abu-Mahdi-Class.html
   "READ MORE")<br clear="left"/>
 ...
 

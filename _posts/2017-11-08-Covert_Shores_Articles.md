@@ -2,9 +2,9 @@
 layout: post
 title: "Covert_Shores_Articles"
 date: "2017-11-08 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
-  size="6">**Popular Covert Shores Articles**</font><br/>[Read More &gt;....]({% post_url 2017-11-08-Covert_Shores_Articles %}
-  "READ MORE")<br/><a href="{% post_url 2017-11-08-Covert_Shores_Articles %}"><img src="/images/Popular900.jpg"/></a><br
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
+  size="6">**Popular Covert Shores Articles**</font><br/>[Read More &gt;....](/Covert_Shores_Articles.html
+  "READ MORE")<br/><a href="/Covert_Shores_Articles.html"><img src="/images/Popular900.jpg"/></a><br
   clear="right"/>
 ...
 

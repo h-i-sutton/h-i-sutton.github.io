@@ -2,7 +2,7 @@
 layout: post
 title: "Covert-Shores-Narco-Submarines-Book"
 date: "2020-03-28 10:20:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6" style="color:#8A0808">**OUT NOW**</font><br/><font size="7">**Narco Submarines**</font><br/><font
   size="8">Covert Shores Recognition Guide</font><br/>Narco Submarines provides a
   go-to guide to the low-profile vessels used to smuggle narcotics in Latin America

@@ -2,7 +2,7 @@
 layout: post
 title: "Russian IC16MII Type Assault boat seen in exercises in Crimea"
 date: "2016-06-07 01:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
   clear="right"/>![Flag](/images/flag_russia.jpg) ![Flag](/images/flag_sweden.jpg)
   Photos of a recent military exercise in Crimea show the Swedish designed IC16MII
   Type Assault boat in service with the Russian Navy. The photos were taken on May

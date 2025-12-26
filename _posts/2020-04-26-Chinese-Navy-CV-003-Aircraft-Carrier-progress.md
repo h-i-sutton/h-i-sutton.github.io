@@ -2,12 +2,12 @@
 layout: post
 title: "Chinese-Navy-CV-003-Aircraft-Carrier-progress"
 date: "2020-04-26 00:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**IMINT shows progress on Chinese CV-003 carrier**</font> <br/>![Flag](/images/flag_China.jpg)
   Image analysis of China's 3rd aircraft carrier should steady preparations towards
-  launch...<br/><a href="{% post_url 2020-04-26-Chinese-Navy-CV-003-Aircraft-Carrier-progress %}"><img
+  launch...<br/><a href="/Chinese-Navy-CV-003-Aircraft-Carrier-progress.html"><img
   src="/images/China-Jiangnan-shipyard-carrier-CV-003-sat-900.jpg"/></a><br clear="right">[Read
-  More &gt;....]({% post_url 2020-04-26-Chinese-Navy-CV-003-Aircraft-Carrier-progress %} "READ MORE")<br/></br>
+  More &gt;....](/Chinese-Navy-CV-003-Aircraft-Carrier-progress.html "READ MORE")<br/></br>
 ...
 
 ---

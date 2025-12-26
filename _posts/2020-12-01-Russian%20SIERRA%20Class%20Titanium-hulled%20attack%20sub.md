@@ -2,7 +2,7 @@
 layout: post
 title: "Russian SIERRA Class Titanium-hulled attack sub"
 date: "2020-12-01 01:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**SIERRA-I Class Submarine**</font><br clear="right"/><a href="/Russian
   SIERRA Class Titanium-hulled attack sub.html"><img align="left" src="/images/Russian-Navy-Sierra-Class-Submarine-317.jpg"/></a>**UPDATED**<br/><br/>It
   takes a certain confidence to name a submarine after the *Barracuda*. It has to

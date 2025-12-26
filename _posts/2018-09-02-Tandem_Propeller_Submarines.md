@@ -2,12 +2,12 @@
 layout: post
 title: "Tandem_Propeller_Submarines"
 date: "2018-09-02 01:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**US Navy research into tandem propeller submarines**</font><br/>![Flag](/images/flag_USA.jpg)   Cdr.
   Frederick R. Haselton, US Navy, conceived that a submarine can operate with just
   two propellers, without the need for rudders or hydroplanes. It can move in almost
   any direction, including backwards, by subtly directing the thrust from the propellers....
-  [Read More &gt;....]({% post_url 2018-09-02-Tandem_Propeller_Submarines %} "READ MORE")<br/><a href="{% post_url 2018-09-02-Tandem_Propeller_Submarines %}"><img
+  [Read More &gt;....](/Tandem_Propeller_Submarines.html "READ MORE")<br/><a href="/Tandem_Propeller_Submarines.html"><img
   src="/images/Tandem-Propeller-900.jpg"/></a><br clear="right"/>
 ...
 

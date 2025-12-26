@@ -2,12 +2,12 @@
 layout: post
 title: "Type-XXI-U-Boat-of-World-War-Two"
 date: "2021-02-11 23:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**New Cutaway of Gernan Type-XXI Submarine**</font><br clear="right"/><a
-  href="{% post_url 2021-02-11-Type-XXI-U-Boat-of-World-War-Two %}"><img align="left" src="/images/Germany-Type-XXI-317.jpg"/></a>![Flag](/images/flag_GermanyWW2_ensign.jpg)
+  href="/Type-XXI-U-Boat-of-World-War-Two.html"><img align="left" src="/images/Germany-Type-XXI-317.jpg"/></a>![Flag](/images/flag_GermanyWW2_ensign.jpg)
   The Kriegsmarine's **Type-XX1** U-boat, known as the Elektroboote',  is rightly
   considered the most advanced submarine of World War Two.<br/><br/>It was planned
-  to be fitted with an upward firing anti-ship rocket system...<br/>[Read More &gt;....]({% post_url 2021-02-11-Type-XXI-U-Boat-of-World-War-Two %}
+  to be fitted with an upward firing anti-ship rocket system...<br/>[Read More &gt;....](/Type-XXI-U-Boat-of-World-War-Two.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Analysis -Russia seeks submarine advantage in Arctic"
 date: "2016-09-20 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>![Flag](/images/flag_russia.jpg)![Flag](/images/Updated.jpg)
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>![Flag](/images/flag_russia.jpg)![Flag](/images/Updated.jpg)
   This analysis follows on from the <a href="/Spy Subs -Project 09852 Belgorod.html">Belgorod
   submarine analysis</a>. A recent article in a Russian newspaper supports suspicions
   that Russia is planning a new network of naval installations in the Arctic. Together

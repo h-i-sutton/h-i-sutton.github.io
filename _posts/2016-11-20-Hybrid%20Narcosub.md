@@ -2,7 +2,7 @@
 layout: post
 title: "Hybrid Narcosub"
 date: "2016-10-21 17:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**New type of narco-sub**</font> <br/>Colombian Navy officials announced
   their forth Narcosub capture today. Like two so-called *narcosubs* captured earlier
   this year, it is in fact not a submarine. Nor is it a semi-submersible (as described

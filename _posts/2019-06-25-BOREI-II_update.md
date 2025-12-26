@@ -2,12 +2,12 @@
 layout: post
 title: "BOREI-II_update"
 date: "2019-06-25 00:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a> <font size=\"6\">**OSINT: new BOREI-II class\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a> <font size=\"6\">**OSINT: new BOREI-II class\
   \ SSBN is lengthened**</font><br/> ![Flag](/images/flag_russia.jpg) fresh commercial\
   \ satellite imagery available on Google Earth\u2019s history layers shows that the\
-  \ latest boat is also longer than the baseline version...  [Read More &gt;....]({% post_url 2019-06-25-BOREI-II_update %}\
-  \ \"READ MORE\")<br/><a href=\"{% post_url 2019-06-25-BOREI-II_update %}\"><img src=\"/images/Ru_Borei-Len900.jpg\"\
+  \ latest boat is also longer than the baseline version...  [Read More &gt;....](/BOREI-II_update.html\
+  \ \"READ MORE\")<br/><a href=\"/BOREI-II_update.html\"><img src=\"/images/Ru_Borei-Len900.jpg\"\
   /></a>"
 
 ---

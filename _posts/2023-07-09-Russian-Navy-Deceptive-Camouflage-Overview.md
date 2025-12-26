@@ -2,13 +2,13 @@
 layout: post
 title: "Russian Navy's New Deceptive Camouflage To Protect Kalibr-Armed Warships"
 date: "2023-07-09 02:00:00"
-excerpt: '**UPDATED**<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2023-07-09-Russian-Navy-Deceptive-Camouflage-Overview %}"><img
+excerpt: '**UPDATED**<a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"/><a href="/Russian-Navy-Deceptive-Camouflage-Overview.html"><img
   align="left" src="/images/Russia-Deceptive-Camo-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   The Russian Navy has continued to apply deceptive camouflage to key ships in the
   Black Sea. The new camo was first reported on the frigate Admiral Essen last week.<br/><br/>Since
   then at least **6** more warships have been painted in a similar way...<br/>[Read
-  More &gt;....]({% post_url 2023-07-09-Russian-Navy-Deceptive-Camouflage-Overview %} "READ MORE")<br
+  More &gt;....](/Russian-Navy-Deceptive-Camouflage-Overview.html "READ MORE")<br
   clear="left"/>'
 
 ---

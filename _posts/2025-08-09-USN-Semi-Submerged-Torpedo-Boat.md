@@ -3,13 +3,13 @@ layout: post
 title: "U.S. Navy's Semi-Submerged Torpedo Boat, 1943"
 date: "2025-08-09 12:00:00"
 excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2025-08-09-USN-Semi-Submerged-Torpedo-Boat %}"><img
+  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/USN-Semi-Submerged-Torpedo-Boat.html"><img
   align="left" src="/images/USN-Semi-Submersible-Torpedo-Boat-317.jpg"/></a> ![Flag
   US](/images/flag_USA.jpg) During World War Two the U.S. Navy was not known for its
   unconventional thinking. While the Italians and British quickly embraced novel means
   of sneak attacks, America focused on overwhelming conventional forces.<br/><br/>Yet
   that doesn't mean that everyone within the U.S. military thought that way...<br/>[Read
-  More &gt;....]({% post_url 2025-08-09-USN-Semi-Submerged-Torpedo-Boat %} "READ MORE")<br clear="left"/>
+  More &gt;....](/USN-Semi-Submerged-Torpedo-Boat.html "READ MORE")<br clear="left"/>
 ...
 
 ---

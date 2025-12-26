@@ -2,12 +2,12 @@
 layout: post
 title: "OSINT-Versus-Fiction: Jack Ryan's Ship Identified"
 date: "2022-12-22 09:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-12-22-Jack-Ryans-Ship-Identified %}"><img align="left" src="/images/Jack-Ryan-Sevastopol-Ship_identified-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Jack-Ryans-Ship-Identified.html"><img align="left" src="/images/Jack-Ryan-Sevastopol-Ship_identified-317.jpg"/></a>
   Tom Clancy's Jack Ryan is now in series 3 on Amazon Prime. Twitter user @legitloginname
   noticed that the show used satellite imagery of Sevastopol in one of its episodes.
   It is supposed to show a  cargo ship. Of course, many in the defense and OSINT communities
-  will instantly recognize which class of ship it actually is...<br/>[Read More &gt;....]({% post_url 2022-12-22-Jack-Ryans-Ship-Identified %}
+  will instantly recognize which class of ship it actually is...<br/>[Read More &gt;....](/Jack-Ryans-Ship-Identified.html
   "READ MORE")<br clear="left"/>
 ...
 

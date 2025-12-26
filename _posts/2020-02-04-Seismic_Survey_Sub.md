@@ -2,12 +2,12 @@
 layout: post
 title: "Seismic_Survey_Sub"
 date: "2020-02-04 01:01:00"
-excerpt: '*Updated with Cutaway. Originally posted May 21 2017*<br/><a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font size="6">**Russian
+excerpt: '*Updated with Cutaway. Originally posted May 21 2017*<br/><a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="6">**Russian
   Seismic Survey Submarine for Arctic Operations**</font> <br/>![Flag](/images/flag_russia.jpg)
   This is a unique submarine concept developed by the Rubin design bureau. It is designed
   to conduct sub-bottom surveys using very low frequency active sonar which can penetrate
-  the sea floor...<br/>[Read More]({% post_url 2020-02-04-Seismic_Survey_Sub %} "READ MORE")<br/><a href="{% post_url 2020-02-04-Seismic_Survey_Sub %}"><img
+  the sea floor...<br/>[Read More](/Seismic_Survey_Sub.html "READ MORE")<br/><a href="/Seismic_Survey_Sub.html"><img
   src="/images/Ru_SeismicSurvey_Sub_Cutaway-900.jpg"/></a><br/><br clear="right"/>'
 
 ---

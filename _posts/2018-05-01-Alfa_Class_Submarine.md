@@ -2,12 +2,12 @@
 layout: post
 title: "Alfa_Class_Submarine"
 date: "2018-05-01 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Russian ALFA Class interceptor submarine**</font><br/><img src="/images/flag_russia.jpg"/>
   At the height of the Cold War NATO submariners found themselves confronting a Soviet
   submarine which not only greatly out-performed their own boats, but which could
-  operate beyond the reach of their weapons... [Read More &gt;....]({% post_url 2018-05-01-Alfa_Class_Submarine %}
-  "READ MORE")<br/><a href="{% post_url 2018-05-01-Alfa_Class_Submarine %}"><img src="/images/Ru_Alfa900.jpg"/></a><br
+  operate beyond the reach of their weapons... [Read More &gt;....](/Alfa_Class_Submarine.html
+  "READ MORE")<br/><a href="/Alfa_Class_Submarine.html"><img src="/images/Ru_Alfa900.jpg"/></a><br
   clear="right"/>
 ...
 

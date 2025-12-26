@@ -2,12 +2,12 @@
 layout: post
 title: "Dutch_WW2_Subs"
 date: "2018-01-14 02:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
   <font size="6">**Advanced Dutch multi-hull submarine designs of World War Two**</font>
   <br/>![Flag](/images/flag_netherlands.jpg) At the start of World war Two, naval
   architects from the Dutch B.V. Nederlandsche Ver. Scheepsbouw Bureaux took refuge
-  in the United Kingdom, where they continued to design submarines.. [Read More &gt;....]({% post_url 2018-01-14-Dutch_WW2_Subs %}
-  "READ MORE")<br/><a href="{% post_url 2018-01-14-Dutch_WW2_Subs %}"><img src="/images/Dutch_WW2_attackSub_profile900.jpg"/></a><br
+  in the United Kingdom, where they continued to design submarines.. [Read More &gt;....](/Dutch_WW2_Subs.html
+  "READ MORE")<br/><a href="/Dutch_WW2_Subs.html"><img src="/images/Dutch_WW2_attackSub_profile900.jpg"/></a><br
   clear="right"/>
 ...
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Articles_for_Forbes_2020-03-15"
 date: "2020-03-17 11:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Recent Articles for Forbes**</font><br/>Underwater warfare and similar
   OSINT / defence analysis topics to a wider audience...<br/><a href="https://www.forbes.com/sites/hisutton/2020/03/16/the-chinese-navys-expansion-could-be-slowed-by-coronavirus/"
   target="blank"><img src="/images/Forbes-2020-03-g.jpg"/></a> <a href="https://www.forbes.com/sites/hisutton/2020/03/15/5-unique-weapons-of-cubas-garage-built-navy/"
@@ -12,7 +12,7 @@ excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="bla
   target="blank"><img src="/images/Forbes-2020-03-c.jpg"/></a><a href="https://www.forbes.com/sites/hisutton/2020/03/04/new-disguised-explosive-boat-may-threaten-tankers-off-yemen/"
   target="blank"><img src="/images/Forbes-2020-03-d.jpg"/></a><br/><a href="https://www.forbes.com/sites/hisutton/2020/03/03/asian-submarine-forces-forecast-for-2030/"
   target="blank"><img src="/images/Forbes-2020-03-e.jpg"/></a> <a href="https://www.forbes.com/sites/hisutton/2020/03/01/new-photo-reveals-cuban-navys-secret-submarine/"
-  target="blank"><img src="/images/Forbes-2020-03-f.jpg"/></a><br/>[Read More &gt;....]({% post_url 2020-03-17-Articles_for_Forbes_2020-03-15 %}
+  target="blank"><img src="/images/Forbes-2020-03-f.jpg"/></a><br/>[Read More &gt;....](/Articles_for_Forbes_2020-03-15.html
   "READ MORE")<br clear="right"/>
 ...
 

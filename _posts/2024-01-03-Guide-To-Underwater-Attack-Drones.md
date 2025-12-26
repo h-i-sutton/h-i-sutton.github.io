@@ -2,15 +2,15 @@
 layout: post
 title: "World Survey Of Underwater Attack Drones (OWA-AUVs)"
 date: "2024-01-03 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-01-03-Guide-To-Underwater-Attack-Drones %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Guide-To-Underwater-Attack-Drones.html"><img align="left"
   src="/images/World-Weaponized-AUV-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)
   ![Flag Hamas](/images/Flag_Hamas.jpg) ![Flag Iran](/images/flag_iran.jpg) ![Flag](/images/flag_nork.jpg)
   ![Flag Russia](/images/flag_russia.jpg) A new trend in naval warfare are one-way-attack
   autonomous underwater vehicles (OWA-AUVs). These weaponized underwater vehicles
   combine the range and autonomy of AUVs with a warhead similar to a torpedo. <br/><br/>It
   is an area where the major powers, and the West in general, is lagging...<br/>[Read
-  More &gt;....]({% post_url 2024-01-03-Guide-To-Underwater-Attack-Drones %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Guide-To-Underwater-Attack-Drones.html "READ MORE")<br clear="left"/>
 ...
 
 ---

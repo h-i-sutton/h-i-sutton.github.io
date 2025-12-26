@@ -2,13 +2,13 @@
 layout: post
 title: "Russian Navy's Way Around Turkey Closing The Bosporus To Its Warships, Literally"
 date: "2022-05-22 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-05-22-Russian-Navys-Secret-Internal-Waterways %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Navys-Secret-Internal-Waterways.html"><img align="left"
   src="/images/Russian-Navy-inland-Waterways-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   When Turkey closed the Bosporus to Russian warships it made headlines. It seriously
   restricts Russia's ability to move its warships around, limiting which warships
   can directly participate in its invasion of Ukraine.<br/><br/>But there is a trick
-  up Russia's sleeve...<br/>[Read More &gt;....]({% post_url 2022-05-22-Russian-Navys-Secret-Internal-Waterways %}
+  up Russia's sleeve...<br/>[Read More &gt;....](/Russian-Navys-Secret-Internal-Waterways.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,12 +2,12 @@
 layout: post
 title: "OSINT: Myanmar's New Dry Dock Built By China Flooded"
 date: "2024-10-22 18:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-10-22-Myanmar-Dry-Dock-OSINT %}"><img align="left" src="/images/Myanmar-Navy-Dry-Dock-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Myanmar-Dry-Dock-OSINT.html"><img align="left" src="/images/Myanmar-Navy-Dry-Dock-317.jpg"/></a>
   ![Flag Myanmar](/images/flag-Myanmar.jpg) Chinese engineers have reached a major
   milestone in the expansion and modernization of the Myanmar military Junta's navy.
   The large dry dock being constructed by the Chinese on the banks of the Yangon River.<br/><br/>The
-  docks were flooded some time between the 3rd and 8th October...<br/>[Read More &gt;....]({% post_url 2024-10-22-Myanmar-Dry-Dock-OSINT %}
+  docks were flooded some time between the 3rd and 8th October...<br/>[Read More &gt;....](/Myanmar-Dry-Dock-OSINT.html
   "READ MORE")<br clear="left"/>
 ...
 

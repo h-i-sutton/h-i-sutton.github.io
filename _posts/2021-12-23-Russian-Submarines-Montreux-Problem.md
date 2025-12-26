@@ -2,13 +2,13 @@
 layout: post
 title: "Montreux Games: Russia's Self-Inflicted Submarine Problem During The Ukraine Tensions"
 date: "2021-12-23 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-12-23-Russian-Submarines-Montreux-Problem %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Submarines-Montreux-Problem.html"><img align="left"
   src="/images/Russia-KILO-Submarine-Montreux-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   If the current tensions with Russia, centered on Ukraine, escalate to localized
   blows they will likely be a land, air and cyber conflict. Not naval. Largely this
   is because of geography.<br/><br/>But there is another factor, the little known
-  Montreux Convention....<br/>[Read More &gt;....]({% post_url 2021-12-23-Russian-Submarines-Montreux-Problem %}
+  Montreux Convention....<br/>[Read More &gt;....](/Russian-Submarines-Montreux-Problem.html
   "READ MORE")<br clear="left"/>
 ...
 

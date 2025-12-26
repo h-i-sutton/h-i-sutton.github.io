@@ -2,8 +2,8 @@
 layout: post
 title: "Diver Adaptable Autonomous Propulsion Vehicle"
 date: "2016-05-26 02:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><br clear=\"right\"/>![Flag](/images/flag_USA.jpg)\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/>![Flag](/images/flag_USA.jpg)\
   \ Another SDV revealed at SOFIC 2016 is Patriot 3 Maritime\u2019s latest project,\
   \ the Diver Adaptable *Autonomous* Propulsion Vehicle (**DAAPV**). [Read More &gt;....](/Diver\
   \ Adaptable Autonomous Propulsion Vehicle.html \"READ MORE\")<br/><a href=\"/Diver\

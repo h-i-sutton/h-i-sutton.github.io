@@ -2,11 +2,11 @@
 layout: post
 title: "Mystery Objects Off Chinese Coast, Near Special Base"
 date: "2022-05-27 23:00:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2022-05-27-Unidentified-Objects-Off-Chines-Naval-Base %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Unidentified-Objects-Off-Chines-Naval-Base.html"><img
   align="left" src="/images/China-Dalian-Sea-Structure-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
   There are four unexplained pillars or buoys just off the coast of Dalian, China.
-  They are now visible on Google Earth.<br/>[Read More &gt;....]({% post_url 2022-05-27-Unidentified-Objects-Off-Chines-Naval-Base %}
+  They are now visible on Google Earth.<br/>[Read More &gt;....](/Unidentified-Objects-Off-Chines-Naval-Base.html
   "READ MORE")<br clear="left"/></br>
 ...
 

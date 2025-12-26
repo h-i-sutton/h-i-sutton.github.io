@@ -2,13 +2,13 @@
 layout: post
 title: "Massive Increase In Transatlantic Narco Submarines"
 date: "2024-06-28 09:30:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-06-28-Transatlantic-Narco-Submarines-202406 %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Transatlantic-Narco-Submarines-202406.html"><img align="left"
   src="/images/Narco-Submarine-202406-317.jpg"/></a> Narco-submarines are transporting
   tons of cocaine across the Atlantic from South America to Europe. There have been
   indications of this going back ten years, but evidence was rare.<br/><br/>Now four
   more incidents, over a few months, hints at the scale and persistence of this unseen
-  and under-discussed phenomenon...<br/>[Read More &gt;....]({% post_url 2024-06-28-Transatlantic-Narco-Submarines-202406 %}
+  and under-discussed phenomenon...<br/>[Read More &gt;....](/Transatlantic-Narco-Submarines-202406.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,13 +2,13 @@
 layout: post
 title: "Russia_Navy_Beluga_Whale"
 date: "2019-04-29 05:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Equipment St.Petersburg: Russian Navy Beluga whale**</font><br/><img
   src="/images/flag_russia.jpg"/> Fishermen in Finnmark in northern Norway recently
   found a Beluga whale wearing a tight harness for external equipment. Circumstantial
   evidence suggests that the whale escaped from a Russian Navy program... <br/><a
-  href="{% post_url 2019-04-29-Russia_Navy_Beluga_Whale %}"><img src="/images/Ru_Beluga900.jpg"/></a><br/>[Read
-  More &gt;....]({% post_url 2019-04-29-Russia_Navy_Beluga_Whale %} "READ MORE")'
+  href="/Russia_Navy_Beluga_Whale.html"><img src="/images/Ru_Beluga900.jpg"/></a><br/>[Read
+  More &gt;....](/Russia_Navy_Beluga_Whale.html "READ MORE")'
 
 ---
 ##### Share: __

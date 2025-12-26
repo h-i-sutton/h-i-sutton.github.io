@@ -2,12 +2,12 @@
 layout: post
 title: "Iran's Previously Unreported Submarine-Launched Stand-Off Sea Mine"
 date: "2023-08-22 23:30:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-08-22-Iran-Mobile-Sea-Mine %}"><img align="left" src="/images/Iran-Mobile-Mine-940.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Iran-Mobile-Sea-Mine.html"><img align="left" src="/images/Iran-Mobile-Mine-940.jpg"/></a>
   ![Flag Iran](/images/flag_iran.jpg) The president of Iran, Ebrahim Raisi, has visited
   an 'exhibition of achievements' of the Ministry of Defense. Among the interesting
   items on display was a previously unreported stand-off bottom mine.<br/><br/>The
-  weapon would prove a useful addition to Iran's fleet....<br/>[Read More &gt;....]({% post_url 2023-08-22-Iran-Mobile-Sea-Mine %}
+  weapon would prove a useful addition to Iran's fleet....<br/>[Read More &gt;....](/Iran-Mobile-Sea-Mine.html
   "READ MORE")<br clear="left"/>
 ...
 

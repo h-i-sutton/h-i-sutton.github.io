@@ -2,15 +2,15 @@
 layout: post
 title: "Australian Navy Eyes German Type-214 Submarine?"
 date: "2021-05-27 10:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-05-27-Australian=Submarine-Options-Type-214 %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Australian=Submarine-Options-Type-214.html"><img align="left"
   src="/images/Australia-Subs-317.jpg"/></a> ![Flag Australia](/images/flag_aus.jpg)
   News that the Australian Navy may be exploring the idea of purchasing the German
   Type-214 submarines is surprising. They would replace the Collins class, instead
   of the French Shortfin Barracuda, which is already underway as the Attack Class.
   Quite aside from the political economic complications (I'll leave that to others),
   the choice of submarine is confusing. <br/><br/>Possibly there is a misunderstanding.<br/>
-  [Read More &gt;....]({% post_url 2021-05-27-Australian=Submarine-Options-Type-214 %} "READ MORE")<br
+  [Read More &gt;....](/Australian=Submarine-Options-Type-214.html "READ MORE")<br
   clear="left"/>
 ...
 

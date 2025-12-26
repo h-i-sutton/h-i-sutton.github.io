@@ -2,12 +2,12 @@
 layout: post
 title: "Overview Of Venezuelan Navy, 2023"
 date: "2023-12-04 22:01:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><br clear=\"right\"/><a href=\"{% post_url 2023-12-04-Venezuelan_Navy_2023 %}\"\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Venezuelan_Navy_2023.html\"\
   ><img align=\"left\" src=\"/images/Venezuela-Navy-2023-917.jpg\"/></a> ![Flag](/images/flag_venz.jpg)\
   \ Venezuela has held a referendum on whether to annex (read: invade) half of neighboring\
   \ Guyana.<br/><br/>Venezuela\u2019s Navy has undergone significant change in recent\
-  \ years. Yet it is less well documented than many...<br/>[Read More &gt;....]({% post_url 2023-12-04-Venezuelan_Navy_2023 %}\
+  \ years. Yet it is less well documented than many...<br/>[Read More &gt;....](/Venezuelan_Navy_2023.html\
   \ \"READ MORE\")<br clear=\"left\"/>"
 
 ---

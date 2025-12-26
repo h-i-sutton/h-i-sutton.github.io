@@ -2,13 +2,13 @@
 layout: post
 title: "First Sighting Of British Banshee Jet-Powered Drone In Ukraine"
 date: "2024-02-19 11:30:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-02-19-Ukraine-Banshee-Drone %}"><img align="left" src="/images/Ukraine-OWA-UAVs-banshee-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Ukraine-Banshee-Drone.html"><img align="left" src="/images/Ukraine-OWA-UAVs-banshee-317.jpg"/></a>
   ![Flag Ukraine](/images/flag_ukraine.jpg) ![Flag UK](/images/flag_UK.jpg)  At least
   one British-made Banshee target drone has been reported crashed behind Russian lines.
   The Banshee Jet 80 is a high-performance twin jet drone.<br/><br/>In Ukrainian service
   it is likely being used as a one-way attack drone (OWA-UAV) to strike high value
-  targets deep behind the front line...<br/>[Read More &gt;....]({% post_url 2024-02-19-Ukraine-Banshee-Drone %}
+  targets deep behind the front line...<br/>[Read More &gt;....](/Ukraine-Banshee-Drone.html
   "READ MORE")<br clear="left"/>
 ...
 

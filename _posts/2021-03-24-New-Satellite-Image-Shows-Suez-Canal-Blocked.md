@@ -2,12 +2,12 @@
 layout: post
 title: "New-Satellite-Image-Shows-Suez-Canal-Blocked"
 date: "2021-03-24 12:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
-  size="5">**Seen From Space: Suez Canal Blocked**</font><br clear="right"/><a href="{% post_url 2021-03-24-New-Satellite-Image-Shows-Suez-Canal-Blocked %}"><img
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
+  size="5">**Seen From Space: Suez Canal Blocked**</font><br clear="right"/><a href="/New-Satellite-Image-Shows-Suez-Canal-Blocked.html"><img
   align="left" src="/images/Suez-Canal-Ever-Given-Sat-317.jpg"/></a>All eyes are on
   the container ship which blocked the Suez Canal. This includes the eyes in space.
   Sentinel 2 satellite imagery, taken today, gives a new perspective on the problem.<br/>[Read
-  More &gt;....]({% post_url 2021-03-24-New-Satellite-Image-Shows-Suez-Canal-Blocked %} "READ MORE")<br
+  More &gt;....](/New-Satellite-Image-Shows-Suez-Canal-Blocked.html "READ MORE")<br
   clear="left"/>'
 
 ---

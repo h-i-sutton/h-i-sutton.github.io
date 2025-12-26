@@ -2,14 +2,14 @@
 layout: post
 title: "Chinese-Navys-Base-Yulin-Mar-21"
 date: "2021-03-04 10:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Incredible New Google Earth Images Of Chinese Nuclear Submarines**</font><br
-  clear="right"/><a href="{% post_url 2021-03-04-Chinese-Navys-Base-Yulin-Mar-21 %}"><img align="left"
+  clear="right"/><a href="/Chinese-Navys-Base-Yulin-Mar-21.html"><img align="left"
   src="/images/China-Submarines-Yulin-317.jpg"/></a>![Flag](/images/flag_China.jpg)
   The latest high-resolution satellite imagery of Yulin on Hainan, South China Sea,
   shows 7 submarines. One of the boats, a Type-09IV Jin Class SSBN, has some of its
   missile doors open. Tents are covering some of the open hatches. <br/><br/>[Read
-  More &gt;....]({% post_url 2021-03-04-Chinese-Navys-Base-Yulin-Mar-21 %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Chinese-Navys-Base-Yulin-Mar-21.html "READ MORE")<br clear="left"/>
 ...
 
 ---

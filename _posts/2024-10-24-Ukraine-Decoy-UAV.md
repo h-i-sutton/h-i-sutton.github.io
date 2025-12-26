@@ -2,14 +2,14 @@
 layout: post
 title: "Deceptively Simple: Ukraine's Decoy Drone"
 date: "2024-10-24 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-10-24-Ukraine-Decoy-UAV %}"><img align="left" src="/images/Ukraine-UAV-Decoy-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Ukraine-Decoy-UAV.html"><img align="left" src="/images/Ukraine-UAV-Decoy-317.jpg"/></a>
   ![Flag Ukraine](/images/flag_ukraine.jpg) Russia frequently launches tens of Shahed
   type drones into Ukraine, but rarely more than a handful get through. Most get shot
   down thanks to Ukraine's innovative and effective air defenses against these low-end
   threats. The attrition is baked into the raids, but when the Ukrainians reply in
   kind, they want more of their drones to get through.<br/><br/>Ukraine has developed
-  a low-cost decoy drone for this purpose...<br/>[Read More &gt;....]({% post_url 2024-10-24-Ukraine-Decoy-UAV %}
+  a low-cost decoy drone for this purpose...<br/>[Read More &gt;....](/Ukraine-Decoy-UAV.html
   "READ MORE")<br clear="left"/>
 ...
 

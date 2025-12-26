@@ -2,7 +2,7 @@
 layout: post
 title: "SharkMarine"
 date: "2016-06-26 02:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>![Flag](/images/flag_canada.jpg)
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>![Flag](/images/flag_canada.jpg)
   In spite of navigation being probably the single greatest challenges to underwater
   operations, development has tended to emphasize the vehicle before the sensors.
   Traditionally for divers, sensor and navigation systems were subsystems of an SDV
@@ -11,8 +11,8 @@ excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="bla
   range missions underwater unviable. Not only is this changing, but the relationship
   between navigation systems and SDV is reversing; increasingly SDVs can be seen as
   an add-on to a navigation system. Nowhere is this more apparent than with Canadian
-  manufacturer SharkMarine.... [Read More &gt;....]({% post_url 2016-06-26-SharkMarine %} "READ MORE")<br/><a
-  href="{% post_url 2016-06-26-SharkMarine %}"><img src="/images/SharkMarine_MAKO1.jpg"/></a><br/><a href="{% post_url 2016-06-26-SharkMarine %}"><img
+  manufacturer SharkMarine.... [Read More &gt;....](/SharkMarine.html "READ MORE")<br/><a
+  href="/SharkMarine.html"><img src="/images/SharkMarine_MAKO1.jpg"/></a><br/><a href="/SharkMarine.html"><img
   src="/images/SharkMarine_Mako_nose.jpg"/></a><br clear="right"/>
 ...
 

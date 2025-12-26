@@ -2,13 +2,13 @@
 layout: post
 title: "Russian-Navy-Base-in-Tartus-Syria"
 date: "2020-10-11 04:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Russia''s Defended Submarine Base In The Med: Tartus, Syria**</font>
   <br/>![Flag](/images/flag_russia.jpg) Since Russia''s intervention in the war in
   Syria their Mediterranean naval squadron has been reestablished. In the future it
   may have a base in Libya, but for the moment its only base is in Tartus in Syria...
-  <br/>[Read More &gt;....]({% post_url 2020-10-11-Russian-Navy-Base-in-Tartus-Syria %} "READ MORE")<br/><a
-  href="{% post_url 2020-10-11-Russian-Navy-Base-in-Tartus-Syria %}"><img src="/images/Russia-Navy-Tartus-900.jpg"/></a><br
+  <br/>[Read More &gt;....](/Russian-Navy-Base-in-Tartus-Syria.html "READ MORE")<br/><a
+  href="/Russian-Navy-Base-in-Tartus-Syria.html"><img src="/images/Russia-Navy-Tartus-900.jpg"/></a><br
   clear="right"><br/></br>'
 
 ---

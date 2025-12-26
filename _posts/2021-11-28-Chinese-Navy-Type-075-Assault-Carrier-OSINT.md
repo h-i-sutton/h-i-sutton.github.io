@@ -2,14 +2,14 @@
 layout: post
 title: "OSINT: China's New Type-075 Assault Carrier On Sea Trials"
 date: "2021-11-28 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-11-28-Chinese-Navy-Type-075-Assault-Carrier-OSINT %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Chinese-Navy-Type-075-Assault-Carrier-OSINT.html"><img
   align="left" src="/images/China-Type-075-Airctaft-Carrier-OSINT-317.jpg"/></a> ![Flag
   China](/images/flag_China.jpg) China has taken another small step forward. Videos
   shared online have shown the commencement of sea trials for their third assault
   carrier. The Type-075 was moved away from its fitting-out pier by two tugs on November
   25. OSINT soon emerged, and it is visible in Sentinel-2 satellite imagery out to
-  sea.<br/>[Read More &gt;....]({% post_url 2021-11-28-Chinese-Navy-Type-075-Assault-Carrier-OSINT %}
+  sea.<br/>[Read More &gt;....](/Chinese-Navy-Type-075-Assault-Carrier-OSINT.html
   "READ MORE")<br clear="left"/>
 ...
 

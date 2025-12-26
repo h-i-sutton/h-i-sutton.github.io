@@ -2,13 +2,13 @@
 layout: post
 title: "US Navy's Low Visibility Craft (LVC)"
 date: "2021-05-13 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-05-13-US-Navy-VSW-MCM-Dolphin-Boat %}"><img align="left" src="/images/US-Navy-Dolphin-Boat-317.jpg"/></a>![Flag
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/US-Navy-VSW-MCM-Dolphin-Boat.html"><img align="left" src="/images/US-Navy-Dolphin-Boat-317.jpg"/></a>![Flag
   America](/images/flag_USA.jpg) Imagine a little-talked about military unit made
   up of U.S. Navy SEALs, Explosive Ordinance Disposal (EOD) divers and U.S. Marine
   Corps Force Recon guys. Give them trained Navy dolphins, and ask task them with
   developing new tactics.<br/><br/>And the unique **Low Visibility Craft** they came
-  up with is particularly interesting.<br/>[Read More &gt;....]({% post_url 2021-05-13-US-Navy-VSW-MCM-Dolphin-Boat %}
+  up with is particularly interesting.<br/>[Read More &gt;....](/US-Navy-VSW-MCM-Dolphin-Boat.html
   "READ MORE")<br clear="left"/>
 ...
 

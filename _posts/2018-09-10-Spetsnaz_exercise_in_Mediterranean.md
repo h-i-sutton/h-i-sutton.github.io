@@ -2,13 +2,13 @@
 layout: post
 title: "Spetsnaz_exercise_in_Mediterranean"
 date: "2018-09-10 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Spetsnaz exercise in Mediterranean with Western kit**</font><br/><img
   src="/images/flag_russia.jpg"/> Russia has been conducting large-scale war games
   in the Eastern Mediterranean. Spetsnaz combat swimmers performed operations from
   a KILO Class submarine using German supplied diver propulsion vehicles (DPVs) and
-  Italian rebreathers.... <br/>[Read More &gt;....]({% post_url 2018-09-10-Spetsnaz_exercise_in_Mediterranean %}
-  "READ MORE")<br/><a href="{% post_url 2018-09-10-Spetsnaz_exercise_in_Mediterranean %}"><img src="/images/Ru_MedEx_900.jpg"/></a><br
+  Italian rebreathers.... <br/>[Read More &gt;....](/Spetsnaz_exercise_in_Mediterranean.html
+  "READ MORE")<br/><a href="/Spetsnaz_exercise_in_Mediterranean.html"><img src="/images/Ru_MedEx_900.jpg"/></a><br
   clear="right"/>
 ...
 

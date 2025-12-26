@@ -2,11 +2,11 @@
 layout: post
 title: "Russian-Navy-Submarine-Belgorod-Update"
 date: "2020-07-28 03:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Belgorod: Russia''s super-submarine update**</font> <br/>![Flag](/images/flag_russia.jpg)
   On July 26, Russia''s Navy Day, President Putin stated that the RuN will receive
-  "underwater nuclear drones"... <br/>[Read More &gt;....]({% post_url 2020-07-28-Russian-Navy-Submarine-Belgorod-Update %}
-  "READ MORE")<br/><a href="{% post_url 2020-07-28-Russian-Navy-Submarine-Belgorod-Update %}"><img src="/images/Russia-submarine-Belgorod-Airbus900.jpg"/></a><br
+  "underwater nuclear drones"... <br/>[Read More &gt;....](/Russian-Navy-Submarine-Belgorod-Update.html
+  "READ MORE")<br/><a href="/Russian-Navy-Submarine-Belgorod-Update.html"><img src="/images/Russia-submarine-Belgorod-Airbus900.jpg"/></a><br
   clear="right"><br/></br>'
 
 ---

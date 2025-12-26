@@ -2,13 +2,13 @@
 layout: post
 title: "Iran-IRGC-Navy-Get-340-New-Boats"
 date: "2021-02-08 10:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Iran Shows Off 340 Boats Including\
-  \ New 'Bladerunner'**</font><br clear=\"right\"/><a href=\"{% post_url 2021-02-08-Iran-IRGC-Navy-Get-340-New-Boats %}\"\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Iran Shows Off 340 Boats Including\
+  \ New 'Bladerunner'**</font><br clear=\"right\"/><a href=\"/Iran-IRGC-Navy-Get-340-New-Boats.html\"\
   ><img align=\"left\" src=\"/images/Iran-IRGC-Boat-Show-317.jpg\"/></a>![Flag](/images/flag_iran.jpg)\
   \ Iran\u2019s IRGC-N (Islamic Revolutionary Guard Corps, Navy) has held a ceremony\
   \ for the induction of 340 new vessels. <br/><br/>Several of the vessels are particularly\
-  \ interesting.<br/><br/>[Read More &gt;....]({% post_url 2021-02-08-Iran-IRGC-Navy-Get-340-New-Boats %}\
+  \ interesting.<br/><br/>[Read More &gt;....](/Iran-IRGC-Navy-Get-340-New-Boats.html\
   \ \"READ MORE\")<br clear=\"left\"/>"
 
 ---

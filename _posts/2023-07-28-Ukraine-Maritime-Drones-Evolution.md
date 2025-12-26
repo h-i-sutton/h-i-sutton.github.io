@@ -2,14 +2,14 @@
 layout: post
 title: "Evolution of Ukraine's Maritime Drone"
 date: "2023-07-28 01:00:00"
-excerpt: '**UPDATED. Originally posted June 19 2023**<a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a
-  href="{% post_url 2023-07-28-Ukraine-Maritime-Drones-Evolution %}"><img align="left" src="/images/Ukraine-Russia-Maritime-Drones-317.jpg"/></a>
+excerpt: '**UPDATED. Originally posted June 19 2023**<a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><br clear="right"/><a
+  href="/Ukraine-Maritime-Drones-Evolution.html"><img align="left" src="/images/Ukraine-Russia-Maritime-Drones-317.jpg"/></a>
   ![Flag Ukraine](/images/flag_ukraine.jpg) From the original prototypes in the summer
   of 2022, through the attacks on Sevastopol in October and November 2022, maritime
   drones were seen as an exclusively Ukrainian game. Then in February 2023 a Russian
   explosive USV was used against the Zatoka bridge south of Odesa.<br/><br/>Ukraine
-  for its part was already working on a 2nd generation...<br/>[Read More &gt;....]({% post_url 2023-07-28-Ukraine-Maritime-Drones-Evolution %}
+  for its part was already working on a 2nd generation...<br/>[Read More &gt;....](/Ukraine-Maritime-Drones-Evolution.html
   "READ MORE")<br clear="left"/>'
 
 ---

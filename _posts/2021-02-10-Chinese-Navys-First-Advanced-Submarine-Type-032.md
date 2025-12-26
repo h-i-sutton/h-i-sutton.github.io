@@ -2,16 +2,16 @@
 layout: post
 title: "Chinese-Navys-First-Advanced-Submarine-Type-032"
 date: "2021-02-10 10:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**China's 'American' Submarine (That You Have Not Heard Of)**</font><br
-  clear="right"/><a href="{% post_url 2021-02-10-Chinese-Navys-First-Advanced-Submarine-Type-032 %}"><img
+  clear="right"/><a href="/Chinese-Navys-First-Advanced-Submarine-Type-032.html"><img
   align="left" src="/images/China-Type-032-11958-317.jpg"/></a>![Flag](/images/flag_China.jpg)
   The Type-032 submarine is the largest non-nuclear submarine in the world. It is
   less well documented than many other classes, but it is not unknown. But there was
   another submarine design called **Type-032** in 1958, and it was to have been one
   of the most advanced submarines built. <br/><br/>A single test submarine was built.
   That has long since been scrapped and the whole project is virtually unknown outside
-  China.<br/>[Read More &gt;....]({% post_url 2021-02-10-Chinese-Navys-First-Advanced-Submarine-Type-032 %}
+  China.<br/>[Read More &gt;....](/Chinese-Navys-First-Advanced-Submarine-Type-032.html
   "READ MORE")<br clear="left"/>
 ...
 

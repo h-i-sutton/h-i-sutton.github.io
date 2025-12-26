@@ -2,10 +2,10 @@
 layout: post
 title: "Underwater-Defence-Security-UDS-2020"
 date: "2020-01-19 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**UNDERWATER DEFENCE &amp; SECURITY (UDS) 2020**</font> <br/> 3 - 5 MARCH
-  2020, SOUTHAMPTON, UK... [Read More &gt;....]({% post_url 2020-01-19-Underwater-Defence-Security-UDS-2020 %}
-  "READ MORE")<br/><a href="{% post_url 2020-01-19-Underwater-Defence-Security-UDS-2020 %}"><img src="/images/UDS2020-900.jpg"/></a><br
+  2020, SOUTHAMPTON, UK... [Read More &gt;....](/Underwater-Defence-Security-UDS-2020.html
+  "READ MORE")<br/><a href="/Underwater-Defence-Security-UDS-2020.html"><img src="/images/UDS2020-900.jpg"/></a><br
   clear="right"/>
 ...
 

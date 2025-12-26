@@ -2,12 +2,12 @@
 layout: post
 title: "Mystery-Possible-Russian-submarine-off-Norway"
 date: "2020-09-06 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Russian TYPHOON class Submarine off Norway**</font> (Unconfirmed) <br/>![Flag](/images/flag_russia.jpg)
   The Russian Navy replenishment oiler Akademik Pashin has arrived in the Mediterranean.
   She is on AIS. Frank Bottema noticed something which appears to contradict the AIS
-  however... <br/>[Read More &gt;....]({% post_url 2020-09-06-Mystery-Possible-Russian-submarine-off-Norway %}
-  "READ MORE")<br/><a href="{% post_url 2020-09-06-Mystery-Possible-Russian-submarine-off-Norway %}"><img
+  however... <br/>[Read More &gt;....](/Mystery-Possible-Russian-submarine-off-Norway.html
+  "READ MORE")<br/><a href="/Mystery-Possible-Russian-submarine-off-Norway.html"><img
   src="/images/Russian-Navy-Typhoon-Submarine-Sat-Norway-900.jpg"/></a><br clear="right"><br/></br>
 ...
 

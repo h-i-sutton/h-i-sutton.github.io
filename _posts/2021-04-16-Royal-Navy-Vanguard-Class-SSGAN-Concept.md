@@ -2,15 +2,15 @@
 layout: post
 title: "Vanguard Class SSBN Conversion To Mother Submarine"
 date: "2021-04-16 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><h1>Vanguard
-  Class SSBN Conversion To Mother Submarine</h1><br clear="right"/><a href="{% post_url 2021-04-16-Royal-Navy-Vanguard-Class-SSGAN-Concept %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><h1>Vanguard
+  Class SSBN Conversion To Mother Submarine</h1><br clear="right"/><a href="/Royal-Navy-Vanguard-Class-SSGAN-Concept.html"><img
   align="left" src="/images/RoyalNavy-Vanguard-SSGAN-317.jpg"/></a> ![Flag United
   Kingdom](/images/flag_UK.jpg) The Royal Navy is exploring future scenarios which
   include mother submarines. These could act as the central node on a loose network
   of uncrewed underwater assets. These would launch UUVs (uncrewed underwater vehicles)
   to "Survey otherwise inaccessible areas".<br/><br/>If the Vanguard Class SSBNs were
   repurposed for this as the Dreadnought Class enters service, what could it be like?<br/>[Read
-  More &gt;....]({% post_url 2021-04-16-Royal-Navy-Vanguard-Class-SSGAN-Concept %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Royal-Navy-Vanguard-Class-SSGAN-Concept.html "READ MORE")<br clear="left"/>
 ...
 
 ---

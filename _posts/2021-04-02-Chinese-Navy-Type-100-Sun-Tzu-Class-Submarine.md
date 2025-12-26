@@ -2,15 +2,15 @@
 layout: post
 title: "Chinese-Navy-Type-100-Sun-Tzu-Class-Submarine"
 date: "2021-04-02 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**A Comment On The Fake Type-100 'Sun Tzu' Class submarine**</font><br
-  clear="right"/><a href="{% post_url 2021-04-02-Chinese-Navy-Type-100-Sun-Tzu-Class-Submarine %}"><img
+  clear="right"/><a href="/Chinese-Navy-Type-100-Sun-Tzu-Class-Submarine.html"><img
   align="left" src="/images/April-Fools-2021-317.jpg"/></a>![Flag China](/images/flag_China.jpg)
   This ginormous 210m (690ft) long multi-hull submarine was created for an April Fools'
   piece I penned for Naval News. In the tradition of these pranks it is not real,
   and was not meant to genuinely deceive. I am putting this article up so that, in
   future, if people find misinformation about this submarine they can easily get to
-  the truth. <br/><br/>[Read More &gt;....]({% post_url 2021-04-02-Chinese-Navy-Type-100-Sun-Tzu-Class-Submarine %}
+  the truth. <br/><br/>[Read More &gt;....](/Chinese-Navy-Type-100-Sun-Tzu-Class-Submarine.html
   "READ MORE")<br clear="left"/>
 ...
 

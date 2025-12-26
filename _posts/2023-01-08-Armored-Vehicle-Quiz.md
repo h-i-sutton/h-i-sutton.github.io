@@ -2,10 +2,10 @@
 layout: post
 title: "Types Of Armored Vehicle Quiz"
 date: "2023-01-08 14:40:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-01-08-Armored-Vehicle-Quiz %}"><img align="left" src="/images/Armored-Vehicle-Quiz-317.jpg"/></a>  Is
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Armored-Vehicle-Quiz.html"><img align="left" src="/images/Armored-Vehicle-Quiz-317.jpg"/></a>  Is
   this a tank?!!?!??!<br/><br/>Think you know your Tanks from your recce vehicles?  Take
-  the quiz!<br/>[Read More &gt;....]({% post_url 2023-01-08-Armored-Vehicle-Quiz %} "READ MORE")<br clear="left"/>
+  the quiz!<br/>[Read More &gt;....](/Armored-Vehicle-Quiz.html "READ MORE")<br clear="left"/>
 ...
 
 ---

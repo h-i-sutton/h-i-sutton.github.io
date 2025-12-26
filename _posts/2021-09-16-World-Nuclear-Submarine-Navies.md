@@ -2,13 +2,13 @@
 layout: post
 title: "Nuclear Submarine Race: Which Navies Have, Will Have or Want Them"
 date: "2021-09-16 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-09-16-World-Nuclear-Submarine-Navies %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/World-Nuclear-Submarine-Navies.html"><img align="left"
   src="/images/Nuckear-Sub-317.jpg"/></a> With news that Australia is joining the
   nuclear submarine club, it is worth recapping which countries are building them.
   The number is increasing, and this might be a possible factor in the US and UK's
   sudden willingness to add Australia to the list. I'll put these into five categories<br/><br/>
-  [Read More &gt;....]({% post_url 2021-09-16-World-Nuclear-Submarine-Navies %} "READ MORE")<br clear="left"/>
+  [Read More &gt;....](/World-Nuclear-Submarine-Navies.html "READ MORE")<br clear="left"/>
 ...
 
 ---

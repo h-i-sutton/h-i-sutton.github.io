@@ -2,12 +2,12 @@
 layout: post
 title: "Switzerland’s Remarkable ‘Navy’: A Covert Shores Guide"
 date: "2021-05-17 01:01:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2021-05-17-Swiss-Navy-Guide %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Swiss-Navy-Guide.html"><img
   align="left" src="/images/Swiss-Navy-317.jpg"/></a> ![Swiss Flag](/images/flag_Swiss.jpg)
   Land-locked countries sometimes have particularly interesting navies. Or boat equipped
   Army units. Characterized by heavily armed neutrality, the postwar Swiss military
-  has an extremely high standard of equipment. <br/>[Read More]({% post_url 2021-05-17-Swiss-Navy-Guide %}
+  has an extremely high standard of equipment. <br/>[Read More](/Swiss-Navy-Guide.html
   "READ MORE")<br clear="left"/></br>
 ...
 

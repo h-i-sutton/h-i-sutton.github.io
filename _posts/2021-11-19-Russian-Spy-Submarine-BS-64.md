@@ -2,14 +2,14 @@
 layout: post
 title: "Russia's Unusual Mother Submarine For Spy Missions On The Sea Floor"
 date: "2021-11-19 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-11-19-Russian-Spy-Submarine-BS-64 %}"><img align="left" src="/images/Russia-BS-64-Submarine-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Spy-Submarine-BS-64.html"><img align="left" src="/images/Russia-BS-64-Submarine-317.jpg"/></a>
   ![Flag Russia](/images/flag_russia.jpg) Central to the Russian Navy's seabed warfare
   capabilities are its ginormous 'mother submarines'. Created by cutting a missile
   submarine in half and inserting a special compartment in place of the missile tubes,
   they are among the largest submarines on the planet.<br/><br/>**BS-64 Podmoskovye**
   is one of two DELTA class SSBNs which have been cut-and-shut in this way. She is
-  particularly interesting...<br/>[Read More &gt;....]({% post_url 2021-11-19-Russian-Spy-Submarine-BS-64 %}
+  particularly interesting...<br/>[Read More &gt;....](/Russian-Spy-Submarine-BS-64.html
   "READ MORE")<br clear="left"/>
 ...
 

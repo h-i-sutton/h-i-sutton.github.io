@@ -2,14 +2,14 @@
 layout: post
 title: "Russian-Sarma-UUV"
 date: "2021-02-28 01:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Russia's New Deep-Diving Drone Submarine with AIP**</font><br clear="right"/><a
-  href="{% post_url 2021-02-28-Russian-Sarma-UUV %}"><img align="left" src="/images/Russia-Sarma-UUV-317.jpg"/></a>![Flag](/images/flag_russia.jpg)
+  href="/Russian-Sarma-UUV.html"><img align="left" src="/images/Russia-Sarma-UUV-317.jpg"/></a>![Flag](/images/flag_russia.jpg)
   Russia's FPI (Advanced Research Foundation) recently revealed some details of a
   new  uncrewed underwater vehicle (UUV) called **Sarma**. Although few details have
   emerged the associated graphic indicates a craft approximately in the Large-Displacement
   UUV category (LDUUV).<br/><br/>The mode of AIP is unclear but fuel cells seems the
-  most likely...<br/>[Read More &gt;....]({% post_url 2021-02-28-Russian-Sarma-UUV %} "READ MORE")<br
+  most likely...<br/>[Read More &gt;....](/Russian-Sarma-UUV.html "READ MORE")<br
   clear="left"/>
 ...
 

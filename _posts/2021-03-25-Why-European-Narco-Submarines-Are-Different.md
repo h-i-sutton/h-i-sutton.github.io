@@ -2,14 +2,14 @@
 layout: post
 title: "Why-European-Narco-Submarines-Are-Different"
 date: "2021-03-25 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**Why the Narco Submarine Found In Europe Is Not Like Those In Latin America**</font><br
-  clear="right"/><a href="{% post_url 2021-03-25-Why-European-Narco-Submarines-Are-Different %}"><img
+  clear="right"/><a href="/Why-European-Narco-Submarines-Are-Different.html"><img
   align="left" src="/images/Narco-Submarine-Mar21-317.jpg"/></a>On March 21 2021 the
   Colombian Navy captured a narco submarine before it could sail with its illicit
   cargo of cocaine. The vessel was typical of this found in recent years, being characterized
   by its Very Slender Vessel (VSV) form. <br/><br/>This contrasts with one recently
-  discovered in Southern Spain. <br/>[Read More &gt;....]({% post_url 2021-03-25-Why-European-Narco-Submarines-Are-Different %}
+  discovered in Southern Spain. <br/>[Read More &gt;....](/Why-European-Narco-Submarines-Are-Different.html
   "READ MORE")<br clear="left"/>
 ...
 

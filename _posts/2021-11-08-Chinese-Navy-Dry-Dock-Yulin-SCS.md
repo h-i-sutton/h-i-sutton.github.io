@@ -2,11 +2,11 @@
 layout: post
 title: "OSINT: China Floods Mega Dry Dock For The First Time"
 date: "2021-11-08 09:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-11-08-Chinese-Navy-Dry-Dock-Yulin-SCS %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Chinese-Navy-Dry-Dock-Yulin-SCS.html"><img align="left"
   src="/images/China-Navy-Dry-Dock-Flooded-Hainan-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
   The massive dry dock which China has built as part of its Aircraft Carrier development,
-  has been flooded for the first time...<br/>[Read More &gt;....]({% post_url 2021-11-08-Chinese-Navy-Dry-Dock-Yulin-SCS %}
+  has been flooded for the first time...<br/>[Read More &gt;....](/Chinese-Navy-Dry-Dock-Yulin-SCS.html
   "READ MORE")<br clear="left"/>
 ...
 

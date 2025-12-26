@@ -2,14 +2,14 @@
 layout: post
 title: "North_Korean_Submarines"
 date: "2017-03-18 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Guide to the North Korean Navy's submarine capabilities**</font> <br/>![Flag](/images/flag_nork.jpg)
   With approximately 70 boats North Korea has the second or third largest fleet of
   submarines in the world, after only the United States and possibly China. And while
   the submarines themselves may be small or antiquated, the men who man them have
   a proven track record of loyalty, discipline, basic naval competence and aggressive
-  leadership.  <br/>... [Read More &gt;....]({% post_url 2017-03-18-North_Korean_Submarines %} "READ MORE")<br/><a
-  href="{% post_url 2017-03-18-North_Korean_Submarines %}"><img src="/images/DPRK_Banner900.jpg"/></a><br
+  leadership.  <br/>... [Read More &gt;....](/North_Korean_Submarines.html "READ MORE")<br/><a
+  href="/North_Korean_Submarines.html"><img src="/images/DPRK_Banner900.jpg"/></a><br
   clear="right"/>
 ...
 

@@ -2,15 +2,15 @@
 layout: post
 title: "Iranian Warships Appear To Try To Sneak Into North Sea"
 date: "2021-08-04 21:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-08-04-Iranian-Warships-Seen-Leaving-Baltic %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Iranian-Warships-Seen-Leaving-Baltic.html"><img align="left"
   src="/images/Iran-Makran-Exit-Baltic-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg)
   In an apparent attempt to hide from open source intelligence, a controversial Iranian
   warship hid behind another vessel as it left the Baltic this evening. This partially
   masked it from a static webcam with otherwise broadcasts all ship movements in and
   out of the Baltic via the Great Belt Bridge in Denmark. <br/><br/>I will leave it
   to others to make the connection to current events  in the Persian Gulf. <br/>[Read
-  More &gt;....]({% post_url 2021-08-04-Iranian-Warships-Seen-Leaving-Baltic %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Iranian-Warships-Seen-Leaving-Baltic.html "READ MORE")<br clear="left"/>
 ...
 
 ---

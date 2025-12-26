@@ -4,7 +4,7 @@ title: "Seabed_SKIFF_SLBMs"
 date: "2000-02-02 11:00:00"
 excerpt: <font size="6">**Russian Seabed Nuclear Missiles**</font><br/><img src="/images/flag_russia.jpg"/>
   There are credible reports that Russia has deployed some of its nuclear arsenal
-  to unmanned seabed positions to increase their survivability.... <br/><a href="{% post_url 2000-02-02-Seabed_SKIFF_SLBMs %}"><img
+  to unmanned seabed positions to increase their survivability.... <br/><a href="/Seabed_SKIFF_SLBMs.html"><img
   src="/images/SeabedSKIFF_900.jpg"/></a>
 ...
 

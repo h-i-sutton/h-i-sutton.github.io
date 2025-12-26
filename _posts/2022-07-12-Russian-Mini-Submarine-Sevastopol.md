@@ -2,12 +2,12 @@
 layout: post
 title: "OSINT: Unusual Mini-Submarine Seen In Sevastopol, Black Sea"
 date: "2022-07-12 12:00:00"
-excerpt: '**UPDATED**<br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2022-07-12-Russian-Mini-Submarine-Sevastopol %}"><img
+excerpt: '**UPDATED**<br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Russian-Mini-Submarine-Sevastopol.html"><img
   align="left" src="/images/Russia-Minisub-Sevastopol-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   A major naval base supporting Russia''s invasion of Ukraine, Sevastopol in Crimea
   is a hive of submarine activity. <br/><br/>Now There is an unusual mini-submarine
-  in Sevastopol...<br/>[Read More &gt;....]({% post_url 2022-07-12-Russian-Mini-Submarine-Sevastopol %}
+  in Sevastopol...<br/>[Read More &gt;....](/Russian-Mini-Submarine-Sevastopol.html
   "READ MORE")<br clear="left"/></br>'
 
 ---

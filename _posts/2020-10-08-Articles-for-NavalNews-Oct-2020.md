@@ -2,8 +2,8 @@
 layout: post
 title: "Articles-for-NavalNews-Oct-2020"
 date: "2020-10-08 03:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Recent articles for Naval\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Recent articles for Naval\
   \ News**</font> <br/><a href=\"https://www.navalnews.com/naval-news/2020/10/pakistans-new-chinese-aip-submarines-image-shows-karachi-site/\"\
   \ target=\"blank\"><img align=\"Left\" src=\"/images/Naval-News-Oct2020-1.jpg\"\
   /></a><br/>**Pakistan\u2019s New Type-039B AIP Submarines: Image Shows Shipyard\

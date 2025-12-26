@@ -2,14 +2,14 @@
 layout: post
 title: "Russia Taking Captured Ukrainian Navy Vessels Into Service"
 date: "2022-05-26 18:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-05-26-Captured-Ukrainian-Vessels-Now-in-Russian-Navy %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Captured-Ukrainian-Vessels-Now-in-Russian-Navy.html"><img
   align="left" src="/images/Russia-Ukraine-Captured-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   Berdyansk will be remembered in the Ukraine Invasion as where a Russian Navy landing
   ship met its dramatic end. There was another naval victory at Berdyansk however,
   one for the Russians. Several Ukrainian vessels had been captured there in the first
   days of the war. <br/><br/>Evidence suggests that at least one of these has been
-  pressed into Russian Navy service.<br/>[Read More &gt;....]({% post_url 2022-05-26-Captured-Ukrainian-Vessels-Now-in-Russian-Navy %}
+  pressed into Russian Navy service.<br/>[Read More &gt;....](/Captured-Ukrainian-Vessels-Now-in-Russian-Navy.html
   "READ MORE")<br clear="left"/>
 ...
 

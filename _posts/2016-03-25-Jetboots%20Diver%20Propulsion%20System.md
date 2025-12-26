@@ -2,7 +2,7 @@
 layout: post
 title: "Jetboots Diver Propulsion System"
 date: "2016-03-25 15:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
   clear="right"/>![Flag](/images/flag_USA.jpg)  Special Forces technology is always
   a hotbed for innovations with new ideas and products cropping up all the time. One
   disruptive innovation is the **Jeboots** Diver Propulsion System (DPS) from Patriot

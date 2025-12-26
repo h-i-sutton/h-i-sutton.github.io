@@ -2,13 +2,13 @@
 layout: post
 title: "Fake Position Reported For Russian Navy Cruiser Ustinov"
 date: "2023-01-08 22:45:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2023-01-08-Russia-Marshall-Ustinov-AIS %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Russia-Marshall-Ustinov-AIS.html"><img
   align="left" src="/images/Russia-Marshall-Ustinov-AIS-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   One of the Russian Navy's two remaining SLAVA Class cruisers, Marshal Ustinov, has
   appeared on AIS (automated identification system). The reported position is in the
   Norwegian Sea, near where some Russian warships have been operating.<br/>The AIS
-  data is false however...<br/>[Read More &gt;....]({% post_url 2023-01-08-Russia-Marshall-Ustinov-AIS %}
+  data is false however...<br/>[Read More &gt;....](/Russia-Marshall-Ustinov-AIS.html
   "READ MORE")<br clear="left"/></br>
 ...
 

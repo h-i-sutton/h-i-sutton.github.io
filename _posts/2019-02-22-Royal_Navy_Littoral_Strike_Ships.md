@@ -2,14 +2,14 @@
 layout: post
 title: "Royal_Navy_Littoral_Strike_Ships"
 date: "2019-02-22 13:01:00"
-excerpt: '*Updated. Originally posted 12th Feb 2019*<a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br/><font size="6">**Littoral
+excerpt: '*Updated. Originally posted 12th Feb 2019*<a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><br/><font size="6">**Littoral
   Strike Ship**</font><br/><img src="/images/flag_UK.jpg"/> On 11th February 2019
   British Defence Secretary Gavin Williamson announced the concept and development
   phase of a new class of amphibious warfare vessel to support the Royal Marines,
   and by inference, Special Forces. The new vessels will operate close to enemy shores
-  and be termed Littoral Strike Ships... <br/><a href="{% post_url 2019-02-22-Royal_Navy_Littoral_Strike_Ships %}"><img
-  src="/images/RN_LSS900.jpg"/></a><br clear="right">[Read More &gt;....]({% post_url 2019-02-22-Royal_Navy_Littoral_Strike_Ships %}
+  and be termed Littoral Strike Ships... <br/><a href="/Royal_Navy_Littoral_Strike_Ships.html"><img
+  src="/images/RN_LSS900.jpg"/></a><br clear="right">[Read More &gt;....](/Royal_Navy_Littoral_Strike_Ships.html
   "READ MORE")<br/></br>'
 
 ---

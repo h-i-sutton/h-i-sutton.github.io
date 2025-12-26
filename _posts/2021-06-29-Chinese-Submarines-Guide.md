@@ -2,11 +2,11 @@
 layout: post
 title: "Covert Shores Surface Recognition Guide To Chinese Navy Submarines"
 date: "2021-06-29 09:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-06-29-Chinese-Submarines-Guide %}"><img align="left" src="/images/Chinese-Sub-Rec-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Chinese-Submarines-Guide.html"><img align="left" src="/images/Chinese-Sub-Rec-317.jpg"/></a>
   ![Flag China](/images/flag_China.jpg) A quick guide to the submarine classes of
   the People's Liberation Army Navy (PLAN). The chart is intended as a practical guide
-  and does not include every sub-variant.<br/>[Read More &gt;....]({% post_url 2021-06-29-Chinese-Submarines-Guide %}
+  and does not include every sub-variant.<br/>[Read More &gt;....](/Chinese-Submarines-Guide.html
   "READ MORE")<br clear="left"/>
 ...
 

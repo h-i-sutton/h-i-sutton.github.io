@@ -2,9 +2,9 @@
 layout: post
 title: "Russian-Navy-Belgorod-Submarines-Evolution"
 date: "2021-03-27 12:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"5\">**Russian Navy Spy Submarine\
-  \ Belgorod: evolution of OSINT**</font><br clear=\"right\"/><a href=\"{% post_url 2021-03-27-Russian-Navy-Belgorod-Submarines-Evolution %}\"\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**Russian Navy Spy Submarine\
+  \ Belgorod: evolution of OSINT**</font><br clear=\"right\"/><a href=\"/Russian-Navy-Belgorod-Submarines-Evolution.html\"\
   ><img align=\"left\" src=\"/images/Russia-Navy-Belgorod-Submarine-Evolution-317.jpg\"\
   /></a>![Flag Russia](/images/flag_russia.jpg) Information is very limited about\
   \ the Russian Navy's largest new submarine, the Project 09852 K-329 Belgorod (\"\
@@ -12,7 +12,7 @@ excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\
   \ following her conversion to a special mission host submarine for GUGI (Russia's\
   \ ambiguously named main directorate of undersea research) since around 2010, it\
   \ only came to the fore in November 2019. <br/><br/>Here is how the picture evolved...\
-  \ <br/>[Read More &gt;....]({% post_url 2021-03-27-Russian-Navy-Belgorod-Submarines-Evolution %} \"\
+  \ <br/>[Read More &gt;....](/Russian-Navy-Belgorod-Submarines-Evolution.html \"\
   READ MORE\")<br clear=\"left\"/>"
 
 ---

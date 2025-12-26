@@ -2,12 +2,12 @@
 layout: post
 title: "OSINT: Hamas Diving Gear Identification"
 date: "2023-10-26 17:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-10-26-Hamas-Diving-Gear-ID %}"><img align="left" src="/images/Hamas-Divers_317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Hamas-Diving-Gear-ID.html"><img align="left" src="/images/Hamas-Divers_317.jpg"/></a>
   The rebreather type diving gear seen in images released by Hamas appear to match
   the Italian SANOSUB rebreather. Rebreathers are often preferred by military divers
   because they do not produce bubbles like typical civilian 'open circuit' scuba gear.
-  <br/><br/>[Read More &gt;....]({% post_url 2023-10-26-Hamas-Diving-Gear-ID %} "READ MORE")<br clear="left"/>
+  <br/><br/>[Read More &gt;....](/Hamas-Diving-Gear-ID.html "READ MORE")<br clear="left"/>
 ...
 
 ---

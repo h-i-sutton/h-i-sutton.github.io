@@ -2,15 +2,15 @@
 layout: post
 title: "Decima-MAS_attack_on_New-York"
 date: "2018-11-13 17:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a> <font size=\"6\">**Planned Special Forces attack\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a> <font size=\"6\">**Planned Special Forces attack\
   \ on New York, 1943**</font><br/> ![Flag](/images/flag_italy.jpg) Probably the most\
   \ ambitious midget submarine operation during the entire Second World War. Italy\u2019\
   s elite frogman unit, Decima MAS, planned to transport a CA Class midget submarine\
   \ to New York harbor on a larger sea-going host submarine, and then use the midget\
   \ submarine to deliver combat swimmers to attack shipping with limpet mines... \
-  \ [Read More &gt;....]({% post_url 2018-11-13-Decima-MAS_attack_on_New-York %} \"READ MORE\")<br/><a\
-  \ href=\"{% post_url 2018-11-13-Decima-MAS_attack_on_New-York %}\"><img src=\"/images/It_CA-Class_900.jpg\"\
+  \ [Read More &gt;....](/Decima-MAS_attack_on_New-York.html \"READ MORE\")<br/><a\
+  \ href=\"/Decima-MAS_attack_on_New-York.html\"><img src=\"/images/It_CA-Class_900.jpg\"\
   /></a>"
 
 ---

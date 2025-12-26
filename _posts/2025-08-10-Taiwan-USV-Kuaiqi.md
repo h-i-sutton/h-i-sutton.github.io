@@ -3,12 +3,12 @@ layout: post
 title: "Taiwan's Surface Drone Threat Emerging - Kuaiqi USV"
 date: "2025-08-10 11:00:00"
 excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2025-08-10-Taiwan-USV-Kuaiqi %}"><img
+  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Taiwan-USV-Kuaiqi.html"><img
   align="left" src="/images/Taiwan-USV-Kuaiqi-317.jpg"/></a> ![Flag](/images/flag_taiwan.jpg)
   Facing an ever increasing threat from the mainland, Taiwan (Republic of China, ROC)
   is racing to develop a similar uncrewed capabilities to Ukraine. Most visible of
   these in the naval sphere are weaponised uncrewed surface vessels (USVs).<br/><br/>One
-  of the most promising homegrown designs is the Kuaiqi...<br/>[Read More &gt;....]({% post_url 2025-08-10-Taiwan-USV-Kuaiqi %}
+  of the most promising homegrown designs is the Kuaiqi...<br/>[Read More &gt;....](/Taiwan-USV-Kuaiqi.html
   "READ MORE")<br clear="left"/>
 ...
 

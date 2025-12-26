@@ -3,12 +3,12 @@ layout: post
 title: "Unreported North Korean Submersible Torpedo Boat May Be Uncrewed"
 date: "2025-11-09 15:00:00"
 excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2025-11-09-North-Korean-Submersible-Torpedo-Boat-202511 %}"><img
+  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/North-Korean-Submersible-Torpedo-Boat-202511.html"><img
   align="left" src="/images/DPRK-Submersible-Torpedo-Boat-317.jpg"/></a> ![Flag DPRK](/images/flag_nork.jpg)
   Hiding in the background of an official media image of the annual Defence Development
   exhibition in Pyongyang, North Korea, which opened on October 4, 2025, is a previously
   unreported vessel.<br/><br/>Visual clues point to it being a submersible boat...<br/>[Read
-  More &gt;....]({% post_url 2025-11-09-North-Korean-Submersible-Torpedo-Boat-202511 %} "READ MORE")<br
+  More &gt;....](/North-Korean-Submersible-Torpedo-Boat-202511.html "READ MORE")<br
   clear="left"/>
 ...
 

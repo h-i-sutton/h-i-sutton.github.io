@@ -2,12 +2,12 @@
 layout: post
 title: "Indian-Navy-Coastal-Submarine"
 date: "2020-12-18 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**Images Show Design For Indian Navy Indigenous Coastal Submarine** </font><br
   clear="right"/>![Flag](/images/flag_india.jpg) A short video shared on Twitter appears
-  to show a new indigenous submarine design for the Indian Navy...<br/><a href="{% post_url 2020-12-18-Indian-Navy-Coastal-Submarine %}"><img
+  to show a new indigenous submarine design for the Indian Navy...<br/><a href="/Indian-Navy-Coastal-Submarine.html"><img
   src="/images/India-Navy-Coastal-Submarine-profile-900.jpg"/></a><br/>[Read More
-  &gt;....]({% post_url 2020-12-18-Indian-Navy-Coastal-Submarine %} "READ MORE")<br clear="left"/>
+  &gt;....](/Indian-Navy-Coastal-Submarine.html "READ MORE")<br clear="left"/>
 ...
 
 ---

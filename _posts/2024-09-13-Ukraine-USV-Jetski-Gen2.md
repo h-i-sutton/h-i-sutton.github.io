@@ -2,13 +2,13 @@
 layout: post
 title: "New Ukrainian Weaponized Jet Ski Used In Crimea Raid"
 date: "2024-09-13 07:00:00"
-excerpt: '*Updated. Originally posted Aug 17 2024*<a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a
-  href="{% post_url 2024-09-13-Ukraine-USV-Jetski-Gen2 %}"><img align="left" src="/images/Ukraine-OWA-USV-Jetski-Gen2-317.jpg"/></a>
+excerpt: '*Updated. Originally posted Aug 17 2024*<a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><br clear="right"/><a
+  href="/Ukraine-USV-Jetski-Gen2.html"><img align="left" src="/images/Ukraine-OWA-USV-Jetski-Gen2-317.jpg"/></a>
   ![Flag Ukraine](/images/flag_ukraine.jpg) Ukraine continues to surprise observers,
   with yet another variation of uncrewed surface vessel (USV) revealed by the latest
   round of raids on Russian-occupied Crimea.<br/><br/>The USV is evidently a modified
-  yet ski...<br/>[Read More &gt;....]({% post_url 2024-09-13-Ukraine-USV-Jetski-Gen2 %} "READ MORE")<br
+  yet ski...<br/>[Read More &gt;....](/Ukraine-USV-Jetski-Gen2.html "READ MORE")<br
   clear="left"/>'
 
 ---

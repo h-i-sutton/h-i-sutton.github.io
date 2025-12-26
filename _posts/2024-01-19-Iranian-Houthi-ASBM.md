@@ -2,13 +2,13 @@
 layout: post
 title: "First Image Of Iranian / Houthi Anti-Ship Ballistic Missile (ASBM) In Action"
 date: "2024-01-19 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-01-19-Iranian-Houthi-ASBM %}"><img align="left" src="/images/Houthi-missile-strike-on-Zografia-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Iranian-Houthi-ASBM.html"><img align="left" src="/images/Houthi-missile-strike-on-Zografia-317.jpg"/></a>
   ![Flag Iran](/images/flag_iran.jpg)![Flag Houthi](/images/flag_Houthi.jpg) The Greek-owned
   bulk carrier Zografia was hit in the Red Sea on January 16 2024. It was  sailing
   from Vietnam to Israel at the time. <br/><br/>A video has emerged of the moments
   the missile struck. It is possible to say from this that it was an anti-ship ballistic
-  missile (ASBM) fired from the direction of Yemen...<br/>[Read More &gt;....]({% post_url 2024-01-19-Iranian-Houthi-ASBM %}
+  missile (ASBM) fired from the direction of Yemen...<br/>[Read More &gt;....](/Iranian-Houthi-ASBM.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Warship_Misidentification"
 date: "2019-08-11 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**Dangers of poor warship recognition skills**</font><br/><img src="/images/flag_iran.jpg"/>
   <img src="/images/flag_UK.jpg"/> <img src="/images/flag_UEA.jpg"/> Tactical blunders
   caused by misidentification can take on strategic proportions, especially in times
-  of heightened tension and limited war. .. <br/>[Read More &gt;....]({% post_url 2019-08-11-Warship_Misidentification %}
-  "READ MORE")<br/><a href="{% post_url 2019-08-11-Warship_Misidentification %}"><img src="/images/IRGC_Rec900.jpg"/></a><br
+  of heightened tension and limited war. .. <br/>[Read More &gt;....](/Warship_Misidentification.html
+  "READ MORE")<br/><a href="/Warship_Misidentification.html"><img src="/images/IRGC_Rec900.jpg"/></a><br
   clear="right"/>
 ...
 

@@ -2,13 +2,13 @@
 layout: post
 title: "Russia's Forgotten Super-Ship In Black Sea: BORA Class Hovercraft"
 date: "2022-03-07 22:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-03-06-Russian-BORA-Class-Misssile-Hovercraft %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-BORA-Class-Misssile-Hovercraft.html"><img align="left"
   src="/images/Russia-Navy-Bora-class-Hovercraft-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   At the end of the Cold War the Soviet Union fielded an array of mechanically impressive
   'super ships'. These included the world's largest submarines, a battlecruiser and
   missile armed Ekranoplans.<br/><br/>In the missile corvette category it was the
-  Bora Class. <br/>[Read More &gt;....]({% post_url 2022-03-06-Russian-BORA-Class-Misssile-Hovercraft %}
+  Bora Class. <br/>[Read More &gt;....](/Russian-BORA-Class-Misssile-Hovercraft.html
   "READ MORE")<br clear="left"/>
 ...
 

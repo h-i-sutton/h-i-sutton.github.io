@@ -2,13 +2,13 @@
 layout: post
 title: "Russia Deploys Unusual 110-Year-Old Ship To Investigate Moskva Wreck"
 date: "2022-04-22 17:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-04-22-Russian-Navy-Moskva-Cruiser-Wreck %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Navy-Moskva-Cruiser-Wreck.html"><img align="left"
   src="/images/Russia-Rescue-Ship-Kommuna-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   Since it was sunk by Ukrainian missiles on April 13-14, analysts have been watching
   for signs of a salvage operation on Moskva. The once-mighty SLAVA Class cruiser
   is the largest warship to be lost in combat for decades.<br/><br/>It now appears
-  that the vintage rescue ship *Kommuna* has been deployed.<br/>[Read More &gt;....]({% post_url 2022-04-22-Russian-Navy-Moskva-Cruiser-Wreck %}
+  that the vintage rescue ship *Kommuna* has been deployed.<br/>[Read More &gt;....](/Russian-Navy-Moskva-Cruiser-Wreck.html
   "READ MORE")<br clear="left"/>
 ...
 

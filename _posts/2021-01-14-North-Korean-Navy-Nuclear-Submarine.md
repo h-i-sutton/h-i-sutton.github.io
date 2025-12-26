@@ -2,13 +2,13 @@
 layout: post
 title: "North-Korean-Navy-Nuclear-Submarine"
 date: "2021-01-14 09:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Hermit Kingdom Plans Nuclear Powered Submarine**</font><br clear="right"/><a
-  href="{% post_url 2021-01-14-North-Korean-Navy-Nuclear-Submarine %}"><img align="left" src="/images/DPRK-Submarine-317.jpg"/></a>![Flag](/images/flag_nork.jpg)
+  href="/North-Korean-Navy-Nuclear-Submarine.html"><img align="left" src="/images/DPRK-Submarine-317.jpg"/></a>![Flag](/images/flag_nork.jpg)
   Kim Jong Un has said  that plans for an indigenous nuclear-powered submarine are
   almost complete. It is a bold ambition for a country whose submarines are decades
   behind cutting edge. <br/><br/>But it should be taken seriously...<br/>[Read More
-  &gt;....]({% post_url 2021-01-14-North-Korean-Navy-Nuclear-Submarine %} "READ MORE")<br clear="left"/>
+  &gt;....](/North-Korean-Navy-Nuclear-Submarine.html "READ MORE")<br clear="left"/>
 ...
 
 ---

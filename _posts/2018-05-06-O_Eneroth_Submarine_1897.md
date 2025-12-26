@@ -2,14 +2,14 @@
 layout: post
 title: "O_Eneroth_Submarine_1897"
 date: "2018-05-06 11:01:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Vintage submarine design from\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Vintage submarine design from\
   \ 1897**</font><br/><img src=\"/images/flag_sweden.jpg\"/> In the late 1800s Sweden\
   \ was q leading powerhouse in submarine design, with a *Nordenfelt Class* submarine\
   \ being the first in the world to launch a torpedo in 1888. Ten years later another\
   \ Swedish engineer, O Eneroth, was proposing a cutting-edge submarine design.<br/>...\
-  \ [Read More &gt;....]({% post_url 2018-05-06-O_Eneroth_Submarine_1897 %} \"READ MORE\")<br/><a href=\"\
-  {% post_url 2018-05-06-O_Eneroth_Submarine_1897 %}\"><img src=\"/images/Swe_1897_5.jpg\"/></a><br/>*Photo\
+  \ [Read More &gt;....](/O_Eneroth_Submarine_1897.html \"READ MORE\")<br/><a href=\"\
+  /O_Eneroth_Submarine_1897.html\"><img src=\"/images/Swe_1897_5.jpg\"/></a><br/>*Photo\
   \ from Sj\xF6historiska museet.*<br clear=\"right\"/>"
 
 ---

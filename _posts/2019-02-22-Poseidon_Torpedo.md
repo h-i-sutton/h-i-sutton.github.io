@@ -2,12 +2,12 @@
 layout: post
 title: "Poseidon_Torpedo"
 date: "2019-02-22 11:00:00"
-excerpt: '*Updated*<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br/><font size="5">**Russian Poseidon Intercontinental
+excerpt: '*Updated*<a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br/><font size="5">**Russian Poseidon Intercontinental
   Nuclear-Powered Nuclear-Armed Autonomous Torpedo**</font><br/><img src="/images/flag_russia.jpg"/>
   Poseidon is the largest torpedo ever developed in any country.  Countering this
   system is will force Western planners to reconsider anti-submarine warfare (ASW)
-  and undersea sensor/weapons investment.... <br/><a href="{% post_url 2019-02-22-Poseidon_Torpedo %}"><img
+  and undersea sensor/weapons investment.... <br/><a href="/Poseidon_Torpedo.html"><img
   src="/images/Ru_Poseidon-updatedFeb2019_900.jpg"/></a><br clear="right"/>'
 
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "New Iranian Warship Design With VLS"
 date: "2021-11-11 15:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-11-11-Iranian-Warship-With-VLS %}"><img align="left" src="/images/Iran-Missile-Corvette-Nov-2021-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Iranian-Warship-With-VLS.html"><img align="left" src="/images/Iran-Missile-Corvette-Nov-2021-317.jpg"/></a>
   ![Flag Iran](/images/flag_iran.jpg) Images shared on social media reveal a new Iranian
   warship design. The type appears to be connected the regular Navy rather than the
   less conventional IRGC.<br/><br/> While Iran displays a regular stream of these

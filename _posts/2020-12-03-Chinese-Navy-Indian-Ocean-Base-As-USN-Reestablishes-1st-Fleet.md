@@ -2,13 +2,13 @@
 layout: post
 title: "Chinese-Navy-Indian-Ocean-Base-As-USN-Reestablishes-1st-Fleet"
 date: "2020-12-03 23:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Chinese Navy Visited Key Indian Ocean Base As U.S. Navy Talks of Re-forming
-  1st Fleet**</font><br clear="right"/><a href="{% post_url 2020-12-03-Chinese-Navy-Indian-Ocean-Base-As-USN-Reestablishes-1st-Fleet %}"><img
+  1st Fleet**</font><br clear="right"/><a href="/Chinese-Navy-Indian-Ocean-Base-As-USN-Reestablishes-1st-Fleet.html"><img
   align="left" src="/images/China-Djibouti-Navy-2020-11-317.jpg"/></a>![Flag](/images/flag_China.jpg)
   On November 17 U.S. Navy Secretary Kenneth Braithwaite called for the Navy to establish
   a fleet covering the Indian Ocean and South China Sea.<br/><br/>The same day, a
-  Chinese warship was calling at Djibouti...<br/>[Read More &gt;....]({% post_url 2020-12-03-Chinese-Navy-Indian-Ocean-Base-As-USN-Reestablishes-1st-Fleet %}
+  Chinese warship was calling at Djibouti...<br/>[Read More &gt;....](/Chinese-Navy-Indian-Ocean-Base-As-USN-Reestablishes-1st-Fleet.html
   "READ MORE")<br clear="left"/>
 ...
 

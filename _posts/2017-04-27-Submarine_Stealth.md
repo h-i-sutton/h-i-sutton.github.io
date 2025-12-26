@@ -2,15 +2,15 @@
 layout: post
 title: "Submarine_Stealth"
 date: "2017-04-27 23:01:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Stealth: Raft Mountings in\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Stealth: Raft Mountings in\
   \ submarines**</font> <br/> In submarine warfare stealth means quietness. During\
   \ much of the Cold War US and British submarines had a material advantage over their\
   \ Russian counterparts because of the attention paid to quieting. One of the ways\
   \ this is achieved is by mounting machinery on noise-absorbent materials to prevent\
   \ noise being transferred to the hull and from there into the water around the boat\
-  \ \u2013 this is termed *raft mounting*...<br/>[Read More]({% post_url 2017-04-27-Submarine_Stealth %}\
-  \ \"READ MORE\")<br/><a href=\"{% post_url 2017-04-27-Submarine_Stealth %}\"><img src=\"/images/Raftmounting_Virginia900.jpg\"\
+  \ \u2013 this is termed *raft mounting*...<br/>[Read More](/Submarine_Stealth.html\
+  \ \"READ MORE\")<br/><a href=\"/Submarine_Stealth.html\"><img src=\"/images/Raftmounting_Virginia900.jpg\"\
   /></a><br clear=\"right\"/>"
 
 ---

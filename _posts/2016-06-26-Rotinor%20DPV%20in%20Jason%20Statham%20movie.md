@@ -2,8 +2,8 @@
 layout: post
 title: "Rotinor DPV in Jason Statham movie"
 date: "2016-06-26 03:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a> The trailer Jason Statham\u2019s new movie,\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a> The trailer Jason Statham\u2019s new movie,\
   \ **The Mechanic: Resurrection** came out a couple of days ago. Sandwiched between\
   \ the predicable fast action, fast women, grumpy looks and explosions was a brief\
   \ glimpse of an underwater scene. Statham\u2019s character (I thought he always\

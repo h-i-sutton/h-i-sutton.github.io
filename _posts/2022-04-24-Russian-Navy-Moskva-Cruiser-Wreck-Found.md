@@ -2,11 +2,11 @@
 layout: post
 title: "Wreck Site For Moskva Cruiser (Coordinates)"
 date: "2022-04-24 23:30:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-04-24-Russian-Navy-Moskva-Cruiser-Wreck-Found %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Navy-Moskva-Cruiser-Wreck-Found.html"><img align="left"
   src="/images/Russia-Moskva-Wreck-Location-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   Using open source intelligence (OSINT), the location of the wreck of Moskva has
-  been provisionally identified.<br/><br/>And other updates<br/>[Read More &gt;....]({% post_url 2022-04-24-Russian-Navy-Moskva-Cruiser-Wreck-Found %}
+  been provisionally identified.<br/><br/>And other updates<br/>[Read More &gt;....](/Russian-Navy-Moskva-Cruiser-Wreck-Found.html
   "READ MORE")<br clear="left"/>
 ...
 

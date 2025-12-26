@@ -2,8 +2,8 @@
 layout: post
 title: "Hellenic Navy SDVs"
 date: "2016-07-09 03:00:00"
-excerpt: "<font size=\"6\"> **(X-Post from Naval Analyses)** </font> <a href=\"https://bsky.app/profile/covertshores.bsky.social\"\
-  \ target=\"blank\"><img align=\"right\" src=\"/images/Icon_Bluesky.jpg\"/></a> ![Flag](/images/flag_greece.jpg)\
+excerpt: "<font size=\"6\"> **(X-Post from Naval Analyses)** </font> <a href=\"https://twitter.com/covertshores\"\
+  \ target=\"blank\"><img align=\"right\" src=\"/images/twitter.jpg\"/></a> ![Flag](/images/flag_greece.jpg)\
   \ CosMoS CE2F were a series of Swimmer Delivery Vehicle (SDV) built by M/s Cos.Mo.S\
   \ Spa. which was in Livorno of Italy. Cosmos is probably the most famous military\
   \ wet-sub (chariot) / midget sub manufacturer in the world. ... The Hellenic Navy\

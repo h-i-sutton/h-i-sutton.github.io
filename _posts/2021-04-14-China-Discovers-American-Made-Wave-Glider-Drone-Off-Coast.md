@@ -2,14 +2,14 @@
 layout: post
 title: "China Discovers A US-Made Wave Glider Drone Off Their Coast"
 date: "2021-04-14 20:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><h1>China
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><h1>China
   Discovers A US-Made Wave Glider Drone Off Their Coast</h1><br clear="right"/><a
-  href="{% post_url 2021-04-14-China-Discovers-American-Made-Wave-Glider-Drone-Off-Coast %}"><img align="left"
+  href="/China-Discovers-American-Made-Wave-Glider-Drone-Off-Coast.html"><img align="left"
   src="/images/China-Finds-Wave-Glider-317.jpg"/></a>![Flag](/images/flag_China.jpg)
   ![Flag USA](/images/flag_USA.jpg) State-controlled  Chinese television channel China
   Central Television (CCTV) has aired a piece showing a Wave Glider.<br/><br/>The
   US designed uncrewed surface vessel (USV) can be used for both intelligence gathering
-  and scientific research. <br/>[Read More &gt;....]({% post_url 2021-04-14-China-Discovers-American-Made-Wave-Glider-Drone-Off-Coast %}
+  and scientific research. <br/>[Read More &gt;....](/China-Discovers-American-Made-Wave-Glider-Drone-Off-Coast.html
   "READ MORE")<br clear="left"/>
 ...
 

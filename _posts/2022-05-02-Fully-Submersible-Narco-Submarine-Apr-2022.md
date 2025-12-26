@@ -2,12 +2,12 @@
 layout: post
 title: "First Time Rare Fully-Submersible Narco Submarine Caught"
 date: "2022-05-02 22:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-05-02-Fully-Submersible-Narco-Submarine-Apr-2022 %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Fully-Submersible-Narco-Submarine-Apr-2022.html"><img align="left"
   src="/images/Narco-Submarine-Venezuela-Apr22-317.jpg"/></a> Just when our eyes are
   fixed on the Ukraine War, a narco submarine surfaces on the other side of the world.<br/><br/>A
   narco submarine discovered on the Arauca River is unusual and significant in 3 ways<br/>[Read
-  More &gt;....]({% post_url 2022-05-02-Fully-Submersible-Narco-Submarine-Apr-2022 %} "READ MORE")<br
+  More &gt;....](/Fully-Submersible-Narco-Submarine-Apr-2022.html "READ MORE")<br
   clear="left"/>
 ...
 

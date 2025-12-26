@@ -2,13 +2,13 @@
 layout: post
 title: "Attack On Russian Oil Facility Reveals Ukraine's Unreported Kamikaze Drone"
 date: "2022-06-22 23:30:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-06-22-Ukraines-Unreported-Kamikaze-Drone %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Ukraines-Unreported-Kamikaze-Drone.html"><img align="left"
   src="/images/Ukraine-Russia-Drone-Attack-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)
   Ukraine's successful attack on the Novoshakhtinsk oil refinery, Rostov, occurred
   at 8:40am local time on June 22.<br/><br/>Video of the attack clearly shows the
   drone involved. But it does not match any reported type in Ukrainian service....<br/>[Read
-  More &gt;....]({% post_url 2022-06-22-Ukraines-Unreported-Kamikaze-Drone %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Ukraines-Unreported-Kamikaze-Drone.html "READ MORE")<br clear="left"/>
 ...
 
 ---

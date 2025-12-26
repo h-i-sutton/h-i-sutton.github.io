@@ -2,12 +2,12 @@
 layout: post
 title: "Limpet-Mine-Attack-On-Tanker-Pola"
 date: "2021-01-01 23:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**Limpet Mine Attack on Tanker, Pola, Dec 31, 2020**</font><br clear="right"/><a
-  href="{% post_url 2021-01-01-Limpet-Mine-Attack-On-Tanker-Pola %}"><img align="left" src="/images/Limpet-Mine-Attack-MT-Pola-317.jpg"/></a>![Flag](/images/flag_iran.jpg)
+  href="/Limpet-Mine-Attack-On-Tanker-Pola.html"><img align="left" src="/images/Limpet-Mine-Attack-MT-Pola-317.jpg"/></a>![Flag](/images/flag_iran.jpg)
   On December 31, 2020, a limpet mine was found on the Liberian flagged tanker MT
   Pola (IMO: 9493767). The ship was at anchor in Iraq and was transhipping oil to
-  another tanker, MT Nordic Freedom...<br/><br/>[Read More &gt;....]({% post_url 2021-01-01-Limpet-Mine-Attack-On-Tanker-Pola %}
+  another tanker, MT Nordic Freedom...<br/><br/>[Read More &gt;....](/Limpet-Mine-Attack-On-Tanker-Pola.html
   "READ MORE")<br clear="left"/>'
 
 ---

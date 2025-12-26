@@ -2,12 +2,12 @@
 layout: post
 title: "Chinese-Navy-Type-003-Aircraft-Carrier-2020-12"
 date: "2020-12-05 23:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Fresh images of Chinese Navy (PLAN) Type-003 Aircraft Carrier**</font><br
-  clear="right"/><a href="{% post_url 2020-12-05-Chinese-Navy-Type-003-Aircraft-Carrier-2020-12 %}"><img
+  clear="right"/><a href="/Chinese-Navy-Type-003-Aircraft-Carrier-2020-12.html"><img
   align="left" src="/images/China-Type-003-Aircraft-Carrier-Update-317.jpg"/></a><br/>![Flag](/images/flag_China.jpg)
   The new aircraft carrier is expected to be much more capable than the current two
-  ships...<br/>[Read More &gt;....]({% post_url 2020-12-05-Chinese-Navy-Type-003-Aircraft-Carrier-2020-12 %}
+  ships...<br/>[Read More &gt;....](/Chinese-Navy-Type-003-Aircraft-Carrier-2020-12.html
   "READ MORE")<br clear="left"/>
 ...
 

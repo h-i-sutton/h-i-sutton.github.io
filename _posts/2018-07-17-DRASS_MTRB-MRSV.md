@@ -2,10 +2,10 @@
 layout: post
 title: "DRASS_MTRB-MRSV"
 date: "2018-07-17 01:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Drass midget submarines support vessels**</font> <br/>![Flag](/images/flag_italy.jpg)
   This important aspect of midget submarine operations is rarely reported on...<br/>[Read
-  More]({% post_url 2018-07-17-DRASS_MTRB-MRSV %} "READ MORE")<br/><a href="{% post_url 2018-07-17-DRASS_MTRB-MRSV %}"><img
+  More](/DRASS_MTRB-MRSV.html "READ MORE")<br/><a href="/DRASS_MTRB-MRSV.html"><img
   src="/images/Drass_MTRB_900.jpg"/></a><br clear="right"/>
 ...
 

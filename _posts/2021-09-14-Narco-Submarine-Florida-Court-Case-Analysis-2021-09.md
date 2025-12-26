@@ -2,13 +2,13 @@
 layout: post
 title: "The 4 Narco Submarine Incidents Behind Florida Court Case"
 date: "2021-09-14 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-09-14-Narco-Submarine-Florida-Court-Case-Analysis-2021-09 %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Narco-Submarine-Florida-Court-Case-Analysis-2021-09.html"><img
   align="left" src="/images/Narco-Sub-US-Court-Case-317.jpg"/></a>6 Colombian nationals
   have pled guilty to conspiracy to distribute cocaine, using so-called narco submarines.
   The story. released by Acting United States Attorney Karin Hoppmann, has gathered
   some press attention. Using my database of reported narco submarine incidents, I
-  have identified the ones listed in the press release. <br/>[Read More &gt;....]({% post_url 2021-09-14-Narco-Submarine-Florida-Court-Case-Analysis-2021-09 %}
+  have identified the ones listed in the press release. <br/>[Read More &gt;....](/Narco-Submarine-Florida-Court-Case-Analysis-2021-09.html
   "READ MORE")<br clear="left"/>
 ...
 

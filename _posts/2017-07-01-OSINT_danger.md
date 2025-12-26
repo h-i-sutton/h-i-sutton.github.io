@@ -2,7 +2,7 @@
 layout: post
 title: "OSINT_danger"
 date: "2017-07-01 23:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Danger of circular references in OSINT**</font> <br/>![Flag](/images/flag_russia.jpg)
   Official commemorative pendants depicting Russian spy submarines are a goldmine
   for Open Source Intelligence (OSINT). The aim of Open Source Intelligence (OSINT)
@@ -12,7 +12,7 @@ excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="bla
   through documents and web chatter related to the shipyards and design bureaus associated
   with them. Often pendants, posters and medals reveal or confirm some small details
   about the submarines in question. <br/><br/>However, things are not always what
-  they seem.... [Read More &gt;....]({% post_url 2017-07-01-OSINT_danger %} "READ MORE")<br/><a href="{% post_url 2017-07-01-OSINT_danger %}"><img
+  they seem.... [Read More &gt;....](/OSINT_danger.html "READ MORE")<br/><a href="/OSINT_danger.html"><img
   src="/images/CovertShores-Ru900.jpg"/></a><br clear="right"/>
 ...
 

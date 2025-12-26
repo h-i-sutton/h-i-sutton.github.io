@@ -2,14 +2,14 @@
 layout: post
 title: "OSINT Analysis: Russian Spetsnaz Attack Ukrainian Ships Using Western Gear"
 date: "2023-02-27 23:30:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2023-02-27-Russian-Spetsnaz-Attack-Ukraine %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Russian-Spetsnaz-Attack-Ukraine.html"><img
   align="left" src="/images/Russia-Ukraine-Spetsnaz-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   ![Flag Ukraine](/images/flag_ukraine.jpg) A video has surfaced on Russian social
   media which appears to show Russian Spetsnaz attacking Ukrainian targets. They are
   equipped with a mix of modern Western and Russian equipment.<br/><br/>It provides
   useful insights into the under-reported combat swimmer aspects of the war.<br/>[Read
-  More &gt;....]({% post_url 2023-02-27-Russian-Spetsnaz-Attack-Ukraine %} "READ MORE")<br clear="left"/></br>
+  More &gt;....](/Russian-Spetsnaz-Attack-Ukraine.html "READ MORE")<br clear="left"/></br>
 ...
 
 ---

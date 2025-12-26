@@ -2,15 +2,15 @@
 layout: post
 title: "Arctic_Trefoil"
 date: "2017-05-04 01:01:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Photos of construction of\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Photos of construction of\
   \ Russian Artic Trefoil Base**</font> <br/>![Flag](/images/flag_russia.jpg) Russia\
   \ recently showcased its \u2018new\u2019 Arctic Trefoil military base on Alexandra\
   \ Land in the Franz Josef Land archipelago in the Arctic. Analysis suggests that\
   \ it is built at a pre-existing artic outpost known as Nagurskoye (\u041D\u0430\u0433\
   \u0443\u0301\u0440\u0441\u043A\u043E\u0435) located at 80.810090\xB0, 47.651465\xB0\
-  ...<br/>[Read More]({% post_url 2017-05-04-Arctic_Trefoil %} \"READ MORE\")<br/><a href=\"{% post_url 2017-05-04-Arctic_Trefoil %}\"\
-  ><img src=\"/images/Arctic_Base900.jpg\"/></a><br/><a href=\"{% post_url 2017-05-04-Arctic_Trefoil %}\"\
+  ...<br/>[Read More](/Arctic_Trefoil.html \"READ MORE\")<br/><a href=\"/Arctic_Trefoil.html\"\
+  ><img src=\"/images/Arctic_Base900.jpg\"/></a><br/><a href=\"/Arctic_Trefoil.html\"\
   ><img src=\"/images/Arctic_Base900_1.jpg\"/></a><br clear=\"right\"/>"
 
 ---

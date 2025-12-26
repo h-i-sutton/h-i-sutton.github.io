@@ -2,12 +2,12 @@
 layout: post
 title: "'Olympics Class': New Mystery Submarine Class Spotted In China"
 date: "2022-02-08 12:00:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2022-02-08-OSINT-China-New-Submarine-Feb-2022 %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/OSINT-China-New-Submarine-Feb-2022.html"><img
   align="left" src="/images/China-Submarine-Unidentified-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
   China has done it again! I have said before, only the Chinese can build a major
   new submarine type without the defense community knowing about it beforehand.<br/><br/>And
-  now another new class has been spotted. <br/>[Read More &gt;....]({% post_url 2022-02-08-OSINT-China-New-Submarine-Feb-2022 %}
+  now another new class has been spotted. <br/>[Read More &gt;....](/OSINT-China-New-Submarine-Feb-2022.html
   "READ MORE")<br clear="left"/></br>
 ...
 

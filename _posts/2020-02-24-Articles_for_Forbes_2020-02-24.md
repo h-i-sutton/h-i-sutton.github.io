@@ -2,7 +2,7 @@
 layout: post
 title: "Articles_for_Forbes_2020-02-24"
 date: "2020-02-24 11:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Recent Articles for Forbes**</font><br/>Underwater warfare and similar
   OSINT / defence analysis topics to a wider audience...<br/><a href="https://www.forbes.com/sites/hisutton/2020/02/24/photo-shows-that-us-submarines-still-have-stealth-problems/"
   target="blank"><img src="/images/Forbes-2020-02_a.jpg"/></a> <a href="https://www.forbes.com/sites/hisutton/2020/02/23/more-submarines-sink-indias-3rd-aircraft-carrier/"
@@ -10,7 +10,7 @@ excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="bla
   target="blank"><img src="/images/Forbes-2020-02_c.jpg"/></a><a href="https://www.forbes.com/sites/hisutton/2020/02/18/undeclared-submarine-arms-race-takes-hold-in-asia/"
   target="blank"><img src="/images/Forbes-2020-02_d.jpg"/></a><br/><a href="https://www.forbes.com/sites/hisutton/2020/02/09/the-navy-will-arm-attack-submarines-with-high-energy-lasers/"
   target="blank"><img src="/images/Forbes-2020-02_e.jpg"/></a> <a href="https://www.forbes.com/sites/hisutton/2020/02/04/qatars-massive-naval-expansion-to-include-submarines/"
-  target="blank"><img src="/images/Forbes-2020-02_f.jpg"/></a><br/>[Read More &gt;....]({% post_url 2020-02-24-Articles_for_Forbes_2020-02-24 %}
+  target="blank"><img src="/images/Forbes-2020-02_f.jpg"/></a><br/>[Read More &gt;....](/Articles_for_Forbes_2020-02-24.html
   "READ MORE")<br clear="right"/>
 ...
 

@@ -2,13 +2,13 @@
 layout: post
 title: "Mystery Missile Could Point To Change In North Korea's Submarine Strategy"
 date: "2021-10-12 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-10-12-North-Korea-Pukguksong-Missile-Mystery %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/North-Korea-Pukguksong-Missile-Mystery.html"><img align="left"
   src="/images/DPRK-Submarine-SLBM-Pukguksong-Mystery-317.jpg"/></a> ![Flag China](/images/flag_nork.jpg)
   North Korea unveils so many new missiles that it is hard to keep up. For submarine
   launched missiles, which are one of the key focuses, the trend has been bigger and
   bigger.<br/><br/>Now a new missile has been displayed at an internal arms show.
-  It is something of a mystery...<br/>[Read More &gt;....]({% post_url 2021-10-12-North-Korea-Pukguksong-Missile-Mystery %}
+  It is something of a mystery...<br/>[Read More &gt;....](/North-Korea-Pukguksong-Missile-Mystery.html
   "READ MORE")<br clear="left"/>
 ...
 

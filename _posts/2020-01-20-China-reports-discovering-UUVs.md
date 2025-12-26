@@ -2,12 +2,12 @@
 layout: post
 title: "China-reports-discovering-UUVs"
 date: "2020-01-20 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Unmanned Underwater Vehicles (UUVs) found off Chinese Coast**</font><br/><img
   src="/images/flag_China.jpg"/> An incident in September, which has only now come
   to light, illustrates the mutual danger of submarines and fishing vessels...<br/><a
-  href="{% post_url 2020-01-20-China-reports-discovering-UUVs %}"><img src="/images/China-discovers-UUVs_Poster900.jpg"/></a><br/>[Read
-  More &gt;....]({% post_url 2020-01-20-China-reports-discovering-UUVs %} "READ MORE")
+  href="/China-reports-discovering-UUVs.html"><img src="/images/China-discovers-UUVs_Poster900.jpg"/></a><br/>[Read
+  More &gt;....](/China-reports-discovering-UUVs.html "READ MORE")
 ...
 
 ---

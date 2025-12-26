@@ -3,12 +3,12 @@ layout: post
 title: "North Korea Reveals Nuclear Submarine, And It Is Ginormous"
 date: "2025-03-08 17:00:00"
 excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2025-03-08-North-Korea-Nuclear-Submarine-OSINT %}"><img
+  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/North-Korea-Nuclear-Submarine-OSINT.html"><img
   align="left" src="/images/North-Korea-Nuclear-Submarine-317.jpg"/></a> ![Flag DPRK](/images/flag_nork.jpg)
   North Korea revealed its first nuclear submarine, with reports of Kim Jung Un's
   visit to the shipyard appearing in North Korean state media and reported in Western
   media.<br/><br/>It is clear that the submarine is much larger than earlier North
-  Korean types...<br/>[Read More &gt;....]({% post_url 2025-03-08-North-Korea-Nuclear-Submarine-OSINT %}
+  Korean types...<br/>[Read More &gt;....](/North-Korea-Nuclear-Submarine-OSINT.html
   "READ MORE")<br clear="left"/>
 ...
 

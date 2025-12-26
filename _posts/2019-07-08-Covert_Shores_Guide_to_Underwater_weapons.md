@@ -2,14 +2,14 @@
 layout: post
 title: "Covert_Shores_Guide_to_Underwater_weapons"
 date: "2019-07-08 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**Covert Shores guide to underwater weapons**</font><br/>![Flag](/images/flag_russia.jpg)
   ![Flag](/images/flag_france.jpg) ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_germany.jpg)
   ![Flag](/images/flag_Yugo.jpg) ![Flag](/images/flag_China.jpg) ![Flag](/images/flag_cyprus.jpg)
   ![Flag](/images/flag_norway.jpg)  General guide to many types of underwater firearms,
   spear-guns, rocket-guns and similar weapons used by combat swimmers in a military/naval
-  context, in history and contemporary. <br/>[Read More &gt;....]({% post_url 2019-07-08-Covert_Shores_Guide_to_Underwater_weapons %}
-  "READ MORE")<br/><a href="{% post_url 2019-07-08-Covert_Shores_Guide_to_Underwater_weapons %}"><img
+  context, in history and contemporary. <br/>[Read More &gt;....](/Covert_Shores_Guide_to_Underwater_weapons.html
+  "READ MORE")<br/><a href="/Covert_Shores_Guide_to_Underwater_weapons.html"><img
   src="/images/UnderwaterWeapns_900.jpg"/></a><br clear="right"/>
 ...
 

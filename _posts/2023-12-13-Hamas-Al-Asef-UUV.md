@@ -2,13 +2,13 @@
 layout: post
 title: "Hamas Al-Asef Armed Underwater Vehicle"
 date: "2023-12-13 19:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-12-13-Hamas-Al-Asef-UUV %}"><img align="left" src="/images/Hamas-Al-Asef-Armed-Underwater-Vehicle-317.jpg"/></a>![Flag
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Hamas-Al-Asef-UUV.html"><img align="left" src="/images/Hamas-Al-Asef-Armed-Underwater-Vehicle-317.jpg"/></a>![Flag
   Hamas](/images/Flag_Hamas.jpg) A fresh image shared by Israeli sources shows, for
   the first time, the insides of Hamas' garage-built underwater vehicle. The Al-Asef
   has been used on several occasions against Israeli targets but has yet to score
   a major success.<br/><br/>The  new image still leaves some questions unanswered...<br/>[Read
-  More &gt;....]({% post_url 2023-12-13-Hamas-Al-Asef-UUV %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Hamas-Al-Asef-UUV.html "READ MORE")<br clear="left"/>
 ...
 
 ---

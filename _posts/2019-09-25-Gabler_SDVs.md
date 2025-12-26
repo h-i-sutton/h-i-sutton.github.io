@@ -2,15 +2,15 @@
 layout: post
 title: "Gabler_SDVs"
 date: "2019-09-25 11:05:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**German Gabler Swimmer Delivery\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**German Gabler Swimmer Delivery\
   \ Vehicles**</font><br/><img src=\"/images/flag_germany.jpg\"/> Ulrich Gabler (1\
   \ October 1913 \u2013 24 February 1994) was a German naval architect best known\
   \ for founding the company which designed the Cold War Type-201, Type-202 and Type-209\
   \ submarines. Less well known but equally respected are his company\u2019s swimmer\
-  \ delivery vehicles... <br/><a href=\"{% post_url 2019-09-25-Gabler_SDVs %}\"><img src=\"/images/Ger_Gabler_WDV-900.jpg\"\
-  /></a><br/><a href=\"{% post_url 2019-09-25-Gabler_SDVs %}\"><img src=\"/images/Ger_Gabler_900_1.jpg\"\
-  /></a><br/>[Read More &gt;....]({% post_url 2019-09-25-Gabler_SDVs %} \"READ MORE\")"
+  \ delivery vehicles... <br/><a href=\"/Gabler_SDVs.html\"><img src=\"/images/Ger_Gabler_WDV-900.jpg\"\
+  /></a><br/><a href=\"/Gabler_SDVs.html\"><img src=\"/images/Ger_Gabler_900_1.jpg\"\
+  /></a><br/>[Read More &gt;....](/Gabler_SDVs.html \"READ MORE\")"
 
 ---
 ![](/images/flag_germany.jpg) Ulrich Gabler (1 October 1913 – 24 February 1994) was a German naval architect best known for founding the company which designed the Cold War Type-201, Type-202 and Type-209 submarines. Less well known but equally respected are his company’s swimmer delivery vehicles.   

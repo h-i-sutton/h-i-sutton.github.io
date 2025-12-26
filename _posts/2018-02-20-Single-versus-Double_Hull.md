@@ -6,7 +6,7 @@ excerpt: <font size="6">**Single &amp; Double-hulled submarines demystified**</f
   can be divided into those with a Single Hulls and those with Double Hulls. The former
   has only one layer of steel between the crew and the open ocean while the latter
   has an external outer hull which completely encases the occupied inner hull. The
-  relative merits of these two approaches is hotly debated.... <br/><a href="{% post_url 2018-02-20-Single-versus-Double_Hull %}"><img
+  relative merits of these two approaches is hotly debated.... <br/><a href="/Single-versus-Double_Hull.html"><img
   src="/images/Hulls_Cover.jpg"/></a>
 ...
 

@@ -2,13 +2,13 @@
 layout: post
 title: "Maritime Drones (USVs) Of The Russo-Ukrainian War, 2022-23"
 date: "2023-12-22 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-12-22-Russia-Ukraine-USVs-2023 %}"><img align="left" src="/images/Russo-Ukraine-USVs-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russia-Ukraine-USVs-2023.html"><img align="left" src="/images/Russo-Ukraine-USVs-317.jpg"/></a>
   ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg)
   USVs (uncrewed surface vessels) have been under development for navies for some
   years, but the war in the Black Sea has redefined them.<br/><br/>Ukraine in particular
   has exploited emerging communications technologies to create effective USVs...<br/>[Read
-  More &gt;....]({% post_url 2023-12-22-Russia-Ukraine-USVs-2023 %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Russia-Ukraine-USVs-2023.html "READ MORE")<br clear="left"/>
 ...
 
 ---

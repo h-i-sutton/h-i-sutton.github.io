@@ -2,8 +2,8 @@
 layout: post
 title: "Secretive Special Forces sub builder comes out of the dark"
 date: "2016-06-08 18:50:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><br clear=\"right\"/>![Flag](/images/flag_italy.jpg)\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/>![Flag](/images/flag_italy.jpg)\
   \ One of the world\u2019s premier Special Forces boat/sub builders looks set to\
   \ enter the export market. For over fifty years **CABI Cattaneo**  has shunned publicity,\
   \ building a range of cutting edge products for Italy\u2019s COMSUBIN Special Forces\

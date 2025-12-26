@@ -2,13 +2,13 @@
 layout: post
 title: "Low-Profile_UCAV_Aircraft_Carrier"
 date: "2019-10-11 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Low-Profile UCAV Carrier**</font><br/>Aircraft Carriers are continuously
   evolving. Yet some of the basic characteristics of carriers hark back to their inception
   in World War One. Can we conceive of a way to reverse this, and have a carrier which
   has a very low radar signature, certainly compared to the current carriers?...<br/><a
-  href="{% post_url 2019-10-11-Low-Profile_UCAV_Aircraft_Carrier %}"><img src="/images/LowPro_CarrierArt_900.jpg"/></a><br/>[Read
-  More &gt;....]({% post_url 2019-10-11-Low-Profile_UCAV_Aircraft_Carrier %} "READ MORE")
+  href="/Low-Profile_UCAV_Aircraft_Carrier.html"><img src="/images/LowPro_CarrierArt_900.jpg"/></a><br/>[Read
+  More &gt;....](/Low-Profile_UCAV_Aircraft_Carrier.html "READ MORE")
 ...
 
 ---

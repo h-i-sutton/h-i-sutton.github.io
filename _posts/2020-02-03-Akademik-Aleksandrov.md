@@ -2,13 +2,13 @@
 layout: post
 title: "Akademik-Aleksandrov"
 date: "2020-02-02 23:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"5\">**Pr.20183 Akademik Aleksandrov\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**Pr.20183 Akademik Aleksandrov\
   \ connected to Poseidon/Skif project**</font> <br/>![Flag](/images/flag_russia.jpg)\
   \ Sometimes valuable military intelligence is hiding in plain sight. A Russian media\
   \ report shared to YouTube in June 2019 (now removed) appears to have shown 2\u041C\
-  39 Poseidon aboard Akademik Aleksandrov... [Read More &gt;....](\"{% post_url 2020-02-03-Akademik-Aleksandrov %}\"\
-  \ \"READ MORE\")<br/><a href=\"{% post_url 2020-02-03-Akademik-Aleksandrov %}\"><img src=\"/images/Ru_Poseidon_Akademik_Aleksandrov_900.jpg\"\
+  39 Poseidon aboard Akademik Aleksandrov... [Read More &gt;....](\"/Akademik-Aleksandrov.html\"\
+  \ \"READ MORE\")<br/><a href=\"/Akademik-Aleksandrov.html\"><img src=\"/images/Ru_Poseidon_Akademik_Aleksandrov_900.jpg\"\
   /></a><br clear=\"right\"/>"
 
 ---

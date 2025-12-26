@@ -2,8 +2,8 @@
 layout: post
 title: "Ru_Olenya_Guba"
 date: "2019-08-23 00:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a> <font size=\"5\">*Updates:*<br/>**\u25CF Beluga\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a> <font size=\"5\">*Updates:*<br/>**\u25CF Beluga\
   \ whale pens moved**<br/>**\u25CF BS-64 returned to Olenya Guba less than a week\
   \ after Losharik Accident**</font><br/>![Flag](/images/flag_russia.jpg) Fresh satellite\
   \ imagery recently made available on Google Earth confirms that Russian Navy\u2019\
@@ -13,8 +13,8 @@ excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\
   \ in the whale which turned up in Norway in May. Additionally they confirm that\
   \ the special mission host submarine BS-64 Podmoskovye returned to its home base\
   \ of Olenya Guba very shortly after the Losharik submarine accident... <br/><a href=\"\
-  {% post_url 2019-08-23-Ru_Olenya_Guba %}\"><img src=\"/images/Ru_OlenyaGuba_900.jpg\"/></a><br/>[Read\
-  \ More &gt;....]({% post_url 2019-08-23-Ru_Olenya_Guba %} \"READ MORE\")"
+  /Ru_Olenya_Guba.html\"><img src=\"/images/Ru_OlenyaGuba_900.jpg\"/></a><br/>[Read\
+  \ More &gt;....](/Ru_Olenya_Guba.html \"READ MORE\")"
 
 ---
 ![Olenya Guba](/images/Ru_OlenyaGuba_900.jpg)   

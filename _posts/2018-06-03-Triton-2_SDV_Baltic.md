@@ -2,11 +2,11 @@
 layout: post
 title: "Triton-2_SDV_Baltic"
 date: "2018-06-03 00:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
   <font size="6">**Photo of Russian Defense Exhibition**</font><br/> ![Flag](/images/flag_russia.jpg)
   The photo can be geo-located to the main piers on the island of Kronshtadt in St.
-  Petersberg...  [Read More &gt;....]({% post_url 2018-06-03-Triton-2_SDV_Baltic %} "READ MORE")<br/><a
-  href="{% post_url 2018-06-03-Triton-2_SDV_Baltic %}"><img src="/images/Ru_BalticShow900.jpg"/></a><br/>
+  Petersberg...  [Read More &gt;....](/Triton-2_SDV_Baltic.html "READ MORE")<br/><a
+  href="/Triton-2_SDV_Baltic.html"><img src="/images/Ru_BalticShow900.jpg"/></a><br/>
 ...
 
 ---

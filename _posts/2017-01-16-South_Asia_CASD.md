@@ -2,23 +2,23 @@
 layout: post
 title: "South_Asia_CASD"
 date: "2017-01-16 02:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><a
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><a
   href="/images/IndoPak_CASD-infographic.jpg" target="blank"><img align="left" src="/images/IndoPak_CASD-infographic_350.jpg"/></a>
   <br/><br/><br/><br/>Related:<br/>![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_russia.jpg)
   ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_france.jpg) ![Flag](/images/flag_China.jpg)  +  ![Flag](/images/flag_india.jpg)
   ![Flag](/images/flag_nork.jpg) ![Flag](/images/flag_isreal.jpg) ![Flag](/images/flag_pakistan.jpg)
-  <a href="{% post_url 2017-01-10-Nuclear%20Missile%20Submarines %}"><img src="/images/SSBNs_250.png"/></a>
-  <a href="{% post_url 2017-01-10-Nuclear%20Missile%20Submarines %}">Nuclear Missile submarines</a><br/><br/>![Flag](/images/flag_sweden.jpg)
+  <a href="/Nuclear%20Missile%20Submarines.html"><img src="/images/SSBNs_250.png"/></a>
+  <a href="/Nuclear%20Missile%20Submarines.html">Nuclear Missile submarines</a><br/><br/>![Flag](/images/flag_sweden.jpg)
   ![Flag](/images/flag_germany.jpg) ![Flag](/images/flag_italy.jpg) ![Flag](/images/flag_france.jpg)
   ![Flag](/images/flag_greece.jpg) ![Flag](/images/flag_japan.jpg) ![Flag](/images/flag_potugal.jpg)
   ![Flag](/images/flag_RoK.jpg) ![Flag](/images/flag_pakistan.jpg) ![Flag](/images/flag_isreal.jpg)
   ![Flag](/images/flag_russia.jpg) ![Flag](/images/flag_spain.jpg) ![Flag](/images/Flag_Singapore.jpg)
-  ![Flag](/images/flag_india.jpg) ![Flag](/images/flag_China.jpg) <a href="{% post_url 2016-03-19-World%20survey%20of%20AIP%20submarines %}"><img
-  src="/images/AIP_subs_250.png"/></a> World survey of <a href="{% post_url 2016-03-19-World%20survey%20of%20AIP%20submarines %}">AIP
-  submarines</a><br/><br/> ![Flag](/images/flag_nork.jpg) <a href="{% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %}"><img
-  src="/images/Sinpo_250.png"/> <a href="{% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %}">North
+  ![Flag](/images/flag_india.jpg) ![Flag](/images/flag_China.jpg) <a href="/World%20survey%20of%20AIP%20submarines.html"><img
+  src="/images/AIP_subs_250.png"/></a> World survey of <a href="/World%20survey%20of%20AIP%20submarines.html">AIP
+  submarines</a><br/><br/> ![Flag](/images/flag_nork.jpg) <a href="/Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub.html"><img
+  src="/images/Sinpo_250.png"/> <a href="/Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub.html">North
   Korean Gorae Class SSB</a> <br/><br/>![Flag](/images/flag_india.jpg) ![Sub](/images/Arihant250.png)
-  <a href="{% post_url 2018-11-12-Vanquisher%20of%20Enemies%20-%20INS%20Arihant %}">INS Arihant SSBN</a>
+  <a href="/Vanquisher%20of%20Enemies%20-%20INS%20Arihant.html">INS Arihant SSBN</a>
   <br/><br/><br/><br/><br/><br/><br clear="right"/></a>
 ...
 

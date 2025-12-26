@@ -2,13 +2,13 @@
 layout: post
 title: "Submarine Guide: Chinese Navy's Latest Type-039C Yuan Class"
 date: "2021-07-08 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-07-08-Chinese-Type-039C-Yuan-Class-Submarine %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Chinese-Type-039C-Yuan-Class-Submarine.html"><img align="left"
   src="/images/China-Type-039C-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
   Already the backbone of the Chinese Navy's (PLAN) submarine force. The AIP equipped
   Yuan Class now looks set for another major enhancement.<br/><br/>It may show that
   the PLAN is catching up to leading submarine technologies. It is also a sign that
-  they are innovating and navigating their own route.<br/>[Read More &gt;....]({% post_url 2021-07-08-Chinese-Type-039C-Yuan-Class-Submarine %}
+  they are innovating and navigating their own route.<br/>[Read More &gt;....](/Chinese-Type-039C-Yuan-Class-Submarine.html
   "READ MORE")<br clear="left"/>
 ...
 

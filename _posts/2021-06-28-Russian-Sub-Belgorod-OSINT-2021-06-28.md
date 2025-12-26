@@ -2,13 +2,13 @@
 layout: post
 title: "Russian Submarine Russian Belgorod Seen In Western White Sea"
 date: "2021-06-28 08:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-06-28-Russian-Sub-Belgorod-OSINT-2021-06-28 %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Sub-Belgorod-OSINT-2021-06-28.html"><img align="left"
   src="/images/Russian-Submarine-belgorod-Sea-Trials-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   The latest Russian submarine launched for several decades, K-329 Belgorod, sailed
   on sea trials on June 25.<br/><br/>Today the vessel remains in the Western White
   Sea and was caught on the surface (no great surprise) by a passing Sentinel 2 satellite.
-  <br/>[Read More &gt;....]({% post_url 2021-06-28-Russian-Sub-Belgorod-OSINT-2021-06-28 %} "READ MORE")<br
+  <br/>[Read More &gt;....](/Russian-Sub-Belgorod-OSINT-2021-06-28.html "READ MORE")<br
   clear="left"/>
 ...
 

@@ -2,13 +2,13 @@
 layout: post
 title: "Israeli-Navy-Dolphin-Submarine-In-Red-Sea"
 date: "2021-01-05 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**Israeli Submarine In Rare Deployment South Of Suez**</font><br clear="right"/><a
-  href="{% post_url 2021-01-05-Israeli-Navy-Dolphin-Submarine-In-Red-Sea %}"><img align="left" src="/images/Israel-Dolphin-II-Submarine-317.jpg"/></a>![Flag](/images/flag_isreal.jpg)
+  href="/Israeli-Navy-Dolphin-Submarine-In-Red-Sea.html"><img align="left" src="/images/Israel-Dolphin-II-Submarine-317.jpg"/></a>![Flag](/images/flag_isreal.jpg)
   An Israeli Navy Dolphin-II Class submarine has pulled in to Eilat, Israel's only
   Red Sea port. This is significant as it allows the Israeli Navy to deploy the submarine
   to the Red Sea, Indian Ocean or even Persian Gulf without first having to go through
-  the Suez Canal...<br/><br/>[Read More &gt;....]({% post_url 2021-01-05-Israeli-Navy-Dolphin-Submarine-In-Red-Sea %}
+  the Suez Canal...<br/><br/>[Read More &gt;....](/Israeli-Navy-Dolphin-Submarine-In-Red-Sea.html
   "READ MORE")<br clear="left"/>
 ...
 

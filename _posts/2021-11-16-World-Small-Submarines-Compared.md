@@ -2,14 +2,14 @@
 layout: post
 title: "Compact But Deadly: World Small Submarine Projects Compared"
 date: "2021-11-16 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-11-16-World-Small-Submarines-Compared %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/World-Small-Submarines-Compared.html"><img align="left"
   src="/images/World-Small-Submarines-317.jpg"/></a> ![Flag Turkey](/images/flag_Turkey.jpg)
   News that Turkish shipbuilder STM will start construction of the first STM-500 coastal
   submarine in 2022 brings small submarines back into focus. These diminutive vessels
   can pose a disproportionate threat to opposing forces in any conflict.<br/><br/>The
   customer of the STM-500 is not public, speculation points to Pakistan or Ukraine.
-  .. <br/>[Read More &gt;....]({% post_url 2021-11-16-World-Small-Submarines-Compared %} "READ MORE")<br
+  .. <br/>[Read More &gt;....](/World-Small-Submarines-Compared.html "READ MORE")<br
   clear="left"/>
 ...
 

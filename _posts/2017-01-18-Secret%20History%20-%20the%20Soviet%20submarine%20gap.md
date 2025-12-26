@@ -2,7 +2,7 @@
 layout: post
 title: "Secret History - the Soviet submarine gap"
 date: "2017-01-18 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><a
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><a
   href="/Secret History - the Soviet submarine gap.html"><img align="left" src="/images/SovietMidgetSubs_1952_250.jpg"/></a>Originally
   posted 13tth Dec 2014. <br/><br/><font size="5"> **Updated with infor from CIA CREST
   archives.** </font><br/><br/>![Flag](/images/flag_russia.jpg) ![Flag](/images/flag_UK.jpg)

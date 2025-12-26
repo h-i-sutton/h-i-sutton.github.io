@@ -2,7 +2,7 @@
 layout: post
 title: "New-Merch-Low-Key-T-Shirt"
 date: "2020-11-29 02:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**New Merchandize: Discrete Covert Shores T-Shirt**</font><br clear="right"/><a
   href="https://teespring.com/covert-shores-t-shirt-discret?pid=46" target="blank"><img
   align="left" src="/images/Merch-Discrete-T-Shirt-317.jpg"/></a><br/>By request,

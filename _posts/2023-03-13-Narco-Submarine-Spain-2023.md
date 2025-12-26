@@ -2,11 +2,11 @@
 layout: post
 title: "Latest Transatlantic Narco-Submarine In Europe Has Same Builder As Last One"
 date: "2023-03-13 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-03-13-Narco-Submarine-Spain-2023 %}"><img align="left" src="/images/Narco-Submarine-LPV-2023-03-Spain-ID-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Narco-Submarine-Spain-2023.html"><img align="left" src="/images/Narco-Submarine-LPV-2023-03-Spain-ID-317.jpg"/></a>
   A narco-submarine has been found in Galicia, Spain. Only the bow was poking up above
   the waves.<br/><br/>Despite this, it is possible to identify the type...<br/>[Read
-  More &gt;....]({% post_url 2023-03-13-Narco-Submarine-Spain-2023 %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Narco-Submarine-Spain-2023.html "READ MORE")<br clear="left"/>
 ...
 
 ---

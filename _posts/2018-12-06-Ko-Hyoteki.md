@@ -9,8 +9,8 @@ excerpt: <img src="/images/flag_USA.jpg"/> <img src="/images/flag_japan.jpg"/> <
   and started their attacks. This simplistic version of events suffices for school
   textbooks and Hollywood movies but the military engagements actually started nearly
   five hours earlier at 0357hrs. And these first encounters were not against aircraft,
-  but a midget submarine! [Read More &gt;....]({% post_url 2018-12-06-Ko-Hyoteki %} "READ MORE")<br/>
-  <a href="{% post_url 2018-12-06-Ko-Hyoteki %}"><img src="/images/Ko-Hyoteki_900.jpg"/></a><br/><a href="{% post_url 2018-12-06-Ko-Hyoteki %}"><img
+  but a midget submarine! [Read More &gt;....](/Ko-Hyoteki.html "READ MORE")<br/>
+  <a href="/Ko-Hyoteki.html"><img src="/images/Ko-Hyoteki_900.jpg"/></a><br/><a href="/Ko-Hyoteki.html"><img
   src="/images/Pearlharbor_photo900.jpg"/></a>
 ...
 

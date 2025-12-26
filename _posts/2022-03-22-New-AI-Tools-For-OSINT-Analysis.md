@@ -2,11 +2,11 @@
 layout: post
 title: "New A.I. Tools Help OSINT Analysis Of Ukraine War"
 date: "2022-03-22 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-03-22-New-AI-Tools-For-OSINT-Analysis %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/New-AI-Tools-For-OSINT-Analysis.html"><img align="left"
   src="/images/OSINT-AI-Ships-Count-317.jpg"/></a> Using A.I. I have been exploring
   the impact of Russia closing general access to the Kerch Straight.<br/><br/>Here
-  is how.<br/>[Read More &gt;....]({% post_url 2022-03-22-New-AI-Tools-For-OSINT-Analysis %} "READ MORE")<br
+  is how.<br/>[Read More &gt;....](/New-AI-Tools-For-OSINT-Analysis.html "READ MORE")<br
   clear="left"/>
 ...
 

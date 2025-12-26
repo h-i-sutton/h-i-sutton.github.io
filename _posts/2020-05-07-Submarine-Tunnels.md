@@ -2,7 +2,7 @@
 layout: post
 title: "Submarine-Tunnels"
 date: "2020-05-07 00:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>**Covert
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>**Covert
   Shores World Guide to**<br/><font size="6">**Naval Tunnels to Hide &amp; Protect
   Submarines**</font> <br/>![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_China.jpg)
   ![Flag](/images/flag_chile.jpg) ![Flag](/images/flag_iran.jpg) ![Flag](/images/flag_nork.jpg)
@@ -11,8 +11,8 @@ excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="bla
   to protect submarines (and/or warships) from surprise attack. Today the main users
   are China, North Korea and,... Sweden. But there are many other examples around
   the world, sometimes disused, sometimes so secret that they remain unconfirmed...
-  <br/><a href="{% post_url 2020-05-07-Submarine-Tunnels %}"><img src="/images/SubmarineTunnels-900.jpg"/></a><br
-  clear="right">[Read More &gt;....]({% post_url 2020-05-07-Submarine-Tunnels %} "READ MORE")<br/></br>
+  <br/><a href="/Submarine-Tunnels.html"><img src="/images/SubmarineTunnels-900.jpg"/></a><br
+  clear="right">[Read More &gt;....](/Submarine-Tunnels.html "READ MORE")<br/></br>
 ...
 
 ---

@@ -2,11 +2,11 @@
 layout: post
 title: "Photos Of First Trans-Pacific Narco Submarine Caught Heading To Australia"
 date: "2024-02-22 11:30:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-02-22-Narco-Submarine-To-Australia %}"><img align="left" src="/images/Australia-first-Narco-Submarine-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Narco-Submarine-To-Australia.html"><img align="left" src="/images/Australia-first-Narco-Submarine-317.jpg"/></a>
   A "narco-submarine", was interdicted by Colombian Forces on February 14 2024. It
   was carrying some 4 tonnes of cocaine.<br/><br/>Subsequent reports from the court
-  proceedings suggest that it was destined for Australia....<br/>[Read More &gt;....]({% post_url 2024-02-22-Narco-Submarine-To-Australia %}
+  proceedings suggest that it was destined for Australia....<br/>[Read More &gt;....](/Narco-Submarine-To-Australia.html
   "READ MORE")<br clear="left"/>
 ...
 

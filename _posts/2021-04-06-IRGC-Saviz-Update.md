@@ -2,15 +2,15 @@
 layout: post
 title: "IRGC-Saviz-Update"
 date: "2021-04-06 20:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**Attack On Iranian Forward Base Ship In Red Sea: What You Need To Know
-  About Saviz**</font><br clear="right"/><a href="{% post_url 2021-04-06-IRGC-Saviz-Update %}"><img align="left"
+  About Saviz**</font><br clear="right"/><a href="/IRGC-Saviz-Update.html"><img align="left"
   src="/images/IRGC-Iran-Saviz-317.jpg"/></a>![Flag Iran](/images/flag_iran.jpg) Rumors
   and reports are circulating that the Islamic Revolutionary Guards Corps (IRGC) forward
   base ship, Saviz, has been attacked in the Red Sea. She may be involved in intelligence
   gathering, supporting Iranian forces supplying oil to Syria and general support
   of Houthi forces in Yemen.<br/><br/>This article provides a quick summation of information
-  on the ship. <br/>[Read More &gt;....]({% post_url 2021-04-06-IRGC-Saviz-Update %} "READ MORE")<br clear="left"/>'
+  on the ship. <br/>[Read More &gt;....](/IRGC-Saviz-Update.html "READ MORE")<br clear="left"/>'
 
 ---
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

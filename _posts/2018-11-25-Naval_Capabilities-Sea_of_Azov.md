@@ -2,14 +2,14 @@
 layout: post
 title: "Naval_Capabilities-Sea_of_Azov"
 date: "2018-11-25 23:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Kerch Strait crisis: Naval\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Kerch Strait crisis: Naval\
   \ Capabilities in Sea of Azov**</font><br/>![Flag](/images/flag_ukraine.jpg) ![Flag](/images/flag_russia.jpg)\
   \ In November 2018 Russia has began a blockade of the Sea of Azoz, denying commercial\
   \ ships access to Ukrainian ports along the sea\u2019s northern coast. This article\
   \ summarizes selected Ukrainian and Russian Naval capabilities in the Sea of Azov...\
-  \   [Read More &gt;....]({% post_url 2018-11-25-Naval_Capabilities-Sea_of_Azov %} \"READ MORE\")<br/><a\
-  \ href=\"{% post_url 2018-11-25-Naval_Capabilities-Sea_of_Azov %}\"><img src=\"/images/Azov_900.jpg\"\
+  \   [Read More &gt;....](/Naval_Capabilities-Sea_of_Azov.html \"READ MORE\")<br/><a\
+  \ href=\"/Naval_Capabilities-Sea_of_Azov.html\"><img src=\"/images/Azov_900.jpg\"\
   /></a><br clear=\"right\"/>"
 
 ---

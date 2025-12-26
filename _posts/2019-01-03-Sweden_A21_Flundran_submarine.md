@@ -2,14 +2,14 @@
 layout: post
 title: "Sweden_A21_Flundran_submarine"
 date: "2019-01-03 13:01:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><br/><font size=\"6\">**Sweden's unique flatfish\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><br/><font size=\"6\">**Sweden's unique flatfish\
   \ AIP attack submarine design**</font><br/><img src=\"/images/flag_sweden.jpg\"\
   /> The **A21** was a next-generation Air Independent Power (AIP) submarine concept\
   \ from the end of the Cold War. Its unique shape led to the nickname \u2018**Flundran**\u2019\
-  \ meaning flounder or flat-fish... <br/><a href=\"{% post_url 2019-01-03-Sweden_A21_Flundran_submarine %}\"\
+  \ meaning flounder or flat-fish... <br/><a href=\"/Sweden_A21_Flundran_submarine.html\"\
   ><img src=\"/images/Swe_Ub2000_side900.jpg\"/></a><br clear=\"right\">[Read More\
-  \ &gt;....]({% post_url 2019-01-03-Sweden_A21_Flundran_submarine %} \"READ MORE\")<br/></br>"
+  \ &gt;....](/Sweden_A21_Flundran_submarine.html \"READ MORE\")<br/></br>"
 
 ---
 *With thanks to the late Fredrik Granholm*

@@ -2,11 +2,11 @@
 layout: post
 title: "Russian_Submarine_Activity"
 date: "2018-05-22 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Sanity checking reports of increased Russian submarine activity**</font><br/><img
   src="/images/flag_russia.jpg"/> There have been reports that Russian submarine activity
   has returned to Cold War levels. This article uses publicly available data to compare
-  recent activity to Cold War levels.... <br/><a href="{% post_url 2018-05-22-Russian_Submarine_Activity %}"><img
+  recent activity to Cold War levels.... <br/><a href="/Russian_Submarine_Activity.html"><img
   src="/images/Ru_SubForceheader900.jpg"/></a><br clear="right"/>
 ...
 

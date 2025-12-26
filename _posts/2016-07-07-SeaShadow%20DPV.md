@@ -2,7 +2,7 @@
 layout: post
 title: "SeaShadow DPV"
 date: "2016-07-07 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
   ![Flag](/images/flag_USA.jpg) The SeaShadow Diver Propulsion Vehicle (DPV) was developed
   specifically to meet US Navy EOD (Explosive Ordinance Disposal) requirements....
   [Read More &gt;....](/SeaShadow DPV.html "READ MORE")<br/><br/><a href="/SeaShadow

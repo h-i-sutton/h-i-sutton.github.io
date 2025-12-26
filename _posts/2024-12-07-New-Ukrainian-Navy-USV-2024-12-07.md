@@ -2,14 +2,14 @@
 layout: post
 title: "New Ukrainian Navy USV Sees Action In Black Sea"
 date: "2024-12-07 09:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-12-07-New-Ukrainian-Navy-USV-2024-12-07 %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/New-Ukrainian-Navy-USV-2024-12-07.html"><img align="left"
   src="/images/Ukraine-Navy-USV-Dec24-OSINT-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)
   The Ukrainian navy (VMS ZSU) shared a video of a new surface drone (USV- uncrewed
   surface vessel) being used in the Black Sea. The USV is shown targeting Russian
   occupied gas platforms. These platforms have been repeatedly fought over and used
   by both sides.<br/><br/>The USV is a new type not previously seen in public...<br/>[Read
-  More &gt;....]({% post_url 2024-12-07-New-Ukrainian-Navy-USV-2024-12-07 %} "READ MORE")<br clear="left"/>
+  More &gt;....](/New-Ukrainian-Navy-USV-2024-12-07.html "READ MORE")<br clear="left"/>
 ...
 
 ---

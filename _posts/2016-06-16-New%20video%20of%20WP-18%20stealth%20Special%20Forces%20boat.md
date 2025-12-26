@@ -2,8 +2,8 @@
 layout: post
 title: "New video of WP-18 stealth Special Forces boat"
 date: "2016-06-16 18:50:00"
-excerpt: "![Flag](/images/flag_UEA.jpg) <a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"\
-  blank\"><img align=\"right\" src=\"/images/Icon_Bluesky.jpg\"/></a> A new video has been\
+excerpt: "![Flag](/images/flag_UEA.jpg) <a href=\"https://twitter.com/covertshores\" target=\"\
+  blank\"><img align=\"right\" src=\"/images/twitter.jpg\"/></a> A new video has been\
   \ uploaded showing the world\u2019s fastest naval vessel, the 70kt+ WP-18 Special\
   \ Forces interceptor at speed. Gorgeous.  <br/><a href=\"/New video of WP-18 stealth\
   \ Special Forces boat.html\"><img src=\"/images/WP18_vid.jpg\"/></a><br clear=\"\

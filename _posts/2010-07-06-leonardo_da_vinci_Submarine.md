@@ -2,10 +2,10 @@
 layout: post
 title: "leonardo_da_vinci_Submarine"
 date: "2010-07-06 00:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
   <font size="6">**Leonardo da Vinci's submarine designs**</font><br/> ![Flag](/images/flag_italy.jpg)
-  ....  [Read More &gt;....]({% post_url 2010-07-06-leonardo_da_vinci_Submarine %} "READ MORE")<br/><a
-  href="{% post_url 2010-07-06-leonardo_da_vinci_Submarine %}"><img src="/images/Mignatta900.jpg"/></a>
+  ....  [Read More &gt;....](/leonardo_da_vinci_Submarine.html "READ MORE")<br/><a
+  href="/leonardo_da_vinci_Submarine.html"><img src="/images/Mignatta900.jpg"/></a>
 ...
 
 ---

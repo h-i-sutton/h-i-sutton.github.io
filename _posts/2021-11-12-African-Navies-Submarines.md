@@ -2,12 +2,12 @@
 layout: post
 title: "African Navies' Submarine Capabilities 2021"
 date: "2021-11-12 15:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-11-12-African-Navies-Submarines %}"><img align="left" src="/images/African-Navy-Submarines-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/African-Navies-Submarines.html"><img align="left" src="/images/African-Navy-Submarines-317.jpg"/></a>
   Persistent rumors that Nigeria may receive a submarine from China have resurfaced
   again. While that is a case of "wait and see", it is a timely reminder that several
   African Navies operated submarines.<br/><br/>17 boats are currently in service with
-  three countries. . <br/>[Read More &gt;....]({% post_url 2021-11-12-African-Navies-Submarines %} "READ
+  three countries. . <br/>[Read More &gt;....](/African-Navies-Submarines.html "READ
   MORE")<br clear="left"/>
 ...
 

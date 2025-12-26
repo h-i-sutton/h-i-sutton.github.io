@@ -2,12 +2,12 @@
 layout: post
 title: "OSINT-Iranian-IRGC-Fake-Carrier-Breaking-Apart"
 date: "2021-01-18 13:01:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**OSINT Curiosity: Wreck Of Iran''s Fake Aircraft Carrier Is Breaking Apart**</font><br
-  clear="right"/><a href="{% post_url 2021-01-18-OSINT-Iranian-IRGC-Fake-Carrier-Breaking-Apart %}"><img
+  clear="right"/><a href="/OSINT-Iranian-IRGC-Fake-Carrier-Breaking-Apart.html"><img
   align="left" src="/images/Iran-Fake-Carrier-Breaking-Up-317.jpg"/></a>![Flag](/images/flag_iran.jpg)
   The IRGC''s (Islamic Revolutionary Guard Corps) fake aircraft carrier, built as
-  a target for war games, is now breaking apart...<br/><br/>[Read More &gt;....]({% post_url 2021-01-18-OSINT-Iranian-IRGC-Fake-Carrier-Breaking-Apart %}
+  a target for war games, is now breaking apart...<br/><br/>[Read More &gt;....](/OSINT-Iranian-IRGC-Fake-Carrier-Breaking-Apart.html
   "READ MORE")<br clear="left"/>'
 
 ---

@@ -2,12 +2,12 @@
 layout: post
 title: "The Surprising Secret Of This Brazilian Navy Ship From 1915"
 date: "2021-11-20 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-11-20-Brazilian-Navy-Sip-Ceara %}"><img align="left" src="/images/Brazil-Submarine-Tender-Ceara317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Brazilian-Navy-Sip-Ceara.html"><img align="left" src="/images/Brazil-Submarine-Tender-Ceara317.jpg"/></a>
   ![Flag Brazil](/images/flag_brazil.jpg) From the outside the Brazilian Navy's **Ceara**
   looked remarkably ordinary. And described as a 'submarine tender', it sounded ordinary
   too. But on the inside the layout was almost James Bond levels of cool...<br/>[Read
-  More &gt;....]({% post_url 2021-11-20-Brazilian-Navy-Sip-Ceara %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Brazilian-Navy-Sip-Ceara.html "READ MORE")<br clear="left"/>
 ...
 
 ---

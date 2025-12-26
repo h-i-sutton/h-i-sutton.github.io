@@ -2,12 +2,12 @@
 layout: post
 title: "Chinese Navy Expansion: Yet Another Massive Dry Dock Takes Shape"
 date: "2022-09-09 23:02:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-09-09-China-Dry-Dock-Shanghai %}"><img align="left" src="/images/China-Shanghai-Dry-Dock-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/China-Dry-Dock-Shanghai.html"><img align="left" src="/images/China-Shanghai-Dry-Dock-317.jpg"/></a>
   ![Flag China](/images/flag_China.jpg) The rate of Chinese warship production is
   impressive by any standards. A new Google Earth satellite image update of shipyards
   in Shanghai emphasises this.<br/><br/>The latest image shows solid progress on a
-  massive dry dock...<br/>[Read More &gt;....]({% post_url 2022-09-09-China-Dry-Dock-Shanghai %} "READ
+  massive dry dock...<br/>[Read More &gt;....](/China-Dry-Dock-Shanghai.html "READ
   MORE")<br clear="left"/>
 ...
 

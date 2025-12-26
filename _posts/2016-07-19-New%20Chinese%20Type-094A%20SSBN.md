@@ -2,7 +2,7 @@
 layout: post
 title: "New Chinese Type-094A SSBN"
 date: "2016-07-19 02:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>![Flag](/images/flag_China.jpg)  The
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>![Flag](/images/flag_China.jpg)  The
   latest JIN Class ballistic missile submarine (SSBN) appears to be a new sub-variant
   featuring a slightly larger hump-back and blended lines on the sail similar to the
   related Type-093A SSN.... [Read More &gt;....](/New Chinese Type-094A SSBN.html

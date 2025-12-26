@@ -2,12 +2,12 @@
 layout: post
 title: "India's New Indiginous Submarine design: L&T SOV-400"
 date: "2021-07-20 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-07-20-Indian-SOV-400-Submarine-Design %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Indian-SOV-400-Submarine-Design.html"><img align="left"
   src="/images/India-SOV-400-Submarine-317.jpg"/></a>![Flag](/images/flag_india.jpg)
   The SOV-400 is a new submarine design from Larsen &amp; Toubro. As it's name implies
   it is around 400 tons placing it at the larger end of the 'midget submarine' spectrum....<br/>[Read
-  More &gt;....]({% post_url 2021-07-20-Indian-SOV-400-Submarine-Design %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Indian-SOV-400-Submarine-Design.html "READ MORE")<br clear="left"/>
 ...
 
 ---

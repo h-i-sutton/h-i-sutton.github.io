@@ -2,10 +2,10 @@
 layout: post
 title: "Articles_for_Forbes_6"
 date: "2019-12-25 11:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Recent Articles for Forbes**</font><br/>Underwater warfare and similar
   OSINT / defence analysis topics to a wider audience...<br/><a href="https://www.forbes.com/sites/hisutton/"
-  target="blank"><img src="/images/Forbes_6-900.jpg"/></a><br/>[Read More &gt;....]({% post_url 2019-12-25-Articles_for_Forbes_6 %}
+  target="blank"><img src="/images/Forbes_6-900.jpg"/></a><br/>[Read More &gt;....](/Articles_for_Forbes_6.html
   "READ MORE")<br clear="right"/>
 ...
 

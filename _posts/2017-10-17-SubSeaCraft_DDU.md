@@ -2,11 +2,11 @@
 layout: post
 title: "SubSeaCraft_DDU"
 date: "2017-10-17 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Diver Delivery Unit**</font> <br/>![Flag](/images/flag_UK.jpg) British
   firm SubSeaCraft recently revealed the prototype of their new Submersible Boat for
-  Special Forces....  [Read More &gt;....]({% post_url 2017-10-17-SubSeaCraft_DDU %} "READ MORE")<br/><a
-  href="{% post_url 2017-10-17-SubSeaCraft_DDU %}"><img src="/images/DDU_tests900.jpg"/></a><br clear="right"/>
+  Special Forces....  [Read More &gt;....](/SubSeaCraft_DDU.html "READ MORE")<br/><a
+  href="/SubSeaCraft_DDU.html"><img src="/images/DDU_tests900.jpg"/></a><br clear="right"/>
 ...
 
 ---

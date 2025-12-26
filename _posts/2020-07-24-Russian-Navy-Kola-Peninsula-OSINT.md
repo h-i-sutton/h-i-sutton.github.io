@@ -2,11 +2,11 @@
 layout: post
 title: "Russian-Navy-Kola-Peninsula-OSINT"
 date: "2020-07-24 03:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**OSINT: Russian Navy Movements in Kola Peninsula, July 2020**</font> <br/>![Flag](/images/flag_russia.jpg)A
   collage of Sentinel satellite (Sentinel hub) imagery of the Russian Northern Fleet
-  in the Kola Peninsula... <br/>[Read More &gt;....]({% post_url 2020-07-24-Russian-Navy-Kola-Peninsula-OSINT %}
-  "READ MORE")<br/><a href="{% post_url 2020-07-24-Russian-Navy-Kola-Peninsula-OSINT %}"><img src="/images/Russia-submarines-Kola-peninsula-July2020-900.jpg"/></a><br
+  in the Kola Peninsula... <br/>[Read More &gt;....](/Russian-Navy-Kola-Peninsula-OSINT.html
+  "READ MORE")<br/><a href="/Russian-Navy-Kola-Peninsula-OSINT.html"><img src="/images/Russia-submarines-Kola-peninsula-July2020-900.jpg"/></a><br
   clear="right"><br/></br>'
 
 ---

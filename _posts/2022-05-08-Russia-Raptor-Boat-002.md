@@ -2,12 +2,12 @@
 layout: post
 title: "The Raptor's Tale: Latest Russian Assault Boat Destroyed May Be '002'"
 date: "2022-05-08 14:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-05-08-Russia-Raptor-Boat-002 %}"><img align="left" src="/images/Russia-Raptors-Snake-Island-002-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russia-Raptor-Boat-002.html"><img align="left" src="/images/Russia-Raptors-Snake-Island-002-317.jpg"/></a>
   ![Flag Russia](/images/flag_russia.jpg) A video released by the Ukrainian armed
   forces shows that Russia has lost another two assault boats.<br/><br/>One of the
   two appears to be painted white. This matches a specific Raptor which was seen heading
-  towards the Black Sea prior to the war.<br/>[Read More &gt;....]({% post_url 2022-05-08-Russia-Raptor-Boat-002 %}
+  towards the Black Sea prior to the war.<br/>[Read More &gt;....](/Russia-Raptor-Boat-002.html
   "READ MORE")<br clear="left"/>
 ...
 

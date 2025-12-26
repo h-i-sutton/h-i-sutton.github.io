@@ -2,13 +2,13 @@
 layout: post
 title: "David-Class-Confederate-Torpedo"
 date: "2021-01-23 02:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**The Rebel Ram Of The Civil War: David Class Semi-Submarine**</font> <br
-  clear="right"/><a href="{% post_url 2021-01-23-David-Class-Confederate-Torpedo %}"><img align="left"
+  clear="right"/><a href="/David-Class-Confederate-Torpedo.html"><img align="left"
   src="/images/CSS-David-Cutaway-317.jpg"/></a>The David Class is a semi-submersible
   torpedo ram developed by the Confederates during the American Civil War. It was
   conceived to defend Charleston, South Carolina, from Union blockade ships...<br/>[Read
-  More &gt;....]({% post_url 2021-01-23-David-Class-Confederate-Torpedo %} "READ MORE")<br clear="left"/>'
+  More &gt;....](/David-Class-Confederate-Torpedo.html "READ MORE")<br clear="left"/>'
 
 ---
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

@@ -2,12 +2,12 @@
 layout: post
 title: "Chinese-Seismic-Surbey-Ship-HYSY760"
 date: "2021-01-17 09:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Chinese Seismic Survey Ship Off North America - OSINT**</font><br clear="right"/><a
-  href="{% post_url 2021-01-17-Chinese-Seismic-Surbey-Ship-HYSY760 %}"><img align="left" src="/images/China-Seismic-Survey-HYSY760-317.jpg"/></a>![Flag](/images/flag_China.jpg)
+  href="/Chinese-Seismic-Surbey-Ship-HYSY760.html"><img align="left" src="/images/China-Seismic-Survey-HYSY760-317.jpg"/></a>![Flag](/images/flag_China.jpg)
   The **HAI YANG SHI YOU 760** is a seismic survey ship operated by the China Oilfield
   Services Limited (COSL).<br/><br/>In 2019 she spent several months surveying the
-  North Atlantic off Newfoundland, Canada...<br/>[Read More &gt;....]({% post_url 2021-01-17-Chinese-Seismic-Surbey-Ship-HYSY760 %}
+  North Atlantic off Newfoundland, Canada...<br/>[Read More &gt;....](/Chinese-Seismic-Surbey-Ship-HYSY760.html
   "READ MORE")<br clear="left"/>
 ...
 

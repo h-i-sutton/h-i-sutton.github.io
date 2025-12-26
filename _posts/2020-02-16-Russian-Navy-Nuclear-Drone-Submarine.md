@@ -2,11 +2,11 @@
 layout: post
 title: "Russian-Navy-Nuclear-Drone-Submarine"
 date: "2020-02-16 01:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Russian Navy Nuclear-Powered combat AUVs?**</font> <br/>![Flag](/images/flag_russia.jpg)
   If the robotics revolution pushes us towards uncrewed nuclear subs, will Russia
-  have an advantage?...<br/>[Read More]({% post_url 2020-02-16-Russian-Navy-Nuclear-Drone-Submarine %}
-  "READ MORE")<br/><a href="{% post_url 2020-02-16-Russian-Navy-Nuclear-Drone-Submarine %}"><img src="/images/Russian-Navy-Autonomous-submarine-drone-900.jpg"/></a><br/><br
+  have an advantage?...<br/>[Read More](/Russian-Navy-Nuclear-Drone-Submarine.html
+  "READ MORE")<br/><a href="/Russian-Navy-Nuclear-Drone-Submarine.html"><img src="/images/Russian-Navy-Autonomous-submarine-drone-900.jpg"/></a><br/><br
   clear="right"/>
 ...
 

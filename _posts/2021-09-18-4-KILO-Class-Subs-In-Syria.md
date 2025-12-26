@@ -2,11 +2,11 @@
 layout: post
 title: "OSINT - 4 Russian Navy Improved-KILO Class Submarines In Tartus, Syria"
 date: "2021-09-18 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-09-18-4-KILO-Class-Subs-In-Syria %}"><img align="left" src="/images/Russia-Tartus-KILOs-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/4-KILO-Class-Subs-In-Syria.html"><img align="left" src="/images/Russia-Tartus-KILOs-317.jpg"/></a>
   ![Flag Russia](/images/flag_russia.jpg) There are currently 5 Russian Navy Pr.636.3
   Improved KILO Class submarines  in the Mediterranean. Analysis of Open sources confirms
-  that four of them are in Tartus, Syria..<br/><br/>[Read More &gt;....]({% post_url 2021-09-18-4-KILO-Class-Subs-In-Syria %}
+  that four of them are in Tartus, Syria..<br/><br/>[Read More &gt;....](/4-KILO-Class-Subs-In-Syria.html
   "READ MORE")<br clear="left"/>
 ...
 

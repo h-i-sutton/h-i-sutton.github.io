@@ -2,7 +2,7 @@
 layout: post
 title: "Submersible Landing Craft"
 date: "2016-10-23 17:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
   ![Flag](/images/flag_UK.jpg) In the early 1990s British firm Seaforth Group proposed
   a range of underwater craft for amphibious operations, including the innovative
   S60 Submersible Landing Craft...  [Read More &gt;....](/Submersible Landing Craft.html

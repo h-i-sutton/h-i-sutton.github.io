@@ -2,12 +2,12 @@
 layout: post
 title: "Royal_Navy_Submarine_SSN-R"
 date: "2018-12-29 13:01:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br/><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br/><font
   size="6">**Astute''s successor: SSN(R)**</font><br/><img src="/images/flag_UK.jpg"/>
   Royal Navy planners are already looking to the next class of British attack submarines.
   Although there is little-to-nothing on this subject on the internet, it is a good
-  time to start an article... <br/><a href="{% post_url 2018-12-29-Royal_Navy_Submarine_SSN-R %}"><img
-  src="/images/SSNR_900.jpg"/></a><br clear="right">[Read More &gt;....]({% post_url 2018-12-29-Royal_Navy_Submarine_SSN-R %}
+  time to start an article... <br/><a href="/Royal_Navy_Submarine_SSN-R.html"><img
+  src="/images/SSNR_900.jpg"/></a><br clear="right">[Read More &gt;....](/Royal_Navy_Submarine_SSN-R.html
   "READ MORE")<br/></br>'
 
 ---

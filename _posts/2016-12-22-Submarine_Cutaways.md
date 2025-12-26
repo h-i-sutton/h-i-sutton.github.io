@@ -2,8 +2,8 @@
 layout: post
 title: "Submarine_Cutaways"
 date: "2016-12-22 10:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>
-  <a href="{% post_url 2016-12-22-Submarine_Cutaways %}"><img src="/images/Cutaways900.jpg"/></a><br clear="right"/>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
+  <a href="/Submarine_Cutaways.html"><img src="/images/Cutaways900.jpg"/></a><br clear="right"/>
 ...
 
 ---

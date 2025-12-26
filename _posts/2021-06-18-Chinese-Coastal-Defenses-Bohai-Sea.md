@@ -2,14 +2,14 @@
 layout: post
 title: "Going Coastal: Image Shows Chinese Navy Still Investing In Fixed Defenses"
 date: "2021-06-18 08:50:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-06-18-Chinese-Coastal-Defenses-Bohai-Sea %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Chinese-Coastal-Defenses-Bohai-Sea.html"><img align="left"
   src="/images/China-Coastal-site-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)  We
   can be forgiven for thinking that fixed coastal defense positions are going out
   of fashion. This is true of China as well as other countries.  <br/><br/>However,
   there is always an exception to the rule.  There is a defense site, commanding the
   Yellow Sea and approaches to the Bohai Sea, which is very recent.<br/>[Read More
-  &gt;....]({% post_url 2021-06-18-Chinese-Coastal-Defenses-Bohai-Sea %} "READ MORE")<br clear="left"/>
+  &gt;....](/Chinese-Coastal-Defenses-Bohai-Sea.html "READ MORE")<br clear="left"/>
 ...
 
 ---

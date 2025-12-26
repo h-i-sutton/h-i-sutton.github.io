@@ -2,14 +2,14 @@
 layout: post
 title: "Ukraine's New Palyanitsa Cruise Missile"
 date: "2024-08-25 10:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><br clear=\"right\"/><a href=\"{% post_url 2024-08-25-Ukraine-Palyanitsa %}\"\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Ukraine-Palyanitsa.html\"\
   ><img align=\"left\" src=\"/images/Ukraine-Palyanitsa-317.jpg\"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)\
   \ The blurring of lines between uncrewed air vehicles (UAVs) and cruise missiles\
   \ continues. Ukraine has revealed its latest new strategic weapon, the *Palyanitsa*\
   \ (\u041F\u0430\u043B\u044F\u043D\u0438\u0446\u044F).This is much more of a cruise\
   \ missile than a drone.<br/><br/>The name was possibly chosen because it is often\
-  \ difficult for native Russian speakers to pronounce. ..<br/>[Read More &gt;....]({% post_url 2024-08-25-Ukraine-Palyanitsa %}\
+  \ difficult for native Russian speakers to pronounce. ..<br/>[Read More &gt;....](/Ukraine-Palyanitsa.html\
   \ \"READ MORE\")<br clear=\"left\"/>"
 
 ---

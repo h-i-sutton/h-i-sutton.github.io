@@ -2,9 +2,9 @@
 layout: post
 title: "Submarine_Timeline"
 date: "2017-04-21 23:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
-  size="6">**History of Submarines - Timeline poster**</font><br/>[Read More &gt;....]({% post_url 2017-04-21-Submarine_Timeline %}
-  "READ MORE")<br/><a href="{% post_url 2017-04-21-Submarine_Timeline %}"><img src="/images/Submarine_Timeline_v1_900.jpg"/></a><br
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
+  size="6">**History of Submarines - Timeline poster**</font><br/>[Read More &gt;....](/Submarine_Timeline.html
+  "READ MORE")<br/><a href="/Submarine_Timeline.html"><img src="/images/Submarine_Timeline_v1_900.jpg"/></a><br
   clear="right"/>
 ...
 

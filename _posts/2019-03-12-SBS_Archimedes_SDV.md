@@ -2,12 +2,12 @@
 layout: post
 title: "SBS_Archimedes_SDV"
 date: "2019-03-12 00:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
   <font size="6">**British SBS Archimedes swimmer delivery vehicle**</font><br/> ![Flag](/images/flag_UK.jpg)
   During the undeclared war between Indonesia and Malaysia in 1963-66 (known as the
   Indonesia Confrontation),an official requirement was raised for the SBS to be ready
   to conduct underwater sabotage missions against enemy ships in harbor...  [Read
-  More &gt;....]({% post_url 2019-03-12-SBS_Archimedes_SDV %} "READ MORE")<br/><a href="{% post_url 2019-03-12-SBS_Archimedes_SDV %}"><img
+  More &gt;....](/SBS_Archimedes_SDV.html "READ MORE")<br/><a href="/SBS_Archimedes_SDV.html"><img
   src="/images/UK_Archimedes900.jpg"/></a><br/>
 ...
 

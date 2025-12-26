@@ -2,13 +2,13 @@
 layout: post
 title: "The Imperial Japanese Army's Sneaky Troop Transport Submarine"
 date: "2021-05-22 01:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-05-22-WW2-Maru-Yu-Class-Submarine %}"><img align="left" src="/images/Jpn-Type-3-Maru-Yu-Class-Sub-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/WW2-Maru-Yu-Class-Submarine.html"><img align="left" src="/images/Jpn-Type-3-Maru-Yu-Class-Sub-317.jpg"/></a>
   ![Japanese Flag](/images/flag_japan.jpg) The vulnerability of landing craft is a
   hot topic for amphibious forces around the world. So Navies and Marines are looking
   to ways to make their landing craft more survivable, and using submarines is not
   a daft idea.<br/><br/>Faced with a similar problem in World war Two, the Japanese
-  Army (not navy) built dedicated transport submarines.<br/>[Read More]({% post_url 2021-05-22-WW2-Maru-Yu-Class-Submarine %}
+  Army (not navy) built dedicated transport submarines.<br/>[Read More](/WW2-Maru-Yu-Class-Submarine.html
   "READ MORE")<br clear="left"/>
 ...
 

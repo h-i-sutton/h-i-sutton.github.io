@@ -2,13 +2,13 @@
 layout: post
 title: "ROCN_Submarine"
 date: "2019-05-22 02:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
   <font size="6">**Taiwanese indigenous submarine program**</font> <br/>![Flag](/images/flag_taiwan.jpg)
   Taiwan recent unveiled a model of their indigenous submarine design intended to
   replace the vintage US supplied Hai Shih class submarines (Tench &amp; Balao classes)
   and relatively more modern**Hai Lung** (Sea Dragon) class submarine which is a sub-variant
-  of the Dutch Zwaardvis class... [Read More &gt;....]({% post_url 2019-05-22-ROCN_Submarine %} "READ
-  MORE")<br/><a href="{% post_url 2019-05-22-ROCN_Submarine %}"><img src="/images/ROCN_SSK_900.jpg"/></a><br
+  of the Dutch Zwaardvis class... [Read More &gt;....](/ROCN_Submarine.html "READ
+  MORE")<br/><a href="/ROCN_Submarine.html"><img src="/images/ROCN_SSK_900.jpg"/></a><br
   clear="right"/>
 ...
 

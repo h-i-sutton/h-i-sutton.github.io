@@ -2,11 +2,11 @@
 layout: post
 title: "Killer Dolphins: World Survey Of Navy Marine Mammal Programs"
 date: "2022-01-12 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-01-12-Navy-Marine-Mammal-Programs %}"><img align="left" src="/images/World-Navies-Marine-Mammals-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Navy-Marine-Mammal-Programs.html"><img align="left" src="/images/World-Navies-Marine-Mammals-317.jpg"/></a>
   ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_russia.jpg) ![Flag Israel](/images/flag_isreal.jpg)
   ![Flag](/images/flag_nork.jpg) I have identified  four countries with marine mammal
-  programs. The United States, Russia, North Korea, and Israel.<br/>[Read More &gt;....]({% post_url 2022-01-12-Navy-Marine-Mammal-Programs %}
+  programs. The United States, Russia, North Korea, and Israel.<br/>[Read More &gt;....](/Navy-Marine-Mammal-Programs.html
   "READ MORE")<br clear="left"/>
 ...
 

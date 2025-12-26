@@ -2,11 +2,11 @@
 layout: post
 title: "Cuban_Navy_SDV"
 date: "2019-06-09 03:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Cuba's swimmer delivery vehicle**</font><br/>![Flag](/images/flag_cuba.jpg)
   A new image has emerged which sheds light on the generally unknown Cuban Navy swimmer
-  delivery vehicle (SDV)... [Read More &gt;....]({% post_url 2019-06-09-Cuban_Navy_SDV %} "READ MORE")<br/><a
-  href="{% post_url 2019-06-09-Cuban_Navy_SDV %}"><img src="/images/Cuba_SDV900.jpg"/></a><br clear="right"/>
+  delivery vehicle (SDV)... [Read More &gt;....](/Cuban_Navy_SDV.html "READ MORE")<br/><a
+  href="/Cuban_Navy_SDV.html"><img src="/images/Cuba_SDV900.jpg"/></a><br clear="right"/>
 ...
 
 ---

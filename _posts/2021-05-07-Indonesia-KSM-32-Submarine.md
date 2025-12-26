@@ -2,15 +2,15 @@
 layout: post
 title: "Indonesia's KSM-32 Submarine Design"
 date: "2021-05-07 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><h1>Indonesian
-  Navy's KSM 32 Midget Submarine</h1><br clear="right"/><a href="{% post_url 2021-05-07-Indonesia-KSM-32-Submarine %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><h1>Indonesian
+  Navy's KSM 32 Midget Submarine</h1><br clear="right"/><a href="/Indonesia-KSM-32-Submarine.html"><img
   align="left" src="/images/Indonesia-KSM-32-317.jpg"/></a>![Flag Indonesia](/images/flag_indo.jpg)
   The KSM-32 (*Kapal Selam Mini*) is an indigenous midget submarine design from Indonesia.<br/><br/>midget
   submarines represent a natural first step for a country building its indigenous
   submarine building capabilities. Indonesia is already locally producing the South
   Korean Type-209/1400 Chang Bogo-class, known locally as the Nagapasa-class. Midget
   submarines would be quicker, cheaper and lower risk than entering into a full-sized
-  indigenous program. <br/>[Read More &gt;....]({% post_url 2021-05-07-Indonesia-KSM-32-Submarine %} "READ
+  indigenous program. <br/>[Read More &gt;....](/Indonesia-KSM-32-Submarine.html "READ
   MORE")<br clear="left"/>
 ...
 

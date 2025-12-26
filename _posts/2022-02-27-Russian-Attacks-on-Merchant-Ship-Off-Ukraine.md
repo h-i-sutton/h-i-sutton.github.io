@@ -2,12 +2,12 @@
 layout: post
 title: "Attack on Merchant Ship Off Ukraine Seen in Satellite Imagery"
 date: "2022-02-27 15:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-02-27-Russian-Attacks-on-Merchant-Ship-Off-Ukraine %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Attacks-on-Merchant-Ship-Off-Ukraine.html"><img
   align="left" src="/images/MILLENNIAL-SPIRIT-Fire-Ukraine-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   Millennial Spirit, a Moldavian flagged chemical tanker, was attacked on February
   25. At  09:07 UTC te next day it was still on fire.<br/><br/>It is visible on Sentinel
-  2 satellite imagery. <br/><br/>[Read More &gt;....]({% post_url 2022-02-27-Russian-Attacks-on-Merchant-Ship-Off-Ukraine %}
+  2 satellite imagery. <br/><br/>[Read More &gt;....](/Russian-Attacks-on-Merchant-Ship-Off-Ukraine.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,12 +2,12 @@
 layout: post
 title: "low-cost-autonomous-submarine"
 date: "2019-12-27 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Concept For Low-Cost Autonomous Anti-Ship Submarine**</font><br/>As the
   US Navy's Orca XLUUV program gathers pace, and other navies look to larger AUVs
   (Autonomous Underwater Vehicles), it is time to consider what the future might look
   like. Specifically, what a low-cost, low-risk XLUUV might be like. ... [Read More
-  &gt;....]({% post_url 2019-12-27-low-cost-autonomous-submarine %} "READ MORE")<br/><a href="{% post_url 2019-12-27-low-cost-autonomous-submarine %}"><img
+  &gt;....](/low-cost-autonomous-submarine.html "READ MORE")<br/><a href="/low-cost-autonomous-submarine.html"><img
   src="/images/Low-Cost-XLUUV-Cutaway-900.jpg"/></a><br clear="right"/>
 ...
 

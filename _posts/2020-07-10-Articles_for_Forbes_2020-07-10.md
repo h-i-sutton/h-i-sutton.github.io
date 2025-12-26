@@ -2,7 +2,7 @@
 layout: post
 title: "Articles_for_Forbes_2020-07-10"
 date: "2020-07-10 11:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Recent Articles for Forbes**</font><br/>Underwater warfare and similar
   OSINT / defence analysis topics to a wider audience...<br/><a href="https://www.forbes.com/sites/hisutton/2020/06/19/chinese-navy-gets-closer-to-new-generation-of-nuclear-submarines/"
   target="blank"><img src="/images/Forbes-2020-07-a.jpg"/></a> <a href="https://www.forbes.com/sites/hisutton/2020/06/23/image-shows-russian-submarine-appearing-to-break-international-treaty/"
@@ -12,7 +12,7 @@ excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="bla
   target="blank"><img src="/images/Forbes-2020-07-e.jpg"/></a><a href="https://www.forbes.com/sites/hisutton/2020/07/06/russian-navys-spy-submarine-losharik-1-year-after-fatal-accident/"
   target="blank"><img src="/images/Forbes-2020-07-f.jpg"/></a><br/><a href="https://www.forbes.com/sites/hisutton/2020/07/08/video-shows-massive-iranian-navy-submarine-being-moved-by-road/"
   target="blank"><img src="/images/Forbes-2020-07-g.jpg"/></a> <a href="https://www.forbes.com/sites/hisutton/2020/07/08/could-the-indian-navy-strangle-chinas-lifeline-in-the-malacca-strait/"
-  target="blank"><img src="/images/Forbes-2020-07-h.jpg"/></a><br/>[Read More &gt;....]({% post_url 2020-07-10-Articles_for_Forbes_2020-07-10 %}
+  target="blank"><img src="/images/Forbes-2020-07-h.jpg"/></a><br/>[Read More &gt;....](/Articles_for_Forbes_2020-07-10.html
   "READ MORE")<br clear="right"/>
 ...
 

@@ -2,12 +2,12 @@
 layout: post
 title: "New Warship At IRGC's Expanded Shipyard On The Strait Of Hormuz"
 date: "2021-04-13 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><h1>New
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><h1>New
   Warship At IRGC's Expanded Shipyard On The Strait Of Hormuz</h1><br clear="right"/><a
-  href="{% post_url 2021-04-13-Iran-IRGC-Navy-Yard-On-Qeshm-Island %}"><img align="left" src="/images/Shahid-Soleimani-class-catamaran-317.jpg"/></a>
+  href="/Iran-IRGC-Navy-Yard-On-Qeshm-Island.html"><img align="left" src="/images/Shahid-Soleimani-class-catamaran-317.jpg"/></a>
   ![Flag Iran](/images/flag_iran.jpg) **OSINT**. Iran has been expanding the little-known
   shipyard. The site, on Qeshm Island in the strait of Hormuz is constructing one
-  of the three new catamaran missile corvettes for the IRGC. <br/>[Read More &gt;....]({% post_url 2021-04-13-Iran-IRGC-Navy-Yard-On-Qeshm-Island %}
+  of the three new catamaran missile corvettes for the IRGC. <br/>[Read More &gt;....](/Iran-IRGC-Navy-Yard-On-Qeshm-Island.html
   "READ MORE")<br clear="left"/>
 ...
 

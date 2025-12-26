@@ -2,15 +2,15 @@
 layout: post
 title: "Canadian-Cold-War-Theseus-AUV"
 date: "2020-07-19 03:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"5\">**Theseus AUV**</font> <br/>![Flag](/images/flag_canada.jpg)\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**Theseus AUV**</font> <br/>![Flag](/images/flag_canada.jpg)\
   \ During the Cold War, NATO believed that Russian submarines were using the ice\
   \ cap in the Canadian Arctic as cover to covertly move between the Atlantic and\
   \ Pacific. So the U.S. and Canada placed a special sonar network there, deep under\
   \ the ice. Canadian engineers had to build the world\u2019s largest autonomous underwater\
   \ vehicle (AUV), Theseus, to lay a cable where ships could not reach... <br/>[Read\
-  \ More &gt;....]({% post_url 2020-07-19-Canadian-Cold-War-Theseus-AUV %} \"READ MORE\")<br/><a href=\"\
-  {% post_url 2020-07-19-Canadian-Cold-War-Theseus-AUV %}\"><img src=\"/images/Canada-US-Navy-Spinnaker-Theseus-AUV-under-ice-cap-900.jpg\"\
+  \ More &gt;....](/Canadian-Cold-War-Theseus-AUV.html \"READ MORE\")<br/><a href=\"\
+  /Canadian-Cold-War-Theseus-AUV.html\"><img src=\"/images/Canada-US-Navy-Spinnaker-Theseus-AUV-under-ice-cap-900.jpg\"\
   /></a><br clear=\"right\"><br/></br>"
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "World_Submarines"
 date: "2017-11-07 01:01:00"
 excerpt: <a href="https://www.amazon.com/dp/1541392302" target="blank"><img align="left" src="/images/Book_WorldSubsCover386.jpg"/></a><a
-  href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+  href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">New book out Now</font> <br/><font size="8">**World Submarines**</font>
   <br/><font size="5">**Covert Shores Recognition Guide**</font> <br/><br/><br/>The
   latest Covert Shores book has hit <a href="https://www.amazon.com/dp/1541392302"
@@ -12,7 +12,7 @@ excerpt: <a href="https://www.amazon.com/dp/1541392302" target="blank"><img alig
   which will enter service in coming years. <br/><br/>There are over **80** Classes/families
   of submarine covered, including the obscure types often overlooked elsewhere.<br/><br/>My
   co-author is **C Edward Davis**, a keen submarine researcher as well as an excellent
-  fiction and non-fiction writer. <br/><br/> <br/><br/>[Read More]({% post_url 2017-11-07-World_Submarines %}
+  fiction and non-fiction writer. <br/><br/> <br/><br/>[Read More](/World_Submarines.html
   "READ MORE")<br clear="right"><br clear="left"/></br>
 ...
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Russia-World-War-Two-Midget-Submarines"
 date: "2020-10-23 04:00:00"
-excerpt: '*Guest article by C. Edward Davis*<br/><a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font size="6">**Stalin''s
+excerpt: '*Guest article by C. Edward Davis*<br/><a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="6">**Stalin''s
   Robot submarines**</font> <br/>![Flag](/images/flag_russia.jpg) Few history enthusiasts
   are aware that the Soviet Union was also engaged in midget submarine development
-  during World War Two.... <br/>[Read More &gt;....]({% post_url 2020-10-23-Russia-World-War-Two-Midget-Submarines %}
-  "READ MORE")<br/><a href="{% post_url 2020-10-23-Russia-World-War-Two-Midget-Submarines %}"><img src="/images/OstekhBureau-900.jpg"/></a><br
+  during World War Two.... <br/>[Read More &gt;....](/Russia-World-War-Two-Midget-Submarines.html
+  "READ MORE")<br/><a href="/Russia-World-War-Two-Midget-Submarines.html"><img src="/images/OstekhBureau-900.jpg"/></a><br
   clear="right"><br/></br>'
 
 ---

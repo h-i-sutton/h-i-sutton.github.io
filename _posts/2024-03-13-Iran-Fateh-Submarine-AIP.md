@@ -2,12 +2,12 @@
 layout: post
 title: "Iranian Fateh Class Submarine Proposed With AIP"
 date: "2024-03-13 23:30:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-03-13-Iran-Fateh-Submarine-AIP %}"><img align="left" src="/images/Iran-Fateh-AIP-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Iran-Fateh-Submarine-AIP.html"><img align="left" src="/images/Iran-Fateh-AIP-317.jpg"/></a>
   ![Flag Iran](/images/flag_iran.jpg) Iran has displayed a version of their first
   indigenous full-size submarine, the Fateh Class, with AIP (Air Independent Power).
   The Iranians plan to install the AIP on the first Fateh.<br/><br/>If it is deemed
-  successful, it could be installed on subsequent boats...<br/>[Read More &gt;....]({% post_url 2024-03-13-Iran-Fateh-Submarine-AIP %}
+  successful, it could be installed on subsequent boats...<br/>[Read More &gt;....](/Iran-Fateh-Submarine-AIP.html
   "READ MORE")<br clear="left"/>
 ...
 

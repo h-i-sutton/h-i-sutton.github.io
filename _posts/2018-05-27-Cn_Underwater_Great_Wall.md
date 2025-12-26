@@ -2,12 +2,12 @@
 layout: post
 title: "Cn_Underwater_Great_Wall"
 date: "2018-05-27 11:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Good Wind ears: China\u2019\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Good Wind ears: China\u2019\
   s Underwater Great Wall** </font><br/>![Flag](/images/flag_China.jpg) A recent video\
   \ adds to the information we have of China's ambitious submarine monitoring system\
-  \ in the South China Sea...   [Read More &gt;....]({% post_url 2018-05-27-Cn_Underwater_Great_Wall %}\
-  \ \"READ MORE\")<br/><a href=\"{% post_url 2018-05-27-Cn_Underwater_Great_Wall %}\"><img src=\"/images/Cn_UGW_cover.jpg\"\
+  \ in the South China Sea...   [Read More &gt;....](/Cn_Underwater_Great_Wall.html\
+  \ \"READ MORE\")<br/><a href=\"/Cn_Underwater_Great_Wall.html\"><img src=\"/images/Cn_UGW_cover.jpg\"\
   /></a><br clear=\"right\"/>"
 
 ---

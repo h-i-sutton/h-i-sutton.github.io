@@ -2,8 +2,8 @@
 layout: post
 title: "Nahang Class"
 date: "2016-08-28 02:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a> ![Flag](/images/flag_iran.jpg) After years out\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a> ![Flag](/images/flag_iran.jpg) After years out\
   \ of sight, Iran\u2019s sole indigenous Nahang (Whale) Class midget sub is confirmed\
   \ still in service. The 24m (80ft) boat is visible in multiple sequential satellite\
   \ images from Google Earth from  Dec 2015 through to July 2016.  [Read More &gt;....](/Nahang\

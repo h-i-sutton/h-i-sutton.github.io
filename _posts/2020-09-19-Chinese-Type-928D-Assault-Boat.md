@@ -4,8 +4,8 @@ title: "Chinese-Type-928D-Assault-Boat"
 date: "2020-09-19 10:00:00"
 excerpt: '<font size="6">**China''s New Assault Boat: Type-928D**</font> <br/><img src="/images/flag_China.jpg"/>The
   Type-092D assault boat has been in the news because it has been deployed by China
-  to Pangong Lake on the China-India border. ... <br/><a href="{% post_url 2020-09-19-Chinese-Type-928D-Assault-Boat %}"><img
-  src="/images/China-Type928D-Assault-Boat-900.jpg"/></a><br/>[Read More]({% post_url 2020-09-19-Chinese-Type-928D-Assault-Boat %}
+  to Pangong Lake on the China-India border. ... <br/><a href="/Chinese-Type-928D-Assault-Boat.html"><img
+  src="/images/China-Type928D-Assault-Boat-900.jpg"/></a><br/>[Read More](/Chinese-Type-928D-Assault-Boat.html
   "READ MORE")<br/>'
 
 ---

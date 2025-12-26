@@ -2,10 +2,10 @@
 layout: post
 title: "Russian_Arctic_Seabed_Capabilities"
 date: "2018-03-17 11:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Large illustration of Russian Under-ice Seabed Capabilities**</font><br/><img
   src="/images/flag_russia.jpg"/> Russia continues to take steps towards militarizing
-  the arctic, and in particular the sea floor under the ice cap.... <br/><a href="{% post_url 2018-03-17-Russian_Arctic_Seabed_Capabilities %}"><img
+  the arctic, and in particular the sea floor under the ice cap.... <br/><a href="/Russian_Arctic_Seabed_Capabilities.html"><img
   src="/images/Arctic_Scene900.jpg"/></a><br clear="right"/>
 ...
 

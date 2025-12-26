@@ -2,12 +2,12 @@
 layout: post
 title: "HP_COMMANDO_Mk1"
 date: "2017-09-24 01:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Nautiraid High Pressure Commando Mk.1**</font> <br/>![Flag](/images/flag_france.jpg)
   This is a unique submarine concept developed by the Rubin design bureau. It is designed
   to conduct sub-bottom surveys using very low frequency active sonar which can penetrate
-  the sea floor...<br/>[Read More]({% post_url 2017-09-24-HP_COMMANDO_Mk1 %} "READ MORE")<br/><a href="{% post_url 2017-09-24-HP_COMMANDO_Mk1 %}"><img
-  src="/images/NautiraidInfKayak900.jpg"/></a><br/><a href="{% post_url 2017-09-24-HP_COMMANDO_Mk1 %}"><img
+  the sea floor...<br/>[Read More](/HP_COMMANDO_Mk1.html "READ MORE")<br/><a href="/HP_COMMANDO_Mk1.html"><img
+  src="/images/NautiraidInfKayak900.jpg"/></a><br/><a href="/HP_COMMANDO_Mk1.html"><img
   src="/images/Nautiraid_inflKayak_jungle900.jpg"/></a><br clear="right"/>
 ...
 

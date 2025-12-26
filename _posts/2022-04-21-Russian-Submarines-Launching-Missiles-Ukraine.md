@@ -2,13 +2,13 @@
 layout: post
 title: "Russian Submarines Launching Kalibr Cruise Missiles At Ukraine"
 date: "2022-04-21 09:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-04-21-Russian-Submarines-Launching-Missiles-Ukraine %}"><img
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Submarines-Launching-Missiles-Ukraine.html"><img
   align="left" src="/images/Russia-Submarine-Kalibr-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   A steady stream of Kalibr cruise missiles is one of the Russian Navy's major contributions
   to the Ukraine invasion. Launching missiles is a visible symbol for the Russian
   Navy, often featured on Ministry of Defense videos.<br/><br/>But not all of the
-  missile launches are so visible. Literally.<br/>[Read More &gt;....]({% post_url 2022-04-21-Russian-Submarines-Launching-Missiles-Ukraine %}
+  missile launches are so visible. Literally.<br/>[Read More &gt;....](/Russian-Submarines-Launching-Missiles-Ukraine.html
   "READ MORE")<br clear="left"/>
 ...
 

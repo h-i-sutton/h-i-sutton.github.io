@@ -2,7 +2,7 @@
 layout: post
 title: "The REAL Red October - Typhoon SSBN"
 date: "2020-02-04 10:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a>*Updated,
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>*Updated,
   originally posted 14th Sept 2014*<br/>![Flag](/images/flag_russia.jpg) Not content
   to rain death and destruction from the skies with his bombers, mankind invented
   I.C.B.Ms which could be hidden beneath the waves in giant submarines. For a time

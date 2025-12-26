@@ -2,12 +2,12 @@
 layout: post
 title: "France's New Seabed Control Strategy: Know, Watch & Act"
 date: "2022-02-15 22:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-02-15-France-Seabed-Control-Strategy %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/France-Seabed-Control-Strategy.html"><img align="left"
   src="/images/France-Seabed-Warfare-317.jpg"/></a> ![Flag France](/images/flag_france.jpg)
   France is moving ahead with high-capability seabed warfare capabilities. The new
   strategy, which is broader than just the French Navy (Marine Nationale), could place
-  France at the leading edge of these capabilities within NATO. <br/>[Read More &gt;....]({% post_url 2022-02-15-France-Seabed-Control-Strategy %}
+  France at the leading edge of these capabilities within NATO. <br/>[Read More &gt;....](/France-Seabed-Control-Strategy.html
   "READ MORE")<br clear="left"/>
 ...
 

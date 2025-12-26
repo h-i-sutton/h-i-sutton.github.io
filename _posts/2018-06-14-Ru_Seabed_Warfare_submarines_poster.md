@@ -2,11 +2,11 @@
 layout: post
 title: "Ru_Seabed_Warfare_submarines_poster"
 date: "2018-06-14 10:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**Russia's fleet of Seabed Warfare submarines**</font><br/><img src="/images/flag_russia.jpg"/>
   New poster shows current fleet of *Special Mission* submarines based at Olenya Guba
-  (Deer Bay) in the Arctic Circle.... [Read More &gt;....]({% post_url 2018-06-14-Ru_Seabed_Warfare_submarines_poster %}
-  "READ MORE")<br/><a href="{% post_url 2018-06-14-Ru_Seabed_Warfare_submarines_poster %}"><img src="/images/Ru_SeabedWarfare_Subs400.jpg"/></a><br
+  (Deer Bay) in the Arctic Circle.... [Read More &gt;....](/Ru_Seabed_Warfare_submarines_poster.html
+  "READ MORE")<br/><a href="/Ru_Seabed_Warfare_submarines_poster.html"><img src="/images/Ru_SeabedWarfare_Subs400.jpg"/></a><br
   clear="right"/>
 ...
 

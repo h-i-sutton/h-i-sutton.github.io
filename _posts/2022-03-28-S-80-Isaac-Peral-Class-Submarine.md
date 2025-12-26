@@ -2,14 +2,14 @@
 layout: post
 title: "Spain's S-80P Isaac Peral Class AIP Submarine"
 date: "2022-03-28 09:00:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2022-03-28-S-80-Isaac-Peral-Class-Submarine %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/S-80-Isaac-Peral-Class-Submarine.html"><img
   align="left" src="/images/S-80P-Isaac-Peral-Class-Submarine-317.jpg"/></a> ![Flag
   Spain](/images/flag_spain.jpg) The S-81 Isaac Peral is one of the largest non-nuclear
   submarines in the world. The long-range 2,965 ton boat will bring new capabilities
   to the Spanish Navy and is being offered on the export market.<br/><br/>Uniquely
   for a Western non-nuclear submarine it is equipped to launch Tomahawk missiles.<br/>[Read
-  More &gt;....]({% post_url 2022-03-28-S-80-Isaac-Peral-Class-Submarine %} "READ MORE")<br clear="left"/></br>
+  More &gt;....](/S-80-Isaac-Peral-Class-Submarine.html "READ MORE")<br clear="left"/></br>
 ...
 
 ---

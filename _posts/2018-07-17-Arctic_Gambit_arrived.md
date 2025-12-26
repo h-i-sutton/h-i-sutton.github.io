@@ -2,12 +2,12 @@
 layout: post
 title: "Arctic_Gambit_arrived"
 date: "2018-07-17 01:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"6\">**Larry Bond's Arctic Gambit**</font>\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Larry Bond's Arctic Gambit**</font>\
   \ <br/>![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_russia.jpg) My hardback\
   \ copy of Larry Bond\u2019s latest Jerry Mitchell submarine novel, Arctic Gambit,\
   \ has arrived. Expect a book review when I\u2019ve read it cover to cover. ...<br/>[Read\
-  \ More]({% post_url 2018-07-17-Arctic_Gambit_arrived %} \"READ MORE\")<br/><a href=\"{% post_url 2018-07-17-Arctic_Gambit_arrived %}\"\
+  \ More](/Arctic_Gambit_arrived.html \"READ MORE\")<br/><a href=\"/Arctic_Gambit_arrived.html\"\
   ><img src=\"/images/LarryBond_ArcticGambit_900.jpg\"/></a><br clear=\"right\"/>"
 
 ---

@@ -2,8 +2,8 @@
 layout: post
 title: "The Escape of Bernd Boettger"
 date: "2019-03-16 11:00:00"
-excerpt: '*Updated. Originally posted 7th November 2014*<br/><a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a> <font size="6">**Daring
+excerpt: '*Updated. Originally posted 7th November 2014*<br/><a href="https://twitter.com/covertshores"
+  target="blank"><img align="right" src="/images/twitter.jpg"/></a> <font size="6">**Daring
   underwater escape from East Germany**</font><br/> ![Flag](/images/flag_germany.jpg)There
   were many fantastic and inspiring escapes across the Iron Curtain during the Cold
   War. With the odds stacked against anyone even trying to escape, it often came down

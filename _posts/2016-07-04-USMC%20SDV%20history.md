@@ -2,8 +2,8 @@
 layout: post
 title: "USMC SDV history"
 date: "2016-07-04 03:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a> ![Flag](/images/flag_USA.jpg) Within the US\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a> ![Flag](/images/flag_USA.jpg) Within the US\
   \ Armed Forces, it is not just the US Navy SEALs who have a history of operating\
   \ Swimmer Delivery Vehicles (SDVs). The US Marine Corps\u2019 brief foray into operating\
   \ the SDV Mk.7 ended in spectacular fashion on a golf course in Little Creek...\

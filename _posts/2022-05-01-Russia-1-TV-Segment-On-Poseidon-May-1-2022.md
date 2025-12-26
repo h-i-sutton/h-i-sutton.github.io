@@ -2,13 +2,13 @@
 layout: post
 title: "Russian TV Segment On Poseidon Nuclear Torpedo Destroying Britain Is Misleading"
 date: "2022-05-01 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-05-01-Russia-1-TV-Segment-On-Poseidon-May-1-2022 %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russia-1-TV-Segment-On-Poseidon-May-1-2022.html"><img align="left"
   src="/images/Russia-1-TV-Poseidon-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   A segment aired on Russia-1, a state-owned TV channel, appears to be aimed at a
   British audience. The video amounts to a threat, showing how the Poseidon nuclear-armed
   torpedo could be used to destroy Britain. <br/><br/>Poseidon is to be taken very
-  seriously. But this video should not.<br/>[Read More &gt;....]({% post_url 2022-05-01-Russia-1-TV-Segment-On-Poseidon-May-1-2022 %}
+  seriously. But this video should not.<br/>[Read More &gt;....](/Russia-1-TV-Segment-On-Poseidon-May-1-2022.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,12 +2,12 @@
 layout: post
 title: "Colombian Navy Interdicts Super Low-Profile Narco Submarine"
 date: "2021-09-01 17:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2021-09-01-New-Type-Of-Narco-Submarine-2021-09-01 %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/New-Type-Of-Narco-Submarine-2021-09-01.html"><img align="left"
   src="/images/Narco-Submarine-LPV-2021-09-01-317.jpg"/></a>The Colombian Navy has
   interdicted an unusual narco-submarine in the Pacific. From some angles the four-motor
   craft, a type of low-profile vessel (LPV), appears to not have a cabin. <br/>[Read
-  More &gt;....]({% post_url 2021-09-01-New-Type-Of-Narco-Submarine-2021-09-01 %} "READ MORE")<br clear="left"/>
+  More &gt;....](/New-Type-Of-Narco-Submarine-2021-09-01.html "READ MORE")<br clear="left"/>
 ...
 
 ---

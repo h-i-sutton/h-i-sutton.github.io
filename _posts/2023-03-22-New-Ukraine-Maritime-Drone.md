@@ -2,12 +2,12 @@
 layout: post
 title: "Ukraine's New Maritime Drone Revealed"
 date: "2023-03-22 18:20:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-03-22-New-Ukraine-Maritime-Drone %}"><img align="left" src="/images/Ukraine-Maritime-Drone-2023-03-22-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/New-Ukraine-Maritime-Drone.html"><img align="left" src="/images/Ukraine-Maritime-Drone-2023-03-22-317.jpg"/></a>
   ![Flag Ukraine](/images/flag_ukraine.jpg) Images have emerged showing a new 'maritime
   drone, aka uncrewed surface vessel (USV), developed in Ukraine. The design is related
   to Monobank, an online bank which has become one of the main ways volunteers to
-  provide money to the Ukrainian war effort.<br/>[Read More &gt;....]({% post_url 2023-03-22-New-Ukraine-Maritime-Drone %}
+  provide money to the Ukrainian war effort.<br/>[Read More &gt;....](/New-Ukraine-Maritime-Drone.html
   "READ MORE")<br clear="left"/>
 ...
 

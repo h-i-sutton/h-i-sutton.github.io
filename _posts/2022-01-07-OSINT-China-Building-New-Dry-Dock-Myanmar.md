@@ -2,13 +2,13 @@
 layout: post
 title: "China Building New Dry Dock At Myanmar Navy Shipyard"
 date: "2022-01-07 12:00:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2022-01-07-OSINT-China-Building-New-Dry-Dock-Myanmar %}"><img
+excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
+  src="/images/twitter.jpg"/></a><br clear="right"><a href="/OSINT-China-Building-New-Dry-Dock-Myanmar.html"><img
   align="left" src="/images/China-OSINT-Dry-Dock-Myanmar-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
   China's supply of a submarine to the Myanmar Navy at the end of 2021 has brought
   the two country's military closeness into focus.<br/><br/>But there is another major
   project which is largely being overlooked. China is building a massive dry dock
-  in the country. <br/>[Read More &gt;....]({% post_url 2022-01-07-OSINT-China-Building-New-Dry-Dock-Myanmar %}
+  in the country. <br/>[Read More &gt;....](/OSINT-China-Building-New-Dry-Dock-Myanmar.html
   "READ MORE")<br clear="left"/></br>
 ...
 

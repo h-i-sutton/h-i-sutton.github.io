@@ -2,11 +2,11 @@
 layout: post
 title: "Italy-COMSUBIN-SDVs"
 date: "2020-04-17 01:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**COMSUBIN reveal underwater vehicles**</font> <br/>![Flag](/images/flag_italy.jpg)
   Finally, COMSUBIN has shared high quality imagery of some of their historic underwater
-  vehicles...<br/><a href="{% post_url 2020-04-17-Italy-COMSUBIN-SDVs %}"><img src="/images/Italy-COMSUBIN-900.jpg"/></a><br
-  clear="right">[Read More &gt;....]({% post_url 2020-04-17-Italy-COMSUBIN-SDVs %} "READ MORE")<br/></br>
+  vehicles...<br/><a href="/Italy-COMSUBIN-SDVs.html"><img src="/images/Italy-COMSUBIN-900.jpg"/></a><br
+  clear="right">[Read More &gt;....](/Italy-COMSUBIN-SDVs.html "READ MORE")<br/></br>
 ...
 
 ---

@@ -2,14 +2,14 @@
 layout: post
 title: "Chinese_LDUUV"
 date: "2019-10-02 10:00:00"
-excerpt: "Updated. *Originally posted 15th Sep 2019*<br/><a href=\"https://bsky.app/profile/covertshores.bsky.social\"\
-  \ target=\"blank\"><img align=\"right\" src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"\
+excerpt: "Updated. *Originally posted 15th Sep 2019*<br/><a href=\"https://twitter.com/covertshores\"\
+  \ target=\"blank\"><img align=\"right\" src=\"/images/twitter.jpg\"/></a><font size=\"\
   6\">**Chinese HSU-001 LDUUV<br/> Large Displacement Unmanned Underwater Vehicle**\
   \ </font><br/>![Flag](/images/flag_China.jpg) Photos posted on the Chinese language\
   \ internet of the preparations for the 70th anniversary of the People\u2019s Republic\
   \ of China (PRC) in Beijing appear to show the first public unveiling of China\u2019\
-  s Large Displacement Unmanned Underwater Vehicle (LDUUV)...   [Read More &gt;....]({% post_url 2019-10-02-Chinese_LDUUV %}\
-  \ \"READ MORE\")<br/><a href=\"{% post_url 2019-10-02-Chinese_LDUUV %}\"><img src=\"/images/Cn_SDV_trailer_900.jpg\"\
+  s Large Displacement Unmanned Underwater Vehicle (LDUUV)...   [Read More &gt;....](/Chinese_LDUUV.html\
+  \ \"READ MORE\")<br/><a href=\"/Chinese_LDUUV.html\"><img src=\"/images/Cn_SDV_trailer_900.jpg\"\
   /></a><br clear=\"right\"/>"
 
 ---

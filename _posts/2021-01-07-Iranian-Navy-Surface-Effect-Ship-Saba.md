@@ -2,13 +2,13 @@
 layout: post
 title: "Iranian-Navy-Surface-Effect-Ship-Saba"
 date: "2021-01-07 13:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**Mystery Surface-Effect-Ship (SES) In Iran Identified**</font><br clear="right"/><a
-  href="{% post_url 2021-01-07-Iranian-Navy-Surface-Effect-Ship-Saba %}"><img align="left" src="/images/Iran-Navy-SES-minesweeper-Saba-317.jpg"/></a>![Flag](/images/flag_iran.jpg)
+  href="/Iranian-Navy-Surface-Effect-Ship-Saba.html"><img align="left" src="/images/Iran-Navy-SES-minesweeper-Saba-317.jpg"/></a>![Flag](/images/flag_iran.jpg)
   A surface-effect-ship (SES) seen in overhead imagery of Shahid Darvish yard near
   Bandar Abbas (reported first in Naval News) has been provisionally identified. Its
   size, form, timing and location match a new minesweeper (or possibly a minehunter)
-  project for the Iranian Navy. ...<br/><br/>[Read More &gt;....]({% post_url 2021-01-07-Iranian-Navy-Surface-Effect-Ship-Saba %}
+  project for the Iranian Navy. ...<br/><br/>[Read More &gt;....](/Iranian-Navy-Surface-Effect-Ship-Saba.html
   "READ MORE")<br clear="left"/>
 ...
 

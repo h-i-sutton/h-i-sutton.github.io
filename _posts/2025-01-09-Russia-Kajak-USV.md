@@ -2,12 +2,12 @@
 layout: post
 title: "Russian USV Engineers Weaponize A Kayak"
 date: "2025-01-09 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2025-01-09-Russia-Kajak-USV %}"><img align="left" src="/images/Russo-USV-Kajak-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russia-Kajak-USV.html"><img align="left" src="/images/Russo-USV-Kajak-317.jpg"/></a>
   ![Flag Russia](/images/flag_russia.jpg) Russian engineers have been testing an uncrewed
   surface vessel (USV) based on a kayak hull.<br/><br/>The small vessel appears to
   have a StarLink communications system or other very similar antenna...<br/>[Read
-  More &gt;....]({% post_url 2025-01-09-Russia-Kajak-USV %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Russia-Kajak-USV.html "READ MORE")<br clear="left"/>
 ...
 
 ---

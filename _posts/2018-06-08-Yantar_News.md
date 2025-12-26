@@ -2,15 +2,15 @@
 layout: post
 title: "Yantar_News"
 date: "2018-06-08 10:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><font size=\"5\">**British deep-sea robot seen\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**British deep-sea robot seen\
   \ on Russian GUGI ship passing UK**</font><br/><img src=\"/images/flag_russia.jpg\"\
   /> When the Russian \u2018spy ship\u2019 **Yantar** passed British waters this week\
   \ she was shadowed by Royal Navy destroyer HMS Diamond (D-34). The escort made headlines\
   \ with images posted on major media and social media. Yantar is a controversial\
   \ ship. One interesting detail is that the British supplied Anglo-Swedish **Tiger**\
-  \ remote operated vehicle (ROV) was lashed to the helipad. [Read More &gt;....]({% post_url 2018-06-08-Yantar_News %}\
-  \ \"READ MORE\")<br/><a href=\"{% post_url 2018-06-08-Yantar_News %}\"><img src=\"/images/Yantar_Seaeye900.jpg\"\
+  \ remote operated vehicle (ROV) was lashed to the helipad. [Read More &gt;....](/Yantar_News.html\
+  \ \"READ MORE\")<br/><a href=\"/Yantar_News.html\"><img src=\"/images/Yantar_Seaeye900.jpg\"\
   /></a><br clear=\"right\"/>"
 
 ---

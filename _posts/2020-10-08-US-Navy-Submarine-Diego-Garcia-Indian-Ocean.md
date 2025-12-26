@@ -2,11 +2,11 @@
 layout: post
 title: "US-Navy-Submarine-Diego-Garcia-Indian-Ocean"
 date: "2020-10-08 04:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**US Navy Submarine Seen At Diego Garcia, Indian Ocean**</font> <br/>![Flag](/images/flag_USA.jpg)
   In late September 2020 a US Navy submarine, USS Georgia (SSGN 729), called at Diego
-  Garcia in the Indian Ocean... <br/>[Read More &gt;....]({% post_url 2020-10-08-US-Navy-Submarine-Diego-Garcia-Indian-Ocean %}
-  "READ MORE")<br/><a href="{% post_url 2020-10-08-US-Navy-Submarine-Diego-Garcia-Indian-Ocean %}"><img
+  Garcia in the Indian Ocean... <br/>[Read More &gt;....](/US-Navy-Submarine-Diego-Garcia-Indian-Ocean.html
+  "READ MORE")<br/><a href="/US-Navy-Submarine-Diego-Garcia-Indian-Ocean.html"><img
   src="/images/US-Navy-Ohio-Class-Submarine-USS-Georgia-Diego-Garcia-Sat-900.jpg"/></a><br
   clear="right"><br/></br>
 ...

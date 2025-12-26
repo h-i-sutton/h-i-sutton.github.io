@@ -2,12 +2,12 @@
 layout: post
 title: "Heavily Armed Russian Navy Ships Sailing Between Britain And Ireland"
 date: "2022-08-30 08:00:00"
-excerpt: '**Regularly UPDATED**<br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img
-  align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="{% post_url 2022-09-04-Ustinov-Cruiser-Uk-Passage %}"><img
+excerpt: '**Regularly UPDATED**<br/><a href="https://twitter.com/covertshores" target="blank"><img
+  align="right" src="/images/twitter.jpg"/></a><br clear="right"><a href="/Ustinov-Cruiser-Uk-Passage.html"><img
   align="left" src="/images/Ustinov-Irish-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   2022-09-04 0400Z<br/><br/>After several days loitering in the Celtic Sea, the Russian
   ships headed south briefly and then started a run through the English Channel overnight
-  September 3-4..<br/>[Read More &gt;....]({% post_url 2022-09-04-Ustinov-Cruiser-Uk-Passage %} "READ
+  September 3-4..<br/>[Read More &gt;....](/Ustinov-Cruiser-Uk-Passage.html "READ
   MORE")<br clear="left"/></br>'
 
 ---

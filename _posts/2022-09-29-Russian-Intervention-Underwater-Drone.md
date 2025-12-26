@@ -2,13 +2,13 @@
 layout: post
 title: "Russian Underwater Drone With Manipulator Arm For Seabed Operations"
 date: "2022-09-29 23:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2022-09-29-Russian-Intervention-Underwater-Drone %}"><img align="left"
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russian-Intervention-Underwater-Drone.html"><img align="left"
   src="/images/Russia-UUV-LI-AUV-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
   Manipulator arms, with claws which can grab or move items on the seafloor, are commonly
   associated with remote operated vehicles (ROVs) and crewed submarines. But Russia
   has developed an AUV (autonomous underwater vehicle) with one...<br/>[Read More
-  &gt;....]({% post_url 2022-09-29-Russian-Intervention-Underwater-Drone %} "READ MORE")<br clear="left"/>
+  &gt;....](/Russian-Intervention-Underwater-Drone.html "READ MORE")<br clear="left"/>
 ...
 
 ---

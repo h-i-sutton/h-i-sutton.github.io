@@ -2,14 +2,14 @@
 layout: post
 title: "Russia’s Unseen Ukraine Build-Up: There are Probably Submarines In the Atlantic"
 date: "2022-02-13 18:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/Icon_Bluesky.jpg\"/></a><br clear=\"right\"/><a href=\"{% post_url 2022-02-13-Russian-Navy-Submarines-In-Atlantic %}\"\
+excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
+  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Russian-Navy-Submarines-In-Atlantic.html\"\
   ><img align=\"left\" src=\"/images/Russian-Yasen-Submarine-317.jpg\"/></a> ![Flag\
   \ Russia](/images/flag_russia.jpg) When Russia moved a group of warships from the\
   \ Arctic to the North Atlantic it made the news. As did some ambitious landing ships\
   \ which were sent to the Black Sea as part of \u2018drills\u2019. Yet other developments\
   \ go unreported.<br/><br/>It is likely that Russia has deployed nuclear-powered\
-  \ submarines to the North Atlantic. [Read More &gt;....]({% post_url 2022-02-13-Russian-Navy-Submarines-In-Atlantic %}\
+  \ submarines to the North Atlantic. [Read More &gt;....](/Russian-Navy-Submarines-In-Atlantic.html\
   \ \"READ MORE\")<br clear=\"left\"/>"
 
 ---

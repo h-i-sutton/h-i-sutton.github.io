@@ -2,11 +2,11 @@
 layout: post
 title: "Drones Over Ukraine: Test Your Identification Skills"
 date: "2024-01-07 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2024-01-07-Russo-Ukraine-UAV-Quiz %}"><img align="left" src="/images/Russo-Ukraine-War-UAV-Quiz-317.jpg"/></a>  How
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Russo-Ukraine-UAV-Quiz.html"><img align="left" src="/images/Russo-Ukraine-War-UAV-Quiz-317.jpg"/></a>  How
   well can you tell you the Ukrainian and Russian drones (UAVs) apart? This quiz will
   present you with various types. All are in use in the war... <br/><br/>[Read More
-  &gt;....]({% post_url 2024-01-07-Russo-Ukraine-UAV-Quiz %} "READ MORE")<br clear="left"/>
+  &gt;....](/Russo-Ukraine-UAV-Quiz.html "READ MORE")<br clear="left"/>
 ...
 
 ---

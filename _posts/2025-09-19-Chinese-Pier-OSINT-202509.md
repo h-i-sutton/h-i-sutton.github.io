@@ -3,11 +3,11 @@ layout: post
 title: "OSINT: New Underwater Structures At Chinese USV/AUV Test Site"
 date: "2025-09-19 09:00:00"
 excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="{% post_url 2025-09-19-Chinese-Pier-OSINT-202509 %}"><img
+  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Chinese-Pier-OSINT-202509.html"><img
   align="left" src="/images/China-Pier-Crane-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
   Just south of Dalian there is a pier which has become closely associated with China's
   uncrewed vessel developments<br/><br/>Now there appears to be new seabed structures
-  being deployed at the site...<br/>[Read More &gt;....]({% post_url 2025-09-19-Chinese-Pier-OSINT-202509 %}
+  being deployed at the site...<br/>[Read More &gt;....](/Chinese-Pier-OSINT-202509.html
   "READ MORE")<br clear="left"/>
 ...
 

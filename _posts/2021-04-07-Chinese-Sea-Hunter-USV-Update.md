@@ -2,14 +2,14 @@
 layout: post
 title: "Chinese-Sea-Hunter-USV-Update"
 date: "2021-04-07 12:00:00"
-excerpt: '<a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="5">**Lonely Child: China''s Sea Hunter USV Copy Going Nowhere?**</font><br
-  clear="right"/><a href="{% post_url 2021-04-07-Chinese-Sea-Hunter-USV-Update %}"><img align="left" src="/images/China-Sea-Hunter-317.jpg"/></a>![Flag
+  clear="right"/><a href="/Chinese-Sea-Hunter-USV-Update.html"><img align="left" src="/images/China-Sea-Hunter-317.jpg"/></a>![Flag
   China](/images/flag_China.jpg) This unidentified vessel is believed to be a mid-size
   USV (Uncrewed Surface Vessel). It closely resembles the U.S. Navy''s Sea Hunter
   USV.<br/><br/>Recent satellite imagery appears to show the vessel still at  the
   site where it was built. This implies that it has not been trialed by the Chinese
-  Navy.<br/>[Read More &gt;....]({% post_url 2021-04-07-Chinese-Sea-Hunter-USV-Update %} "READ MORE")<br
+  Navy.<br/>[Read More &gt;....](/Chinese-Sea-Hunter-USV-Update.html "READ MORE")<br
   clear="left"/>'
 
 ---

@@ -2,12 +2,12 @@
 layout: post
 title: "China-launches-3rd-Type-075-Carrier"
 date: "2021-01-29 09:01:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**3rd Type-075 Assault Carrier For Chinese Navy**</font><br clear="right"/><a
-  href="{% post_url 2021-01-29-China-launches-3rd-Type-075-Carrier %}"><img align="left" src="/images/China-Type-075-Airctaft-Carrier-317.jpg"/></a>![Flag](/images/flag_China.jpg)
+  href="/China-launches-3rd-Type-075-Carrier.html"><img align="left" src="/images/China-Type-075-Airctaft-Carrier-317.jpg"/></a>![Flag](/images/flag_China.jpg)
   In the past two years The Chinese Navy (PLAN) has added Amphibious Assault Carriers
   (Landing Helicopter Docks - LPD) to its inventory. Today it launched the 3rd of
-  these ginormous warships...<br/>[Read More &gt;....]({% post_url 2021-01-29-China-launches-3rd-Type-075-Carrier %}
+  these ginormous warships...<br/>[Read More &gt;....](/China-launches-3rd-Type-075-Carrier.html
   "READ MORE")<br clear="left"/>
 ...
 

@@ -2,12 +2,12 @@
 layout: post
 title: "New YouTube Video: The 10 Types of Submarine"
 date: "2021-07-28 12:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
   clear="right"/><a href="https://www.youtube.com/watch?v=GRs_MVkrapY" target="blank"><img
   align="left" src="/images/Youtube-10-types-submarine-317.jpg"/></a> I am trying
   out recording videos for Youtube. The first topic is a simple explainer of the 10
   types of submarines in service today. From SSBN to SSK, to AGS. The video explains
-  what these terms means. ...<br/>[Read More &gt;....]({% post_url 2021-07-28-Video-10-Types-Of-Submarine %}
+  what these terms means. ...<br/>[Read More &gt;....](/Video-10-Types-Of-Submarine.html
   "READ MORE")<br/>[Go To Video &gt;....]("https://www.youtube.com/watch?v=GRs_MVkrapY"
   "Go To Youtube")<br clear="left"/>
 ...

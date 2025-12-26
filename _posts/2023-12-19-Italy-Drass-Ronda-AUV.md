@@ -2,12 +2,12 @@
 layout: post
 title: "Italian Firm Drass Reveals 'Ronda' XLUUV"
 date: "2023-12-19 18:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br
-  clear="right"/><a href="{% post_url 2023-12-19-Italy-Drass-Ronda-AUV %}"><img align="left" src="/images/Italy-Drass-Ronda-AUV-317.jpg"/></a>
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
+  clear="right"/><a href="/Italy-Drass-Ronda-AUV.html"><img align="left" src="/images/Italy-Drass-Ronda-AUV-317.jpg"/></a>
   ![Flag Italy](/images/flag_italy.jpg) Italian midget submarine builder Drass has
   shown some images of their XLUUV (extra-large uncrewed underwater vehicle) design.
   It appears to be designed for intelligence gathering and minelaying...<br/>[Read
-  More &gt;....]({% post_url 2023-12-19-Italy-Drass-Ronda-AUV %} "READ MORE")<br clear="left"/>
+  More &gt;....](/Italy-Drass-Ronda-AUV.html "READ MORE")<br clear="left"/>
 ...
 
 ---

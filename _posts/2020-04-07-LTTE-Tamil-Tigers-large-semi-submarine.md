@@ -2,12 +2,12 @@
 layout: post
 title: "LTTE-Tamil-Tigers-large-semi-submarine"
 date: "2020-04-07 01:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><font
+excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
   size="6">**The LTTE "narco submarine"**</font><br/>This large low profile vessel
   (LPV, aka semi-submersible) which appears to be designed for cargo. In many respects
   the craft is similar to the "narco submarines" used by Colombian cartels....<br/><a
-  href="{% post_url 2020-04-07-LTTE-Tamil-Tigers-large-semi-submarine %}"><img src="/images/LTTE-giant-semisub-900.jpg"/></a><br/>[Read
-  More &gt;....]({% post_url 2020-04-07-LTTE-Tamil-Tigers-large-semi-submarine %} "READ MORE")
+  href="/LTTE-Tamil-Tigers-large-semi-submarine.html"><img src="/images/LTTE-giant-semisub-900.jpg"/></a><br/>[Read
+  More &gt;....](/LTTE-Tamil-Tigers-large-semi-submarine.html "READ MORE")
 ...
 
 ---
