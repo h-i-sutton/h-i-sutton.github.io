@@ -2,18 +2,10 @@
 layout: post
 title: "Possible New Information On Russia's Mysterious 'Cephalopod' AUV"
 date: "2021-05-10 12:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><h1>Possible
-  New Information On Russia's Mysterious 'Cephalopod' Armed AUV</h1><br clear="right"/><a
-  href="/Russian-AUV-of-interest.html"><img align="left" src="/images/Russian-Rubin-AUV-317.jpg"/></a>![Flag
-  Russia](/images/flag_russia.jpg) Russian submarine design bureau Rubin has been
-  targeted by suspected Chinese state hackers. The alleged attack was made via a malware
-  loaded Word document, which was emailed to Rubin's Director General, Igor V. Vilnit.<br/><br/>The
-  story is interesting, but the image used in the attack is particularly interesting.
-  It appears to show the little-known armed AUV 'Cephalopod'. <br/>[Read More &gt;....](/Russian-AUV-of-interest.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <h1>Possible New Information On Russia's Mysterious 'Cephalopod' Armed AUV</h1><br clear="right"/><a href="/Russian-AUV-of-interest.html"><img align="left" src="/images/Russian-Rubin-AUV-317.jpg"/></a>![Flag Russia](/images/flag_russia.jpg) Russian submarine design bureau Rubin has been targeted by suspected Chinese state hackers. The alleged attack was made via a malware loaded Word document, which was emailed to Rubin's Director General, Igor V. Vilnit.<br/><br/>The story is interesting, but the image used in the attack is particularly interesting. It appears to show the little-known armed AUV 'Cephalopod'. <br/>[Read More &gt;....](/Russian-AUV-of-interest.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 [![](/images/Russian-Rubin-AUV-Armed-940.jpg)](/images/Russian-Rubin-AUV-Armed-translated.jpg)  
 CLICK to enlarge (translated)  

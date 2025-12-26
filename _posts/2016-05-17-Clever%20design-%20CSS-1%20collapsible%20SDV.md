@@ -2,21 +2,10 @@
 layout: post
 title: "Clever design- CSS-1 collapsible SDV"
 date: "2016-05-17 01:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/>![Flag](/images/flag_germany.jpg) The concept of folding canoes is
-  common in military circles, but conventional thinking has it that *Swimmer Delivery
-  Vehicles* (SDVs) are too large. Their bulk requires winches or cranes and dedicated
-  trailers to transport them. The smallest SDVs, termed *Diver Propulsion Vehicles*
-  (DPVs) can be carried short distances by hand but have to sacrifice the streamlined
-  fuselage altogether, leaving the swimmer exposed to the oncoming water. This compactness
-  comes at a price because it reduces speed and thus range. Prolific Submarine designer
-  Carsten Standfuss, best known for the **EURONAUT** wreck diving submarine, came
-  up with a clever way around this problem. What if SDVs were collapsible also? [Read
-  More &gt;....](/Clever design- CSS-1 collapsible SDV.html "READ MORE")<br/><a href="/Clever
-  design- CSS-1 collapsible SDV.html"><img src="/images/CSS-No1-900.jpg"/></a>
-...
-
+excerpt: |-
+  <br clear="right"/>![Flag](/images/flag_germany.jpg) The concept of folding canoes is common in military circles, but conventional thinking has it that *Swimmer Delivery Vehicles* (SDVs) are too large. Their bulk requires winches or cranes and dedicated trailers to transport them. The smallest SDVs, termed *Diver Propulsion Vehicles* (DPVs) can be carried short distances by hand but have to sacrifice the streamlined fuselage altogether, leaving the swimmer exposed to the oncoming water. This compactness comes at a price because it reduces speed and thus range. Prolific Submarine designer Carsten Standfuss, best known for the **EURONAUT** wreck diving submarine, came up with a clever way around this problem. What if SDVs were collapsible also? [Read More &gt;....](/Clever design- CSS-1 collapsible SDV.html "READ MORE")<br/><a href="/Clever design- CSS-1 collapsible SDV.html"><img src="/images/CSS-No1-900.jpg"/></a>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![Flag](/images/flag_germany.jpg) The concept of folding canoes is common in military circles, but conventional thinking has it that *Swimmer Delivery Vehicles* (SDVs) are too large. Their bulk requires winches or cranes and dedicated trailers to transport them. The smallest SDVs, termed *Diver Propulsion Vehicles* (DPVs) can be carried short distances by hand but have to sacrifice the streamlined fuselage altogether, leaving the swimmer exposed to the oncoming water. This compactness comes at a price because it reduces speed and thus range. Prolific Submarine designer Carsten Standfuss, best known for the **[EURONAUT](http://www.euronaut.org/)** wreck diving submarine, came up with a clever way around this problem. What if SDVs were collapsible also?   
 

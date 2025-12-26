@@ -2,14 +2,10 @@
 layout: post
 title: "Covert Shores News Roundup- April 2016"
 date: "2016-04-29 01:00:00"
-excerpt: '![Flag](/images/flag_aus.jpg) ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_italy.jpg)
-  ![Flag](/images/flag_france.jpg) ![Flag](/images/flag_RoK.jpg) ![Flag](/images/flag_UEA.jpg)
-  ![Flag](/images/flag_nork.jpg) Various things that have happened recently. Thank
-  you to everyone who feeds me info. <br/><a href="/Covert Shores News Roundup- April
-  2016.html"><img src="/images/News_Apr2016.jpg"/></a><br/> [Read More &gt;....](/Covert
-  Shores News Roundup- April 2016.html "READ MORE")'
-
+excerpt: |-
+  ![Flag](/images/flag_aus.jpg) ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_italy.jpg) ![Flag](/images/flag_france.jpg) ![Flag](/images/flag_RoK.jpg) ![Flag](/images/flag_UEA.jpg) ![Flag](/images/flag_nork.jpg) Various things that have happened recently. Thank you to everyone who feeds me info. <br/><a href="/Covert Shores News Roundup- April 2016.html"><img src="/images/News_Apr2016.jpg"/></a><br/> [Read More &gt;....](/Covert Shores News Roundup- April 2016.html "READ MORE")
 ---
+
 ![Flag](/images/flag_aus.jpg) ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_italy.jpg) ![Flag](/images/flag_france.jpg) ![Flag](/images/flag_RoK.jpg) ![Flag](/images/flag_UEA.jpg) ![Flag](/images/flag_nork.jpg) Various things that have happened recently. Thank you to everyone who feeds me info. I do not always get a chance to write about it, but I always appreciate it.   
 
 ______________________

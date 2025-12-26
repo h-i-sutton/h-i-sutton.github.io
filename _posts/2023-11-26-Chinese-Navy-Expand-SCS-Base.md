@@ -2,19 +2,16 @@
 layout: post
 title: "China's Massive Yulin Naval Base In South China Sea Getting Even Bigger"
 date: "2023-11-26 14:00:00"
-excerpt: "**Treat with Caution: Unverified Rumors**<br/><a href=\"https://twitter.com/covertshores\"\
-  \ target=\"blank\"><img align=\"right\" src=\"/images/twitter.jpg\"/></a><br clear=\"\
-  right\"><a href=\"/Chinese-Navy-Expand-SCS-Base.html\"><img align=\"left\" src=\"\
-  /images/China-Sanya-Expansion-317.jpg\"/></a> ![Flag China](/images/flag_China.jpg)\
-  \ China\u2019s main naval base in the South China Sea continues to grow. Additional\
-  \ quays will almost double the size of the Sanya side of Yulin naval base. A new\
-  \ quay has been built on the western shore of Yulin Harbor, outside the historic\
-  \ inner harbor.<br/><br/>This may indicate that the base will play an increasing\
-  \ role in the basing of uncrewed platforms...<br/>[Read More &gt;....](/Chinese-Navy-Expand-SCS-Base.html\
-  \ \"READ MORE\")<br clear=\"left\"/></br>"
-
+excerpt: "**Treat with Caution: Unverified Rumors**<br/><br clear=\"right\"><a href=\"/Chinese-Navy-Expand-SCS-Base.html\"\
+  ><img align=\"left\" src=\"/images/China-Sanya-Expansion-317.jpg\"/></a> ![Flag\
+  \ China](/images/flag_China.jpg) China\u2019s main naval base in the South China\
+  \ Sea continues to grow. Additional quays will almost double the size of the Sanya\
+  \ side of Yulin naval base. A new quay has been built on the western shore of Yulin\
+  \ Harbor, outside the historic inner harbor.<br/><br/>This may indicate that the\
+  \ base will play an increasing role in the basing of uncrewed platforms...<br/>[Read\
+  \ More &gt;....](/Chinese-Navy-Expand-SCS-Base.html \"READ MORE\")<br clear=\"left\"\
+  /></br>"
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #China's Massive Yulin Naval Base In South China Sea Getting Even Bigger![Flag China](/images/flag_China.jpg) China’s main naval base in the South China Sea continues to grow. Additional quays will almost double the size of the Sanya side of Yulin naval base. A new quay has been built on the western shore of Yulin Harbor, outside the historic inner harbor. This may indicate that the base will play an increasing role in the basing of uncrewed platforms.   
 

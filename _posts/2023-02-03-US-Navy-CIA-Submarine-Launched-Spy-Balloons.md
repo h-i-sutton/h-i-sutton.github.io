@@ -2,8 +2,7 @@
 layout: post
 title: "U.S. Navy & CIA Submarine Launched Spy Balloons"
 date: "2023-02-03 23:00:00"
-excerpt: "<br/><a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"\
-  right\" src=\"/images/twitter.jpg\"/></a><br clear=\"right\"><a href=\"/US-Navy-CIA-Submarine-Launched-Spy-Balloons.html\"\
+excerpt: "<br/><br clear=\"right\"><a href=\"/US-Navy-CIA-Submarine-Launched-Spy-Balloons.html\"\
   ><img align=\"left\" src=\"/images/USN-Balloon-Spy-317.jpg\"/></a> ![Flag United\
   \ States](/images/flag_USA.jpg) A stray Chinese \u2018weather balloon\u2019 (yeah\
   \ right) gallivanting across America is a curious reminder of the underreported\
@@ -11,9 +10,7 @@ excerpt: "<br/><a href=\"https://twitter.com/covertshores\" target=\"blank\"><im
   \ the CiA, experimenting with launching similar balloons from a submarine...<br/>[Read\
   \ More &gt;....](/US-Navy-CIA-Submarine-Launched-Spy-Balloons.html \"READ MORE\"\
   )<br clear=\"left\"/></br>"
-
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 ![U.S. Navy & CIA Submarine Launched Spy Balloons](/images/USN-Balloon-Spy-1955.jpg)  
 *Photograph taken from a spy balloon launched from a US Navy submarine*  

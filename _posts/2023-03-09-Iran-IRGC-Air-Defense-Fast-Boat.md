@@ -2,18 +2,15 @@
 layout: post
 title: "Iran Reveals World's First Air Defense Small Boat"
 date: "2023-03-09 23:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Iran-IRGC-Air-Defense-Fast-Boat.html\"\
-  ><img align=\"left\" src=\"/images/Iran-Air-Defense-Fast-Boat-317.jpg\"/></a> ![Flag\
-  \ Iran](/images/flag_iran.jpg) Iran\u2019s second navy, the IRGC-N (Islamic Revolutionary\
-  \ Guards Corps Navy) often raises a eyebrows with its outlandish weapons concepts.\
-  \ Yet behind the propaganda and hyperbole there is a consistent and growing core\
-  \ of good ideas and viable equipment.<br/><br/>The IRGC has now created the world's\
-  \ first very small air-defense boat...<br/>[Read More &gt;....](/Iran-IRGC-Air-Defense-Fast-Boat.html\
-  \ \"READ MORE\")<br clear=\"left\"/>"
-
+excerpt: "<br clear=\"right\"/><a href=\"/Iran-IRGC-Air-Defense-Fast-Boat.html\"><img align=\"\
+  left\" src=\"/images/Iran-Air-Defense-Fast-Boat-317.jpg\"/></a> ![Flag Iran](/images/flag_iran.jpg)\
+  \ Iran\u2019s second navy, the IRGC-N (Islamic Revolutionary Guards Corps Navy)\
+  \ often raises a eyebrows with its outlandish weapons concepts. Yet behind the propaganda\
+  \ and hyperbole there is a consistent and growing core of good ideas and viable\
+  \ equipment.<br/><br/>The IRGC has now created the world's first very small air-defense\
+  \ boat...<br/>[Read More &gt;....](/Iran-IRGC-Air-Defense-Fast-Boat.html \"READ\
+  \ MORE\")<br clear=\"left\"/>"
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 ![IRGC boats](/images/Iran-Air-Defense-Fast-Boat-Trailer.jpg)  
 #Iran Reveals World's First Air Defense Small Boat![Flag Iran](/images/flag_iran.jpg) Iran’s second navy, the IRGC-N (Islamic Revolutionary Guards Corps Navy) often raises a eyebrows with its outlandish weapons concepts. Much of its unveiling of fantastic designs is for domestic consumption however. Yet behind the propaganda and hyperbole there is a consistent and growing core of good ideas and viable equipment. The threat they pose to international shipping and navies operating near to their shores is growing accordingly. The IRGC’s weapon concepts should not be written off or ignored.   

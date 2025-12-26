@@ -2,16 +2,10 @@
 layout: post
 title: "Overview Of Maritime Drones (USVs) Of The Russo-Ukrainian War, 2022-24"
 date: "2025-06-20 22:00:00"
-excerpt: '**UPDATED**<a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"/><a href="/Russia-Ukraine-USVs-2024.html"><img
-  align="left" src="/images/Russo-Ukraine-USVs-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  ![Flag Ukraine](/images/flag_ukraine.jpg) USVs (uncrewed surface vessels) have been
-  under development for navies for some years, but the war in the Black Sea has redefined
-  them.<br/><br/>Ukraine in particular has exploited emerging communications technologies
-  to create effective USVs...<br/>[Read More &gt;....](/Russia-Ukraine-USVs-2024.html
-  "READ MORE")<br clear="left"/>'
-
+excerpt: |-
+  **UPDATED**<br clear="right"/><a href="/Russia-Ukraine-USVs-2024.html"><img align="left" src="/images/Russo-Ukraine-USVs-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) USVs (uncrewed surface vessels) have been under development for navies for some years, but the war in the Black Sea has redefined them.<br/><br/>Ukraine in particular has exploited emerging communications technologies to create effective USVs...<br/>[Read More &gt;....](/Russia-Ukraine-USVs-2024.html "READ MORE")<br clear="left"/>
 ---
+
 **UPDATED**  
 [![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 

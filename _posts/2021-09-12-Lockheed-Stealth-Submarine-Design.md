@@ -2,17 +2,10 @@
 layout: post
 title: "F-117A of The Seas: Lockheed Skunk Work's Sonar-Invisible Submarine"
 date: "2021-09-12 16:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Lockheed-Stealth-Submarine-Design.html"><img align="left"
-  src="/images/US-Lockheed-Stealth-Submarine-317.jpg"/></a>![Flag](/images/flag_USA.jpg)
-  While developing the stealth aircraft which we know today as the F-117A Nighthawk
-  (aka Stealth Fighter), Lockheed chanced upon something. It turned out that the faceted
-  sides of the aircraft didn't only deflect radar, they deflected sonar too. <br/><br/>This
-  is relevant today because faceted sides are slowly becoming a thing on submarines.<br/>[Read
-  More &gt;....](/Lockheed-Stealth-Submarine-Design.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Lockheed-Stealth-Submarine-Design.html"><img align="left" src="/images/US-Lockheed-Stealth-Submarine-317.jpg"/></a>![Flag](/images/flag_USA.jpg) While developing the stealth aircraft which we know today as the F-117A Nighthawk (aka Stealth Fighter), Lockheed chanced upon something. It turned out that the faceted sides of the aircraft didn't only deflect radar, they deflected sonar too. <br/><br/>This is relevant today because faceted sides are slowly becoming a thing on submarines.<br/>[Read More &gt;....](/Lockheed-Stealth-Submarine-Design.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![Lockheed Stealth Submarine](/images/US-Lockheed-Active-Sonar-Stealth-Submarine-3d.jpg)  
 *Illustration with help from Dr Rachal Pawling ([Twitter](https://twitter.com/R_P_one)), Naval Architect and Lecturer in Ship Design, UCL.*  

@@ -2,20 +2,10 @@
 layout: post
 title: "LTTE Sea Tigers sneak attack craft and midget subs"
 date: "2016-04-24 01:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/>The Liberation Tigers of Tamil Eelam (**LTTE**, popularly known as
-  the **Tamil Tigers**) waged a bloody civil war with the Sri Lankan government from
-  1983 until 2009, when they were defeated. <br/><a href="/LTTE Sea Tigers sneak attack
-  craft and midget subs.html"><img src="/images/LTTE_cover900.jpg"/></a><br/>As the
-  LTTE grew from a guerilla movement into a quasi-conventional army, they built up
-  a naval capability as the **Sea Tigers**. They had a range of innovative and asymmetric
-  capabilities, including explosive suicide boats, divers, semi-submersibles and crude
-  submarines. This ongoing research attempts to make sense of the various LTTE craft
-  photographed by both sides during and after the conflict. [Read More &gt;....](/LTTE
-  Sea Tigers sneak attack craft and midget subs.html "READ MORE")
-...
-
+excerpt: |-
+  <br clear="right"/>The Liberation Tigers of Tamil Eelam (**LTTE**, popularly known as the **Tamil Tigers**) waged a bloody civil war with the Sri Lankan government from 1983 until 2009, when they were defeated. <br/><a href="/LTTE Sea Tigers sneak attack craft and midget subs.html"><img src="/images/LTTE_cover900.jpg"/></a><br/>As the LTTE grew from a guerilla movement into a quasi-conventional army, they built up a naval capability as the **Sea Tigers**. They had a range of innovative and asymmetric capabilities, including explosive suicide boats, divers, semi-submersibles and crude submarines. This ongoing research attempts to make sense of the various LTTE craft photographed by both sides during and after the conflict. [Read More &gt;....](/LTTE Sea Tigers sneak attack craft and midget subs.html "READ MORE")
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![cover](/images/LTTE_cover940.jpg)   
 The *Liberation Tigers of Tamil Eelam* (**LTTE** - தமிழீழ விடுதலைப் புலிகள், popularly known as the *Tamil Tigers*) waged a bloody civil war with the Sri Lankan government from 1983 until 2009. At times they dominated much of the north of the country and developed a sizable military capability. They were eventually defeated militarily in 2009.   

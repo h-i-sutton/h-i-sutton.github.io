@@ -2,14 +2,10 @@
 layout: post
 title: "Russian_Navy_Submarine_Outlook_2019-2040"
 date: "2019-06-12 03:00:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Russian Submarine outlook** (Part 1: SSBN/SSDN)</font><br/>![Flag](/images/flag_russia.jpg)
-  Russia''s submarine fleet is fighting back from a construction and readiness low-point
-  following the fall of the Soviet Union and subsequent economic woes.... [Read More
-  &gt;....](/Russian_Navy_Submarine_Outlook_2019-2040.html "READ MORE")<br/><a href="/Russian_Navy_Submarine_Outlook_2019-2040.html"><img
-  src="/images/Ru_SubOutlook900.jpg"/></a><br clear="right"/>'
-
+excerpt: |-
+  <font size="6">**Russian Submarine outlook** (Part 1: SSBN/SSDN)</font><br/>![Flag](/images/flag_russia.jpg) Russia's submarine fleet is fighting back from a construction and readiness low-point following the fall of the Soviet Union and subsequent economic woes.... [Read More &gt;....](/Russian_Navy_Submarine_Outlook_2019-2040.html "READ MORE")<br/><a href="/Russian_Navy_Submarine_Outlook_2019-2040.html"><img src="/images/Ru_SubOutlook900.jpg"/></a><br clear="right"/>
 ---
+
 ![Russian Navy submarine outlook - Covert Shores](/images/Ru_SubOutlook940.jpg)  
   
 

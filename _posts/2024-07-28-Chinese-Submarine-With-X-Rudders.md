@@ -2,18 +2,9 @@
 layout: post
 title: "New Improved Yuan Class Submarine In China, May Have VLS"
 date: "2024-07-28 16:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Chinese-Submarine-With-X-Rudders.html"><img align="left"
-  src="/images/China-X-Rudder-Submarine-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
-  A new type of submarine has been observed at the Wuchang shipyard in Wuhan, China.
-  The vessel was spotted by Defense analyst Tom Shugart.<br/><br/>Initial analysis
-  suggests that it is noticibly longer than the existing Type-039A/B/C Yuan Class,
-  and also features an X-form rudder...<br/>[Read More &gt;....](/Chinese-Submarine-With-X-Rudders.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Chinese-Submarine-With-X-Rudders.html"><img align="left" src="/images/China-X-Rudder-Submarine-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) A new type of submarine has been observed at the Wuchang shipyard in Wuhan, China. The vessel was spotted by Defense analyst Tom Shugart.<br/><br/>Initial analysis suggests that it is noticibly longer than the existing Type-039A/B/C Yuan Class, and also features an X-form rudder...<br/>[Read More &gt;....](/Chinese-Submarine-With-X-Rudders.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #New Improved Yuan Class Submarine In China, May Have VLS![Flag China](/images/flag_China.jpg) A new type of submarine has been observed at the Wuchang shipyard in Wuhan, China. The vessel was spotted by [Defense analyst Tom Shugart](https://x.com/tshugart3/status/1817535856107737093). The submarine is visible in satelite imagery. Initial analysis suggests that it is noticibly longer than the existing Type-039A/B/C Yuan Class, and also features an X-form rudder.   
 

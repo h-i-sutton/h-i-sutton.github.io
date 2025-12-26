@@ -2,16 +2,15 @@
 layout: post
 title: "Deep_Shadow_SDV"
 date: "2018-11-18 11:00:00"
-excerpt: "*Updated: originally posted 22nd June 2018.*<br/><a href=\"https://twitter.com/covertshores\"\
-  \ target=\"blank\"><img align=\"right\" src=\"/images/twitter.jpg\"/></a><font size=\"\
-  5\">**'Deep Shadow' Swimmer Delivery Vehicle revealed**</font><br/>![Flag](/images/flag_italy.jpg)\
+excerpt: "*Updated: originally posted 22nd June 2018.*<br/><font size=\"5\">**'Deep Shadow'\
+  \ Swimmer Delivery Vehicle revealed**</font><br/>![Flag](/images/flag_italy.jpg)\
   \ The Deep Shadow carries six combat swimmers and is roughly analogous to the US\
   \ Navy SEALs\u2019 SDV Mk.VIII series. Its streamlined hull allows a comparatively\
   \ high yet undisclosed cruising speed....   [Read More &gt;....](/Deep_Shadow_SDV.html\
   \ \"READ MORE\")<br/><a href=\"/Deep_Shadow_SDV.html\"><img src=\"/images/It_DeepShadow_900.jpg\"\
   /></a><br clear=\"right\"/>"
-
 ---
+
 *Updated: originally posted 22nd June 2018.*  
 *Many thans to unnamed others, without whom this article would not have been possible.*  
   

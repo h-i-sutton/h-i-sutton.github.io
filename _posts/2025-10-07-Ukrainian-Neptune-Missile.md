@@ -2,19 +2,9 @@
 layout: post
 title: "New Variant OF Neptune Cruise Missile Breaks Cover"
 date: "2025-10-07 23:00:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img
-  align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="/Ukrainian-Neptune-Missile.html"><img
-  align="left" src="/images/Ukraine-Missiles-Neptune-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)
-  Since the sinking of the Russian cruiser Moskva on April 13 2022, Ukraine's Neptune
-  missile has become a household name. Its role has also evolved, from that of a pure
-  anti-ship missile, to more of a long range cruise missile.<br/><br/>The latest RK-360L
-  Neptune-D variant features enlarged fuel tanks ahead of the main wing...<br/>[Read
-  More &gt;....](/Ukrainian-Neptune-Missile.html "READ MORE")<br clear="left"/></br>
-...
-
+excerpt: |-
+  <br/><br clear="right"><a href="/Ukrainian-Neptune-Missile.html"><img align="left" src="/images/Ukraine-Missiles-Neptune-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Since the sinking of the Russian cruiser Moskva on April 13 2022, Ukraine's Neptune missile has become a household name. Its role has also evolved, from that of a pure anti-ship missile, to more of a long range cruise missile.<br/><br/>The latest RK-360L Neptune-D variant features enlarged fuel tanks ahead of the main wing...<br/>[Read More &gt;....](/Ukrainian-Neptune-Missile.html "READ MORE")<br clear="left"/></br>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 [![](/images/Ukraine-Missiles-Neptune-940.jpg)](/images/Ukraine-Missiles-Neptune.jpg)  
 *CLICK to Enlarge.*  

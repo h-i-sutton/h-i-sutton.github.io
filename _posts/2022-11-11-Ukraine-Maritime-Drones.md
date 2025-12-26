@@ -2,15 +2,14 @@
 layout: post
 title: "Ukraine's Maritime Drones (USV) What You Need To Know"
 date: "2022-11-11 23:01:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Ukraine-Maritime-Drones.html\"\
-  ><img align=\"left\" src=\"/images/Ukraine-Navy-Maritime-Drone-317.jpg\"/></a>![Flag](/images/flag_ukraine.jpg)\
+excerpt: "<br clear=\"right\"/><a href=\"/Ukraine-Maritime-Drones.html\"><img align=\"left\"\
+  \ src=\"/images/Ukraine-Navy-Maritime-Drone-317.jpg\"/></a>![Flag](/images/flag_ukraine.jpg)\
   \ Ukraine\u2019s unique '**Magura**' maritime drones, termed uncrewed surface vessels\
   \ (USVs) in naval parlance, have taken the war to the Russian Navy. They are part\
   \ of a major switch in the fortunes for the Russian invasion.<br/><br/>[Read More\
   \ &gt;....](/Ukraine-Maritime-Drones.html \"READ MORE\")<br clear=\"left\"/>"
-
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 [![](/images/Ukraine-Navy-Maritime-Drone-USV-Cutaway-940.jpg)](/images/Ukraine-Navy-Maritime-Drone-USV-Cutaway.jpg)  

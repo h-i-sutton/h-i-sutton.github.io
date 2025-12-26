@@ -2,16 +2,10 @@
 layout: post
 title: "Pr09852_Belgorod_launched"
 date: "2019-04-23 05:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Russia's launched Belgorod - first analysis**</font><br/><img src="/images/flag_russia.jpg"/>
-  The Russian Navy continued its trend of limiting photographer access to its latest
-  submarine launch, going to new extremes for the project 09852 Belgorod which was
-  launched today in Severodvinsk... <br/><a href="/Pr09852_Belgorod_launched.html"><img
-  src="/images/Ru_Pr09852_Belgorod_Launch+900.jpg"/></a><br/>[Read More &gt;....](/Pr09852_Belgorod_launched.html
-  "READ MORE")
-...
-
+excerpt: |-
+  <font size="6">**Russia's launched Belgorod - first analysis**</font><br/><img src="/images/flag_russia.jpg"/> The Russian Navy continued its trend of limiting photographer access to its latest submarine launch, going to new extremes for the project 09852 Belgorod which was launched today in Severodvinsk... <br/><a href="/Pr09852_Belgorod_launched.html"><img src="/images/Ru_Pr09852_Belgorod_Launch+900.jpg"/></a><br/>[Read More &gt;....](/Pr09852_Belgorod_launched.html "READ MORE")
 ---
+
 ##### Share: __
 
 ![Flag](/images/flag_russia.jpg) **Russia's launched Belgorod - first analysis**  

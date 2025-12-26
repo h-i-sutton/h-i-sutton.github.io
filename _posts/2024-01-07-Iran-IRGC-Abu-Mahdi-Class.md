@@ -2,17 +2,9 @@
 layout: post
 title: "Iran's IRGC Shows Off New Warship"
 date: "2024-01-07 17:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Iran-IRGC-Abu-Mahdi-Class.html"><img align="left" src="/images/Iran-IRGC-Ship-Abu-Mahdi-317.jpg"/></a>
-  ![Flag Iran](/images/flag_iran.jpg) Iran showcased another batch of new boats for
-  the IRGC (Islamic Revolutionary Guard Corp). The exact number of new vessels in
-  these parades needs to be taken with a pinch of salt.<br/><br/>This time a new missile
-  boat stole the show...<br/>[Read More &gt;....](/Iran-IRGC-Abu-Mahdi-Class.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Iran-IRGC-Abu-Mahdi-Class.html"><img align="left" src="/images/Iran-IRGC-Ship-Abu-Mahdi-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) Iran showcased another batch of new boats for the IRGC (Islamic Revolutionary Guard Corp). The exact number of new vessels in these parades needs to be taken with a pinch of salt.<br/><br/>This time a new missile boat stole the show...<br/>[Read More &gt;....](/Iran-IRGC-Abu-Mahdi-Class.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 ![Iran-IRGC-Abu-Mahdi-Class](/images/Iran-IRGC-Ship-Abu-Mahdi-bow.jpg)  
 

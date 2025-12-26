@@ -2,17 +2,10 @@
 layout: post
 title: "Indian Navy's Third Ballistic Missile Submarine Doubles Missile Armament"
 date: "2021-12-29 11:00:00"
-excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Indian-Navy-S4-SSBN.html"><img
-  align="left" src="/images/Arihant-Class-Submarine-S4-317.jpg"/></a> ![Flag India](/images/flag_india.jpg)
-  The quiet launch of India's 3rd Arihant Class ballistic missile submarine (SSBN)
-  did not go unnoticed. Satellite images confirm that it is much longer than the first
-  two boats of the class. <br/><br/>This supports reports that the new submarine has
-  8 instead of 4 missile tubes.<br/>[Read More &gt;....](/Indian-Navy-S4-SSBN.html
-  "READ MORE")<br clear="left"/></br>
-...
-
+excerpt: |-
+  <br/><br clear="right"><a href="/Indian-Navy-S4-SSBN.html"><img align="left" src="/images/Arihant-Class-Submarine-S4-317.jpg"/></a> ![Flag India](/images/flag_india.jpg) The quiet launch of India's 3rd Arihant Class ballistic missile submarine (SSBN) did not go unnoticed. Satellite images confirm that it is much longer than the first two boats of the class. <br/><br/>This supports reports that the new submarine has 8 instead of 4 missile tubes.<br/>[Read More &gt;....](/Indian-Navy-S4-SSBN.html "READ MORE")<br clear="left"/></br>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 [![](/images/India-Arihant-Class-SSBN-Compared-940.jpg)](/images/India-Arihant-Class-SSBN-Compared.jpg)  
 *CLICK to enlarge*.  

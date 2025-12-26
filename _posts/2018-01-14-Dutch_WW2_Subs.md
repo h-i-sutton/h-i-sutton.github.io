@@ -2,16 +2,10 @@
 layout: post
 title: "Dutch_WW2_Subs"
 date: "2018-01-14 02:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
-  <font size="6">**Advanced Dutch multi-hull submarine designs of World War Two**</font>
-  <br/>![Flag](/images/flag_netherlands.jpg) At the start of World war Two, naval
-  architects from the Dutch B.V. Nederlandsche Ver. Scheepsbouw Bureaux took refuge
-  in the United Kingdom, where they continued to design submarines.. [Read More &gt;....](/Dutch_WW2_Subs.html
-  "READ MORE")<br/><a href="/Dutch_WW2_Subs.html"><img src="/images/Dutch_WW2_attackSub_profile900.jpg"/></a><br
-  clear="right"/>
-...
-
+excerpt: |2-
+   <font size="6">**Advanced Dutch multi-hull submarine designs of World War Two**</font> <br/>![Flag](/images/flag_netherlands.jpg) At the start of World war Two, naval architects from the Dutch B.V. Nederlandsche Ver. Scheepsbouw Bureaux took refuge in the United Kingdom, where they continued to design submarines.. [Read More &gt;....](/Dutch_WW2_Subs.html "READ MORE")<br/><a href="/Dutch_WW2_Subs.html"><img src="/images/Dutch_WW2_attackSub_profile900.jpg"/></a><br clear="right"/>
 ---
+
 *This article was made possible by SecretProjects forum member [MihoshiK](https://www.secretprojects.co.uk/forum/index.php?action=profile;u=412). The information was originally posted to Dutchsubmarines.com but unfortunately has been lost since. By posting it here we hope to preserve and share knowledge of these interesting designs.*   
 
 **Advanced Dutch multi-hull submarine designs of World War Two**   

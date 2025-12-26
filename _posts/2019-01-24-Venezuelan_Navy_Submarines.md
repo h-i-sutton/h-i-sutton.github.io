@@ -2,14 +2,10 @@
 layout: post
 title: "Venezuelan_Navy_Submarines"
 date: "2019-01-24 11:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Venezuelan Navy Submarine Capabilities**</font><br/><img src="/images/flag_venz.jpg"/>
-  The most potent vessels in the Venezuelan Navy are two German-built Type-209/1300
-  diesel-electric attack submarines.. <br/>[Read More &gt;....](/Venezuelan_Navy_Submarines.html
-  "READ MORE")<br clear="right"><a href="/Venezuelan_Navy_Submarines.html"><img src="/images/Ven_Type209_side900.jpg"/></a></br>
-...
-
+excerpt: |-
+  <font size="6">**Venezuelan Navy Submarine Capabilities**</font><br/><img src="/images/flag_venz.jpg"/> The most potent vessels in the Venezuelan Navy are two German-built Type-209/1300 diesel-electric attack submarines.. <br/>[Read More &gt;....](/Venezuelan_Navy_Submarines.html "READ MORE")<br clear="right"><a href="/Venezuelan_Navy_Submarines.html"><img src="/images/Ven_Type209_side900.jpg"/></a></br>
 ---
+
 ##### Share:
 
 **Venezuelan Navy Submarine Capabilities**  

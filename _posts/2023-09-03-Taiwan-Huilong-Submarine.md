@@ -2,17 +2,14 @@
 layout: post
 title: "Taiwan Building Midget Submarine: Huilong Project"
 date: "2023-09-03 11:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Taiwan-Huilong-Submarine.html\"\
-  ><img align=\"left\" src=\"/images/Taiwan-Huilong-Submarine-317.jpg\"/></a> ![Flag\
-  \ Taiwan](/images/flag_taiwan.jpg) In parallel to the full-sized Indigenous Defense\
-  \ Submarine (IDS), Taiwan is building a much smaller submarine<br/><br/>Some reports\
-  \ suggest that the Huilong submarine (\u6167\u9F8D\u6C34\u4E0B\u8F09\u5177) will\
-  \ be uncrewed, but it will likely be crewed...<br/>[Read More &gt;....](/Taiwan-Huilong-Submarine.html\
-  \ \"READ MORE\")<br clear=\"left\"/>"
-
+excerpt: "<br clear=\"right\"/><a href=\"/Taiwan-Huilong-Submarine.html\"><img align=\"left\"\
+  \ src=\"/images/Taiwan-Huilong-Submarine-317.jpg\"/></a> ![Flag Taiwan](/images/flag_taiwan.jpg)\
+  \ In parallel to the full-sized Indigenous Defense Submarine (IDS), Taiwan is building\
+  \ a much smaller submarine<br/><br/>Some reports suggest that the Huilong submarine\
+  \ (\u6167\u9F8D\u6C34\u4E0B\u8F09\u5177) will be uncrewed, but it will likely be\
+  \ crewed...<br/>[Read More &gt;....](/Taiwan-Huilong-Submarine.html \"READ MORE\"\
+  )<br clear=\"left\"/>"
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Taiwan Building Midget Submarine: Huilong Project![Flag Taiwan](/images/flag_taiwan.jpg) In parallel to the full-sized [Indigenous Defense Submarine (IDS)](http://www.hisutton.com{% post_url 2019-05-22-ROCN_Submarine %}), Taiwan is [building a much smaller submarine](https://www.upmedia.mg/news_info.php?Type=1&SerialNo=181232). The Huilong design is a midge submarine intended for testing, It will be armed with torpedoes however.  
 

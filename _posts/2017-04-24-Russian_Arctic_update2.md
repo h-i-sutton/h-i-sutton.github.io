@@ -2,20 +2,18 @@
 layout: post
 title: "Russian_Arctic_update2"
 date: "2017-04-24 23:01:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**New info on Pr-09852 Belgorod\
-  \ submarine and Arctic plans**</font> <br/>![Flag](/images/flag_russia.jpg) Less\
-  \ than a week after Russia unveiled its new arctic base on Alexandra Island in the\
-  \ Arctic Circle, Russian media have begun reporting on the future launch of the\
-  \ Project 09852 **Belgorod** submarine. The headline fact is that she will be the\
-  \ largest (or at least o=longest) submarine in in the world, at 184m. This is thanks\
-  \ to a 30m hull insert which allows her to accommodate the relatively large Losharik\
-  \ deep sea submersible (AGS). However, her size isn\u2019t the real headline here\u2026\
-  . <br/>[Read More &gt;....](/Russian_Arctic_update2.html \"READ MORE\")<br/><a href=\"\
-  /Russian_Arctic_update2.html\"><img src=\"/images/Belgorod_subsCompare900.jpg\"\
+excerpt: "<font size=\"6\">**New info on Pr-09852 Belgorod submarine and Arctic plans**</font>\
+  \ <br/>![Flag](/images/flag_russia.jpg) Less than a week after Russia unveiled its\
+  \ new arctic base on Alexandra Island in the Arctic Circle, Russian media have begun\
+  \ reporting on the future launch of the Project 09852 **Belgorod** submarine. The\
+  \ headline fact is that she will be the largest (or at least o=longest) submarine\
+  \ in in the world, at 184m. This is thanks to a 30m hull insert which allows her\
+  \ to accommodate the relatively large Losharik deep sea submersible (AGS). However,\
+  \ her size isn\u2019t the real headline here\u2026. <br/>[Read More &gt;....](/Russian_Arctic_update2.html\
+  \ \"READ MORE\")<br/><a href=\"/Russian_Arctic_update2.html\"><img src=\"/images/Belgorod_subsCompare900.jpg\"\
   /></a><br clear=\"right\"/>"
-
 ---
+
 **New info on Pr-09852 Belgorod submarine and Arctic plans**   
 ![Flag](/images/flag_russia.jpg) Less than a week after Russia unveiled its new arctic base on Alexandra Island in the Arctic Circle, Russian media have begun reporting on the future launch of the Project 09852 **Belgorod** submarine (see [Izvestia (in Russian)](http://izvestia.ru/news/688769) and [Sputnik News](https://sputniknews.com/military/201704231052905471-russia-navy-biggest-sub/) in English). The headline fact is that she will be the largest (or at least o=longest) submarine in in the world, at 184m. This is thanks to a 30m hull insert which allows her to accommodate the relatively large Losharik deep sea submersible (AGS).   
 

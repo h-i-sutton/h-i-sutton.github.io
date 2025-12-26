@@ -2,24 +2,22 @@
 layout: post
 title: "Analysis -threat of narco-subs in Middle East"
 date: "2016-08-09 03:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a> Naval planners are doubtless considering the\
-  \ potential of \u2018narco-sub\u2019 technology being used by terrorist organizations\
-  \ in North Africa and the Middle East. The threat of this technology proliferating\
-  \ to terrorist and similar non-governmental forces has been highlighted several\
-  \ times, mainly with reference to smuggling arms and WMDs into mainland US from\
-  \ Central and South America. Narco-subs are already used extensively to smuggle\
-  \ narcotics from Colombia to Mexico on their passage towards US markets but despite\
-  \ the US coast being within range the \u2018direct-to-market\u2019 modus operandi\
-  \ has not revealed itself. And the threat of narco-subs being used to smuggle terrorist\
-  \ materials into US is currently unproven. <br/>However, if there is one theater\
-  \ where we should expect to see the proliferation, it is along North Africa\u2019\
-  s Mediterranean coast and in the Eastern Mediterranean.... [Read More &gt;....](/Analysis\
-  \ -threat of narco-subs in Middle East.html \"READ MORE\")<br/><a href=\"/Analysis\
-  \ -threat of narco-subs in Middle East.html\"><img src=\"/images/narco_ME900.jpg\"\
-  /></a><br clear=\"right\"/>"
-
+excerpt: " Naval planners are doubtless considering the potential of \u2018narco-sub\u2019\
+  \ technology being used by terrorist organizations in North Africa and the Middle\
+  \ East. The threat of this technology proliferating to terrorist and similar non-governmental\
+  \ forces has been highlighted several times, mainly with reference to smuggling\
+  \ arms and WMDs into mainland US from Central and South America. Narco-subs are\
+  \ already used extensively to smuggle narcotics from Colombia to Mexico on their\
+  \ passage towards US markets but despite the US coast being within range the \u2018\
+  direct-to-market\u2019 modus operandi has not revealed itself. And the threat of\
+  \ narco-subs being used to smuggle terrorist materials into US is currently unproven.\
+  \ <br/>However, if there is one theater where we should expect to see the proliferation,\
+  \ it is along North Africa\u2019s Mediterranean coast and in the Eastern Mediterranean....\
+  \ [Read More &gt;....](/Analysis -threat of narco-subs in Middle East.html \"READ\
+  \ MORE\")<br/><a href=\"/Analysis -threat of narco-subs in Middle East.html\"><img\
+  \ src=\"/images/narco_ME900.jpg\"/></a><br clear=\"right\"/>"
 ---
+
 ![Narco sub](/images/narco_ME940.jpg)  
 Naval planners are doubtless considering the potential of ‘narco-sub’ technology being used by terrorist organizations in North Africa and the Middle East. The threat of this technology proliferating to terrorist and similar non-governmental forces has been highlighted several times, mainly with reference to smuggling arms and WMDs into mainland US from Central and South America. Narco-subs are already used extensively to smuggle narcotics from Colombia to Mexico on their passage towards US markets but despite the US coast being within range the ‘direct-to-market’ modus operandi has not revealed itself. And the threat of narco-subs being used to smuggle terrorist materials into US is currently unproven.   
 

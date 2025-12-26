@@ -2,16 +2,9 @@
 layout: post
 title: "Russian USV Engineers Weaponize A Kayak"
 date: "2025-01-09 12:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Russia-Kajak-USV.html"><img align="left" src="/images/Russo-USV-Kajak-317.jpg"/></a>
-  ![Flag Russia](/images/flag_russia.jpg) Russian engineers have been testing an uncrewed
-  surface vessel (USV) based on a kayak hull.<br/><br/>The small vessel appears to
-  have a StarLink communications system or other very similar antenna...<br/>[Read
-  More &gt;....](/Russia-Kajak-USV.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russia-Kajak-USV.html"><img align="left" src="/images/Russo-USV-Kajak-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Russian engineers have been testing an uncrewed surface vessel (USV) based on a kayak hull.<br/><br/>The small vessel appears to have a StarLink communications system or other very similar antenna...<br/>[Read More &gt;....](/Russia-Kajak-USV.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Russian USV Engineers Weaponize A Kayak![Flag Russia](/images/flag_russia.jpg) Russian engineers have been testing an uncrewed surface vessel (USV) based on a kayak hull. The small vessel appears to have a StarLink communications system or other very similar antenna.   
 ![Russian USV Engineers Weaponize A Kayak](/images/Russo-USV-Kajak-profile.jpg)  

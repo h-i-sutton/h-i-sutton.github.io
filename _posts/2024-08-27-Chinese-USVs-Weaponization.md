@@ -2,19 +2,9 @@
 layout: post
 title: "Chinese Companies Now Selling Export USVs Suitable For Weaponization"
 date: "2024-08-27 22:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Chinese-USVs-Weaponization.html"><img align="left" src="/images/China-USV-317.jpg"/></a>
-  ![Flag China](/images/flag_China.jpg) It is no secret that many of the small drones
-  used on the battlefield in the Russo-Ukraine War are built in China. They are sold
-  online and used by both sides. <br/><br/>Now that Ukraine has created the market
-  for attack maritime drones (OWA-USVs) Chinese firms are being quick to jump in to
-  the market. Alibaba and other online markets are becoming awash with small USVs
-  suitable for weaponization...<br/>[Read More &gt;....](/Chinese-USVs-Weaponization.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Chinese-USVs-Weaponization.html"><img align="left" src="/images/China-USV-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) It is no secret that many of the small drones used on the battlefield in the Russo-Ukraine War are built in China. They are sold online and used by both sides. <br/><br/>Now that Ukraine has created the market for attack maritime drones (OWA-USVs) Chinese firms are being quick to jump in to the market. Alibaba and other online markets are becoming awash with small USVs suitable for weaponization...<br/>[Read More &gt;....](/Chinese-USVs-Weaponization.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Chinese Companies Now Selling Export USVs Suitable For Weaponization![Flag China](/images/flag_China.jpg) It is no secret that many of the small drones used on the battlefield in the Russo-Ukraine War are built in China. They are sold online and used by both sides. Even larger drones like the Mugin have found their way into the conflict. Now that Ukraine has created the market for attack maritime drones (OWA-USVs) Chinese firms are being quick to jump in to the market.  
 

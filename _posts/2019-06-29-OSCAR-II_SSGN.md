@@ -2,14 +2,10 @@
 layout: post
 title: "OSCAR-II_SSGN"
 date: "2019-06-29 00:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
-  <font size="6">**OSCAR-II Class SSGN**</font><br/> ![Flag](/images/flag_russia.jpg)
-  The Russian Navy is modernizing two of its Project 949A OSCAR-II Class cruise missile
-  submarines (SSGNs) to carry the latest generation of missiles...  [Read More &gt;....](/OSCAR-II_SSGN.html
-  "READ MORE")<br/><a href="/OSCAR-II_SSGN.html"><img src="/images/Ru_OSCAR-II_Cutaway900.jpg"/></a>
-...
-
+excerpt: |2-
+   <font size="6">**OSCAR-II Class SSGN**</font><br/> ![Flag](/images/flag_russia.jpg) The Russian Navy is modernizing two of its Project 949A OSCAR-II Class cruise missile submarines (SSGNs) to carry the latest generation of missiles...  [Read More &gt;....](/OSCAR-II_SSGN.html "READ MORE")<br/><a href="/OSCAR-II_SSGN.html"><img src="/images/Ru_OSCAR-II_Cutaway900.jpg"/></a>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**OSCAR-II Class SSGN**   
 
 ![Flag](/images/flag_russia.jpg) The Russian Navy is modernizing two of its Project 949A OSCAR-II Class cruise missile submarines (SSGNs) to carry the latest generation of missiles. These boats, designated Pr.949A**M** will have their P-700 Granit (SS-N-19 SHIPWRECK) missiles replaced by a combination of Kalibr land-attack cruise missiles (SS-N-30A SIZZLER) and P-800 Oniks (SS-N-26 STROBILE) dual-putpose anti-ship and land attack cruise missiles. This also implies the possibilities that it will in the future also be able to carry the 3M22 Zircon hypersonic anti-ship missile. The number of missiles carried in the new fit has not been released but it is expected to use the SM-315 triple launcher so the number could be 72 missiles compared to 24 in the original fit.   

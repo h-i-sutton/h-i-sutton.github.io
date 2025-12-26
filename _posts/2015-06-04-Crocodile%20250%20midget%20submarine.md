@@ -2,14 +2,10 @@
 layout: post
 title: "Crocodile 250 midget submarine"
 date: "2015-06-04 11:00:00"
-excerpt: <img src="/images/flag_chile.jpg"/> continuing the lineage of the famous Cos.Mo.S
-  SX and MG series midget submarines, the Crocodile 250 Class is Chile's answer to
-  resurgent interest in midget submarines for Special Forces and Littoral combat.
-  [Read More &gt;....](/Crocodile 250 midget submarine.html "READ MORE")<br/><a href="/Crocodile
-  250 midget submarine.html"><img src="/images/croc900.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_chile.jpg"/> continuing the lineage of the famous Cos.Mo.S SX and MG series midget submarines, the Crocodile 250 Class is Chile's answer to resurgent interest in midget submarines for Special Forces and Littoral combat. [Read More &gt;....](/Crocodile 250 midget submarine.html "READ MORE")<br/><a href="/Crocodile 250 midget submarine.html"><img src="/images/croc900.jpg"/></a>
 ---
+
 ![Flag](/images/flag_chile.jpg) Designed by former Cos.Mo.S engineers at Vapor Industrial, the Chilean **Crocodile 250 Class** (*Crocodillo*) midget submarine is the first such craft designed in Latin America. It is only slightly larger than the Cold War Cos.Mo.S MG110 design but is much more heavily armed and boasts Air-Independent Propulsion (AIP) which greatly increases its covert loiter capability. It is also unusual among midget submarines in that it has impulsors for the torpedo tubes allowing the carriage of non-swim-out loads such as anti-ship missiles. Load is still limited by weight so only two tubes can be used for anti-ship missiles at a time.   
 ![Flag](/images/croc3.jpg)  
 ![Flag](/images/croc4.jpg)  

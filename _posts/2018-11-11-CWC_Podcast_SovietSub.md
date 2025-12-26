@@ -2,15 +2,10 @@
 layout: post
 title: "CWC_Podcast_SovietSub"
 date: "2018-11-11 02:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Podcast - FOXTROT Class SS**</font> (John Sutton, Medway)<br/>![Flag](/images/flag_russia.jpg)
-  Episode 35 of Cold War Conversations talks with John Sutton who owns a Pr.641 FOXTROT
-  Class Soviet Submarine moored in the middle of the River Medway in Kent, UK....  [Read
-  More &gt;....](/CWC_Podcast_SovietSub.html "READ MORE")<br/><a href="https://coldwarconversations.com/episode35/"
-  target="blank"><img src="/images/CWC_SovietSub.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Podcast - FOXTROT Class SS**</font> (John Sutton, Medway)<br/>![Flag](/images/flag_russia.jpg) Episode 35 of Cold War Conversations talks with John Sutton who owns a Pr.641 FOXTROT Class Soviet Submarine moored in the middle of the River Medway in Kent, UK....  [Read More &gt;....](/CWC_Podcast_SovietSub.html "READ MORE")<br/><a href="https://coldwarconversations.com/episode35/" target="blank"><img src="/images/CWC_SovietSub.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 **Podcast - FOXTROT Class SS** (John Sutton, Medway)   
 [![](/images/CWC_SovietSub.jpg)](https://coldwarconversations.com/episode35/)![Flag](/images/flag_russia.jpg) Episode 35 of Cold War Conversations talks with John Sutton who owns a Pr.641 FOXTROT Class Soviet Submarine moored in the middle of the River Medway in Kent, UK. Well worth a listen!!! Available [HERE](https://coldwarconversations.com/episode35/)

@@ -2,14 +2,10 @@
 layout: post
 title: "Panerai watch advert with great SLC Maiale footage"
 date: "2015-08-10 10:00:00"
-excerpt: <img src="/images/flag_italy.jpg"/> The history between the famous watch company and
-  Italian Special Forces goes back to WW2. Although Panerai capitalizes on the heritage
-  and connection, it is genuine and results in fascinating adverts. Must *watch* if
-  only for the vintage human torpedo footage. Click to open in YOUTUBE:<br/><a href="https://www.youtube.com/watch?v=I2CU_eO44ho"
-  target="_blank"><img src="/images/Panerai3.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_italy.jpg"/> The history between the famous watch company and Italian Special Forces goes back to WW2. Although Panerai capitalizes on the heritage and connection, it is genuine and results in fascinating adverts. Must *watch* if only for the vintage human torpedo footage. Click to open in YOUTUBE:<br/><a href="https://www.youtube.com/watch?v=I2CU_eO44ho" target="_blank"><img src="/images/Panerai3.jpg"/></a>
 ---
+
 ![](/images/flag_italy.jpg) The history between the famous watch company and Italian Special Forces goes back to WW2. Although Panerai capitalizes on the heritage and connection, it is genuine and results in fascinating adverts. The company supplied diving watches and other precision mechanisms to the famous Decima MAS (X-MAS) frogmen unit during WW2 and has been closely associated with the **COMSUBIN** (aka *Incursori*) and other Special Forces ever since. The footage shows Decima-MAS frogmen with an SLC 'Maiale' (Pig) human torpedo negotiating torpedo net defenses, and general footage of the SLC. Note that the footage was actually shot postwar for TV, but the craft and techniques are real and well worth the *watch*.
 
 Must watch for the vintage human torpedo footage. Click to open in YOUTUBE:  

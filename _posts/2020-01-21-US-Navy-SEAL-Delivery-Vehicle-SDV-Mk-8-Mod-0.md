@@ -2,15 +2,10 @@
 layout: post
 title: "US-Navy-SEAL-Delivery-Vehicle-SDV-Mk-8-Mod-0"
 date: "2020-01-21 10:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**SEAL Delivery Vehicle (SDV) Mk.8 Mod 0**</font><br/><img src="/images/flag_USA.jpg"/>
-  The 'Gator Class' SEAL Delivery Vehicle has been the backbone of USSOCOM's SDV capabilities
-  since the end of the Cold War...<br/><a href="/US-Navy-SEAL-Delivery-Vehicle-SDV-Mk-8-Mod-0.html"><img
-  src="/images/US-Navy-SEAL-Delivery-Vehicle-SDV-Mk-8-Mod-0_900.jpg"/></a><br/>[Read
-  More &gt;....](/US-Navy-SEAL-Delivery-Vehicle-SDV-Mk-8-Mod-0.html "READ MORE")
-...
-
+excerpt: |-
+  <font size="6">**SEAL Delivery Vehicle (SDV) Mk.8 Mod 0**</font><br/><img src="/images/flag_USA.jpg"/> The 'Gator Class' SEAL Delivery Vehicle has been the backbone of USSOCOM's SDV capabilities since the end of the Cold War...<br/><a href="/US-Navy-SEAL-Delivery-Vehicle-SDV-Mk-8-Mod-0.html"><img src="/images/US-Navy-SEAL-Delivery-Vehicle-SDV-Mk-8-Mod-0_900.jpg"/></a><br/>[Read More &gt;....](/US-Navy-SEAL-Delivery-Vehicle-SDV-Mk-8-Mod-0.html "READ MORE")
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 **SEAL Delivery Vehicle (SDV) Mk.8 Mod 0**  

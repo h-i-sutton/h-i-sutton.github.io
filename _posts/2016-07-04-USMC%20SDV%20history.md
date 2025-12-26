@@ -2,16 +2,14 @@
 layout: post
 title: "USMC SDV history"
 date: "2016-07-04 03:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a> ![Flag](/images/flag_USA.jpg) Within the US\
-  \ Armed Forces, it is not just the US Navy SEALs who have a history of operating\
-  \ Swimmer Delivery Vehicles (SDVs). The US Marine Corps\u2019 brief foray into operating\
-  \ the SDV Mk.7 ended in spectacular fashion on a golf course in Little Creek...\
-  \ [Read More &gt;....](/USMC SDV history.html \"READ MORE\")<br/><br/><a href=\"\
-  /USMC SDV history.html\"><img src=\"/images/USMC_SDVMk7_crash_900.jpg\"/></a><br\
-  \ clear=\"right\"/>"
-
+excerpt: " ![Flag](/images/flag_USA.jpg) Within the US Armed Forces, it is not just the US\
+  \ Navy SEALs who have a history of operating Swimmer Delivery Vehicles (SDVs). The\
+  \ US Marine Corps\u2019 brief foray into operating the SDV Mk.7 ended in spectacular\
+  \ fashion on a golf course in Little Creek... [Read More &gt;....](/USMC SDV history.html\
+  \ \"READ MORE\")<br/><br/><a href=\"/USMC SDV history.html\"><img src=\"/images/USMC_SDVMk7_crash_900.jpg\"\
+  /></a><br clear=\"right\"/>"
 ---
+
 ![](/images/USMC_badge.png)![Flag](/images/flag_USA.jpg) Within the US Armed Forces, it is not just the US Navy SEALs who have a history of operating Swimmer Delivery Vehicles (SDVs). The US Marine Corps’ brief foray into operating the SDV Mk.7 ended in spectacular fashion on a golf course in Little Creek…   
 
 The USMC had shown a steady interest in underwater vehicles for its *Force Recon* divers throughout much of the 1960s, and had trialed several craft. At the same time several elements of the US Navy were working with the SEALs and UDT to introduce the first US designed operational SDV, the Mk7. The SDV Mk.7 borrowed heavily from earlier Italian designs used by UDT and featured a lightweight fiberglass hull over an aluminum frame. The four crewmen sat in a row with the pilot at the front peering out through a Plexiglas watershield. Navigation was part science, part art and part luck. The design was a constant work-in-progress and is not regarded as particularly successful, but it remained in service until the 1980s and was a major influence on the classic SDV M.8 which followed.  

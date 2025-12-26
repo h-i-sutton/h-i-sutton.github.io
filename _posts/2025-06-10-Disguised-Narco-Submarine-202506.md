@@ -2,19 +2,9 @@
 layout: post
 title: "2 Rare Disguised Narco Submarines Discovered On Trans-Atlantic Route"
 date: "2025-06-10 22:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Disguised-Narco-Submarine-202506.html"><img
-  align="left" src="/images/Disguised-Narco-Submarine-202506_317.jpg"/></a> Brasilian
-  Navy and Federal Police seized a low-profile 'narco submarine' used to transport
-  cocaine to Europe on May 31 2025. The nearly-complete vessel was disguised as a
-  local fishing vessel with a fake deckhouse.<br/><br/>It's not the first example
-  of a disguised narco-sub in recent months...[Read More &gt;....](/Disguised-Narco-Submarine-202506.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Disguised-Narco-Submarine-202506.html"><img align="left" src="/images/Disguised-Narco-Submarine-202506_317.jpg"/></a> Brasilian Navy and Federal Police seized a low-profile 'narco submarine' used to transport cocaine to Europe on May 31 2025. The nearly-complete vessel was disguised as a local fishing vessel with a fake deckhouse.<br/><br/>It's not the first example of a disguised narco-sub in recent months...[Read More &gt;....](/Disguised-Narco-Submarine-202506.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 #2 Rare Disguised Narco Submarines Discovered On Trans-Atlantic RouteBrasilian Navy and Federal Police seized a low-profile 'narco submarine' used to transport cocaine to Europe on May 31 2025. The nearly-complete vessel, which was discovered on Marajó Island, was unusual in its appearance. It was disguised as a local fishing vessel with a fake deckhouse which would be removed once out to sea. It is categorized as a LPV-IM-1-qD in the Covert Shores taxonomy.   
 

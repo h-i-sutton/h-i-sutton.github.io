@@ -2,17 +2,10 @@
 layout: post
 title: "OSINT: Chinese Submarine Seen in Myanmar"
 date: "2021-12-24 12:00:00"
-excerpt: '**UPDATED**<br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Chinese-Submarine-In-Myanmar.html"><img
-  align="left" src="/images/China-Type-035-Submarine-Myanmar-317.jpg"/></a> ![Flag
-  China](/images/flag_China.jpg) Fresh imagery posted on TikTok appears to confirm
-  that the Chinese Navy (PLAN) submarine seen entering the Malacca Strait on December
-  20 was heading to Myanmar. The Type-035 Ming Class boat was flying a Chinese flag
-  as it entered the Strait.<br/><br/>It is unclear from the imagery whether it was
-  still flying that flag. <br/>[Read More &gt;....](/Chinese-Submarine-In-Myanmar.html
-  "READ MORE")<br clear="left"/></br>'
-
+excerpt: |-
+  **UPDATED**<br/><br clear="right"><a href="/Chinese-Submarine-In-Myanmar.html"><img align="left" src="/images/China-Type-035-Submarine-Myanmar-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) Fresh imagery posted on TikTok appears to confirm that the Chinese Navy (PLAN) submarine seen entering the Malacca Strait on December 20 was heading to Myanmar. The Type-035 Ming Class boat was flying a Chinese flag as it entered the Strait.<br/><br/>It is unclear from the imagery whether it was still flying that flag. <br/>[Read More &gt;....](/Chinese-Submarine-In-Myanmar.html "READ MORE")<br clear="left"/></br>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 ![China Navy Submarine Myanmar](/images/China-Type-035-Submarine-Myanmar.jpg)  
 *Posted on TikTok, shared by* [mehmlwinsoe, Twitter](https://twitter.com/mehmlwinsoe/status/1474280907712643075)  

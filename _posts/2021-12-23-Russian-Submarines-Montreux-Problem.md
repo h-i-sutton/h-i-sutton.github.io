@@ -2,17 +2,10 @@
 layout: post
 title: "Montreux Games: Russia's Self-Inflicted Submarine Problem During The Ukraine Tensions"
 date: "2021-12-23 23:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Russian-Submarines-Montreux-Problem.html"><img align="left"
-  src="/images/Russia-KILO-Submarine-Montreux-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  If the current tensions with Russia, centered on Ukraine, escalate to localized
-  blows they will likely be a land, air and cyber conflict. Not naval. Largely this
-  is because of geography.<br/><br/>But there is another factor, the little known
-  Montreux Convention....<br/>[Read More &gt;....](/Russian-Submarines-Montreux-Problem.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russian-Submarines-Montreux-Problem.html"><img align="left" src="/images/Russia-KILO-Submarine-Montreux-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) If the current tensions with Russia, centered on Ukraine, escalate to localized blows they will likely be a land, air and cyber conflict. Not naval. Largely this is because of geography.<br/><br/>But there is another factor, the little known Montreux Convention....<br/>[Read More &gt;....](/Russian-Submarines-Montreux-Problem.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Montreux Games: Russia's Self-Inflicted Submarine Problem During The Ukraine Tensions![Flag Russia](/images/flag_russia.jpg) If the current tensions with Russia, centered on Ukraine, escalate to localized blows they will likely be a land, air and cyber conflict. Not naval. Largely this is because of geography. But there is another factor, the little known Montreux Convention.   

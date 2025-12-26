@@ -19,8 +19,8 @@ excerpt: "![Flag](/images/flag_USA.jpg) *Anti-piracy ship defense may have chang
   \ shipboard defense system.html\"><img src=\"/images/Medusa_Cover.jpg\"/></a><br/><a\
   \ href=\"/Innovation -Medusa anti-piracy shipboard defense system.html\"><img src=\"\
   /images/Medusa_JetLev900.jpg\"/></a>"
-
 ---
+
  **Please note date of article.**  Check out Innovative Sea Solutions website [HERE](https://en.wikipedia.org/wiki/April_Fools%27_Day)  
 
 ![MEDUSA](/images/Medusa_head.jpg)  

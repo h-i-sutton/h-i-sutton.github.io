@@ -2,11 +2,10 @@
 layout: post
 title: "Book Review - Project Azorian"
 date: "2015-03-06 10:00:00"
-excerpt: '![stars](/images/stars-five.png) One of the very few authoritative books on the CIA
-  led raising of the Soviet submarine K-129 which sank mysteriously at the height
-  of the Cold War [READ MORE](/Book Review - Project Azorian.html "READ MORE")'
-
+excerpt: |-
+  ![stars](/images/stars-five.png) One of the very few authoritative books on the CIA led raising of the Soviet submarine K-129 which sank mysteriously at the height of the Cold War [READ MORE](/Book Review - Project Azorian.html "READ MORE")
 ---
+
 ![stars](/images/stars-five.png) **Project Azorian**   
  By:   
 - Norman Polmar   

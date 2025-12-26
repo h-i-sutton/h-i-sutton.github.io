@@ -2,15 +2,10 @@
 layout: post
 title: "Utah-Mystery-Monolith"
 date: "2020-11-24 03:00:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">Offtopic: **Mystery Monolith In Desert has been there 4 years**</font><br
-  clear="right"/><a href="/Utah-Mystery-Monolith.html"><img align="left" src="/images/Utah-Mystery-Monolith-317.jpg"/></a><br/>![Flag](/images/flag_USA.jpg)
-  This is off topic, but like many people I found <a href="https://www.bbc.com/news/av/world-us-canada-55056810"
-  target="blank">reports</a> of a mysterious monolith a welcome distraction.<br/><br/>It
-  has been geolocated...<br/><br/>[Read More &gt;....](/Utah-Mystery-Monolith.html
-  "READ MORE")<br clear="left"/>'
-
+excerpt: |-
+  <font size="6">Offtopic: **Mystery Monolith In Desert has been there 4 years**</font><br clear="right"/><a href="/Utah-Mystery-Monolith.html"><img align="left" src="/images/Utah-Mystery-Monolith-317.jpg"/></a><br/>![Flag](/images/flag_USA.jpg) This is off topic, but like many people I found <a href="https://www.bbc.com/news/av/world-us-canada-55056810" target="blank">reports</a> of a mysterious monolith a welcome distraction.<br/><br/>It has been geolocated...<br/><br/>[Read More &gt;....](/Utah-Mystery-Monolith.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![Mystery Monolith In Utah Desert Geolocated - Covert Shores](/images/Utah-Mystery-Monolith-900.jpg)  
 # Mystery Monolith In Desert has been there 4 years![Flag](/images/flag_USA.jpg) This is off topic, but like many people I found [reports](https://www.bbc.com/news/av/world-us-canada-55056810) of a mysterious monolith a welcome distraction. The story goes that a helicopter crew made the chance discovery while counting wild big horn sheep in the Utah desert. The Utah Department of Public Safety Aero Bureau helicopter touched down to investigate.   

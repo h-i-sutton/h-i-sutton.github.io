@@ -2,17 +2,10 @@
 layout: post
 title: "Iran Appears To Have Western Pluto Plus Underwater Vehicle"
 date: "2021-06-21 20:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Iran-Pluto-Plus-Minehunting-ROV.html"><img align="left"
-  src="/images/Iran-Pluto-Plus-ROV-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg)
-  The words **Made in Iran** written on the side of the underwater vehicle may be
-  misleading. Photos from the commissioning ceremony of the Iranian Navy's mine warfare
-  vessel, Shahin, shows an interesting Remote Operated Vehicle (ROV).<br/><br/>It
-  is a very strong physical match for the Pluto Plus ROV.<br/>[Read More &gt;....](/Iran-Pluto-Plus-Minehunting-ROV.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Iran-Pluto-Plus-Minehunting-ROV.html"><img align="left" src="/images/Iran-Pluto-Plus-ROV-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) The words **Made in Iran** written on the side of the underwater vehicle may be misleading. Photos from the commissioning ceremony of the Iranian Navy's mine warfare vessel, Shahin, shows an interesting Remote Operated Vehicle (ROV).<br/><br/>It is a very strong physical match for the Pluto Plus ROV.<br/>[Read More &gt;....](/Iran-Pluto-Plus-Minehunting-ROV.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![Iran Appears To Have Western Pluto Plus Underwater Vehicle](/images/Iran-Navy-Saba=Minehunter-Pluto-Plus.jpg)  
 

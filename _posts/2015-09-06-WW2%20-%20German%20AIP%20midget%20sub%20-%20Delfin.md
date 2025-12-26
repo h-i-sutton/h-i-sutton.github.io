@@ -2,13 +2,10 @@
 layout: post
 title: "WW2 - German AIP midget sub - Delfin"
 date: "2015-09-06 11:00:00"
-excerpt: We think of Air Independant Propulsion (AIP) as a modern invention but German scientists
-  were experimenting with closed-cycle subs in WW2. [Read More &gt;....](/WW2 - German
-  AIP midget sub - Delfin.html "READ MORE")<br/><a href="/WW2 - German AIP midget
-  sub - Delfin.html"><img src="/images/Delfin_940.jpg"/></a>
-...
-
+excerpt: |-
+  We think of Air Independant Propulsion (AIP) as a modern invention but German scientists were experimenting with closed-cycle subs in WW2. [Read More &gt;....](/WW2 - German AIP midget sub - Delfin.html "READ MORE")<br/><a href="/WW2 - German AIP midget sub - Delfin.html"><img src="/images/Delfin_940.jpg"/></a>
 ---
+
 The single-man Delfin was originally designed with a regular gasoline engine like on the infamous *Biber* (which had a habbit of killing its crew), but was built with an inovative closed-cycle engine.   
 ![delfin](/images/Delfin_940.jpg)   
 Diesel engines are much more efficient than batteries and allow the submarne to travel much further, but they require an oxygen supply when running. In practicice this meant that WW2 submarines had to spend most of their time on the surface where they were easily spotted by the enemy. The Walter Closed-Cycle engine freed the submarine from having to be on the surface by using a chemical recation with Hydrogen Peroxide to generate oxygen. *These used steam turbines, employing steam heated by burning diesel fuel in the steam/oxygen atmosphere created by the decomposition of hydrogen peroxide by a potassium permanganate catalyst.*  

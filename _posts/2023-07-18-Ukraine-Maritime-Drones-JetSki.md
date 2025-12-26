@@ -2,17 +2,9 @@
 layout: post
 title: "Ukraine's New Maritime Drone Is A Jet Ski"
 date: "2023-07-18 10:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Ukraine-Maritime-Drones-JetSki.html"><img align="left"
-  src="/images/Ukraine-Maritime-Drones-JJetSki-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)
-  On July 17 Ukraine attacked the Kerch Bridge which connects Crimea to Russia. Initial
-  reports suggest that uncrewed surface vessels (USVs), popularly known as maritime
-  drones, were used...<br/>[Read More &gt;....](/Ukraine-Maritime-Drones-JetSki.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Ukraine-Maritime-Drones-JetSki.html"><img align="left" src="/images/Ukraine-Maritime-Drones-JJetSki-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) On July 17 Ukraine attacked the Kerch Bridge which connects Crimea to Russia. Initial reports suggest that uncrewed surface vessels (USVs), popularly known as maritime drones, were used...<br/>[Read More &gt;....](/Ukraine-Maritime-Drones-JetSki.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Ukraine's New Maritime Drone Is A Jet Ski![Flag Ukraine](/images/flag_ukraine.jpg) On July 16 2023 Ukraine attacked the main Russian naval base at Sevastopal on Crimea. Then on July 17 Ukraine attacked the Kerch Bridge which connects Crimea to Russia. [Initial reports](https://www.telegraph.co.uk/world-news/2023/07/17/ukraine-crimea-bridge-attack-drones-strategy-russia/) suggest that uncrewed surface vessels (USVs), popularly known as maritime drones, were used.   
 

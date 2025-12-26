@@ -10,8 +10,8 @@ excerpt: "![stars](/images/stars-five.png) South Africa's Seaborne Raiders 1978-
   \ as 4 Reconnaissance Regiment (4RR) goes. [Read More &gt;....](/Book Review - Iron\
   \ Fist from the Sea.html \"READ MORE\")<br/><a href=\"/Book Review - Iron Fist from\
   \ the Sea.html\"><img src=\"/images/IronFistFromTheSea.jpg\"/></a>"
-
 ---
+
 ![stars](/images/stars-five.png)  **Iron Fist from the Sea**   
  **South Africa's Seaborne Raiders 1978-1988**   
 

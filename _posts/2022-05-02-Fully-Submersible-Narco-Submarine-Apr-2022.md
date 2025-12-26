@@ -2,16 +2,10 @@
 layout: post
 title: "First Time Rare Fully-Submersible Narco Submarine Caught"
 date: "2022-05-02 22:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Fully-Submersible-Narco-Submarine-Apr-2022.html"><img align="left"
-  src="/images/Narco-Submarine-Venezuela-Apr22-317.jpg"/></a> Just when our eyes are
-  fixed on the Ukraine War, a narco submarine surfaces on the other side of the world.<br/><br/>A
-  narco submarine discovered on the Arauca River is unusual and significant in 3 ways<br/>[Read
-  More &gt;....](/Fully-Submersible-Narco-Submarine-Apr-2022.html "READ MORE")<br
-  clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Fully-Submersible-Narco-Submarine-Apr-2022.html"><img align="left" src="/images/Narco-Submarine-Venezuela-Apr22-317.jpg"/></a> Just when our eyes are fixed on the Ukraine War, a narco submarine surfaces on the other side of the world.<br/><br/>A narco submarine discovered on the Arauca River is unusual and significant in 3 ways<br/>[Read More &gt;....](/Fully-Submersible-Narco-Submarine-Apr-2022.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 [![](/images/Narcosub-Ven-FSV-Cutawa-940y.jpg)](/images/Narcosub-Ven-FSV-Cutaway.jpg)  
 *CLICK to Enlarge. Original artwork*.  

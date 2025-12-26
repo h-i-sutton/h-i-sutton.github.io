@@ -2,13 +2,10 @@
 layout: post
 title: "SDV news round-up"
 date: "2015-03-28 10:00:00"
-excerpt: <img src="/images/flag_USA.jpg"/> <img src="/images/flag_Uk.jpg"/> <img src="/images/flag_China.jpg"/>
-  Latest Swimmer Delivery Vehicle (SDV) news from around the world.... [Read more
-  -&gt;.....](/SDV news round-up.html "READ MORE")<br/><a href="/SDV news round-up.html"><img
-  src="/images/SDVnews.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_USA.jpg"/> <img src="/images/flag_Uk.jpg"/> <img src="/images/flag_China.jpg"/> Latest Swimmer Delivery Vehicle (SDV) news from around the world.... [Read more -&gt;.....](/SDV news round-up.html "READ MORE")<br/><a href="/SDV news round-up.html"><img src="/images/SDVnews.jpg"/></a>
 ---
+
 ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_UK.jpg)  **Next generation dry-SDV UOES-2 enters testing**   
 12-Feb. One of two competing systems ordered by the USN and USSOCOM, MSubs' S-351 *User Operational Evaluation System-2* (**UOES-2**) has started testing in Plymouth UK where the manufacturer is based. The 22m USD system will be shipped to US for extensive trials against the Italian designed UOES-3. The new boat has been christened *Margaret* and is the second craft designed by British form MSubs to be evaluated by the USSOCOM as a replacement for the ill-fated ASDS program.   
 ![SDV S351 S-351 UOES2 UOES-2 MSUBs Marlin Subs Submergence Group](/images/SDV_UOES2_S351.jpg)  

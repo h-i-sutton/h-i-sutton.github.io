@@ -2,14 +2,10 @@
 layout: post
 title: "N Korean ballistic missile sub capability"
 date: "2015-06-11 11:00:00"
-excerpt: <img src="/images/flag_nork.jpg"/> Eight months after we first identified it moored
-  outside a secret submarine yard on North Korea's eastern coast near the town of
-  Sinpo, it is time to take stock of the regimes latest submarine development. [Read
-  More &gt;....](/N Korean ballistic missile sub capability.html "READ MORE")<br/><a
-  href="/N Korean ballistic missile sub capability.html"><img src="/images/sinpo_map900.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_nork.jpg"/> Eight months after we first identified it moored outside a secret submarine yard on North Korea's eastern coast near the town of Sinpo, it is time to take stock of the regimes latest submarine development. [Read More &gt;....](/N Korean ballistic missile sub capability.html "READ MORE")<br/><a href="/N Korean ballistic missile sub capability.html"><img src="/images/sinpo_map900.jpg"/></a>
 ---
+
 *Thank you to unnamed advisers. This work would not have been possible without substantial inputs from experts. Any errors or incorrect assumptions are purely the responsibility of the author however*   
   
 ![Flag](/images/flag_nork.jpg) Intelligence staff will be analysing every aspect of the new submarine building up a detailed understanding of the boat and its capabilities. One of the analysis that they will be conducting is calculating the weight of the submarine's armament as a portion of Normal Surface condition (displacement, NSC). This can tell you a lot about its capabilities. In general, the more weight taken up with armament the less is available for other components such as batteries, propulsion and crew. Therefore if we understand the armament weight, we can estimate the submarine's overall capability, such as range and endurance.   

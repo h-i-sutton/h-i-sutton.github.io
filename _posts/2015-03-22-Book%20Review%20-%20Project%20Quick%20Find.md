@@ -2,12 +2,10 @@
 layout: post
 title: "Book Review - Project Quick Find"
 date: "2015-03-22 10:00:00"
-excerpt: '![stars](/images/stars-five.png) Project Quick Find is former US Navy SEAL Michael
-  Wood''s first-hand account of the US Navy''s marine mammal program in the early
-  to mid 1970s. [&gt;....](/Book Review - Project Quick Find.html "READ MORE")<br/><a
-  href="/Book Review - Project Quick Find.html"><img src="/images/project_quickFind.jpg"/></a>'
-
+excerpt: |-
+  ![stars](/images/stars-five.png) Project Quick Find is former US Navy SEAL Michael Wood's first-hand account of the US Navy's marine mammal program in the early to mid 1970s. [&gt;....](/Book Review - Project Quick Find.html "READ MORE")<br/><a href="/Book Review - Project Quick Find.html"><img src="/images/project_quickFind.jpg"/></a>
 ---
+
 ![stars](/images/stars-five.png) **Project Quick Find** By Michael P. Wood   
 Buy it on [Lulu](http://www.lulu.com/shop/michael-p-wood/project-quick-findmemoirs-of-a-us-navy-seal-training-sea-lions/paperback/product-21984491.html)   
 ![Project Quick Find](/images/project_quickFind.jpg)  

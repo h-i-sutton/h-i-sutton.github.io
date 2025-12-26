@@ -2,15 +2,10 @@
 layout: post
 title: "History of Israeli Subs"
 date: "2017-05-20 10:00:00"
-excerpt: '![Flag](/images/flag_isreal.jpg) ![Flag](/images/Updated.jpg) The submarine force
-  of the Israeli Navy is unlike any other submarine force in existence. As a small
-  country surrounded by enemies, Israel has driven itself to the forefront of military
-  technology and application. The history of the Israeli Navy''s 7th Flotilla s particularly
-  interesting. Today Israeli submarines are among the most sophisticated and potent
-  boats in service with any navy.<a href="/History of Israeli Subs.html"><img src="/images/Dakar_banner.png"/></a><br/><a
-  href="/History of Israeli Subs.html"><img src="/images/Israeli_subs900.jpg"/></a><br/>'
-
+excerpt: |-
+  ![Flag](/images/flag_isreal.jpg) ![Flag](/images/Updated.jpg) The submarine force of the Israeli Navy is unlike any other submarine force in existence. As a small country surrounded by enemies, Israel has driven itself to the forefront of military technology and application. The history of the Israeli Navy's 7th Flotilla s particularly interesting. Today Israeli submarines are among the most sophisticated and potent boats in service with any navy.<a href="/History of Israeli Subs.html"><img src="/images/Dakar_banner.png"/></a><br/><a href="/History of Israeli Subs.html"><img src="/images/Israeli_subs900.jpg"/></a><br/>
 ---
+
 ![Flag](/images/flag_isreal.jpg) ![Flag](/images/Updated.jpg) *This article is an offshoot to some research I did for my book* (plug: ["Covert Shores"](http://www.amazon.com/dp/1533114870/)). *I got carried away with the illustrations and this is the result. I hope that it can provide a handy go-to overview of Israeli Navy submarines, excluding specific special forces types. Questions, information, feedback and corrections welcome.*   
 ![Israeli submarine classes](/images/Israeli_subs.jpg)   
 ![Israeli submarine classes](/images/israelisubs.png)   

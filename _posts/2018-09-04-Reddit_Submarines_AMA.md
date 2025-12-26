@@ -2,12 +2,10 @@
 layout: post
 title: "Reddit_Submarines_AMA"
 date: "2018-09-04 11:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Submarines AMA (Ask Me Anything) on Reddit**</font><br/><a href="https://www.reddit.com/r/IAmA/comments/9cvqbi/we_are_activeveteran_submariners_explorers/"
-  target="blank"><img src="/images/Reddit_AMA_900.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Submarines AMA (Ask Me Anything) on Reddit**</font><br/><a href="https://www.reddit.com/r/IAmA/comments/9cvqbi/we_are_activeveteran_submariners_explorers/" target="blank"><img src="/images/Reddit_AMA_900.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Comments and corrections welcome.*  
 
 **Submarines AMA (Ask Me Anything) on Reddit**  

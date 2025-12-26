@@ -2,16 +2,10 @@
 layout: post
 title: "Switzerland’s Remarkable ‘Navy’: A Covert Shores Guide"
 date: "2021-05-17 01:01:00"
-excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Swiss-Navy-Guide.html"><img
-  align="left" src="/images/Swiss-Navy-317.jpg"/></a> ![Swiss Flag](/images/flag_Swiss.jpg)
-  Land-locked countries sometimes have particularly interesting navies. Or boat equipped
-  Army units. Characterized by heavily armed neutrality, the postwar Swiss military
-  has an extremely high standard of equipment. <br/>[Read More](/Swiss-Navy-Guide.html
-  "READ MORE")<br clear="left"/></br>
-...
-
+excerpt: |-
+  <br/><br clear="right"><a href="/Swiss-Navy-Guide.html"><img align="left" src="/images/Swiss-Navy-317.jpg"/></a> ![Swiss Flag](/images/flag_Swiss.jpg) Land-locked countries sometimes have particularly interesting navies. Or boat equipped Army units. Characterized by heavily armed neutrality, the postwar Swiss military has an extremely high standard of equipment. <br/>[Read More](/Swiss-Navy-Guide.html "READ MORE")<br clear="left"/></br>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 #Switzerland’s Remarkable ‘Navy’: A Covert Shores Guide![Swiss Flag](/images/flag_Swiss.jpg) Land-locked countries sometimes have particularly interesting navies. Or boat equipped Army units. Characterized by heavily armed neutrality, the postwar Swiss military has an extremely high standard of equipment. And although some of the riverine (more lake) patrol boats served for a long time, the quality of the Swiss Army’s ‘**Motorbootkompanie**’ is worthy of note. So let’s look at the types of boats they have.   

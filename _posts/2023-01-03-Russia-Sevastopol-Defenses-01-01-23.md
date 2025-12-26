@@ -2,20 +2,9 @@
 layout: post
 title: "Russia Adds Even More Anti-Maritime Drone Defenses In Sevastopol"
 date: "2023-01-03 10:00:00"
-excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Russia-Sevastopol-Defenses-01-01-23.html"><img
-  align="left" src="/images/Russia-Sevastopol-Defenses-Jan2023-317.jpg"/></a> ![Flag
-  Russia](/images/flag_russia.jpg)The October 29 Ukrainian attack on Sevastopol, using
-  'maritime drones' has had a dramatic impact on the Russian Navy. Now a new defensive
-  boom has been added across the inner harbor. <br/><br/>The floating boom can make
-  it difficult for the maritime drones.<br/>[Read More &gt;....](/Russia-Sevastopol-Defenses-01-01-23.html
-  "READ MORE")<br clear="left"/></br>
-...
-
+excerpt: |-
+  <br/><br clear="right"><a href="/Russia-Sevastopol-Defenses-01-01-23.html"><img align="left" src="/images/Russia-Sevastopol-Defenses-Jan2023-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)The October 29 Ukrainian attack on Sevastopol, using 'maritime drones' has had a dramatic impact on the Russian Navy. Now a new defensive boom has been added across the inner harbor. <br/><br/>The floating boom can make it difficult for the maritime drones.<br/>[Read More &gt;....](/Russia-Sevastopol-Defenses-01-01-23.html "READ MORE")<br clear="left"/></br>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[![](/images/Russia-Sevastopol-Defenses-Jan2023-940.jpg)](/images/Russia-Sevastopol-Defenses-Jan2023.jpg)  
-*CLICK to Enlarge*.  
 
 #Russia Adds Even More Anti-Maritime Drone Defenses In Sevastopol![Flag Russia](/images/flag_russia.jpg) The October 29 Ukrainian attack on Sevastopol, using 'maritime drones' has had a dramatic impact on the Russian Navy. As well as retreating into the protective shell of the harbor, they have incrementally improved the defenses of that shell. Recently an additional level of defense has been added.   
 

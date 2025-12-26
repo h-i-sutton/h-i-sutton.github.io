@@ -2,18 +2,10 @@
 layout: post
 title: "Compact But Deadly: World Small Submarine Projects Compared"
 date: "2021-11-16 23:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/World-Small-Submarines-Compared.html"><img align="left"
-  src="/images/World-Small-Submarines-317.jpg"/></a> ![Flag Turkey](/images/flag_Turkey.jpg)
-  News that Turkish shipbuilder STM will start construction of the first STM-500 coastal
-  submarine in 2022 brings small submarines back into focus. These diminutive vessels
-  can pose a disproportionate threat to opposing forces in any conflict.<br/><br/>The
-  customer of the STM-500 is not public, speculation points to Pakistan or Ukraine.
-  .. <br/>[Read More &gt;....](/World-Small-Submarines-Compared.html "READ MORE")<br
-  clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/World-Small-Submarines-Compared.html"><img align="left" src="/images/World-Small-Submarines-317.jpg"/></a> ![Flag Turkey](/images/flag_Turkey.jpg) News that Turkish shipbuilder STM will start construction of the first STM-500 coastal submarine in 2022 brings small submarines back into focus. These diminutive vessels can pose a disproportionate threat to opposing forces in any conflict.<br/><br/>The customer of the STM-500 is not public, speculation points to Pakistan or Ukraine. .. <br/>[Read More &gt;....](/World-Small-Submarines-Compared.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 [![](/images/World-Small-Submarines-940.jpg)](/images/World-Small-Submarines.jpg)  
 *CLICK to enlarge. Original artwork*  

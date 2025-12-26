@@ -2,15 +2,14 @@
 layout: post
 title: "Ru_Hydro-Bionics"
 date: "2018-06-07 00:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a> <font size=\"6\">**Soviet Hydro-Bionics**</font><br/>\
-  \ ![Flag](/images/flag_russia.jpg) Bio-mimic submarine technology, when underwater\
-  \ vehicles use propulsion mechanisms inspired by marine wildlife instead of the\
-  \ propellers (\u2018screws\u2019) is a hot topic. But it is not as new as you might\
-  \ think...  [Read More &gt;....](/Ru_Hydro-Bionics.html \"READ MORE\")<br/><a href=\"\
-  /Ru_Hydro-Bionics.html\"><img src=\"/images/Ru_hydrobionics_torp900.jpg\"/></a><br/>"
-
+excerpt: " <font size=\"6\">**Soviet Hydro-Bionics**</font><br/> ![Flag](/images/flag_russia.jpg)\
+  \ Bio-mimic submarine technology, when underwater vehicles use propulsion mechanisms\
+  \ inspired by marine wildlife instead of the propellers (\u2018screws\u2019) is\
+  \ a hot topic. But it is not as new as you might think...  [Read More &gt;....](/Ru_Hydro-Bionics.html\
+  \ \"READ MORE\")<br/><a href=\"/Ru_Hydro-Bionics.html\"><img src=\"/images/Ru_hydrobionics_torp900.jpg\"\
+  /></a><br/>"
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Soviet Hydro-Bionics**   
 
 ![Flag](/images/flag_russia.jpg) Bio-mimic submarine technology, when underwater vehicles use propulsion mechanisms inspired by marine wildlife instead of the propellers (‘screws’) is a hot topic. Firms such as [Boston Engineering's Advanced Systems Group](https://www.boston-engineering.com/) and [Black River](http://blackriver.technology/) are developing bio-mimicking underwater drones and submersibles:  

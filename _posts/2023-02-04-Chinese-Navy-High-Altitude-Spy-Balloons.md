@@ -2,18 +2,10 @@
 layout: post
 title: "Chinese High-Altitude Balloons Also Used Over Indian Military Bases"
 date: "2023-02-04 11:00:00"
-excerpt: '**UPDATED**<br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Chinese-Navy-High-Altitude-Spy-Balloons.html"><img
-  align="left" src="/images/China-Spy-Balloons-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
-  ![Flag USA](/images/flag_USA.jpg) ![Flag Japan](/images/flag_japan.jpg) ![Flag Taiwan](/images/flag_taiwan.jpg)
-  ![Flag India](/images/flag_india.jpg) The Chinese balloon flying over the United
-  States is getting headlines. The Chinese government has admitted it is their''s
-  but claim that it is civilian in nature and that the overflight is accidental.<br/><br/>There
-  is very strong circumstantial evidence that these are military related ''spy balloons''
-  and that there is a pattern of operation going back at least a year...<br/>[Read
-  More &gt;....](/Chinese-Navy-High-Altitude-Spy-Balloons.html "READ MORE")<br clear="left"/></br>'
-
+excerpt: |-
+  **UPDATED**<br/><br clear="right"><a href="/Chinese-Navy-High-Altitude-Spy-Balloons.html"><img align="left" src="/images/China-Spy-Balloons-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) ![Flag USA](/images/flag_USA.jpg) ![Flag Japan](/images/flag_japan.jpg) ![Flag Taiwan](/images/flag_taiwan.jpg) ![Flag India](/images/flag_india.jpg) The Chinese balloon flying over the United States is getting headlines. The Chinese government has admitted it is their's but claim that it is civilian in nature and that the overflight is accidental.<br/><br/>There is very strong circumstantial evidence that these are military related 'spy balloons' and that there is a pattern of operation going back at least a year...<br/>[Read More &gt;....](/Chinese-Navy-High-Altitude-Spy-Balloons.html "READ MORE")<br clear="left"/></br>
 ---
+
 **UPDATED**  
 [![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 

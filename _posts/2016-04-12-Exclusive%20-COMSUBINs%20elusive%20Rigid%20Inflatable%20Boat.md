@@ -12,8 +12,8 @@ excerpt: "![Flag](/images/flag_italy.jpg) The Italian Navy\u2019s elite COMSUBIN
   \ -COMSUBINs elusive Rigid Inflatable Boat.html \"READ MORE\")<br/><a href=\"/Exclusive\
   \ -COMSUBINs elusive Rigid Inflatable Boat.html\"><img src=\"/images/it_COMSUBIN_RIB0.jpg\"\
   /></a>"
-
 ---
+
 ![Comsubin RIB Incusori](/images/it_COMSUBIN_RIB0.jpg)  
 ![Flag](/images/flag_italy.jpg) The Italian Navy’s elite COMSUBIN Special Forces unit has a reputation for being ten years ahead of everyone else in the development of underwater craft. It has been that way since they invented the dark art of waterborne Special Forces during World War One. Their underwater craft are a well-guarded secret with few details available in public. And the same goes for their surface craft. Consequently, the RHIB (Rigid Hulled inflatable Boat) shown in this article is not something you can find information about on the web.   
 ![Comsubin RIB Incusori](/images/It_COMSUBIN_RIB5.jpg)  

@@ -2,11 +2,10 @@
 layout: post
 title: "Mystery Special Forces Sneak Craft"
 date: "2014-11-04 11:00:00"
-excerpt: Do you know what these craft are? [READ MORE](/Mystery Special Forces Sneak Craft.html
-  "Mystery Special Forces Sneak Craft")
-...
-
+excerpt: |-
+  Do you know what these craft are? [READ MORE](/Mystery Special Forces Sneak Craft.html "Mystery Special Forces Sneak Craft")
 ---
+
 This is an appeal for information: if you recognize any of these vehicles or can help identify them please contact me at [hisutton.author+blog@gmail.com](mailto:hisutton.author+blog@gmail.com)
 
 A) US SDV, possibly UDT or SEALs related. Looks like it dates from 1950s or 1960s![US SDV](/images/US_unident1.jpg)

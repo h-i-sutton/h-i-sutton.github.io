@@ -2,19 +2,9 @@
 layout: post
 title: "Chinese Invasion Barges Seen In Wild"
 date: "2025-03-13 18:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Chinese-Invasion-Barge-OSINT.html"><img
-  align="left" src="/images/China-invasion-barges-exercise-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
-  I broke the invasion barge story in January. At the time, only satellite imagery
-  was available, at least publicly.<br/><br/>Now a short video has emerged showing
-  the barges being exercised on a Chinese beach. The resulting images confirm the
-  earlier analysis; these are invasion barges...<br/>[Read More &gt;....](/Chinese-Invasion-Barge-OSINT.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Chinese-Invasion-Barge-OSINT.html"><img align="left" src="/images/China-invasion-barges-exercise-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) I broke the invasion barge story in January. At the time, only satellite imagery was available, at least publicly.<br/><br/>Now a short video has emerged showing the barges being exercised on a Chinese beach. The resulting images confirm the earlier analysis; these are invasion barges...<br/>[Read More &gt;....](/Chinese-Invasion-Barge-OSINT.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 [![](/images/China-invasion-barges-exercise-Beach-940.jpg)](/images/China-invasion-barges-exercise-Beach.jpg)  
 *CLICK to Enlarge.*  

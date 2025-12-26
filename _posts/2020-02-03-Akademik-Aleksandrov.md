@@ -2,16 +2,15 @@
 layout: post
 title: "Akademik-Aleksandrov"
 date: "2020-02-02 23:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**Pr.20183 Akademik Aleksandrov\
-  \ connected to Poseidon/Skif project**</font> <br/>![Flag](/images/flag_russia.jpg)\
-  \ Sometimes valuable military intelligence is hiding in plain sight. A Russian media\
-  \ report shared to YouTube in June 2019 (now removed) appears to have shown 2\u041C\
-  39 Poseidon aboard Akademik Aleksandrov... [Read More &gt;....](\"/Akademik-Aleksandrov.html\"\
-  \ \"READ MORE\")<br/><a href=\"/Akademik-Aleksandrov.html\"><img src=\"/images/Ru_Poseidon_Akademik_Aleksandrov_900.jpg\"\
+excerpt: "<font size=\"5\">**Pr.20183 Akademik Aleksandrov connected to Poseidon/Skif project**</font>\
+  \ <br/>![Flag](/images/flag_russia.jpg) Sometimes valuable military intelligence\
+  \ is hiding in plain sight. A Russian media report shared to YouTube in June 2019\
+  \ (now removed) appears to have shown 2\u041C39 Poseidon aboard Akademik Aleksandrov...\
+  \ [Read More &gt;....](\"/Akademik-Aleksandrov.html\" \"READ MORE\")<br/><a href=\"\
+  /Akademik-Aleksandrov.html\"><img src=\"/images/Ru_Poseidon_Akademik_Aleksandrov_900.jpg\"\
   /></a><br clear=\"right\"/>"
-
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 **Pr.20183 Akademik Aleksandrov connected to Poseidon/Skif project**   

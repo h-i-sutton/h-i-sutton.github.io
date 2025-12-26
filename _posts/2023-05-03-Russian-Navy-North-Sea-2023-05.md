@@ -2,16 +2,9 @@
 layout: post
 title: "OSINT: Concentration Of Five Russian Warships In North Sea"
 date: "2023-05-03 23:30:00"
-excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Russian-Navy-North-Sea-2023-05.html"><img
-  align="left" src="/images/Russia-Karakurt-OSINT-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  A concentration of at least five Russian Navy warships, plus two auxiliaries, has
-  formed in the North Sea.<br/><br/>3 of  warships are Kalibr cruise missile capable.<br/>[Read
-  More &gt;....](/Russian-Navy-North-Sea-2023-05.html "READ MORE")<br clear="left"/></br>
-...
-
+excerpt: |-
+  <br/><br clear="right"><a href="/Russian-Navy-North-Sea-2023-05.html"><img align="left" src="/images/Russia-Karakurt-OSINT-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) A concentration of at least five Russian Navy warships, plus two auxiliaries, has formed in the North Sea.<br/><br/>3 of  warships are Kalibr cruise missile capable.<br/>[Read More &gt;....](/Russian-Navy-North-Sea-2023-05.html "READ MORE")<br clear="left"/></br>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #OSINT: Concentration Of Five Russian Warships In North Sea![Flag Russia](/images/flag_russia.jpg) A concentration of at least five Russian Navy warships, plus two auxiliaries, has formed in the North Sea. (And if the Ukraine invasion teaches us anything, it's that the axillaries are just as worth watching as the pointy ships). 3 of the warships are Kalibr cruise missile capable. While there may be many explanations for this, it will likely get NATO attention.   
 

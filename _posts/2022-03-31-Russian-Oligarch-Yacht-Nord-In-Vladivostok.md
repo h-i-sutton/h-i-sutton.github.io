@@ -2,16 +2,10 @@
 layout: post
 title: "Russian Oligarch’s Ginormous Yacht Arrives In Unlikely Hiding Place"
 date: "2022-03-31 09:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Russian-Oligarch-Yacht-Nord-In-Vladivostok.html"><img align="left"
-  src="/images/Russia-Super-Yacht-Nord-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  Russian Oligarchs are used to a life of luxury, sometimes owning multiple massive
-  yachts. Yet since many countries have sanctioned key Oligarchs, the yachts have
-  been on the run. <br/>[Read More &gt;....](/Russian-Oligarch-Yacht-Nord-In-Vladivostok.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russian-Oligarch-Yacht-Nord-In-Vladivostok.html"><img align="left" src="/images/Russia-Super-Yacht-Nord-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Russian Oligarchs are used to a life of luxury, sometimes owning multiple massive yachts. Yet since many countries have sanctioned key Oligarchs, the yachts have been on the run. <br/>[Read More &gt;....](/Russian-Oligarch-Yacht-Nord-In-Vladivostok.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 ![Russian-Oligarch-Yacht-Nord-In-Vladivostok](/images/Russia-Super-Yacht-Nord-Icebreaker.jpg)  
 *Passing the icebreaker Kapitan Khlebnikov on the way in.*  

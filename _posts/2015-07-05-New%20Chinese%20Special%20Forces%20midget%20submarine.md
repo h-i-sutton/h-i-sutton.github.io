@@ -2,14 +2,10 @@
 layout: post
 title: "New Chinese Special Forces midget submarine"
 date: "2015-07-05 11:00:00"
-excerpt: <img src="/images/flag_China.jpg"/> Weeks after I posted my round-up of Chinese Navy
-  Special Forces subs and SDVs (<a href="/Chinese Naval Special Forces projects and
-  capabilities.html" target="_blank">Here&gt;</a>) a new type has come to light. [Read
-  More &gt;....](/New Chinese Special Forces midget submarine.html "READ MORE")<br/><a
-  href="/New Chinese Special Forces midget submarine.html"><img src="/images/cn_midget_35m.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_China.jpg"/> Weeks after I posted my round-up of Chinese Navy Special Forces subs and SDVs (<a href="/Chinese Naval Special Forces projects and capabilities.html" target="_blank">Here&gt;</a>) a new type has come to light. [Read More &gt;....](/New Chinese Special Forces midget submarine.html "READ MORE")<br/><a href="/New Chinese Special Forces midget submarine.html"><img src="/images/cn_midget_35m.jpg"/></a>
 ---
+
 ![Flag](/images/flag_China.jpg) The new type is estimated to be 35m long and 4m across. Although there are several possible explanations, the most likely role in my view is as a dedicated Special Forces submarine loosely equivalent to the Cos.Mo.S MG110, Crocodile-250 (["HERE"](/Crocodile 250 midget submarine.html)) and Darkon-220 (["HERE"](/New Croatian midget sub - Drakon 220.html)). It is also about the same length as the North Korean Sang-O class and comparisons are inevitable, but the likeness is likely to be weak. Today China is capable of producing a first-tier design in this class and shouldn't be underrated.   
 
 The submarine was spotted in Google Earth imagery outside the Wuchang shipyard (Wuchang Shipbuilding Industry Co., Ltd http://www.wuchuan.com.cn/) where several classes of warships and modern diesel-electric submarines are produced.   

@@ -2,16 +2,10 @@
 layout: post
 title: "China Builds World's Largest Uncrewed Warship"
 date: "2024-11-12 09:00:00"
-excerpt: '*Update: originally posted Nov 10 2024*<a href="https://twitter.com/covertshores"
-  target="blank"><img align="right" src="/images/twitter.jpg"/></a><br clear="right"/><a
-  href="/Chinese-JARI-USV-A.html"><img align="left" src="/images/China-USV-JARI-A-317.jpg"/></a>
-  ![Flag China](/images/flag_China.jpg) The JARI-USV-A, possibly called ''Orca'' or
-  ''Killer Tiger'', is a new uncrewed surface vessel developed in China.<br/><br/>The
-  design features a futuristic trimaran hull with a vertical launch system (VLS) for
-  missiles and a helipad for UAVs at the stern...<br/>[Read More &gt;....](/Chinese-JARI-USV-A.html
-  "READ MORE")<br clear="left"/>'
-
+excerpt: |-
+  *Update: originally posted Nov 10 2024*<br clear="right"/><a href="/Chinese-JARI-USV-A.html"><img align="left" src="/images/China-USV-JARI-A-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) The JARI-USV-A, possibly called 'Orca' or 'Killer Tiger', is a new uncrewed surface vessel developed in China.<br/><br/>The design features a futuristic trimaran hull with a vertical launch system (VLS) for missiles and a helipad for UAVs at the stern...<br/>[Read More &gt;....](/Chinese-JARI-USV-A.html "READ MORE")<br clear="left"/>
 ---
+
 *Update: originally posted Nov 10 2024*[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 ![China USV JARI-A](/images/China-USV-JARI-A-side.jpg)  
 

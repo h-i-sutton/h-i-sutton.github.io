@@ -7,8 +7,8 @@ excerpt: "<font size=\"6\">**Besat Class: Iran\u2019s next indigenous submarine?
   \ project to build a \u201Cgiant submarines\u201D for many years.... <br/><a href=\"\
   /Iranian-Navy-Next-Submarine.html\"><img src=\"/images/Iran-Besat-900.jpg\"/></a><br/>[Read\
   \ More](/Iranian-Navy-Next-Submarine.html \"READ MORE\")<br/>"
-
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 **Notes**  

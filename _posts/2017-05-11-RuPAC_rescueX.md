@@ -2,16 +2,10 @@
 layout: post
 title: "RuPAC_rescueX"
 date: "2017-05-11 01:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Russian Pacific Fleet shows submarine rescue capability**</font> <br/>![Flag](/images/flag_russia.jpg)
-  The Russian Ministry of Defense has shared photos from a recent exercise in Pacific.
-  They show the a Project 18270 **BESTER** DSRV deploying from the rescue ship **Igor
-  Belousov**. Also shown is a **British-built Saab SeaEye Tiger ROV**...<br/>[Read
-  More](/RuPAC_rescueX.html "READ MORE")<br/><a href="/RuPAC_rescueX.html"><img src="/images/Ru_Rescue_900.jpg"/></a><br
-  clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Russian Pacific Fleet shows submarine rescue capability**</font> <br/>![Flag](/images/flag_russia.jpg) The Russian Ministry of Defense has shared photos from a recent exercise in Pacific. They show the a Project 18270 **BESTER** DSRV deploying from the rescue ship **Igor Belousov**. Also shown is a **British-built Saab SeaEye Tiger ROV**...<br/>[Read More](/RuPAC_rescueX.html "READ MORE")<br/><a href="/RuPAC_rescueX.html"><img src="/images/Ru_Rescue_900.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Russian Pacific Fleet shows submarine rescue capability**   
 *Thanks to unnamed person for the tip.*  
 

@@ -2,18 +2,9 @@
 layout: post
 title: "Possible Chinese Sail Drone Found In Taiwanese Waters"
 date: "2024-07-20 13:00:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Mystery-Sail-Drone-USV-Taiwan.html"><img align="left" src="/images/Sail-USV-mystery-317.jpg"/></a>
-  ![Flag](/images/flag_taiwan.jpg) ![Flag China](/images/flag_China.jpg) At around
-  noon local time on July 19 2024 a sail powered surface drone (uncrewed surface vessel:
-  USV) was found by Taiwanese fishermen in the waters off Mudou Island. The islands
-  are around 30 nautical miles (60km) west of Taiwan in the Taiwan Strait.<br/><br/>Media
-  has reported it as a U.S. Navy Saildrone,  but it does not match this type, or other
-  Western designs...<br/>[Read More &gt;....](/Mystery-Sail-Drone-USV-Taiwan.html
-  "READ MORE")<br clear="left"/>'
-
+excerpt: |-
+  <br clear="right"/><a href="/Mystery-Sail-Drone-USV-Taiwan.html"><img align="left" src="/images/Sail-USV-mystery-317.jpg"/></a> ![Flag](/images/flag_taiwan.jpg) ![Flag China](/images/flag_China.jpg) At around noon local time on July 19 2024 a sail powered surface drone (uncrewed surface vessel: USV) was found by Taiwanese fishermen in the waters off Mudou Island. The islands are around 30 nautical miles (60km) west of Taiwan in the Taiwan Strait.<br/><br/>Media has reported it as a U.S. Navy Saildrone,  but it does not match this type, or other Western designs...<br/>[Read More &gt;....](/Mystery-Sail-Drone-USV-Taiwan.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Possible Chinese Sail Drone Found In Taiwanese Waters![Flag](/images/flag_taiwan.jpg) ![Flag China](/images/flag_China.jpg) At around noon local time on July 19 2024 a sail powered surface drone (uncrewed surface vessel: USV) was found by Taiwanese fishermen in the waters off Mudou Island. The islands are around 30 nautical miles (60km) west of Taiwan in the Taiwan Strait. Media has reported it as a U.S. Navy Saildrone, but it does not match this type, or other Western designs.   
 

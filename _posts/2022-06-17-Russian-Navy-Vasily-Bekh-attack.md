@@ -2,16 +2,10 @@
 layout: post
 title: "Russian Navy Ship Vasily Bekh Hit Off Snake Island"
 date: "2022-06-17 23:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Russian-Navy-Vasily-Bekh-attack.html"><img align="left"
-  src="/images/Russia-Vasily-Bekh-SB-739-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  There are credible reports that the Russian Navy Pr.22870 Rescue Tug Spasatel Vasily
-  Bekh (SB-739) has been hit and sunk by Ukrainian navy missiles.<br/><br/>This is
-  important, beyond the obvious morale boost for Ukrainian Forces.<br/>[Read More
-  &gt;....](/Russian-Navy-Vasily-Bekh-attack.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russian-Navy-Vasily-Bekh-attack.html"><img align="left" src="/images/Russia-Vasily-Bekh-SB-739-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) There are credible reports that the Russian Navy Pr.22870 Rescue Tug Spasatel Vasily Bekh (SB-739) has been hit and sunk by Ukrainian navy missiles.<br/><br/>This is important, beyond the obvious morale boost for Ukrainian Forces.<br/>[Read More &gt;....](/Russian-Navy-Vasily-Bekh-attack.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 [![](/images/Russia-Vasily-Bekh-SB-739-940.jpg)](/images/Russia-Vasily-Bekh-SB-739.jpg)  
 *CLICK to Enlarge*.  

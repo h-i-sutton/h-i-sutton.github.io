@@ -10,8 +10,8 @@ excerpt: "![Flag](/images/flag_russia.jpg) This is not the sort of thing you exp
   \ device washes up on Hawaiian beach.html\"><img src=\"/images/buoy900.jpg\"/></a><br/>\
   \ [Read More &gt;....](/Soviet submarine device washes up on Hawaiian beach.html\
   \ \"READ MORE\")"
-
 ---
+
 ![Soviet submarine communication buoy washes up on Hawaiian beach](/images/buoy1.jpg)  
 ![Flag](/images/flag_russia.jpg) This is not the sort of thing you expect to find washed up on a beautiful tropical beach. Looking deceptively like a bomb or small unmanned aircraft, the VBAU ‘Paravan’ communication buoy was a device towed behind Soviet submarines to allow them to communicate with their base without the whole submarine coming up to periscope depth. When not in use they were winched in to a small housing on the submarine’s back.   
 

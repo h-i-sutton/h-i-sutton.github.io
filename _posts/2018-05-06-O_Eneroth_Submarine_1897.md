@@ -2,17 +2,15 @@
 layout: post
 title: "O_Eneroth_Submarine_1897"
 date: "2018-05-06 11:01:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Vintage submarine design from\
-  \ 1897**</font><br/><img src=\"/images/flag_sweden.jpg\"/> In the late 1800s Sweden\
-  \ was q leading powerhouse in submarine design, with a *Nordenfelt Class* submarine\
-  \ being the first in the world to launch a torpedo in 1888. Ten years later another\
-  \ Swedish engineer, O Eneroth, was proposing a cutting-edge submarine design.<br/>...\
-  \ [Read More &gt;....](/O_Eneroth_Submarine_1897.html \"READ MORE\")<br/><a href=\"\
-  /O_Eneroth_Submarine_1897.html\"><img src=\"/images/Swe_1897_5.jpg\"/></a><br/>*Photo\
-  \ from Sj\xF6historiska museet.*<br clear=\"right\"/>"
-
+excerpt: "<font size=\"6\">**Vintage submarine design from 1897**</font><br/><img src=\"/images/flag_sweden.jpg\"\
+  /> In the late 1800s Sweden was q leading powerhouse in submarine design, with a\
+  \ *Nordenfelt Class* submarine being the first in the world to launch a torpedo\
+  \ in 1888. Ten years later another Swedish engineer, O Eneroth, was proposing a\
+  \ cutting-edge submarine design.<br/>... [Read More &gt;....](/O_Eneroth_Submarine_1897.html\
+  \ \"READ MORE\")<br/><a href=\"/O_Eneroth_Submarine_1897.html\"><img src=\"/images/Swe_1897_5.jpg\"\
+  /></a><br/>*Photo from Sj\xF6historiska museet.*<br clear=\"right\"/>"
 ---
+
 ![O_Eneroth_Submarine_1897](/images/Swe_1897_2.jpg)   
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Vintage submarine design from 1897**  
 ![Flag](/images/flag_sweden.jpg) In the late 1800s Sweden was a leading powerhouse in submarine design, with a *Nordenfelt Class* submarine being the first in the world to launch a torpedo in 1888. But that submarine was not in Swedish service however; although designed by Swedish engineer Thorsten Nordenfelt, it was built in England and in service in the Ottoman Empire’s navy. Sweden did not operate submarines until the 1900s but in the meantime another Swedish engineer, O Eneroth, was proposing a cutting-edge submarine design.  

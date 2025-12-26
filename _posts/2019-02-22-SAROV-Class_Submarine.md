@@ -2,19 +2,17 @@
 layout: post
 title: "SAROV-Class_Submarine"
 date: "2019-02-22 10:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br/>Originally posted 9th Sept 2014.<br/><img\
-  \ src=\"/images/flag_russia.jpg\"/> <font size=\"6\">**Sarov Class submarine demystified**</font><br\
-  \ clear=\"right\">The Project 20120 **Sarov** Class submarine is critical to Russia\u2019\
-  s development of the new KANYON (Status-6) nuclear armed nuclear powered strategic\
-  \ weapon. This submarine has kept analysts guessing. Trying to decipher her unique\
-  \ form and curious appendages merely adds to the mystery. She is a boat which is\
-  \ not well documented, and many illustrations of her turn out to be quite misleading.\
-  \ The same can be said of much of the early analysis which still affects write-ups\
-  \ on the subject. <a href=\"/SAROV-Class_Submarine.html\"><img src=\"/images/Sarov_900_1.jpg\"\
-  /></a><br/></br>"
-
+excerpt: "<br/>Originally posted 9th Sept 2014.<br/><img src=\"/images/flag_russia.jpg\"/>\
+  \ <font size=\"6\">**Sarov Class submarine demystified**</font><br clear=\"right\"\
+  >The Project 20120 **Sarov** Class submarine is critical to Russia\u2019s development\
+  \ of the new KANYON (Status-6) nuclear armed nuclear powered strategic weapon. This\
+  \ submarine has kept analysts guessing. Trying to decipher her unique form and curious\
+  \ appendages merely adds to the mystery. She is a boat which is not well documented,\
+  \ and many illustrations of her turn out to be quite misleading. The same can be\
+  \ said of much of the early analysis which still affects write-ups on the subject.\
+  \ <a href=\"/SAROV-Class_Submarine.html\"><img src=\"/images/Sarov_900_1.jpg\"/></a><br/></br>"
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 Originally posted 9th Sept 2014.  
 ![](/images/flag_russia.jpg) **Sarov Class submarine demystified**  

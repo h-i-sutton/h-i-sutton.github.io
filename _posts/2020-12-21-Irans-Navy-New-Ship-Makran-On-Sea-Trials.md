@@ -2,17 +2,10 @@
 layout: post
 title: "Irans-Navy-New-Ship-Makran-On-Sea-Trials"
 date: "2020-12-21 03:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="5">**Iranian Navy's largest Ship, I.R.I.N.S Makran, Observed On Sea Trials**</font><br
-  clear="right"/><a href="/Irans-Navy-New-Ship-Makran-On-Sea-Trials.html"><img align="left"
-  src="/images/Iranian-Navy-IRINS-Makran-317.jpg"/></a><br/>The Iranian Navy is joining
-  the IRGC in converting large merchant ships to function as Forward Base Ships. <br/><br/>From
-  at least December 9-14 the I.R.I.N.S. Makran (441) was on sea trials in the general
-  vicinity of the Straits of Hormuz..<br/><br/>[Read More &gt;....](/Irans-Navy-New-Ship-Makran-On-Sea-Trials.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <font size="5">**Iranian Navy's largest Ship, I.R.I.N.S Makran, Observed On Sea Trials**</font><br clear="right"/><a href="/Irans-Navy-New-Ship-Makran-On-Sea-Trials.html"><img align="left" src="/images/Iranian-Navy-IRINS-Makran-317.jpg"/></a><br/>The Iranian Navy is joining the IRGC in converting large merchant ships to function as Forward Base Ships. <br/><br/>From at least December 9-14 the I.R.I.N.S. Makran (441) was on sea trials in the general vicinity of the Straits of Hormuz..<br/><br/>[Read More &gt;....](/Irans-Navy-New-Ship-Makran-On-Sea-Trials.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![Iranian Navy's largest Ship, I.R.I.N.S Makran, Observed On Sea Trials](/images/Iranian-Navy-IRINS-Makran.jpg)  
 

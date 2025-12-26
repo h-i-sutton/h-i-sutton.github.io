@@ -2,14 +2,10 @@
 layout: post
 title: "MSUBs-Moray-XLUUV"
 date: "2020-03-05 13:01:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br/><font
-  size="6">**British extra-large UUV: Moray**</font><br/><img src="/images/flag_UK.jpg"/>
-  MORAY is a multi-role XLUUV (extra-large unmanned underwater vehicle) designed for
-  both combat and reconnaissance. Its modular design allows for ASW, ASuW, MCM and
-  ISR mission fits... <br/><a href="/MSUBs-Moray-XLUUV.html"><img src="/images/MSUBs-Moray-XLUUV-900.jpg"/></a><br
-  clear="right">[Read More &gt;....](/MSUBs-Moray-XLUUV.html "READ MORE")<br/></br>'
-
+excerpt: |-
+  <br/><font size="6">**British extra-large UUV: Moray**</font><br/><img src="/images/flag_UK.jpg"/> MORAY is a multi-role XLUUV (extra-large unmanned underwater vehicle) designed for both combat and reconnaissance. Its modular design allows for ASW, ASuW, MCM and ISR mission fits... <br/><a href="/MSUBs-Moray-XLUUV.html"><img src="/images/MSUBs-Moray-XLUUV-900.jpg"/></a><br clear="right">[Read More &gt;....](/MSUBs-Moray-XLUUV.html "READ MORE")<br/></br>
 ---
+
 *Based on unclassified sources*[![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 **British extra-large UUV: Moray**  

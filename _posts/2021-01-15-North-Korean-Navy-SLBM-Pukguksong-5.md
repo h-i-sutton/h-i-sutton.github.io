@@ -2,16 +2,15 @@
 layout: post
 title: "North-Korean-Navy-SLBM-Pukguksong-5"
 date: "2021-01-15 09:01:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**New North Korean Submarine-Launched\
-  \ Ballistic Missile**</font><br clear=\"right\"/><a href=\"/North-Korean-Navy-SLBM-Pukguksong-5.html\"\
-  ><img align=\"left\" src=\"/images/DPRK-Submarine-SLBM-Pukguksong-317.jpg\"/></a>![Flag](/images/flag_nork.jpg)\
+excerpt: "<font size=\"6\">**New North Korean Submarine-Launched Ballistic Missile**</font><br\
+  \ clear=\"right\"/><a href=\"/North-Korean-Navy-SLBM-Pukguksong-5.html\"><img align=\"\
+  left\" src=\"/images/DPRK-Submarine-SLBM-Pukguksong-317.jpg\"/></a>![Flag](/images/flag_nork.jpg)\
   \ North Korea paraded yet another iteration of its **Pukguksong** (Polaris / Pole\
   \ Star:  \uBD81\uADF9\uC131) family of Submarine-Launched Ballistic Missiles (SLBMs).\
   \ <br/>[Read More &gt;....](/North-Korean-Navy-SLBM-Pukguksong-5.html \"READ MORE\"\
   )<br clear=\"left\"/>"
-
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![North Korea Planning Nuclear Powered Submarine](/images/DPRK-Submarine-SLM-Pukguksong-5.jpg)  
 

@@ -2,15 +2,10 @@
 layout: post
 title: "Russian-Navy-Nuclear-Drone-Submarine"
 date: "2020-02-16 01:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Russian Navy Nuclear-Powered combat AUVs?**</font> <br/>![Flag](/images/flag_russia.jpg)
-  If the robotics revolution pushes us towards uncrewed nuclear subs, will Russia
-  have an advantage?...<br/>[Read More](/Russian-Navy-Nuclear-Drone-Submarine.html
-  "READ MORE")<br/><a href="/Russian-Navy-Nuclear-Drone-Submarine.html"><img src="/images/Russian-Navy-Autonomous-submarine-drone-900.jpg"/></a><br/><br
-  clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Russian Navy Nuclear-Powered combat AUVs?**</font> <br/>![Flag](/images/flag_russia.jpg) If the robotics revolution pushes us towards uncrewed nuclear subs, will Russia have an advantage?...<br/>[Read More](/Russian-Navy-Nuclear-Drone-Submarine.html "READ MORE")<br/><a href="/Russian-Navy-Nuclear-Drone-Submarine.html"><img src="/images/Russian-Navy-Autonomous-submarine-drone-900.jpg"/></a><br/><br clear="right"/>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 **Russian Navy Nuclear-Powered combat AUVs?**   

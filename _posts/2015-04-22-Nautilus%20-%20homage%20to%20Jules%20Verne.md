@@ -2,16 +2,10 @@
 layout: post
 title: "Nautilus - homage to Jules Verne"
 date: "2015-04-22 11:00:00"
-excerpt: <img src="/images/flag_france.jpg"/> There are very few fictional submarines which
-  have a place in Naval architecture history. The Nautilus, an electric powered submarine
-  conceived in the 1860s by author and visionary Jules Verne stands out. It was a
-  window into the future and possibly an influence on subsequent real world designs.
-  This is my interpretation of the design... [Read More &gt;....](Nautilus - homage
-  to Jules Verne.html "READ MORE")<br/><a href="/Nautilus - homage to Jules Verne.html"><img
-  src="/images/Naut_header.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_france.jpg"/> There are very few fictional submarines which have a place in Naval architecture history. The Nautilus, an electric powered submarine conceived in the 1860s by author and visionary Jules Verne stands out. It was a window into the future and possibly an influence on subsequent real world designs. This is my interpretation of the design... [Read More &gt;....](Nautilus - homage to Jules Verne.html "READ MORE")<br/><a href="/Nautilus - homage to Jules Verne.html"><img src="/images/Naut_header.jpg"/></a>
 ---
+
 ![Flag](/images/flag_france.jpg) There are very few fictional submarines which have a place in Naval architecture history. The Nautilus, an electric powered submarine conceived in the 1860s by author and visionary Jules Verne stands out. It was a window into the future and possibly an influence on subsequent real world designs. I set about illustrating the Nautilus after being inspired while drawing a detailed cutaway of the interesting spy-submarine USS Halibut for the [Covert Shores Book](/pages/Book project.html "Covert Shores Book"). Additionally I may have been influenced by some recent Verne related illustrations I did for another book project by C.E. Davis ([The Lunarnauts 1904](https://thelunarnauts1904.wordpress.com/))  
 [![](/images/Nautlis2_side940.jpg)](/images/Nautlis2_side3000.jpg)   
 *My own interpretation of the Nautilus - CLICK for HIGH-RESOLUTION image.*   

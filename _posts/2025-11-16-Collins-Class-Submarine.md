@@ -2,18 +2,9 @@
 layout: post
 title: "Collins Class Submarine"
 date: "2025-11-16 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Collins-Class-Submarine.html"><img
-  align="left" src="/images/Australia-Collins-Class-submarine-317.jpg"/></a> ![Flag
-  Australia](/images/flag_Australia.jpg) Six Collins Class boats provide Australia
-  with a world class conventional submarine force.<br/><br/>They are interesting in
-  several ways...<br/>[Read More &gt;....](/Collins-Class-Submarine.html "READ MORE")<br
-  clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Collins-Class-Submarine.html"><img align="left" src="/images/Australia-Collins-Class-submarine-317.jpg"/></a> ![Flag Australia](/images/flag_Australia.jpg) Six Collins Class boats provide Australia with a world class conventional submarine force.<br/><br/>They are interesting in several ways...<br/>[Read More &gt;....](/Collins-Class-Submarine.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 [![](/images/Australia-Collins-Class-submarine-Cutaway-940.jpg)](/images/Australia-Collins-Class-submarine-Cutaway.jpg)  
 *CLICK to Enlarge. Original artwork.*  

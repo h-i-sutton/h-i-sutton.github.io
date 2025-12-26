@@ -2,17 +2,10 @@
 layout: post
 title: "Russian Submarines Launching Kalibr Cruise Missiles At Ukraine"
 date: "2022-04-21 09:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Russian-Submarines-Launching-Missiles-Ukraine.html"><img
-  align="left" src="/images/Russia-Submarine-Kalibr-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  A steady stream of Kalibr cruise missiles is one of the Russian Navy's major contributions
-  to the Ukraine invasion. Launching missiles is a visible symbol for the Russian
-  Navy, often featured on Ministry of Defense videos.<br/><br/>But not all of the
-  missile launches are so visible. Literally.<br/>[Read More &gt;....](/Russian-Submarines-Launching-Missiles-Ukraine.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russian-Submarines-Launching-Missiles-Ukraine.html"><img align="left" src="/images/Russia-Submarine-Kalibr-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) A steady stream of Kalibr cruise missiles is one of the Russian Navy's major contributions to the Ukraine invasion. Launching missiles is a visible symbol for the Russian Navy, often featured on Ministry of Defense videos.<br/><br/>But not all of the missile launches are so visible. Literally.<br/>[Read More &gt;....](/Russian-Submarines-Launching-Missiles-Ukraine.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 ![Russian Submarines Launching Kalibr Cruise Missiles At Ukraine](/images/Russia-Improved-Kilo.jpg)  
 *File image. RFS Krasnodar, one of the Improved KILOs, surfaces after conducting weapons training in 2021.*   

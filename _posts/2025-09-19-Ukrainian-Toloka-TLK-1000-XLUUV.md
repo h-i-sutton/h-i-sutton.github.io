@@ -2,18 +2,9 @@
 layout: post
 title: "Toloka TLK-1000 XLUUV unveiled in Ukraine"
 date: "2025-09-19 23:00:00"
-excerpt: <br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img
-  align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="/Ukrainian-Toloka-TLK-1000-XLUUV.html"><img
-  align="left" src="/images/Ukraine-XLUUV-Toloka0TLK-1000-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)
-  Ukrainian UUV manufacturer Toloka has unveiled the TLK-1000 XLUUV at the Brave1
-  Defense Tech Valley 2025 exhibition in Lviv. As expected, the long anticipated craft
-  is much larger than the TLK-150 model previously shown...<br/>[Read More &gt;....](/Ukrainian-Toloka-TLK-1000-XLUUV.html
-  "READ MORE")<br clear="left"/></br>
-...
-
+excerpt: |-
+  <br/><br clear="right"><a href="/Ukrainian-Toloka-TLK-1000-XLUUV.html"><img align="left" src="/images/Ukraine-XLUUV-Toloka0TLK-1000-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Ukrainian UUV manufacturer Toloka has unveiled the TLK-1000 XLUUV at the Brave1 Defense Tech Valley 2025 exhibition in Lviv. As expected, the long anticipated craft is much larger than the TLK-150 model previously shown...<br/>[Read More &gt;....](/Ukrainian-Toloka-TLK-1000-XLUUV.html "READ MORE")<br clear="left"/></br>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 #Toloka TLK-1000 XLUUV unveiled in Ukraine![Flag Ukraine](/images/flag_ukraine.jpg) Ukrainian UUV manufacturer Toloka has unveiled the TLK-1000 XLUUV at the Brave1 Defense Tech Valley 2025 exhibition in Lviv. As expected, the long anticipated craft is much larger than the TLK-150 model previously shown.   
 

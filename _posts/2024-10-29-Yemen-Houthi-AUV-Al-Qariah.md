@@ -2,18 +2,9 @@
 layout: post
 title: "Great Disaster: Houthi's Underwater Drone Not Reverse Engineered U.S. Navy REMUS"
 date: "2024-10-29 23:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Yemen-Houthi-AUV-Al-Qariah.html"><img align="left" src="/images/Houthi-AUV-Al-Qariah-317.jpg"/></a>
-  ![Flag Houthi](/images/flag_Houthi.jpg) Yemen's Iranian-backed Houthi Movement,
-  which controls parts of the west of the country, has shown a propaganda video of
-  its latest maritime weapons. One weapon shown is a one-way-attack autonomous underwater
-  vehicle (OWA-AUV).<br/><br/>There has been speculation that it is in fact a reverse
-  engineered REMUS 600. This does not appear to be the case...<br/>[Read More &gt;....](/Yemen-Houthi-AUV-Al-Qariah.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Yemen-Houthi-AUV-Al-Qariah.html"><img align="left" src="/images/Houthi-AUV-Al-Qariah-317.jpg"/></a> ![Flag Houthi](/images/flag_Houthi.jpg) Yemen's Iranian-backed Houthi Movement, which controls parts of the west of the country, has shown a propaganda video of its latest maritime weapons. One weapon shown is a one-way-attack autonomous underwater vehicle (OWA-AUV).<br/><br/>There has been speculation that it is in fact a reverse engineered REMUS 600. This does not appear to be the case...<br/>[Read More &gt;....](/Yemen-Houthi-AUV-Al-Qariah.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Great Disaster: Houthi's Underwater Drone Not Reverse Engineered U.S. Navy REMUS![Flag Houthi](/images/flag_Houthi.jpg) Yemen's Iranian-backed Houthi Movement, which controls parts of the west of the country, has shown a propaganda video of its latest maritime weapons. These are shown destroying a range of dummy American and Israeli vessels. While much of these videos should be taken with a large pinch of salt, the Houthi's weapons should be taken seriously. They have seriously damaged several merchant ships. One weapon shown is a one-way-attack autonomous underwater vehicle (OWA-AUV). This is named Al-Qar'iah (also written Al-Qaria, Al Qari'a), meaning Great Disaster.
 

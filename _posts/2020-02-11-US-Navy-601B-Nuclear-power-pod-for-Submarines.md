@@ -2,15 +2,10 @@
 layout: post
 title: "US-Navy-601B-Nuclear-power-pod-for-Submarines"
 date: "2020-02-11 11:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Nuclear power pod concept for submarines (US Navy, 1961)**</font><br/><img
-  src="/images/flag_USA.jpg"/> In the early 1960s General Electric (GE) proposed a
-  podded nuclear power system for submarines and surface ships. These outboard motors
-  were termed it a nuclear power package... <br/><a href="/US-Navy-601B-Nuclear-power-pod-for-Submarines.html"><img
-  src="/images/US-Navy_nuclear-outboard-propulsor-Submarine_profile900.jpg"/></a>
-...
-
+excerpt: |-
+  <font size="6">**Nuclear power pod concept for submarines (US Navy, 1961)**</font><br/><img src="/images/flag_USA.jpg"/> In the early 1960s General Electric (GE) proposed a podded nuclear power system for submarines and surface ships. These outboard motors were termed it a nuclear power package... <br/><a href="/US-Navy-601B-Nuclear-power-pod-for-Submarines.html"><img src="/images/US-Navy_nuclear-outboard-propulsor-Submarine_profile900.jpg"/></a>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 **Nuclear power pod concept for submarines (US Navy, 1961)**  

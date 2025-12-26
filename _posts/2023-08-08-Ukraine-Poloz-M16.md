@@ -2,17 +2,9 @@
 layout: post
 title: "Ukrainian Special Forces Poloz-M16 Canoe"
 date: "2023-08-08 23:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Ukraine-Poloz-M16.html"><img align="left" src="/images/Ukraine-Poloz-M16-Kayak-317.jpg"/></a>
-  ![Flag Ukraine](/images/flag_ukraine.jpg) Ukrainian armed forces have been shown
-  testing an indigenous motorized canoe, the Poloz-M16. The two-person design is not
-  typical of military canoes.<br/><br/>The canoe was seen armed with a single locally
-  designed UAG-40 40mm grenade launcher...<br/>[Read More &gt;....](/Ukraine-Poloz-M16.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Ukraine-Poloz-M16.html"><img align="left" src="/images/Ukraine-Poloz-M16-Kayak-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Ukrainian armed forces have been shown testing an indigenous motorized canoe, the Poloz-M16. The two-person design is not typical of military canoes.<br/><br/>The canoe was seen armed with a single locally designed UAG-40 40mm grenade launcher...<br/>[Read More &gt;....](/Ukraine-Poloz-M16.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 ![Ukrainian Special Forces Poloz-M16 Canoe](/images/Ukraine-Poloz-M16-Kayak.jpg)  
 #Ukrainian Special Forces Poloz-M16 Canoe![Flag Ukraine](/images/flag_ukraine.jpg) Ukrainian armed forces have been shown testing an indigenous motorized canoe, the Poloz-M16. The two-person design is not typical of military canoes which are most often of the folding kayak type. Instead it is a hard hull type with hard deck and soft covers, and an electric motor at the stern. The crew can also use double-ended kayak style paddles.  

@@ -2,16 +2,9 @@
 layout: post
 title: "Guide To Ukraine's Longer Ranged Missiles"
 date: "2024-09-24 23:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Ukraine-missiles.html"><img align="left" src="/images/Ukraine-Missiles-317.jpg"/></a>
-  ![Flag Ukraine](/images/flag_ukraine.jpg) Although missiles are normally outside
-  my swim lane, I feel that this topic is a natural complement to the visual guides
-  I prepared for maritime drones (OWA-USVs) and aerial drones (OWA-UAVs...<br/>[Read
-  More &gt;....](/Ukraine-missiles.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Ukraine-missiles.html"><img align="left" src="/images/Ukraine-Missiles-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Although missiles are normally outside my swim lane, I feel that this topic is a natural complement to the visual guides I prepared for maritime drones (OWA-USVs) and aerial drones (OWA-UAVs...<br/>[Read More &gt;....](/Ukraine-missiles.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 [![](/images/Ukraine-Missiles-940.jpg)](/images/Ukraine-Missiles.jpg)  
 *CLICK to Enlarge.*  

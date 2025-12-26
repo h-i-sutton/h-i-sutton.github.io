@@ -2,20 +2,18 @@
 layout: post
 title: "SEALION and Alligator stealth boats"
 date: "2017-02-13 11:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\"> **SEALION Combatant Craft Heavy\
-  \ (CCH)** </font><br/>![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_isreal.jpg)Various\
-  \ \u2018stealth boats\u2019 have been trailed by Naval Special Warfare (NSW, now\
-  \ part of USSOCOM) for use by the Special Boats Units and SEALs. Although always\
-  \ under the radar, several types have been noticed by bystanders over the years.\
-  \ More recently USSOCOM has sought to operationalize the SEALION family of semi-submersible\
-  \ \u2018stealth boats\u2019 as the *Combatant Craft Heavy*. This article builds\
-  \ on the popular post on the old *Covert Shores Blog*.[Read More &gt;....](/SEALION\
-  \ and Alligator stealth boats.html \"READ MORE\")<br/><a href=\"/SEALION and Alligator\
-  \ stealth boats.html\"><img src=\"/images/Sealion_cutaway_900.jpg\"/></a><br clear=\"\
-  right\"/>"
-
+excerpt: "<font size=\"6\"> **SEALION Combatant Craft Heavy (CCH)** </font><br/>![Flag](/images/flag_USA.jpg)\
+  \ ![Flag](/images/flag_isreal.jpg)Various \u2018stealth boats\u2019 have been trailed\
+  \ by Naval Special Warfare (NSW, now part of USSOCOM) for use by the Special Boats\
+  \ Units and SEALs. Although always under the radar, several types have been noticed\
+  \ by bystanders over the years. More recently USSOCOM has sought to operationalize\
+  \ the SEALION family of semi-submersible \u2018stealth boats\u2019 as the *Combatant\
+  \ Craft Heavy*. This article builds on the popular post on the old *Covert Shores\
+  \ Blog*.[Read More &gt;....](/SEALION and Alligator stealth boats.html \"READ MORE\"\
+  )<br/><a href=\"/SEALION and Alligator stealth boats.html\"><img src=\"/images/Sealion_cutaway_900.jpg\"\
+  /></a><br clear=\"right\"/>"
 ---
+
 ![Special forces semi-submarine](/images/SEALION_Mk5.jpg)  
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social) **SEALION Combatant Craft Heavy (CCH)**   
 

@@ -2,16 +2,13 @@
 layout: post
 title: "Confirmed: Narco Submarine Discovered In Spain Is Directly Related To 2019 Incident"
 date: "2023-03-14 22:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Narco-Submarine-Spain-2023-Update.html\"\
-  ><img align=\"left\" src=\"/images/Narco-Submarine-LPV-2023-03-Spain-317.jpg\"/></a>Images\
-  \ of the narco submarine found in Vilaxo\xE1n, Galicia, Spain being lifted confirm\
+excerpt: "<br clear=\"right\"/><a href=\"/Narco-Submarine-Spain-2023-Update.html\"><img align=\"\
+  left\" src=\"/images/Narco-Submarine-LPV-2023-03-Spain-317.jpg\"/></a>Images of\
+  \ the narco submarine found in Vilaxo\xE1n, Galicia, Spain being lifted confirm\
   \ yesterday's analysis. The vessel is directly related to the 2019 incident.<br/><br/>[Read\
   \ More &gt;....](/Narco-Submarine-Spain-2023-Update.html \"READ MORE\")<br clear=\"\
   left\"/>"
-
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 [![](/images/Narco-Submarine-LPV-2023-03-Spain-Compared-940.jpg)](/images/Narco-Submarine-LPV-2023-03-Spain-Compared.jpg)  
 *CLICK to Enlarge.*  

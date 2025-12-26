@@ -2,16 +2,13 @@
 layout: post
 title: "Russian Firm Develops New 'Skat' Underwater Vehicle"
 date: "2023-03-30 17:30:00"
-excerpt: "<br/><a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"\
-  right\" src=\"/images/twitter.jpg\"/></a><br clear=\"right\"><a href=\"/Russian-Skat-UUV.html\"\
-  ><img align=\"left\" src=\"/images/Russia-Skat-UUV-317.jpg\"/></a> ![Flag Russia](/images/flag_russia.jpg)\
+excerpt: "<br/><br clear=\"right\"><a href=\"/Russian-Skat-UUV.html\"><img align=\"left\" src=\"\
+  /images/Russia-Skat-UUV-317.jpg\"/></a> ![Flag Russia](/images/flag_russia.jpg)\
   \  Russian media has reported that Spektr Engineering design bureau has developed\
   \ a new uncrewed underwater vehicle (UUV).<br/><br/>The 'Skat' (\u0421\u043A\u0430\
   \u0442) may have potential uses in the war with Ukraine.<br/>[Read More &gt;....](/Russian-Skat-UUV.html\
   \ \"READ MORE\")<br clear=\"left\"/></br>"
-
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Russian Firm Develops New 'Skat' Underwater Vehicle![Flag Russia](/images/flag_russia.jpg) Russian media has reported that Spektr Engineering design bureau has developed a new uncrewed underwater vehicle (UUV). The 'Skat' (Скат) may have potential uses in the war with Ukraine.   
 

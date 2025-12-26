@@ -2,18 +2,10 @@
 layout: post
 title: "Why-European-Narco-Submarines-Are-Different"
 date: "2021-03-25 12:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="5">**Why the Narco Submarine Found In Europe Is Not Like Those In Latin America**</font><br
-  clear="right"/><a href="/Why-European-Narco-Submarines-Are-Different.html"><img
-  align="left" src="/images/Narco-Submarine-Mar21-317.jpg"/></a>On March 21 2021 the
-  Colombian Navy captured a narco submarine before it could sail with its illicit
-  cargo of cocaine. The vessel was typical of this found in recent years, being characterized
-  by its Very Slender Vessel (VSV) form. <br/><br/>This contrasts with one recently
-  discovered in Southern Spain. <br/>[Read More &gt;....](/Why-European-Narco-Submarines-Are-Different.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <font size="5">**Why the Narco Submarine Found In Europe Is Not Like Those In Latin America**</font><br clear="right"/><a href="/Why-European-Narco-Submarines-Are-Different.html"><img align="left" src="/images/Narco-Submarine-Mar21-317.jpg"/></a>On March 21 2021 the Colombian Navy captured a narco submarine before it could sail with its illicit cargo of cocaine. The vessel was typical of this found in recent years, being characterized by its Very Slender Vessel (VSV) form. <br/><br/>This contrasts with one recently discovered in Southern Spain. <br/>[Read More &gt;....](/Why-European-Narco-Submarines-Are-Different.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 #Why the Narco Submarine Found In Europe Is Not Like Those In Latin AmericaOn March 21 2021 the Colombian Navy captured a narco submarine before it could sail with its illicit cargo of cocaine. The vessel was typical of this found in recent years, being characterized by its Very Slender Vessel (VSV) form. This means that it is much longer than it is wide, with a length-to-beam ratio of 10:1 or more.   

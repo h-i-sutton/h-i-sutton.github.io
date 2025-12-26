@@ -2,18 +2,9 @@
 layout: post
 title: "Indonesia Gets Ahead Of Western Navies In Weaponising Underwater Drones"
 date: "2025-11-22 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Indonesia-KSOT-XLUUV.html"><img
-  align="left" src="/images/Indonesia-KSOT-XLUUV-317.jpg"/></a> ![Flag](/images/flag_indo.jpg)
-  Indonesia has a patchy record of naval acquisitions, but there are signs that this
-  is changing.<br/><br/>Indonesia has done something which puts it ahead of Western
-  navies in the weaponisation of emerging technologies...<br/>[Read More &gt;....](/Indonesia-KSOT-XLUUV.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Indonesia-KSOT-XLUUV.html"><img align="left" src="/images/Indonesia-KSOT-XLUUV-317.jpg"/></a> ![Flag](/images/flag_indo.jpg) Indonesia has a patchy record of naval acquisitions, but there are signs that this is changing.<br/><br/>Indonesia has done something which puts it ahead of Western navies in the weaponisation of emerging technologies...<br/>[Read More &gt;....](/Indonesia-KSOT-XLUUV.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 #Indonesia Gets Ahead Of Western Navies In Weaponising Underwater Drones![Flag](/images/flag_indo.jpg) Indonesia has a patchy record of naval acquisitions. It is, sadly, known for accidents and tragedy rather than might. The stealth trimaran missile boat KRI Klewang was destroyed by fire in 2012, and the Type-209 submarine KRI Nanggala was lost with all hands in 2021. Meanwhile its homegrown efforts at self-sufficiency have been mired by [Heath Robinson amateurism](http://www.hisutton.com{% post_url 2018-11-06-Indonesian_KTBA_chariots %}) (admirable in its own right but not serious military capabilities) and blatant knockoffs of imported designs. But there are signs that this is changing.  
 

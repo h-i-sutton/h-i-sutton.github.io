@@ -2,14 +2,10 @@
 layout: post
 title: "Iran_Cruise-Missiles"
 date: "2019-09-28 04:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Iranian (/Houthi) Cruise Missile types**</font><br/>![Flag](/images/flag_iran.jpg)
-  Iran has developed several types of land attack cruise missile. This article acts
-  as a quick reference guide... <br/><a href="/Iran_Cruise-Missiles.html"><img src="/images/Ir_Quds900.jpg"/></a><br/>[Read
-  More &gt;....](/Iran_Cruise-Missiles.html "READ MORE")
-...
-
+excerpt: |-
+  <font size="6">**Iranian (/Houthi) Cruise Missile types**</font><br/>![Flag](/images/flag_iran.jpg) Iran has developed several types of land attack cruise missile. This article acts as a quick reference guide... <br/><a href="/Iran_Cruise-Missiles.html"><img src="/images/Ir_Quds900.jpg"/></a><br/>[Read More &gt;....](/Iran_Cruise-Missiles.html "READ MORE")
 ---
+
 ##### Share: __
 
 ![Guide to Iranian Cruise Missiles - Covert Shores](/images/Ir_Quds.jpg)  

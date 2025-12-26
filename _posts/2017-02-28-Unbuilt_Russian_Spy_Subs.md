@@ -2,22 +2,20 @@
 layout: post
 title: "Unbuilt_Russian_Spy_Subs"
 date: "2017-02-28 03:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Multifunctional underwater\
-  \ station (MPS)**</font> <br/>![Flag](/images/flag_russia.jpg) In 2010 the Russian\
-  \ Ministry of Industry and Trade patented a \u2018Multifunctional underwater station\
-  \ (MPS) (Russian: \u041C\u043D\u043E\u0433\u043E\u0444\u0443\u043D\u043A\u0446\u0438\
-  \u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u043F\u043E\u0434\u0432\u043E\u0434\
-  \u043D\u0430\u044F \u0441\u0442\u0430\u043D\u0446\u0438\u044F (\u041C\u041F\u0421\
-  ). Two years later Russian submarine design bureau **Lazurite** proposed the same\
-  \ design for a range of underwater engineering tasks. Although presented as a civilian\
-  \ platform the design gives us good insight into the Russian \u2018deep station\u2019\
-  \ spy submarines operated by GUGI (Main Directorate of Deep-Sea Research, Military\
-  \ Unit 40056)... [Read More &gt;....](/Unbuilt_Russian_Spy_Subs.html \"READ MORE\"\
-  )<br/><a href=\"/Unbuilt_Russian_Spy_Subs.html\"><img src=\"/images/Ru_GUGI_900.jpg\"\
+excerpt: "<font size=\"6\">**Multifunctional underwater station (MPS)**</font> <br/>![Flag](/images/flag_russia.jpg)\
+  \ In 2010 the Russian Ministry of Industry and Trade patented a \u2018Multifunctional\
+  \ underwater station (MPS) (Russian: \u041C\u043D\u043E\u0433\u043E\u0444\u0443\u043D\
+  \u043A\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u043F\u043E\u0434\
+  \u0432\u043E\u0434\u043D\u0430\u044F \u0441\u0442\u0430\u043D\u0446\u0438\u044F\
+  \ (\u041C\u041F\u0421). Two years later Russian submarine design bureau **Lazurite**\
+  \ proposed the same design for a range of underwater engineering tasks. Although\
+  \ presented as a civilian platform the design gives us good insight into the Russian\
+  \ \u2018deep station\u2019 spy submarines operated by GUGI (Main Directorate of\
+  \ Deep-Sea Research, Military Unit 40056)... [Read More &gt;....](/Unbuilt_Russian_Spy_Subs.html\
+  \ \"READ MORE\")<br/><a href=\"/Unbuilt_Russian_Spy_Subs.html\"><img src=\"/images/Ru_GUGI_900.jpg\"\
   /></a><br clear=\"right\"/>"
-
 ---
+
 **Multifunctional underwater station (MPS)**   
 ![Russian Spy subs GUGI - Covert Shores](/images/Ru_GUGI_940.jpg)   
 ![Flag](/images/flag_russia.jpg) In 2010 the Russian Ministry of Industry and Trade patented a ‘Multifunctional underwater station (MPS) (Russian: Многофункциональная подводная станция (МПС). Two years later Russian submarine design bureau **Lazurite** proposed the same design for a range of underwater engineering tasks. Although presented as a civilian platform the design gives us good insight into the Russian ‘deep station’ spy submarines operated by GUGI (Main Directorate of Deep-Sea Research, Military Unit 40056). Critically, the design is quite slow (just 12 knots) but has a massive 1,060 cubic meter integral payload bay (about as large as a three story house) allowing it to place or retrieve large items on the sea floor.   

@@ -2,18 +2,10 @@
 layout: post
 title: "World-Submarine-Family-Tree"
 date: "2021-03-05 01:01:00"
-excerpt: <font size="5" style="color:#8A0808">**UPDATED - version 2.3**</font><br/><a href="https://twitter.com/covertshores"
-  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="6">**World
-  Submarines Family Tree**</font><br clear="right"><a href="/World-Submarine-Family-Tree.html"><img
-  align="left" src="/images/Submarine-Family-Tree-317.jpg"/></a> I would like to share
-  this resource I built as part of my research into submarine design history. I am
-  trying to make map out which designs influenced which others, and from there which
-  designs can be said to be the most influential submarines. <br/><br/>This is a nuanced
-  topic and the map is only intended as a starting point...<br/>[Read More &gt;....](/World-Submarine-Family-Tree.html
-  "READ MORE")<br clear="left"/></br>
-...
-
+excerpt: |-
+  <font size="5" style="color:#8A0808">**UPDATED - version 2.3**</font><br/><font size="6">**World Submarines Family Tree**</font><br clear="right"><a href="/World-Submarine-Family-Tree.html"><img align="left" src="/images/Submarine-Family-Tree-317.jpg"/></a> I would like to share this resource I built as part of my research into submarine design history. I am trying to make map out which designs influenced which others, and from there which designs can be said to be the most influential submarines. <br/><br/>This is a nuanced topic and the map is only intended as a starting point...<br/>[Read More &gt;....](/World-Submarine-Family-Tree.html "READ MORE")<br clear="left"/></br>
 ---
+
 **UPDATED - version 2.3**  
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)  
 

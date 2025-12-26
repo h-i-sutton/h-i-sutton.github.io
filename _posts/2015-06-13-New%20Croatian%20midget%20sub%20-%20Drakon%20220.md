@@ -2,15 +2,10 @@
 layout: post
 title: "New Croatian midget sub - Drakon 220"
 date: "2015-06-13 11:00:00"
-excerpt: Croatia (formerly part of Yugoslavia) has a track record of impressive midget submarines.
-  The industry has struggled since independence with the Croatian Navy retiring its
-  submarine capability. A new improved version of the R-3E design (better known as
-  the Una Class) is now ready for construction however [Read More &gt;....](/New Croatian
-  midget sub - Drakon 220.html "READ MORE")<br/><a href="/New Croatian midget sub
-  - Drakon 220.html"><img src="/images/Yugo_Dragon_show1.jpg"/></a>
-...
-
+excerpt: |-
+  Croatia (formerly part of Yugoslavia) has a track record of impressive midget submarines. The industry has struggled since independence with the Croatian Navy retiring its submarine capability. A new improved version of the R-3E design (better known as the Una Class) is now ready for construction however [Read More &gt;....](/New Croatian midget sub - Drakon 220.html "READ MORE")<br/><a href="/New Croatian midget sub - Drakon 220.html"><img src="/images/Yugo_Dragon_show1.jpg"/></a>
 ---
+
 ![Drakon 220](/images/Yugo_Dragon_show1.jpg   
 The Drakon (Dragon) 220 is a new midget submarine developed by Adria-Mar in Croatia. It is 50% longer and twice as heavy as the R-3E (aka Una class) which allows it to carry two torpedo tubes under the casing and accommodate a diesel-electric powerplant for a ten-fold increase in range. It retains the characteristic X-form control surfaces but has a new distinctive vertical bow to house the larger sonar and torpedo tubes, plus a fixed sail with integral diesel exhaust. Special forces optimisation remains per the R-3E.   
 ![Drakon 220](/images/Yugo_dragon_schem2.jpg)   

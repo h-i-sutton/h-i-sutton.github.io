@@ -2,23 +2,10 @@
 layout: post
 title: "Undersea_Cables"
 date: "2017-12-10 01:01:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>*Updated:
-  DG-450 and DG-350 added. Originally posted 10th June 2017.*<br/><font size="6">**Russian
-  capabilities against undersea cables**</font> <br/>![Flag](/images/flag_russia.jpg)
-  A recently published <a href="https://policyexchange.org.uk/wp-content/uploads/2017/11/Undersea-Cables.pdf"
-  target="blank">article</a> by British Member of Parliament <a href="https://www.rishisunak.com/"
-  target="blank">Rishi Sunak</a> shows the growing awareness of a new fundamental
-  weakness of NATO countries (and many other countries around the world). The concern
-  is that an adversary could gain a strategic advantage by interrupting internet and
-  telecommunications between countries at a critical moment by attacking the numerous
-  Submarine Communications Cables (SCC) which litter the sea floor between countries.  The
-  ground truth of this new naval arena clearly favors Russia both in terms of naval
-  investment and the circumstances of geography.<br/><br/>This article summarizes
-  my own thoughts and analysis on the topic.<br/><br/> Corrections and comments welcome.<br/><a
-  href="/Undersea_Cables.html"><img src="/images/UnderseaCable_Cover900.jpg"/></a><br/>[Read
-  More](/Undersea_Cables.html "READ MORE")<br clear="right"/>'
-
+excerpt: |-
+  *Updated: DG-450 and DG-350 added. Originally posted 10th June 2017.*<br/><font size="6">**Russian capabilities against undersea cables**</font> <br/>![Flag](/images/flag_russia.jpg) A recently published <a href="https://policyexchange.org.uk/wp-content/uploads/2017/11/Undersea-Cables.pdf" target="blank">article</a> by British Member of Parliament <a href="https://www.rishisunak.com/" target="blank">Rishi Sunak</a> shows the growing awareness of a new fundamental weakness of NATO countries (and many other countries around the world). The concern is that an adversary could gain a strategic advantage by interrupting internet and telecommunications between countries at a critical moment by attacking the numerous Submarine Communications Cables (SCC) which litter the sea floor between countries.  The ground truth of this new naval arena clearly favors Russia both in terms of naval investment and the circumstances of geography.<br/><br/>This article summarizes my own thoughts and analysis on the topic.<br/><br/> Corrections and comments welcome.<br/><a href="/Undersea_Cables.html"><img src="/images/UnderseaCable_Cover900.jpg"/></a><br/>[Read More](/Undersea_Cables.html "READ MORE")<br clear="right"/>
 ---
+
 **Russian capabilities against undersea cables**   
 [![](/images/UnderseaCables_cover250.jpg)](https://policyexchange.org.uk/wp-content/uploads/2017/11/Undersea-Cables.pdf)![Flag](/images/flag_russia.jpg) A recently published [article](https://policyexchange.org.uk/wp-content/uploads/2017/11/Undersea-Cables.pdf) by British Member of Parliament [Rishi Sunak](https://www.rishisunak.com/) shows the growing awareness of a new fundamental weakness of NATO countries (and many other countries around the world). The concern is that an adversary could gain a strategic advantage by interrupting internet and telecommunications between countries at a critical moment by attacking the numerous Submarine Communications Cables (SCC) which litter the sea floor between countries. There is also the concern that this type of activity could take place within the context of HYBRID WARFARE. The ground truth of this new naval arena clearly favors Russia both in terms of naval investment and the circumstances of geography.   
 

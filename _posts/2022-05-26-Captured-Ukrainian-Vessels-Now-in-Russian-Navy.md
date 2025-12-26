@@ -2,18 +2,10 @@
 layout: post
 title: "Russia Taking Captured Ukrainian Navy Vessels Into Service"
 date: "2022-05-26 18:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Captured-Ukrainian-Vessels-Now-in-Russian-Navy.html"><img
-  align="left" src="/images/Russia-Ukraine-Captured-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  Berdyansk will be remembered in the Ukraine Invasion as where a Russian Navy landing
-  ship met its dramatic end. There was another naval victory at Berdyansk however,
-  one for the Russians. Several Ukrainian vessels had been captured there in the first
-  days of the war. <br/><br/>Evidence suggests that at least one of these has been
-  pressed into Russian Navy service.<br/>[Read More &gt;....](/Captured-Ukrainian-Vessels-Now-in-Russian-Navy.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Captured-Ukrainian-Vessels-Now-in-Russian-Navy.html"><img align="left" src="/images/Russia-Ukraine-Captured-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Berdyansk will be remembered in the Ukraine Invasion as where a Russian Navy landing ship met its dramatic end. There was another naval victory at Berdyansk however, one for the Russians. Several Ukrainian vessels had been captured there in the first days of the war. <br/><br/>Evidence suggests that at least one of these has been pressed into Russian Navy service.<br/>[Read More &gt;....](/Captured-Ukrainian-Vessels-Now-in-Russian-Navy.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 ![Suspected Chinese Boats Off Taiwance Island](/images/Russia-Ukraine-Captured-Gyurza-M.jpg)  
 *Captured Gyurza-M flying the Russian Navy flag, shared online May 25*  

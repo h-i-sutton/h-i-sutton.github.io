@@ -2,18 +2,16 @@
 layout: post
 title: "Harpsichord_AUV"
 date: "2019-03-30 11:00:00"
-excerpt: "*Updated*<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"\
-  right\" src=\"/images/twitter.jpg\"/></a><br/><font size=\"5\">**Russian Harpsichord\
-  \ (Klavesin) large Unmanned Underwater Vehicles carried by nuclear submarines**</font><br/><br/><img\
-  \ src=\"/images/flag_russia.jpg\"/> The **Harpsichord-2P-PM** (\u041A\u043B\u0430\
-  \u0432\u0435\u0441\u0438\u043D-2\u0420-\u041F\u041C) UUV is one of the largest and\
-  \ most advanced UUV programs in Russia. It will be carried by surface vessels or\
-  \ submarines and may become a standard feature of Russian Navy nuclear submarines,\
-  \ giving them an improved Intelligence Surveillance and Reconnaissance (ISR) capability....\
-  \ <br/><a href=\"/Harpsichord_AUV.html\"><img src=\"/images/Harpsichord_title900.jpg\"\
-  /></a><br clear=\"right\"/>"
-
+excerpt: "*Updated*<br/><font size=\"5\">**Russian Harpsichord (Klavesin) large Unmanned Underwater\
+  \ Vehicles carried by nuclear submarines**</font><br/><br/><img src=\"/images/flag_russia.jpg\"\
+  /> The **Harpsichord-2P-PM** (\u041A\u043B\u0430\u0432\u0435\u0441\u0438\u043D-2\u0420\
+  -\u041F\u041C) UUV is one of the largest and most advanced UUV programs in Russia.\
+  \ It will be carried by surface vessels or submarines and may become a standard\
+  \ feature of Russian Navy nuclear submarines, giving them an improved Intelligence\
+  \ Surveillance and Reconnaissance (ISR) capability.... <br/><a href=\"/Harpsichord_AUV.html\"\
+  ><img src=\"/images/Harpsichord_title900.jpg\"/></a><br clear=\"right\"/>"
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Russian Harpsichord (Klavesin) large Unmanned Underwater Vehicles carried by nuclear submarines**  
   
 ![](/images/flag_russia.jpg) The **Harpsichord-2P-PM** (Клавесин-2Р-ПМ, also called *klavesin*-2P-PM using the Russian word) UUV (Autonomous Underwater Vehicle, AUV, in Russian parlance) is one of the largest and most advanced UUV programs in Russia. It will be carried by surface vessels or submarines and may become a standard feature of Russian Navy nuclear submarines, giving them an improved Intelligence Surveillance and Reconnaissance (ISR) capability.   

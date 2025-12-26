@@ -2,15 +2,10 @@
 layout: post
 title: "N-310_Class_Submarine"
 date: "2018-09-16 03:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="5">**German shipyard plans to enter the midget submarine market with new design**</font><br/><img
-  src="/images/flag_germany.jpg"/> On 6th September 2018 German shipyard Nordseewerke
-  Emden revealed plans to build a new class of midget submarine, with a proposed launch
-  date of 2021.... <br/><a href="/N-310_Class_Submarine.html"><img src="/images/Germany_N310_900.jpg"/></a><br/>[Read
-  More &gt;....](/N-310_Class_Submarine.html "READ MORE")
-...
-
+excerpt: |-
+  <font size="5">**German shipyard plans to enter the midget submarine market with new design**</font><br/><img src="/images/flag_germany.jpg"/> On 6th September 2018 German shipyard Nordseewerke Emden revealed plans to build a new class of midget submarine, with a proposed launch date of 2021.... <br/><a href="/N-310_Class_Submarine.html"><img src="/images/Germany_N310_900.jpg"/></a><br/>[Read More &gt;....](/N-310_Class_Submarine.html "READ MORE")
 ---
+
 ##### Share: __
 
 **German shipyard plans to enter the midget submarine market with new design**  

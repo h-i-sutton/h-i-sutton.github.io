@@ -2,14 +2,10 @@
 layout: post
 title: "Armored Stealth Boat"
 date: "2016-09-01 03:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
-  The ultimate smuggling boat is known as the Armored Stealth Boat (ASB). You read
-  that correctly; this may sound too *James Bond* to be real, but it is... [Read More
-  &gt;....](/Armored Stealth Boat.html "READ MORE")<br/><a href="/Armored Stealth
-  Boat.html"><img src="/images/ASB_cover900.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |2-
+   The ultimate smuggling boat is known as the Armored Stealth Boat (ASB). You read that correctly; this may sound too *James Bond* to be real, but it is... [Read More &gt;....](/Armored Stealth Boat.html "READ MORE")<br/><a href="/Armored Stealth Boat.html"><img src="/images/ASB_cover900.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![Armored Stealth Boat](/images/ASB_cover940.jpg)  
 The smuggling of cars into china has been a widespread problem since at least the 1980s, and slowly evolved into an arms race between the authorities and the smugglers. The ultimate smuggling boat is known as the Armored Stealth Boat (ASB). You read that correctly; this may sound too *James Bond* to be real, but it is.   

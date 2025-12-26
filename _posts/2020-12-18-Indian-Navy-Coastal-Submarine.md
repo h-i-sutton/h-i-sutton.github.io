@@ -2,15 +2,10 @@
 layout: post
 title: "Indian-Navy-Coastal-Submarine"
 date: "2020-12-18 03:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="5">**Images Show Design For Indian Navy Indigenous Coastal Submarine** </font><br
-  clear="right"/>![Flag](/images/flag_india.jpg) A short video shared on Twitter appears
-  to show a new indigenous submarine design for the Indian Navy...<br/><a href="/Indian-Navy-Coastal-Submarine.html"><img
-  src="/images/India-Navy-Coastal-Submarine-profile-900.jpg"/></a><br/>[Read More
-  &gt;....](/Indian-Navy-Coastal-Submarine.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <font size="5">**Images Show Design For Indian Navy Indigenous Coastal Submarine** </font><br clear="right"/>![Flag](/images/flag_india.jpg) A short video shared on Twitter appears to show a new indigenous submarine design for the Indian Navy...<br/><a href="/Indian-Navy-Coastal-Submarine.html"><img src="/images/India-Navy-Coastal-Submarine-profile-900.jpg"/></a><br/>[Read More &gt;....](/Indian-Navy-Coastal-Submarine.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 [![](/images/India-Navy-Coastal-Submarine-Inside-940.jpg)](/images/India-Navy-Coastal-Submarine-Inside.jpg)  

@@ -2,16 +2,15 @@
 layout: post
 title: "Sweden's Nuclear Submarine: The A-11A 'Atomic'"
 date: "2022-02-03 09:01:00"
-excerpt: "*Updated. Originally Posted July 12, 2017.* <a href=\"https://twitter.com/covertshores\"\
-  \ target=\"blank\"><img align=\"right\" src=\"/images/twitter.jpg\"/></a><br clear=\"\
-  right\"/><a href=\"/Swedish_SSN.html\"><img align=\"left\" src=\"/images/Sweden-Nuclear-Submarine-317.jpg\"\
-  /></a> ![Flag](/images/flag_sweden.jpg) Sweden was one of the first countries to\
-  \ pursue a nuclear powered submarine, starting development in 1957. <br/><br/>This\
-  \ article summarizes the major features of the nuclear and AIP designs which were\
-  \ part of the journey to the conventionally powered A-11 Sj\xF6ormen Class...<br/>[Read\
-  \ More &gt;....](/Swedish_SSN.html \"READ MORE\")<br clear=\"left\"/>"
-
+excerpt: "*Updated. Originally Posted July 12, 2017.* <br clear=\"right\"/><a href=\"/Swedish_SSN.html\"\
+  ><img align=\"left\" src=\"/images/Sweden-Nuclear-Submarine-317.jpg\"/></a> ![Flag](/images/flag_sweden.jpg)\
+  \ Sweden was one of the first countries to pursue a nuclear powered submarine, starting\
+  \ development in 1957. <br/><br/>This article summarizes the major features of the\
+  \ nuclear and AIP designs which were part of the journey to the conventionally powered\
+  \ A-11 Sj\xF6ormen Class...<br/>[Read More &gt;....](/Swedish_SSN.html \"READ MORE\"\
+  )<br clear=\"left\"/>"
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 *Many thanks to everybody who has helped with the research for this article, and in particular to* **Fredrik Granholm** *for masses of materials, patience and guidance.*  
 [![](/images/Sweden-Nuclear-Submarine-Cutaway-940.jpg)](/images/Sweden-Nuclear-Submarine-Cutaway.jpg)  

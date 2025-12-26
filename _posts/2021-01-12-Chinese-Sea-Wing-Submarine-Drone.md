@@ -2,14 +2,10 @@
 layout: post
 title: "Chinese-Sea-Wing-Submarine-Drone"
 date: "2021-01-12 09:01:00"
-excerpt: '*Updated. Originally posted 2020-12-30*<br/><a href="https://twitter.com/covertshores"
-  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="6">**Chinese
-  Sea Wing (Haiyi) ocean glider**</font><br clear="right"><a href="/Chinese-Sea-Wing-Submarine-Drone.html"><img
-  align="left" src="/images/China-Sea-Wing-UUV-Glider-Drone-317.jpg"/></a>![Flag](/images/flag_China.jpg)
-  A UUV found by Indonesian fishermen on December 20 was a Chinese made Sea Wing glider...<br/>[Read
-  More &gt;....](/Chinese-Sea-Wing-Submarine-Drone.html "READ MORE")<br clear="left"/></br>'
-
+excerpt: |-
+  *Updated. Originally posted 2020-12-30*<br/><font size="6">**Chinese Sea Wing (Haiyi) ocean glider**</font><br clear="right"><a href="/Chinese-Sea-Wing-Submarine-Drone.html"><img align="left" src="/images/China-Sea-Wing-UUV-Glider-Drone-317.jpg"/></a>![Flag](/images/flag_China.jpg) A UUV found by Indonesian fishermen on December 20 was a Chinese made Sea Wing glider...<br/>[Read More &gt;....](/Chinese-Sea-Wing-Submarine-Drone.html "READ MORE")<br clear="left"/></br>
 ---
+
 *Updated. Originally posted 2020-12-30*  
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 

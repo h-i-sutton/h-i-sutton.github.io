@@ -2,16 +2,15 @@
 layout: post
 title: "Iran-IRGC-Navy-Get-340-New-Boats"
 date: "2021-02-08 10:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Iran Shows Off 340 Boats Including\
-  \ New 'Bladerunner'**</font><br clear=\"right\"/><a href=\"/Iran-IRGC-Navy-Get-340-New-Boats.html\"\
-  ><img align=\"left\" src=\"/images/Iran-IRGC-Boat-Show-317.jpg\"/></a>![Flag](/images/flag_iran.jpg)\
+excerpt: "<font size=\"6\">**Iran Shows Off 340 Boats Including New 'Bladerunner'**</font><br\
+  \ clear=\"right\"/><a href=\"/Iran-IRGC-Navy-Get-340-New-Boats.html\"><img align=\"\
+  left\" src=\"/images/Iran-IRGC-Boat-Show-317.jpg\"/></a>![Flag](/images/flag_iran.jpg)\
   \ Iran\u2019s IRGC-N (Islamic Revolutionary Guard Corps, Navy) has held a ceremony\
   \ for the induction of 340 new vessels. <br/><br/>Several of the vessels are particularly\
   \ interesting.<br/><br/>[Read More &gt;....](/Iran-IRGC-Navy-Get-340-New-Boats.html\
   \ \"READ MORE\")<br clear=\"left\"/>"
-
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![IRGC Takes Delivery Of 340 Boats](/images/Iran-IRGC-Boat-Show-Photo.jpg)  
 *Photo via Mehdi H ([Twitter](https://twitter.com/mhmiranusa/status/1358809464921616384))*  

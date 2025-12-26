@@ -2,18 +2,10 @@
 layout: post
 title: "Guide To North Korean Navy's Submarine Types"
 date: "2021-10-24 11:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/North-Korean-Submarines-Guide-2021.html"><img align="left"
-  src="/images/DPRK-Subs-317.jpg"/></a> ![Flag north korea](/images/flag_nork.jpg)
-  With approximately 70 boats, North Korea has possibly the largest submarine fleet
-  in the World. Rivalled, in terms of numbers, only by the U.S. Navy and China. And
-  while the submarines themselves may be small or antiquated, the men who man them
-  have a proven track record of loyalty, discipline, basic naval competence and aggressive
-  leadership....<br/>[Read More &gt;....](/North-Korean-Submarines-Guide-2021.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/North-Korean-Submarines-Guide-2021.html"><img align="left" src="/images/DPRK-Subs-317.jpg"/></a> ![Flag north korea](/images/flag_nork.jpg) With approximately 70 boats, North Korea has possibly the largest submarine fleet in the World. Rivalled, in terms of numbers, only by the U.S. Navy and China. And while the submarines themselves may be small or antiquated, the men who man them have a proven track record of loyalty, discipline, basic naval competence and aggressive leadership....<br/>[Read More &gt;....](/North-Korean-Submarines-Guide-2021.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Guide To North Korean Navy's Submarine Types![Flag North Korea](/images/flag_nork.jpg) With approximately 70 boats North Korea has possibly the largest submarines fleet in the world. It is rivalled only by the U.S. navy and PLAN (Chinese Navy). And while the submarines themselves may be small or antiquated, the men who man them have a proven track record. They exhibit loyalty, discipline, basic naval competence and aggressive leadership.   

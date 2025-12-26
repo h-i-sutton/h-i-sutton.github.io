@@ -2,16 +2,10 @@
 layout: post
 title: "Attack on Merchant Ship Off Ukraine Seen in Satellite Imagery"
 date: "2022-02-27 15:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Russian-Attacks-on-Merchant-Ship-Off-Ukraine.html"><img
-  align="left" src="/images/MILLENNIAL-SPIRIT-Fire-Ukraine-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  Millennial Spirit, a Moldavian flagged chemical tanker, was attacked on February
-  25. At  09:07 UTC te next day it was still on fire.<br/><br/>It is visible on Sentinel
-  2 satellite imagery. <br/><br/>[Read More &gt;....](/Russian-Attacks-on-Merchant-Ship-Off-Ukraine.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russian-Attacks-on-Merchant-Ship-Off-Ukraine.html"><img align="left" src="/images/MILLENNIAL-SPIRIT-Fire-Ukraine-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Millennial Spirit, a Moldavian flagged chemical tanker, was attacked on February 25. At  09:07 UTC te next day it was still on fire.<br/><br/>It is visible on Sentinel 2 satellite imagery. <br/><br/>[Read More &gt;....](/Russian-Attacks-on-Merchant-Ship-Off-Ukraine.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 [![](/images/MILLENNIAL-SPIRIT-Fire-Ukraine-Sat-940.jpg)](/images/MILLENNIAL-SPIRIT-Fire-Ukraine-Sat.jpg)  
 *Original visualization by Damien Symon, The Intel Lab. CLICK to enlarge*.  

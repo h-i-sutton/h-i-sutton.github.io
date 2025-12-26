@@ -2,14 +2,10 @@
 layout: post
 title: "SeaShadow DPV"
 date: "2016-07-07 03:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
-  ![Flag](/images/flag_USA.jpg) The SeaShadow Diver Propulsion Vehicle (DPV) was developed
-  specifically to meet US Navy EOD (Explosive Ordinance Disposal) requirements....
-  [Read More &gt;....](/SeaShadow DPV.html "READ MORE")<br/><br/><a href="/SeaShadow
-  DPV.html"><img src="/images/Seashadow_DPV_1.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |2-
+   ![Flag](/images/flag_USA.jpg) The SeaShadow Diver Propulsion Vehicle (DPV) was developed specifically to meet US Navy EOD (Explosive Ordinance Disposal) requirements.... [Read More &gt;....](/SeaShadow DPV.html "READ MORE")<br/><br/><a href="/SeaShadow DPV.html"><img src="/images/Seashadow_DPV_1.jpg"/></a><br clear="right"/>
 ---
+
 ![Seashadow DPV](/images/SeaShadowDPV.jpg)  
 *SeaShadow on display with Malaysian Special Forces. Credit* http://www.malaysiandefence.com/  
 

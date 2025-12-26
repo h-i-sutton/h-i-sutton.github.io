@@ -2,19 +2,9 @@
 layout: post
 title: "Deceptively Simple: Ukraine's Decoy Drone"
 date: "2024-10-24 23:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Ukraine-Decoy-UAV.html"><img align="left" src="/images/Ukraine-UAV-Decoy-317.jpg"/></a>
-  ![Flag Ukraine](/images/flag_ukraine.jpg) Russia frequently launches tens of Shahed
-  type drones into Ukraine, but rarely more than a handful get through. Most get shot
-  down thanks to Ukraine's innovative and effective air defenses against these low-end
-  threats. The attrition is baked into the raids, but when the Ukrainians reply in
-  kind, they want more of their drones to get through.<br/><br/>Ukraine has developed
-  a low-cost decoy drone for this purpose...<br/>[Read More &gt;....](/Ukraine-Decoy-UAV.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Ukraine-Decoy-UAV.html"><img align="left" src="/images/Ukraine-UAV-Decoy-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Russia frequently launches tens of Shahed type drones into Ukraine, but rarely more than a handful get through. Most get shot down thanks to Ukraine's innovative and effective air defenses against these low-end threats. The attrition is baked into the raids, but when the Ukrainians reply in kind, they want more of their drones to get through.<br/><br/>Ukraine has developed a low-cost decoy drone for this purpose...<br/>[Read More &gt;....](/Ukraine-Decoy-UAV.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 [![](/images/Ukraine-UAV-Decoy-cutaway-940.jpg)](/images/Ukraine-UAV-Decoy-cutaway.jpg)  
 *CLICK to Enlarge.*  

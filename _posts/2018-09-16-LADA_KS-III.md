@@ -2,18 +2,17 @@
 layout: post
 title: "LADA_KS-III"
 date: "2018-09-16 03:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Russia and South Korean both\
-  \ launch submarines**</font><br/><img src=\"/images/flag_russia.jpg\"/> <img src=\"\
-  /images/flag_RoK.jpg\"/> Russia\u2019s second Project 677 **LADA Class** submarine\
-  \ was launched on 20th September 2018 in Saint Petersburg on Baltic Coast. Four\
-  \ thousand miles away, South Korea launched the first KSS-III Class submarine a\
-  \ few days earlier. Both are examples of the latest generation of diesel-electric\
-  \ submarines but there are at different ends of the conventional submarine spectrum....\
-  \ <br/><a href=\"/LADA_KS-III.html\"><img src=\"/images/Ru_LADA-KS-III_900.jpg\"\
-  /></a><br/>[Read More &gt;....](/LADA_KS-III.html \"READ MORE\")"
-
+excerpt: "<font size=\"6\">**Russia and South Korean both launch submarines**</font><br/><img\
+  \ src=\"/images/flag_russia.jpg\"/> <img src=\"/images/flag_RoK.jpg\"/> Russia\u2019\
+  s second Project 677 **LADA Class** submarine was launched on 20th September 2018\
+  \ in Saint Petersburg on Baltic Coast. Four thousand miles away, South Korea launched\
+  \ the first KSS-III Class submarine a few days earlier. Both are examples of the\
+  \ latest generation of diesel-electric submarines but there are at different ends\
+  \ of the conventional submarine spectrum.... <br/><a href=\"/LADA_KS-III.html\"\
+  ><img src=\"/images/Ru_LADA-KS-III_900.jpg\"/></a><br/>[Read More &gt;....](/LADA_KS-III.html\
+  \ \"READ MORE\")"
 ---
+
 ##### Share: __
 
 **Russia and South Korean both launch submarines**  

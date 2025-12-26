@@ -2,16 +2,10 @@
 layout: post
 title: "Russia Deploys Unusual Decoys To Protect Strategic Bridge To Crimea"
 date: "2022-07-04 23:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Russian-Navy-Defends-Kerch-Bridge.html"><img align="left"
-  src="/images/Russia-Target-Barge-Kerch-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  The Kerch Bridge, built by Russia to join Crimea to mainland Russia, is a strategic
-  link. It is vital infrastructure for the war in other parts of Ukraine.<br/><br/>Now
-  Russia has deployed several countermeasures systems to protect it...<br/>[Read More
-  &gt;....](/Russian-Navy-Defends-Kerch-Bridge.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russian-Navy-Defends-Kerch-Bridge.html"><img align="left" src="/images/Russia-Target-Barge-Kerch-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The Kerch Bridge, built by Russia to join Crimea to mainland Russia, is a strategic link. It is vital infrastructure for the war in other parts of Ukraine.<br/><br/>Now Russia has deployed several countermeasures systems to protect it...<br/>[Read More &gt;....](/Russian-Navy-Defends-Kerch-Bridge.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 ![Russia Deploys Unusual Decoys To Protect Strategic Bridge To Crimea](/images/Russia-Target-Barge-Kerch.jpg)  
 

@@ -2,16 +2,10 @@
 layout: post
 title: "How-Large-Is-The-Typhoon-Class-Submarine"
 date: "2021-02-24 01:01:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**The Typhoon Class Submarine Is Big. But** *How* **Big?**</font><br clear="right"/><a
-  href="/How-Large-Is-The-Typhoon-Class-Submarine.html"><img align="left" src="/images/Submarine-Size-317.jpg"/></a>![Flag](/images/flag_russia.jpg)
-  The iconic Pr.971 ''Akula'' (NATO: TYPHOON Class) submarine is the largest ever
-  built. It''s overall dimensions are much more than any other submarine (although
-  a few Russian types are longer). They are easy to find..<br/><br/>But in case you
-  find it difficult to picture just how big that is I made this quick graphic.<br/>[Read
-  More &gt;....](/How-Large-Is-The-Typhoon-Class-Submarine.html "READ MORE")<br clear="left"/>'
-
+excerpt: |-
+  <font size="6">**The Typhoon Class Submarine Is Big. But** *How* **Big?**</font><br clear="right"/><a href="/How-Large-Is-The-Typhoon-Class-Submarine.html"><img align="left" src="/images/Submarine-Size-317.jpg"/></a>![Flag](/images/flag_russia.jpg) The iconic Pr.971 'Akula' (NATO: TYPHOON Class) submarine is the largest ever built. It's overall dimensions are much more than any other submarine (although a few Russian types are longer). They are easy to find..<br/><br/>But in case you find it difficult to picture just how big that is I made this quick graphic.<br/>[Read More &gt;....](/How-Large-Is-The-Typhoon-Class-Submarine.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)  
 
 [![](/images/Submarine-Size-Typhoon-940.jpg)](/images/Submarine-Size-Typhoon.jpg)*Click for high resolution. House plan from* [HousePlans.com](https://www.houseplans.com/plan/2300-square-feet-4-bedrooms-2-5-bathroom-traditional-house-plans-2-garage-17512)  

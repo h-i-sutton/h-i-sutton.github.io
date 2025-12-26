@@ -2,18 +2,16 @@
 layout: post
 title: "K-278_Komsomolets"
 date: "2019-07-21 05:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**Wreck of Russia's unique deep-diving\
-  \ attack submarine K-278 Komsomolets**</font><br/><img src=\"/images/flag_russia.jpg\"\
-  /> The Ocean\u2019s depths below 600 meters (1,970 ft) are almost exclusively the\
-  \ preserve of research submersibles and underwater engineering mini-subs. *Almost*.\
-  \ The Soviet Union did commission a single nuclear-armed titanium-hulled Pr.685\
-  \ attack submarine which could dive to 1,020 meters (3,350 feet), comparable to\
-  \ the US Navy\u2019s famous unarmed NR-1.... <br/><a href=\"/K-278_Komsomolets.html\"\
-  ><img src=\"/images/Ru_Komsomolets_wreck_guide900.jpg\"/></a><br/>[Read More &gt;....](/K-278_Komsomolets.html\
-  \ \"READ MORE\")"
-
+excerpt: "<font size=\"5\">**Wreck of Russia's unique deep-diving attack submarine K-278 Komsomolets**</font><br/><img\
+  \ src=\"/images/flag_russia.jpg\"/> The Ocean\u2019s depths below 600 meters (1,970\
+  \ ft) are almost exclusively the preserve of research submersibles and underwater\
+  \ engineering mini-subs. *Almost*. The Soviet Union did commission a single nuclear-armed\
+  \ titanium-hulled Pr.685 attack submarine which could dive to 1,020 meters (3,350\
+  \ feet), comparable to the US Navy\u2019s famous unarmed NR-1.... <br/><a href=\"\
+  /K-278_Komsomolets.html\"><img src=\"/images/Ru_Komsomolets_wreck_guide900.jpg\"\
+  /></a><br/>[Read More &gt;....](/K-278_Komsomolets.html \"READ MORE\")"
 ---
+
 ##### Share:
 
 **Wreck of Russia's unique deep-diving attack submarine K-278 Komsomolets**  

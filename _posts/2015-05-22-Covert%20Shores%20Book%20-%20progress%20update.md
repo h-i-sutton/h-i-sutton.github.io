@@ -2,13 +2,10 @@
 layout: post
 title: "Covert Shores Book - progress update"
 date: "2015-05-22 10:20:00"
-excerpt: The book is on time, currently undergoing final editing and proofing. I have yet to
-  receive security Disclosure confirmation from the UK Gov but I am not expecting
-  any surprises there. [Read More &gt;....](/Covert Shores Book - progress update.html
-  "READ MORE")<br/><a href="/Covert Shores Book - progress update.html"><img src="images/preview900.png"/></a>
-...
-
+excerpt: |-
+  The book is on time, currently undergoing final editing and proofing. I have yet to receive security Disclosure confirmation from the UK Gov but I am not expecting any surprises there. [Read More &gt;....](/Covert Shores Book - progress update.html "READ MORE")<br/><a href="/Covert Shores Book - progress update.html"><img src="images/preview900.png"/></a>
 ---
+
 ![Book](/images/Book_cover.jpg) **COVERT SHORES: The Story of Naval Special Forces Missions and Mini-Subs**   
 ___________I get requests asking for an alert when the book is released. The current plan is  **Spring 2016 - currently in proofing and Disclosure Vetting**.   
   

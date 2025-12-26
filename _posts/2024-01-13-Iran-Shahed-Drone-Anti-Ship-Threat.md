@@ -2,9 +2,8 @@
 layout: post
 title: "Drone Warfare's New Angle: Iran's Shaheds Become Low-Cost Anti-Ship Missiles"
 date: "2024-01-13 17:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Iran-Shahed-Drone-Anti-Ship-Threat.html\"\
-  ><img align=\"left\" src=\"/images/Iran-Shahed-136-317.jpg\"/></a> ![Flag Iran](/images/flag_iran.jpg)\
+excerpt: "<br clear=\"right\"/><a href=\"/Iran-Shahed-Drone-Anti-Ship-Threat.html\"><img align=\"\
+  left\" src=\"/images/Iran-Shahed-136-317.jpg\"/></a> ![Flag Iran](/images/flag_iran.jpg)\
   \ Iran\u2019s IRGC (Islamic Revolutionary Guard Corps) are known for their outlandish\
   \ claims and propaganda equipment parades. Despite the hype much of their equipment\
   \ and tactics should be taken seriously. Especially in hybrid warfare scenarios\
@@ -12,9 +11,7 @@ excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img ali
   \ emerging threat is attack drones which can hit moving ships...<br/>[Read More\
   \ &gt;....](/Iran-Shahed-Drone-Anti-Ship-Threat.html \"READ MORE\")<br clear=\"\
   left\"/>"
-
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Drone Warfare's New Angle: Iran's Shaheds Become Low-Cost Anti-Ship Missiles![Flag Iran](/images/flag_iran.jpg) Iran’s IRGC (Islamic Revolutionary Guard Corps) are known for their outlandish claims and propaganda equipment parades. Despite the hype much of their equipment and tactics should be taken seriously. Especially in hybrid warfare scenarios which are currently playing out in the Red Sea and Indian Ocean.   
 

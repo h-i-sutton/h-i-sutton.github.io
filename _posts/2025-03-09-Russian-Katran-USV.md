@@ -2,18 +2,9 @@
 layout: post
 title: "Russia Reveals 'Katran' Trimaran USV"
 date: "2025-03-09 18:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Russian-Katran-USV.html"><img
-  align="left" src="/images/Russia-USV-Katran_317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  Russia's Center for Unmanned Systems and Technologies, a tech accelerator, have
-  revealed a new trimaran aluminum surface drone (USV). The USV has been labelled
-  'Katran', the Russian name for the Spiny Dogfish, a small species of shark....<br/>[Read
-  More &gt;....](/Russian-Katran-USV.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russian-Katran-USV.html"><img align="left" src="/images/Russia-USV-Katran_317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Russia's Center for Unmanned Systems and Technologies, a tech accelerator, have revealed a new trimaran aluminum surface drone (USV). The USV has been labelled 'Katran', the Russian name for the Spiny Dogfish, a small species of shark....<br/>[Read More &gt;....](/Russian-Katran-USV.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 #Russia Reveals 'Katran' Trimaran USV![Flag Russia](/images/flag_russia.jpg) Russia's Center for Unmanned Systems and Technologies, a tech accelerator, have revealed a new trimaran aluminum surface drone (USV). The USV has been labelled 'Katran', the Russian name for the Spiny Dogfish, a small species of shark. Confusingly, [a Ukrainian USV is also called Katran](https://vpk-mac.com/en/mac-roboticx/), and the two should not be mixed up.  
 

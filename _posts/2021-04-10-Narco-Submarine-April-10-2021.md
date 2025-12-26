@@ -2,18 +2,17 @@
 layout: post
 title: "Another Narco-Submarine Found In Colombian Jungle"
 date: "2021-04-10 20:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**Another Narco-Submarine Found\
-  \ In Colombian Jungle**</font><br clear=\"right\"/><a href=\"/Narco-Submarine-April-10-2021.html\"\
-  ><img align=\"left\" src=\"/images/Narco-Submarine-Colombian-Jungle-April2021-317.jpg\"\
-  /></a> This almost complete narcosub was found at a complex for the production of\
-  \ cocaine. The make-shift facility is believed to relate to the \u201CWestern Block\
-  \ Alfonso Cano\u201D (*Bloque Occidental Alfonso Cano*).<br/><br/>Based on the limited\
-  \ photographs available the vessel is provisionally identified as a LPV-OM-VSV-8.<br/>\
-  \ [Read More &gt;....](/Narco-Submarine-April-10-2021.html \"READ MORE\")<br clear=\"\
+excerpt: "<font size=\"5\">**Another Narco-Submarine Found In Colombian Jungle**</font><br\
+  \ clear=\"right\"/><a href=\"/Narco-Submarine-April-10-2021.html\"><img align=\"\
+  left\" src=\"/images/Narco-Submarine-Colombian-Jungle-April2021-317.jpg\"/></a>\
+  \ This almost complete narcosub was found at a complex for the production of cocaine.\
+  \ The make-shift facility is believed to relate to the \u201CWestern Block Alfonso\
+  \ Cano\u201D (*Bloque Occidental Alfonso Cano*).<br/><br/>Based on the limited photographs\
+  \ available the vessel is provisionally identified as a LPV-OM-VSV-8.<br/> [Read\
+  \ More &gt;....](/Narco-Submarine-April-10-2021.html \"READ MORE\")<br clear=\"\
   left\"/>"
-
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 #Another Narco-Submarine Found In Colombian JungleThis low-profile vessel (LPV) was found Bocas de Guandipa village, in Sanquianga National Natural Park, Mosquera, Nariño. The almost complete narcosub was found at a complex for the production of cocaine. The make-shift facility is believed to relate to the residual Organized Armed Group “Western Block Alfonso Cano” (*Bloque Occidental Alfonso Cano*). Part of FARC, the group was demobilized but residual elements remain, involved in drug trafficking.   

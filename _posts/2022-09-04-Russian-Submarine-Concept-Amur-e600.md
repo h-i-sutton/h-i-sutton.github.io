@@ -2,16 +2,10 @@
 layout: post
 title: "Russian Submarine Concept: Amur e600"
 date: "2022-09-04 09:01:00"
-excerpt: '**UPDATED Sept 4**<br/><a href="https://twitter.com/covertshores" target="blank"><img
-  align="right" src="/images/twitter.jpg"/></a><br clear="right"><a href="/Russian-Submarine-Concept-Amur-e600.html"><img
-  align="left" src="/images/Russia-Submarine-Concept-Amur-e600-317.jpg"/></a> ![Flag
-  Russia](/images/flag_russia.jpg) An unusual and interesting design, the **e600**
-  is the latest submarine from Russian design bureau Rubin. Being a single-hull design
-  it fits within the ''Amur'' family.<br/><br/>The key to an all-electric propulsion
-  is lithium based battery technologies...<br/>[Read More &gt;....](/Russian-Submarine-Concept-Amur-e600.html
-  "READ MORE")<br clear="left"/></br>'
-
+excerpt: |-
+  **UPDATED Sept 4**<br/><br clear="right"><a href="/Russian-Submarine-Concept-Amur-e600.html"><img align="left" src="/images/Russia-Submarine-Concept-Amur-e600-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) An unusual and interesting design, the **e600** is the latest submarine from Russian design bureau Rubin. Being a single-hull design it fits within the 'Amur' family.<br/><br/>The key to an all-electric propulsion is lithium based battery technologies...<br/>[Read More &gt;....](/Russian-Submarine-Concept-Amur-e600.html "READ MORE")<br clear="left"/></br>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Russian Submarine Concept: Amur e600![Flag Russia](/images/flag_russia.jpg) An unusual and interesting design, the **e600** is the latest submarine from Russian design bureau Rubin. Being a single-hull design it fits within the 'Amur' family. The distinctive features however are that it is all-electric (not diesel electric). Oh, and it has no sail.   

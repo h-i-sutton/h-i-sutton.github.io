@@ -2,15 +2,10 @@
 layout: post
 title: "Iranian-Forward-Base-Ships"
 date: "2020-11-29 03:00:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="5">**New OSINT: Iran Launches Another Forward Base Ship, I.R.I.N.S Makran**</font><br
-  clear="right"/><a href="/Iranian-Forward-Base-Ships.html"><img align="left" src="/images/Iran-Navy-IRINS-Markan-317.jpg"/></a><br/>Less
-  than two weeks after the IRGC-N revealed their first overt Forward Base ship  Shahid
-  Roudaki (the Saviz is undeclared), the Iranian Navy appears to be in the process
-  of launching its own.<br/><br/>And it is much larger than the IRGC ship.<br/><br/>[Read
-  More &gt;....](/Iranian-Forward-Base-Ships.html "READ MORE")<br clear="left"/>'
-
+excerpt: |-
+  <font size="5">**New OSINT: Iran Launches Another Forward Base Ship, I.R.I.N.S Makran**</font><br clear="right"/><a href="/Iranian-Forward-Base-Ships.html"><img align="left" src="/images/Iran-Navy-IRINS-Markan-317.jpg"/></a><br/>Less than two weeks after the IRGC-N revealed their first overt Forward Base ship  Shahid Roudaki (the Saviz is undeclared), the Iranian Navy appears to be in the process of launching its own.<br/><br/>And it is much larger than the IRGC ship.<br/><br/>[Read More &gt;....](/Iranian-Forward-Base-Ships.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 [![](/images/Iran-Navy-IRINS-Markan-2020-11-29-940.jpg)](/images/Iran-Navy-IRINS-Markan-2020-11-29.jpg)  
 *CLICK for HIGH-RESOLUTION image.*   

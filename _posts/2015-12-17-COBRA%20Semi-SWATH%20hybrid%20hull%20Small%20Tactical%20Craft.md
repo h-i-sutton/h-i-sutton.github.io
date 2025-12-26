@@ -9,8 +9,8 @@ excerpt: "<img src=\"/images/flag_USA.jpg\"/> Lockheed Martin\u2019s COBRA Small
   \ More &gt;....](/COBRA Semi-SWATH hybrid hull Small Tactical Craft.html \"READ\
   \ MORE\")<br/><a href=\"/COBRA Semi-SWATH hybrid hull Small Tactical Craft.html\"\
   ><img src=\"/images/USN_LockheedMartin_Cobra5.jpg\"/></a>"
-
 ---
+
 ![Flag](/images/flag_USA.jpg) Lockheed Martin’s COBRA (Common Off-Board Reconfigurable Asset) Small tactical Craft (STC) is a tactical transport/utility craft designed with extremely compact dimensions in order to be compatible with the Littoral Combat Ship (LCS). The square shape and small size also suit air transportability and it would fit within the relatively small C-130. The lightweight aluminum catamaran hull is actually semi-SWATH (Small-Waterplane-Area Twin Hull) with wave-piercing hulls below the waterline. The hybrid hull form is intended to combine the sea-keeping of a SWATH with the high speed of a catamaran. Two waterjets are mounted in the stern producing impressive performance.   
 ![Lockheed Martin Cobra Semi-SWATH](/images/USN_LockheedMartin_Cobra3.jpg)  
 The prototype was developed as a private project self-funded by LMS’ research and development budget.   

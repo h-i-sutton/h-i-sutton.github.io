@@ -2,21 +2,19 @@
 layout: post
 title: "Ru_Olenya_Guba"
 date: "2019-08-23 00:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a> <font size=\"5\">*Updates:*<br/>**\u25CF Beluga\
-  \ whale pens moved**<br/>**\u25CF BS-64 returned to Olenya Guba less than a week\
-  \ after Losharik Accident**</font><br/>![Flag](/images/flag_russia.jpg) Fresh satellite\
-  \ imagery recently made available on Google Earth confirms that Russian Navy\u2019\
-  s Beluga Whale pens have been moved to a stable position near the entrance of the\
-  \ **Olenya Guba** (\u041E\u043B\u0435\u043D\u044C\u044F \u0413\u0443\u0431\u0430\
-  ) secret submarine base near the Kola Peninsula. These pens were most likely involved\
-  \ in the whale which turned up in Norway in May. Additionally they confirm that\
-  \ the special mission host submarine BS-64 Podmoskovye returned to its home base\
-  \ of Olenya Guba very shortly after the Losharik submarine accident... <br/><a href=\"\
-  /Ru_Olenya_Guba.html\"><img src=\"/images/Ru_OlenyaGuba_900.jpg\"/></a><br/>[Read\
-  \ More &gt;....](/Ru_Olenya_Guba.html \"READ MORE\")"
-
+excerpt: " <font size=\"5\">*Updates:*<br/>**\u25CF Beluga whale pens moved**<br/>**\u25CF\
+  \ BS-64 returned to Olenya Guba less than a week after Losharik Accident**</font><br/>![Flag](/images/flag_russia.jpg)\
+  \ Fresh satellite imagery recently made available on Google Earth confirms that\
+  \ Russian Navy\u2019s Beluga Whale pens have been moved to a stable position near\
+  \ the entrance of the **Olenya Guba** (\u041E\u043B\u0435\u043D\u044C\u044F \u0413\
+  \u0443\u0431\u0430) secret submarine base near the Kola Peninsula. These pens were\
+  \ most likely involved in the whale which turned up in Norway in May. Additionally\
+  \ they confirm that the special mission host submarine BS-64 Podmoskovye returned\
+  \ to its home base of Olenya Guba very shortly after the Losharik submarine accident...\
+  \ <br/><a href=\"/Ru_Olenya_Guba.html\"><img src=\"/images/Ru_OlenyaGuba_900.jpg\"\
+  /></a><br/>[Read More &gt;....](/Ru_Olenya_Guba.html \"READ MORE\")"
 ---
+
 ![Olenya Guba](/images/Ru_OlenyaGuba_900.jpg)   
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Updates*  
 **● Beluga whale pens moved**  

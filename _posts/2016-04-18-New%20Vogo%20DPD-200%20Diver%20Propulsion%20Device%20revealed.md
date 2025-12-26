@@ -2,21 +2,10 @@
 layout: post
 title: "New Vogo DPD-200 Diver Propulsion Device revealed"
 date: "2016-04-18 01:00:00"
-excerpt: <a href="/New Vogo DPD-200 Diver Propulsion Device revealed.html"><img align="right"
-  src="/images/VogoDPD_cover350.jpg"/></a>  ![Flag](/images/flag_RoK.jpg) The new
-  Vogo DPD-200 two-man diver propulsion device has been revealed at the 2016 DSA (Defense
-  Services Asia) defense exhibition.  <br/><br/>Vogo have an established product line
-  of underwater special forces craft including three, eight and ten-man SDVs (Swimmer
-  Delivery Vehicles). The DPD-200 is the first small transport in the line-up and
-  is designed to transport men and personal equipment over short distances, such as
-  between a midget submarine or larger SDV and the shore.  <br/><br/>The DPD-200 fits
-  neatly into the latest trends in Diver Propulsion vehicles (DPVs) and competes against
-  the broadly equivalent *Stidd DPD* and *JFD TorpedoSEAL*. <br/> [Read More &gt;....](/New
-  Vogo DPD-200 Diver Propulsion Device revealed.html "READ MORE") <br clear="right"><a
-  href="/New Vogo DPD-200 Diver Propulsion Device revealed.html"><img src="/images/VogoDPD900.png"/></a></br>
-...
-
+excerpt: |-
+  <a href="/New Vogo DPD-200 Diver Propulsion Device revealed.html"><img align="right" src="/images/VogoDPD_cover350.jpg"/></a>  ![Flag](/images/flag_RoK.jpg) The new Vogo DPD-200 two-man diver propulsion device has been revealed at the 2016 DSA (Defense Services Asia) defense exhibition.  <br/><br/>Vogo have an established product line of underwater special forces craft including three, eight and ten-man SDVs (Swimmer Delivery Vehicles). The DPD-200 is the first small transport in the line-up and is designed to transport men and personal equipment over short distances, such as between a midget submarine or larger SDV and the shore.  <br/><br/>The DPD-200 fits neatly into the latest trends in Diver Propulsion vehicles (DPVs) and competes against the broadly equivalent *Stidd DPD* and *JFD TorpedoSEAL*. <br/> [Read More &gt;....](/New Vogo DPD-200 Diver Propulsion Device revealed.html "READ MORE") <br clear="right"><a href="/New Vogo DPD-200 Diver Propulsion Device revealed.html"><img src="/images/VogoDPD900.png"/></a></br>
 ---
+
 ![Vogo DPD 200](/images/VogoDPD_cover.jpg)  
 ![Flag](/images/flag_RoK.jpg) The new Vogo DPD-200 two-man diver propulsion device has been revealed at the 2016 DSA (Defense Services Asia) defense exhibition. Vogo have an established product line of underwater special forces craft including three, eight and ten-man SDVs (Swimmer Delivery Vehicles). Vogo have an established product line of underwater special forces craft including three, eight and ten-man SDVs (Swimmer Delivery Vehicles). The DPD-200 is the first small transport in the line-up and is designed to transport men and personal equipment over short distances, such as between a midget submarine or larger SDV and the shore.  
 

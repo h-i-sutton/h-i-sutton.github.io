@@ -2,19 +2,9 @@
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
 date: "2025-12-20 23:00:00"
-excerpt: '**Regularly UPDATED**<br/><a href="https://bsky.app/profile/covertshores.bsky.social"
-  target="blank"><img align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a
-  href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a>
-  ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg)
-  Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most
-  relevant events in the Black Sea. This should provide a useful overview...<br/>[Read
-  More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/></br>'
-
+excerpt: |-
+  **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/></br>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")  
-**Regularly UPDATED**  
-#Timeline of Ukraine Invasion: War In The Black Sea![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This will not be exhaustive, but should provide a useful overview. Hopefully this will be of benefit to those interested in studying the war at a later date.  
 
 If I have missed anything significant please let me know. The usual caveats apply  
   

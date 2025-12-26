@@ -2,16 +2,10 @@
 layout: post
 title: "China_Sailless_Submarine"
 date: "2019-10-08 03:00:00"
-excerpt: Updated. Originally posted March 29 2019<br/><a href="https://twitter.com/covertshores"
-  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="6">**New
-  Satellite images of Chinese Sailless submarine**</font><br/><img src="/images/flag_China.jpg"/>
-  A video capture posted on Chinese social media earlier today appears to show an
-  unknown Chinese submarine design first reported in October 2018....<br/><a href="/China_Sailless_Submarine.html"><img
-  src="/images/CN_Sailless900.jpg"/></a><br/>[Read More &gt;....](/China_Sailless_Submarine.html
-  "READ MORE")
-...
-
+excerpt: |-
+  Updated. Originally posted March 29 2019<br/><font size="6">**New Satellite images of Chinese Sailless submarine**</font><br/><img src="/images/flag_China.jpg"/> A video capture posted on Chinese social media earlier today appears to show an unknown Chinese submarine design first reported in October 2018....<br/><a href="/China_Sailless_Submarine.html"><img src="/images/CN_Sailless900.jpg"/></a><br/>[Read More &gt;....](/China_Sailless_Submarine.html "READ MORE")
 ---
+
 Updated. Originally posted March 29 2019  
 Share:[![](/images/mailto.jpg)](mailto:?subject=Shared%20from%20Covert%20Shores&body=http%3A%2F%2Fwww.hisutton.com%2FChina_Sailless_Submarine.html)_[![](/images/shareFacebook.jpg)](https://www.facebook.com/sharer/sharer.php?u=#url)_[![](/images/shareTwitter.jpg)](https://twitter.com/intent/tweet?text=Covert%20Shores%20-%20China_Sailless_Submarine%20@CovertShores&url=http%3A%2F%2Fwww.hisutton.com%2FChina_Sailless_Submarine.html&hashtags=Submarines)  
 

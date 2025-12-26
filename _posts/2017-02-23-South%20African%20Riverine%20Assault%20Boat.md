@@ -2,17 +2,10 @@
 layout: post
 title: "South African Riverine Assault Boat"
 date: "2017-02-23 03:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>*Originally
-  posted 5th September 2016*<br/>![Flag](/images/flag_RSA.jpg) Images have emerged
-  of the new South African riverine assault boat in service. Two boats were acquired
-  under Project Carol, joining the SA Navy MRS Operational Boat Division... [Read
-  More &gt;....](/South African Riverine Assault Boat.html "READ MORE")<br/><a href="/South
-  African Riverine Assault Boat.html"><img src="/images/RSA_Riv900.jpg"/></a><br/><a
-  href="/South African Riverine Assault Boat.html"><img src="/images/SouthAfrica_Riverine900.jpg"/></a><br
-  clear="right"/>
-...
-
+excerpt: |-
+  *Originally posted 5th September 2016*<br/>![Flag](/images/flag_RSA.jpg) Images have emerged of the new South African riverine assault boat in service. Two boats were acquired under Project Carol, joining the SA Navy MRS Operational Boat Division... [Read More &gt;....](/South African Riverine Assault Boat.html "READ MORE")<br/><a href="/South African Riverine Assault Boat.html"><img src="/images/RSA_Riv900.jpg"/></a><br/><a href="/South African Riverine Assault Boat.html"><img src="/images/SouthAfrica_Riverine900.jpg"/></a><br clear="right"/>
 ---
+
 ![Flag](/images/flag_RSA.jpg) Images have emerged of the new South African riverine assault boat in service. The craft are built by M&G Durban boatyard to a design from [KND naval](http://www.navaldesign.co.za/) design. Two boats were acquired under Project Carol, joining the SA Navy MRS Operational Boat Division.   
 ![South African Rivrine Assault Boat](/images/SouthAfrica_Riverine1.jpg)   
 *Photo via* [Darren Oliver, Twitter](https://twitter.com/djolivier)  

@@ -2,16 +2,10 @@
 layout: post
 title: "Gone: Famous Chinese Shipyard Disappears"
 date: "2022-09-09 23:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/China-Wuhan-Shipyard-Cleared.html"><img align="left" src="/images/China-Wuhan-317.jpg"/></a>
-  ![Flag China](/images/flag_China.jpg) For many years Chinese warships and submarines
-  have been built at a shipyard in downtown Wuhan. The yard, on the Yangtze River
-  defined the area. But as the urban environment developed, it seemed increasingly
-  out of place.<br/><br/>There is now clear evidence that the yard has closed...<br/>[Read
-  More &gt;....](/China-Wuhan-Shipyard-Cleared.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/China-Wuhan-Shipyard-Cleared.html"><img align="left" src="/images/China-Wuhan-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) For many years Chinese warships and submarines have been built at a shipyard in downtown Wuhan. The yard, on the Yangtze River defined the area. But as the urban environment developed, it seemed increasingly out of place.<br/><br/>There is now clear evidence that the yard has closed...<br/>[Read More &gt;....](/China-Wuhan-Shipyard-Cleared.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 ![Wuhan Shipyard](/images/China-Wuhan-Before-After.jpg)  

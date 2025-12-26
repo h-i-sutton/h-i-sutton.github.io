@@ -2,14 +2,10 @@
 layout: post
 title: "Houthi_explosive_boat_found"
 date: "2019-07-13 03:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**"Blow fish" low-profile explosive boat found in Red Sea**</font><br/>A
-  second low-profile unmanned explosive boat has been found in Yemen...... <br/><a
-  href="/Houthi_explosive_boat_found.html"><img src="/images/Houthi_BlowFish_900.jpg"/></a><br/>[Read
-  More &gt;....](/Houthi_explosive_boat_found.html "READ MORE")<br/><br clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**"Blow fish" low-profile explosive boat found in Red Sea**</font><br/>A second low-profile unmanned explosive boat has been found in Yemen...... <br/><a href="/Houthi_explosive_boat_found.html"><img src="/images/Houthi_BlowFish_900.jpg"/></a><br/>[Read More &gt;....](/Houthi_explosive_boat_found.html "READ MORE")<br/><br clear="right"/>
 ---
+
 ##### Share:
 
 **Houthi "Blow fish" low-profile explosive boat found in Red Sea SLOC**  

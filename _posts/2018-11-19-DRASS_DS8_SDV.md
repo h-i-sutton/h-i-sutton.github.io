@@ -2,14 +2,10 @@
 layout: post
 title: "DRASS_DS8_SDV"
 date: "2018-11-19 11:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="5">**New 8-person Swimmer Delivery Vehicle revealed**</font><br/>![Flag](/images/flag_italy.jpg)
-  Italian SDV and Special Forces midget submarine builder DRASS revealed their 8-man
-  design at EuroNaval 2018....   [Read More &gt;....](/DRASS_DS8_SDV.html "READ MORE")<br/><a
-  href="/DRASS_DS8_SDV.html"><img src="/images/It_Drass_DS8_900.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |-
+  <font size="5">**New 8-person Swimmer Delivery Vehicle revealed**</font><br/>![Flag](/images/flag_italy.jpg) Italian SDV and Special Forces midget submarine builder DRASS revealed their 8-man design at EuroNaval 2018....   [Read More &gt;....](/DRASS_DS8_SDV.html "READ MORE")<br/><a href="/DRASS_DS8_SDV.html"><img src="/images/It_Drass_DS8_900.jpg"/></a><br clear="right"/>
 ---
+
 ##### Share:
 
 *Many thans to unnamed others, without whom this article would not have been possible.*  

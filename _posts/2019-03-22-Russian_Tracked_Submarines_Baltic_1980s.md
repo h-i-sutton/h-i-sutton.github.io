@@ -2,15 +2,10 @@
 layout: post
 title: "Russian_Tracked_Submarines_Baltic_1980s"
 date: "2019-03-22 11:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Soviet tracked submersibles in Baltic, 1980s**</font><br/><img src="/images/flag_russia.jpg"/>
-  <img src="/images/flag_sweden.jpg"/> A spate of submarine incursions in the 1980s
-  led to the suspicion that the Soviet Navy was operating tracked submersibles in
-  Swedish waters.... <br/><a href="/Russian_Tracked_Submarines_Baltic_1980s.html"><img
-  src="/images/Ru_tracked_header900.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Soviet tracked submersibles in Baltic, 1980s**</font><br/><img src="/images/flag_russia.jpg"/> <img src="/images/flag_sweden.jpg"/> A spate of submarine incursions in the 1980s led to the suspicion that the Soviet Navy was operating tracked submersibles in Swedish waters.... <br/><a href="/Russian_Tracked_Submarines_Baltic_1980s.html"><img src="/images/Ru_tracked_header900.jpg"/></a><br clear="right"/>
 ---
+
 ![Soviet Russia tracked submarines in Baltic during Cold War - Covert Shores](/images/Swe_Tracked1.jpg)  
 *Swedish Naval Intelligence sketch of suspected Soviet tracked midget submarine, 1980s*  
 

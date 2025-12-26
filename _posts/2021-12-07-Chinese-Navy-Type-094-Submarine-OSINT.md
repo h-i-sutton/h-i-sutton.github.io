@@ -2,17 +2,10 @@
 layout: post
 title: "UPDATED: Chinese Navy Type-094 Jin SSBN in Taiwan Strait"
 date: "2021-12-07 13:00:00"
-excerpt: '*Updated. Originally posted Nov 29, 2021*<br/><a href="https://twitter.com/covertshores"
-  target="blank"><img align="right" src="/images/twitter.jpg"/></a><br clear="right"><a
-  href="/Chinese-Navy-Type-094-Submarine-OSINT.html"><img align="left" src="/images/China-Type-094-submarine-OSINT-317.jpg"/></a>
-  ![Flag China](/images/flag_China.jpg) A Chinese Navy submarine, provisionally identified
-  as a Type-094 Jin Class SSBN, is transiting the Taiwan Strait. The submarine is
-  transiting north from the submarine base at Yulin in the South China Sea. It is
-  surfaced and escorted by another vessel. <br/><br/>Update: A submarine, likely the
-  same one, is now in Huludao in Northern China.<br/>[Read More &gt;....](/Chinese-Navy-Type-094-Submarine-OSINT.html
-  "READ MORE")<br clear="left"/></br>'
-
+excerpt: |-
+  *Updated. Originally posted Nov 29, 2021*<br/><br clear="right"><a href="/Chinese-Navy-Type-094-Submarine-OSINT.html"><img align="left" src="/images/China-Type-094-submarine-OSINT-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) A Chinese Navy submarine, provisionally identified as a Type-094 Jin Class SSBN, is transiting the Taiwan Strait. The submarine is transiting north from the submarine base at Yulin in the South China Sea. It is surfaced and escorted by another vessel. <br/><br/>Update: A submarine, likely the same one, is now in Huludao in Northern China.<br/>[Read More &gt;....](/Chinese-Navy-Type-094-Submarine-OSINT.html "READ MORE")<br clear="left"/></br>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 [![](/images/China-Type-094-submarine-OSINT-202111-940.jpg)](/images/China-Type-094-submarine-OSINT-202111.jpg)  
 *CLICK to enlarge*.  

@@ -10,8 +10,8 @@ excerpt: "<a href=\"Covert Shores Book out now.html\"><img align=\"left\" src=\"
   \ Boat Service, Spetsnaz, COMSUBIN, Shayetet-13, Recce Commandos, Commando Hubert,\
   \ Clearance Divers, Kampfschwimmers and many more.<br/> [Read More &gt;....](/Covert\
   \ Shores Book out now.html \"READ MORE\")<br clear=\"left\"/>"
-
 ---
+
 COVERT SHORES: The Story of Naval Special Forces Missions and Minisubs
 ======================================================================
 

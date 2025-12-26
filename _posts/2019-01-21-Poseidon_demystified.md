@@ -2,18 +2,10 @@
 layout: post
 title: "Poseidon_demystified"
 date: "2019-01-21 11:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="5">**Poseidon Intercontinental Nuclear Autonomous Torpedo demystified**</font><br/><img
-  src="/images/flag_russia.jpg"/> Poseidon represents a completely new category of
-  underwater weapons that will significantly alter the mission priorities of the US
-  and British nuclear submarine forces. Although there are snippets of reliable source
-  material on the weapon, it has an air of super-weapon mystery similar to Soviet
-  weapon developments of the Cold War. This article seeks to step back from the mess
-  and provide a reasoned understanding of what Poseidon is and is not... <br/>[Read
-  More &gt;....](/Poseidon_demystified.html "READ MORE")<br clear="right"/>
-...
-
+excerpt: |-
+  <font size="5">**Poseidon Intercontinental Nuclear Autonomous Torpedo demystified**</font><br/><img src="/images/flag_russia.jpg"/> Poseidon represents a completely new category of underwater weapons that will significantly alter the mission priorities of the US and British nuclear submarine forces. Although there are snippets of reliable source material on the weapon, it has an air of super-weapon mystery similar to Soviet weapon developments of the Cold War. This article seeks to step back from the mess and provide a reasoned understanding of what Poseidon is and is not... <br/>[Read More &gt;....](/Poseidon_demystified.html "READ MORE")<br clear="right"/>
 ---
+
 **Poseidon Intercontinental Nuclear Autonomous Torpedo demystified**  
 **Poseidon** (Посейдон) / '**Status-6**' (Статус-6 / '**Skif**' (Скиф) seabed launched variant / NATO: **KANYON**  
 

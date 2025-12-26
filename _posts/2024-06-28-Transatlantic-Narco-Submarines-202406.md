@@ -2,18 +2,9 @@
 layout: post
 title: "Massive Increase In Transatlantic Narco Submarines"
 date: "2024-06-28 09:30:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Transatlantic-Narco-Submarines-202406.html"><img align="left"
-  src="/images/Narco-Submarine-202406-317.jpg"/></a> Narco-submarines are transporting
-  tons of cocaine across the Atlantic from South America to Europe. There have been
-  indications of this going back ten years, but evidence was rare.<br/><br/>Now four
-  more incidents, over a few months, hints at the scale and persistence of this unseen
-  and under-discussed phenomenon...<br/>[Read More &gt;....](/Transatlantic-Narco-Submarines-202406.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Transatlantic-Narco-Submarines-202406.html"><img align="left" src="/images/Narco-Submarine-202406-317.jpg"/></a> Narco-submarines are transporting tons of cocaine across the Atlantic from South America to Europe. There have been indications of this going back ten years, but evidence was rare.<br/><br/>Now four more incidents, over a few months, hints at the scale and persistence of this unseen and under-discussed phenomenon...<br/>[Read More &gt;....](/Transatlantic-Narco-Submarines-202406.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 ![Narco submarine stopped](/images/Narco-Submarine-Guyana-USNavy-20240321-1.jpg)  
 *U.S. Coast Guard board a narco-submarine off Guyana, March 21 2024*  

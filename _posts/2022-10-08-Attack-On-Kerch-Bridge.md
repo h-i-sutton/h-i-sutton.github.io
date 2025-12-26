@@ -2,16 +2,10 @@
 layout: post
 title: "Attack On Kerch Bridge: Initial Geolocation Of Damage"
 date: "2022-10-08 10:01:00"
-excerpt: '**UPDATED**<a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"/><a href="/Attack-On-Kerch-Bridge.html"><img
-  align="left" src="/images/Russia-Ukraine-Kerch-Bridge-Attack-317.jpg"/></a> ![Flag
-  Russia](/images/flag_russia.jpg) ![Flag](/images/flag_ukraine.jpg) This will undoubtedly
-  go down in history as a textbook conventional strategic strike on vital infrastructure.
-  Yet we do not yet know how it was achieved.<br/><br/>Ahead of fresh satellite imagery,
-  I have made a first pass at geolocating the damage...<br/>[Read More &gt;....](/Attack-On-Kerch-Bridge.html
-  "READ MORE")<br clear="left"/>'
-
+excerpt: |-
+  **UPDATED**<br clear="right"/><a href="/Attack-On-Kerch-Bridge.html"><img align="left" src="/images/Russia-Ukraine-Kerch-Bridge-Attack-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag](/images/flag_ukraine.jpg) This will undoubtedly go down in history as a textbook conventional strategic strike on vital infrastructure. Yet we do not yet know how it was achieved.<br/><br/>Ahead of fresh satellite imagery, I have made a first pass at geolocating the damage...<br/>[Read More &gt;....](/Attack-On-Kerch-Bridge.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 [![](/images/Russia-Ukraine-Kerch-Bridge-Attack-940.jpg)](/images/Russia-Ukraine-Kerch-Bridge-Attack.jpg)  

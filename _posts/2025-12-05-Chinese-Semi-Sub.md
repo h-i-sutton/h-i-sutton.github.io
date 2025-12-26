@@ -2,17 +2,9 @@
 layout: post
 title: "China’s Firefox Of The Seas: New Trimaran Semi-Sub"
 date: "2025-12-05 15:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Chinese-Semi-Sub.html"><img
-  align="left" src="/images/China-Semi-Sub-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
-  The vessel is clearly designed for submerged or semi-submerged operations yet is
-  equally clearly intended to principally sail on the surface....<br/>[Read More &gt;....](/Chinese-Semi-Sub.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Chinese-Semi-Sub.html"><img align="left" src="/images/China-Semi-Sub-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) The vessel is clearly designed for submerged or semi-submerged operations yet is equally clearly intended to principally sail on the surface....<br/>[Read More &gt;....](/Chinese-Semi-Sub.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 [![](/images/China-Semi-Sub-940.jpg)](/images/China-Semi-Sub.jpg)  
 *CLICK to Enlarge.*  

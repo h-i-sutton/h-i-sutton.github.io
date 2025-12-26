@@ -2,15 +2,10 @@
 layout: post
 title: "Royal_Navy_Submarine_SSN-R"
 date: "2018-12-29 13:01:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br/><font
-  size="6">**Astute''s successor: SSN(R)**</font><br/><img src="/images/flag_UK.jpg"/>
-  Royal Navy planners are already looking to the next class of British attack submarines.
-  Although there is little-to-nothing on this subject on the internet, it is a good
-  time to start an article... <br/><a href="/Royal_Navy_Submarine_SSN-R.html"><img
-  src="/images/SSNR_900.jpg"/></a><br clear="right">[Read More &gt;....](/Royal_Navy_Submarine_SSN-R.html
-  "READ MORE")<br/></br>'
-
+excerpt: |-
+  <br/><font size="6">**Astute's successor: SSN(R)**</font><br/><img src="/images/flag_UK.jpg"/> Royal Navy planners are already looking to the next class of British attack submarines. Although there is little-to-nothing on this subject on the internet, it is a good time to start an article... <br/><a href="/Royal_Navy_Submarine_SSN-R.html"><img src="/images/SSNR_900.jpg"/></a><br clear="right">[Read More &gt;....](/Royal_Navy_Submarine_SSN-R.html "READ MORE")<br/></br>
 ---
+
 *Based on unclassified sources*[![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 #Astute's successor: SSN(R)![](/images/flag_UK.jpg) With the last of seven Astute Class submarines now under construction, Royal Navy planners are already looking to the next class of British attack submarines. Although there is little-to-nothing on this subject on the internet, it is a good time to start an article which pieces together what we can deduce from unclassified sources and guesswork about the **MUFC** (Maritime Underwater Future Capability) to replace the Astute Class. The article will be updated over time.   

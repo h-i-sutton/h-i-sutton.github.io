@@ -2,18 +2,17 @@
 layout: post
 title: "Canadian-Cold-War-Theseus-AUV"
 date: "2020-07-19 03:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**Theseus AUV**</font> <br/>![Flag](/images/flag_canada.jpg)\
-  \ During the Cold War, NATO believed that Russian submarines were using the ice\
-  \ cap in the Canadian Arctic as cover to covertly move between the Atlantic and\
-  \ Pacific. So the U.S. and Canada placed a special sonar network there, deep under\
-  \ the ice. Canadian engineers had to build the world\u2019s largest autonomous underwater\
+excerpt: "<font size=\"5\">**Theseus AUV**</font> <br/>![Flag](/images/flag_canada.jpg) During\
+  \ the Cold War, NATO believed that Russian submarines were using the ice cap in\
+  \ the Canadian Arctic as cover to covertly move between the Atlantic and Pacific.\
+  \ So the U.S. and Canada placed a special sonar network there, deep under the ice.\
+  \ Canadian engineers had to build the world\u2019s largest autonomous underwater\
   \ vehicle (AUV), Theseus, to lay a cable where ships could not reach... <br/>[Read\
   \ More &gt;....](/Canadian-Cold-War-Theseus-AUV.html \"READ MORE\")<br/><a href=\"\
   /Canadian-Cold-War-Theseus-AUV.html\"><img src=\"/images/Canada-US-Navy-Spinnaker-Theseus-AUV-under-ice-cap-900.jpg\"\
   /></a><br clear=\"right\"><br/></br>"
-
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 **Theseus AUV**   

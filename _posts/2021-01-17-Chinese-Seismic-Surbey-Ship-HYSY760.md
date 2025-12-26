@@ -2,16 +2,10 @@
 layout: post
 title: "Chinese-Seismic-Surbey-Ship-HYSY760"
 date: "2021-01-17 09:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Chinese Seismic Survey Ship Off North America - OSINT**</font><br clear="right"/><a
-  href="/Chinese-Seismic-Surbey-Ship-HYSY760.html"><img align="left" src="/images/China-Seismic-Survey-HYSY760-317.jpg"/></a>![Flag](/images/flag_China.jpg)
-  The **HAI YANG SHI YOU 760** is a seismic survey ship operated by the China Oilfield
-  Services Limited (COSL).<br/><br/>In 2019 she spent several months surveying the
-  North Atlantic off Newfoundland, Canada...<br/>[Read More &gt;....](/Chinese-Seismic-Surbey-Ship-HYSY760.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <font size="6">**Chinese Seismic Survey Ship Off North America - OSINT**</font><br clear="right"/><a href="/Chinese-Seismic-Surbey-Ship-HYSY760.html"><img align="left" src="/images/China-Seismic-Survey-HYSY760-317.jpg"/></a>![Flag](/images/flag_China.jpg) The **HAI YANG SHI YOU 760** is a seismic survey ship operated by the China Oilfield Services Limited (COSL).<br/><br/>In 2019 she spent several months surveying the North Atlantic off Newfoundland, Canada...<br/>[Read More &gt;....](/Chinese-Seismic-Surbey-Ship-HYSY760.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![HYSY 760](/images/China-Seismic-Survey-HYSY760.jpg)  
 

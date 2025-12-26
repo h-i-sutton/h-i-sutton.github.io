@@ -2,16 +2,10 @@
 layout: post
 title: "Kairyu_Midget_Submarine"
 date: "2019-02-04 11:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Imperial Japanese Navy 'Kairyu' Class midget submarine**</font><br/><img
-  src="/images/flag_japan.jpg"/> In the final months of World War Two, the Imperial
-  Japanese Navy prepared a vast fleet of midget submarines to defend the home islands.
-  Many of these designs crude and reflected the desperation of the times, but one
-  design stands out... <br/>[Read More &gt;....](/Kairyu_Midget_Submarine.html "READ
-  MORE")<br clear="right"><a href="/Kairyu_Midget_Submarine.html"><img src="/images/Jp_Kairyu_900.jpg"/></a></br>
-...
-
+excerpt: |-
+  <font size="6">**Imperial Japanese Navy 'Kairyu' Class midget submarine**</font><br/><img src="/images/flag_japan.jpg"/> In the final months of World War Two, the Imperial Japanese Navy prepared a vast fleet of midget submarines to defend the home islands. Many of these designs crude and reflected the desperation of the times, but one design stands out... <br/>[Read More &gt;....](/Kairyu_Midget_Submarine.html "READ MORE")<br clear="right"><a href="/Kairyu_Midget_Submarine.html"><img src="/images/Jp_Kairyu_900.jpg"/></a></br>
 ---
+
 ##### Share:
 
 **Imperial Japanese Navy 'Kairyu' Class midget submarine**  

@@ -2,16 +2,10 @@
 layout: post
 title: "New Photo Of Shahid Soleimani Class Catamaran"
 date: "2021-04-27 12:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><h1>New
-  Photo Of Shahid Soleimani Class Catamaran</h1><br clear="right"/><a href="/Iran-IRGC-Catamaran-Update.html"><img
-  align="left" src="/images/Iran-Catamaran-Qeshm-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg)
-  **OSINT**. Iran has been expanding the little-known shipyard. The site, on Qeshm
-  Island in the strait of Hormuz is constructing one of the three new catamaran missile
-  corvettes for the IRGC. <br/>[Read More &gt;....](/Iran-IRGC-Catamaran-Update.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <h1>New Photo Of Shahid Soleimani Class Catamaran</h1><br clear="right"/><a href="/Iran-IRGC-Catamaran-Update.html"><img align="left" src="/images/Iran-Catamaran-Qeshm-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) **OSINT**. Iran has been expanding the little-known shipyard. The site, on Qeshm Island in the strait of Hormuz is constructing one of the three new catamaran missile corvettes for the IRGC. <br/>[Read More &gt;....](/Iran-IRGC-Catamaran-Update.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 [![](/images/Iran-Catamaran-Qeshm-940.jpg)](/images/Iran-Catamaran-Qeshm.jpg)  
 CLICK to enlarge.  

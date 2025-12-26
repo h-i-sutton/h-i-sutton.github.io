@@ -2,15 +2,10 @@
 layout: post
 title: "Single-versus-Double_Hull"
 date: "2018-02-20 11:00:00"
-excerpt: <font size="6">**Single &amp; Double-hulled submarines demystified**</font><br/>Submarines
-  can be divided into those with a Single Hulls and those with Double Hulls. The former
-  has only one layer of steel between the crew and the open ocean while the latter
-  has an external outer hull which completely encases the occupied inner hull. The
-  relative merits of these two approaches is hotly debated.... <br/><a href="/Single-versus-Double_Hull.html"><img
-  src="/images/Hulls_Cover.jpg"/></a>
-...
-
+excerpt: |-
+  <font size="6">**Single &amp; Double-hulled submarines demystified**</font><br/>Submarines can be divided into those with a Single Hulls and those with Double Hulls. The former has only one layer of steel between the crew and the open ocean while the latter has an external outer hull which completely encases the occupied inner hull. The relative merits of these two approaches is hotly debated.... <br/><a href="/Single-versus-Double_Hull.html"><img src="/images/Hulls_Cover.jpg"/></a>
 ---
+
 **Single & Double-hulled submarines demystified**  
 Submarines can be divided into those with a Single Hulls and those with Double Hulls. The former has only one layer of steel between the crew and the open ocean while the latter has an external outer hull which completely encases the occupied inner hull. The relative merits of these two approaches is hotly debated on the Internet, almost as much as [Air Independent Power (AIP)](World%20survey%20of%20AIP%20submarines.html). This article hopes to demystify the topic and provide a useful reference guide. It is written from an Analyst’s perspective and intended for a general audience.   
 

@@ -2,18 +2,9 @@
 layout: post
 title: "Spy Ship Attacked: Russia Implies Ukrainian/NATO Threat To TurkStream Gas Pipeline"
 date: "2023-06-11 16:30:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Implied-Threat-To-TurkStream-Gas-Pipeline.html"><img align="left"
-  src="/images/Russia-TurkStream-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  ![Flag Ukraine](/images/flag_ukraine.jpg) There are reports from Russian sources
-  claiming that the Black Sea Fleet Vishnya class Intelligence Ship Priazovye, was
-  attacked by maritime drones (USVs).<br/><br/> However the claimed reason that she
-  was there may be more significant.<br/>[Read More &gt;....](/Implied-Threat-To-TurkStream-Gas-Pipeline.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Implied-Threat-To-TurkStream-Gas-Pipeline.html"><img align="left" src="/images/Russia-TurkStream-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) There are reports from Russian sources claiming that the Black Sea Fleet Vishnya class Intelligence Ship Priazovye, was attacked by maritime drones (USVs).<br/><br/> However the claimed reason that she was there may be more significant.<br/>[Read More &gt;....](/Implied-Threat-To-TurkStream-Gas-Pipeline.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Spy Ship Attacked: Russia Implies Ukrainian/NATO Threat To TurkStream Gas Pipeline![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) There are reports from Russian sources claiming that the Black Sea Fleet Vishnya class Intelligence Ship Priazovye, was attacked by maritime drones (USVs). This happened in the Southeast Black Sea, in a similar area to where Russian intelligence ship Ivan Khurs attacked on May 24.   
 

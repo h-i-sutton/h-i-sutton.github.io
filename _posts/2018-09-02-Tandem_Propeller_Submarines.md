@@ -2,16 +2,10 @@
 layout: post
 title: "Tandem_Propeller_Submarines"
 date: "2018-09-02 01:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**US Navy research into tandem propeller submarines**</font><br/>![Flag](/images/flag_USA.jpg)   Cdr.
-  Frederick R. Haselton, US Navy, conceived that a submarine can operate with just
-  two propellers, without the need for rudders or hydroplanes. It can move in almost
-  any direction, including backwards, by subtly directing the thrust from the propellers....
-  [Read More &gt;....](/Tandem_Propeller_Submarines.html "READ MORE")<br/><a href="/Tandem_Propeller_Submarines.html"><img
-  src="/images/Tandem-Propeller-900.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**US Navy research into tandem propeller submarines**</font><br/>![Flag](/images/flag_USA.jpg)   Cdr. Frederick R. Haselton, US Navy, conceived that a submarine can operate with just two propellers, without the need for rudders or hydroplanes. It can move in almost any direction, including backwards, by subtly directing the thrust from the propellers.... [Read More &gt;....](/Tandem_Propeller_Submarines.html "READ MORE")<br/><a href="/Tandem_Propeller_Submarines.html"><img src="/images/Tandem-Propeller-900.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)This article is based on research by [C. Edward Davis](https://www.amazon.com/C-Edward-Davis/e/B077WHVCQ4/), co-author of [World Submarines: Covert Shores Recognition Guide](https://www.amazon.com/gp/product/1541392302/).  
   
 

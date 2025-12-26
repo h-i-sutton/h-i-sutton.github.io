@@ -2,13 +2,10 @@
 layout: post
 title: "Special Forces Jet Skis"
 date: "2018-09-12 02:00:00"
-excerpt: '*Updated. Originally posted 29th Aug 2016*<br/><a href="https://twitter.com/covertshores"
-  target="blank"><img align="right" src="/images/twitter.jpg"/></a>Special Forces
-  use of Jet Skis has slowly become common knowledge.  [Read More &gt;....](/Special
-  Forces Jet Skis.html "READ MORE")<br/><a href="/Special Forces Jet Skis.html"><img
-  src="/images/jetski900.jpg"/></a><br clear="right"/>'
-
+excerpt: |-
+  *Updated. Originally posted 29th Aug 2016*<br/>Special Forces use of Jet Skis has slowly become common knowledge.  [Read More &gt;....](/Special Forces Jet Skis.html "READ MORE")<br/><a href="/Special Forces Jet Skis.html"><img src="/images/jetski900.jpg"/></a><br clear="right"/>
 ---
+
 Share:[![](/images/mailto.jpg)](mailto:?subject=Shared%20from%20Covert%20Shores&body=http%3A%2F%2Fwww.hisutton.com%2FChina_Stretched_KILO.html)_[![](/images/shareFacebook.jpg)](https://www.facebook.com/sharer/sharer.php?u=#url)_[![](/images/shareTwitter.jpg)](https://twitter.com/intent/tweet?text=Covert%20Shores%20-%20China_Stretched_KILO%20@CovertShores&url=http%3A%2F%2Fwww.hisutton.com%2FChina_Stretched_KILO.html&hashtags=Submarines)  
 
 ![Flag](/images/flag_USA.jpg) In 2016 NAVSOC (Navy Special Operations Command, part of USSOCOM) released a public requirement for an additional batch of four Yamaha 2016 FX Cruiser SHO jet skis. Special Forces use of Jet Skis has slowly become common knowledge.  

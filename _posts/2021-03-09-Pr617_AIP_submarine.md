@@ -2,17 +2,10 @@
 layout: post
 title: "Pr617_AIP_submarine"
 date: "2021-03-09 11:00:00"
-excerpt: '**Updated: originally posted Feb 5, 2017**<br/><a href="https://twitter.com/covertshores"
-  target="blank"><img align="right" src="/images/twitter.jpg"/></a><br/><font size="6">**Soviet
-  Russia''s forgotten high-speed AIP submarine** </font><br/>![Flag](/images/flag_russia.jpg)
-  When in May 1958 CIA intelligence analysts poured over a set of spy photographs
-  of Soviet submarine construction they noticed that one submarine was different to
-  the rest. They soon realized that they were dealing with an entirely new class of
-  submarine. <br/><br/>What was undetectable in the photo was that it was equipped
-  with Air Independent Propulsion (AIP)... <a href="/Pr617_AIP_submarine.html">Read
-  More</a><br/><a href="/Pr617_AIP_submarine.html"><img src="/images/Pr617_900.jpg"/></a><br/>'
-
+excerpt: |-
+  **Updated: originally posted Feb 5, 2017**<br/><br/><font size="6">**Soviet Russia's forgotten high-speed AIP submarine** </font><br/>![Flag](/images/flag_russia.jpg) When in May 1958 CIA intelligence analysts poured over a set of spy photographs of Soviet submarine construction they noticed that one submarine was different to the rest. They soon realized that they were dealing with an entirely new class of submarine. <br/><br/>What was undetectable in the photo was that it was equipped with Air Independent Propulsion (AIP)... <a href="/Pr617_AIP_submarine.html">Read More</a><br/><a href="/Pr617_AIP_submarine.html"><img src="/images/Pr617_900.jpg"/></a><br/>
 ---
+
 **Updated: originally posted Feb 5, 2017**  
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)  
 

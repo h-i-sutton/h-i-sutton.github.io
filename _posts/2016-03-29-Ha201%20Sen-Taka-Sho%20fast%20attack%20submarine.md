@@ -9,8 +9,8 @@ excerpt: "![Flag](/images/flag_japan.jpg)  During the latter stages of WW2 Japan
   ** (High Speed Small Submarine). [Read More &gt;....](/Ha201 Sen-Taka-Sho fast attack\
   \ submarine.html \"READ MORE\")<br/><a href=\"/Ha201 Sen-Taka-Sho fast attack submarine.html\"\
   ><img src=\"/images/Ha201+Cover900.jpg\"/></a>"
-
 ---
+
 ![Japanese 波201 (HA201) Sen-Taka-Sho fast attack submarine from World War 2](/images/Ha201+Cover900.jpg)   
 ![Flag](/images/flag_japan.jpg) During the latter stages of WW2 Japan information on the revolutionary German Type-XXI U-Boat. The Type-XXI *‘Elektro-boote’* was fitted with a snorkel to allow the diesel engines to be run while the submarine as submerged with only the snorkel mast above the surface. The Germans built a second, much smaller, design to complement the Type-XXI called the Type-XXIII. In Japan the technology was employed on the similarly advanced *I-201 class* which, as in Germany, were complemented by a smaller submarine with similar technology. This was the **Ha-201 ‘Sen-Taka-Sho’** (High Speed Small Submarine). The Japanese designs were in no way direct copies of the German types, instead drawing heavily into Japanese research into high speed submarine design.   
 

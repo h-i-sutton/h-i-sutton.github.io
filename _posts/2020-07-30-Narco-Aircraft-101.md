@@ -2,16 +2,10 @@
 layout: post
 title: "Narco-Aircraft-101"
 date: "2020-07-30 04:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Narco Planes 101**</font> <br/>On July 2, law enforcement officials found
-  a Gulfstream II business jet abandoned on a clandestine runway in Southern Mexico.
-  Then on July 5 a BAe-125-700A business jet landed on a highway in Southern Mexico,
-  and was set on fire. Its occupants, and the drugs it was carrying, were gone...
-  <br/>[Read More &gt;....](/Narco-Aircraft-101.html "READ MORE")<br/><a href="/Narco-Aircraft-101.html"><img
-  src="/images/Narco-plane-900.jpg"/></a><br clear="right"><br/></br>
-...
-
+excerpt: |-
+  <font size="6">**Narco Planes 101**</font> <br/>On July 2, law enforcement officials found a Gulfstream II business jet abandoned on a clandestine runway in Southern Mexico. Then on July 5 a BAe-125-700A business jet landed on a highway in Southern Mexico, and was set on fire. Its occupants, and the drugs it was carrying, were gone... <br/>[Read More &gt;....](/Narco-Aircraft-101.html "READ MORE")<br/><a href="/Narco-Aircraft-101.html"><img src="/images/Narco-plane-900.jpg"/></a><br clear="right"><br/></br>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 **Narco Planes 101**   

@@ -2,16 +2,10 @@
 layout: post
 title: "British-SSN20-W-Class-And-B2-TC-Submarines"
 date: "2021-03-18 10:00:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="5">**The Astute Journey: Unbuilt British Submarine Designs After The Trafalgar
-  Class**</font><br clear="right"/><a href="/British-SSN20-W-Class-And-B2-TC-Submarines.html"><img
-  align="left" src="/images/Royal-navy-SSN20-W-Class-Submarine-317.jpg"/></a>![Flag](/images/flag_UK.jpg)
-  Today the Astute is one of the most impressive, and recognizable, attack submarines
-  afloat.<br/><br/>This article will lay out the unbuilt submarine designs which plot
-  the story from the Trafalgar Class to the Astute class.. <br/><br/>[Read More &gt;....](/British-SSN20-W-Class-And-B2-TC-Submarines.html
-  "READ MORE")<br clear="left"/>'
-
+excerpt: |-
+  <font size="5">**The Astute Journey: Unbuilt British Submarine Designs After The Trafalgar Class**</font><br clear="right"/><a href="/British-SSN20-W-Class-And-B2-TC-Submarines.html"><img align="left" src="/images/Royal-navy-SSN20-W-Class-Submarine-317.jpg"/></a>![Flag](/images/flag_UK.jpg) Today the Astute is one of the most impressive, and recognizable, attack submarines afloat.<br/><br/>This article will lay out the unbuilt submarine designs which plot the story from the Trafalgar Class to the Astute class.. <br/><br/>[Read More &gt;....](/British-SSN20-W-Class-And-B2-TC-Submarines.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 #The Astute Journey: Unbuilt British Submarine Designs After The Trafalgar Class![Flag](/images/flag_UK.jpg) Today the Astute is one of the most impressive, and recognizable, attack submarines afloat. But how did it come about? This article will lay out the unbuilt submarine designs which plot the story from the Trafalgar Class to the Astute class.   
 

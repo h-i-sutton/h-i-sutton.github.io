@@ -2,17 +2,10 @@
 layout: post
 title: "Dry_Combat_Submersible"
 date: "2018-10-23 02:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>*Updated.
-  Previous versions 13th August 2016 &amp; 27th July 2018*.<br/><font size="6">**Dry
-  Combat Submersible (DCS)**</font><br/>![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_UK.jpg)
-  The Dry Combat Submersible (DCS) is a type of SEAL Delivery Vehicle (SDV) where
-  the interior is dry to allow the SEALs to arrive at their target fresher than a
-  wet-sub where they have to wear their diving gear at all times.<br/><a href="/Dry_Combat_Submersible.html"><img
-  src="/images/DCS_side900.jpg"/></a><br clear="right">[Read More &gt;....](/Dry_Combat_Submersible.html
-  "READ MORE")<br/></br>
-...
-
+excerpt: |-
+  *Updated. Previous versions 13th August 2016 &amp; 27th July 2018*.<br/><font size="6">**Dry Combat Submersible (DCS)**</font><br/>![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_UK.jpg) The Dry Combat Submersible (DCS) is a type of SEAL Delivery Vehicle (SDV) where the interior is dry to allow the SEALs to arrive at their target fresher than a wet-sub where they have to wear their diving gear at all times.<br/><a href="/Dry_Combat_Submersible.html"><img src="/images/DCS_side900.jpg"/></a><br clear="right">[Read More &gt;....](/Dry_Combat_Submersible.html "READ MORE")<br/></br>
 ---
+
 ##### Share:
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Updated. Previous versions 13th August 2016 & 27th July 2018*.  

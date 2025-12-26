@@ -2,16 +2,14 @@
 layout: post
 title: "Russia_BUCKS_unmanned_boat"
 date: "2018-04-02 11:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Russian Cold War unmanned\
-  \ boat**</font><br/><img src=\"/images/flag_russia.jpg\"/> Today, Unmanned Surface\
-  \ Vessels (USVs) are seen as an emerging trend in naval doctrine. But some types\
-  \ were in service during the Cold War (and even World War One!). This article describes\
-  \ the Russian **BUKS** (*\u0411\u0423\u041A\u0421*) mine and obstacle clearance\
-  \ boat from the Cold War...... <br/><a href=\"/Russia_BUCKS_unmanned_boat.html\"\
+excerpt: "<font size=\"6\">**Russian Cold War unmanned boat**</font><br/><img src=\"/images/flag_russia.jpg\"\
+  /> Today, Unmanned Surface Vessels (USVs) are seen as an emerging trend in naval\
+  \ doctrine. But some types were in service during the Cold War (and even World War\
+  \ One!). This article describes the Russian **BUKS** (*\u0411\u0423\u041A\u0421\
+  *) mine and obstacle clearance boat from the Cold War...... <br/><a href=\"/Russia_BUCKS_unmanned_boat.html\"\
   ><img src=\"/images/Bucks_900.jpg\"/></a><br clear=\"right\"/>"
-
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Russian Cold War unmanned boat**  
 ![](/images/flag_russia.jpg) Today, Unmanned Surface Vessels (USVs) are seen as an emerging trend in naval doctrine. But some types were in service during the Cold War (and even World War One!). This article describes the Russian BUKS (*БУКС*) mine and obstacle clearance boat from the Cold War.  
 

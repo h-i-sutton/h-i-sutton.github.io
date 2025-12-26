@@ -2,9 +2,8 @@
 layout: post
 title: "Russian Navy Could Be Real Winner Of Sudan's Coup"
 date: "2021-10-26 11:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Russian-Navy-Base-Sudan-Update.html\"\
-  ><img align=\"left\" src=\"/images/Russia-Base-Sudan-317.jpg\"/></a> ![Flag Russia](/images/flag_russia.jpg)\
+excerpt: "<br clear=\"right\"/><a href=\"/Russian-Navy-Base-Sudan-Update.html\"><img align=\"\
+  left\" src=\"/images/Russia-Base-Sudan-317.jpg\"/></a> ![Flag Russia](/images/flag_russia.jpg)\
   \ The rapidly developing coup situation in Sudan may play to Russia\u2019s advantage.\
   \ The Russian Navy had previously arranged to establish a naval base but the deal\
   \ was weakened by US diplomatic action. <br/><br/>If it is reborn, the base will\
@@ -12,8 +11,8 @@ excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img ali
   \ and Persian Gulf. It is a strategic development with potentially with global consequences.<br/>[Read\
   \ More &gt;....](/Russian-Navy-Base-Sudan-Update.html \"READ MORE\")<br clear=\"\
   left\"/>"
-
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 *Hot take, caveats apply*   

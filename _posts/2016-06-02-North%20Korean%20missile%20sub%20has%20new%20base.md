@@ -9,8 +9,8 @@ excerpt: "![Flag](/images/flag_nork.jpg) Recent TV footage from North Korea\u201
   \ base on the island of *Mayang-do*.   [Read More &gt;....](/North Korean missile\
   \ sub has new base.html \"READ MORE\")<br/><a href=\"/North Korean missile sub has\
   \ new base.html\"><img src=\"/images/Sinpo_sunrise900.jpg\"/></a>"
-
 ---
+
 *Original analysis: alternative suggestions welcome*
 
 ![Flag](/images/flag_nork.jpg)Recent TV footage from North Korea’s suggests that the country’s sole **Sinpo Class** ballistic missile submarine (SSB) has relocated from the quayside at the factory where it was built, to an isolated peer at a submarine base. Analysis suggests that the new base is the major submarine base on the island of *Mayang-do*.  

@@ -2,15 +2,10 @@
 layout: post
 title: "Book Project"
 date: "2014-10-19 10:20:00"
-excerpt: <font size="48"> <b> COVERT SHORES </b> </font> *[working title]* will be a unique
-  look at the shared history of the SEALs, Special Boat Service (SBS), Underwater
-  Demolition Teams (UDT), Clearance Divers, Naval Spetsnaz, Flotilla 13, Commando
-  Hubert, COMSUBIN, Decima MAS, 4RR Recce Commandos, 82 Maritime Unit and more, and
-  the secret and mostly unknown craft they employed. Also Midget Submarines and Special
-  Mission Submarines. [READ MORE](/Book Project.html "Book Project")
-...
-
+excerpt: |-
+  <font size="48"> <b> COVERT SHORES </b> </font> *[working title]* will be a unique look at the shared history of the SEALs, Special Boat Service (SBS), Underwater Demolition Teams (UDT), Clearance Divers, Naval Spetsnaz, Flotilla 13, Commando Hubert, COMSUBIN, Decima MAS, 4RR Recce Commandos, 82 Maritime Unit and more, and the secret and mostly unknown craft they employed. Also Midget Submarines and Special Mission Submarines. [READ MORE](/Book Project.html "Book Project")
 ---
+
 #### COVERT SHORES *[working title]*
 
 A non-fiction book telling the world history of naval Special Forces in an accessible manner. These military units include the US Navy’s SEALs and Britain’s Special Boat Service (SBS).

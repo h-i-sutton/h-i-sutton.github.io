@@ -2,14 +2,10 @@
 layout: post
 title: "Russian_Arctic_Seabed_Capabilities"
 date: "2018-03-17 11:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Large illustration of Russian Under-ice Seabed Capabilities**</font><br/><img
-  src="/images/flag_russia.jpg"/> Russia continues to take steps towards militarizing
-  the arctic, and in particular the sea floor under the ice cap.... <br/><a href="/Russian_Arctic_Seabed_Capabilities.html"><img
-  src="/images/Arctic_Scene900.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Large illustration of Russian Under-ice Seabed Capabilities**</font><br/><img src="/images/flag_russia.jpg"/> Russia continues to take steps towards militarizing the arctic, and in particular the sea floor under the ice cap.... <br/><a href="/Russian_Arctic_Seabed_Capabilities.html"><img src="/images/Arctic_Scene900.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Large illustration of Russian Under-ice Seabed Capabilities**  
 ![](/images/flag_russia.jpg) Russia continues to take steps towards militarizing the arctic, and in particular the sea floor under the ice cap. While many of the declared projects are hidden behind marketing hype and subject to funding decisions and the almost inevitable delays which come with large Russian submarine projects, we have to read between the lines. Observable development of special mission submarines, unmanned air vehicles and arctic warships and support vessels, join with reported projects in hydrocarbons, sea floor sensors and sea floor weapons.   
 

@@ -2,14 +2,10 @@
 layout: post
 title: "News - Ortega Mk1 SDV trials"
 date: "2015-11-06 11:00:00"
-excerpt: <img src="/images/flag_netherlands.jpg"/> Ortega Submersibles, the Dutch SDV manufacturer,
-  have uploaded a video of the prototype being put through its paces. It's a gorgeous
-  submersible canoe inspired by the WW2 British *Sleeping Beauty*. [Read More &gt;....](/News
-  - Ortega Mk1 SDV trials.html "READ MORE")<br/><a href="/News - Ortega Mk1 SDV trials.html"><img
-  src="/images/ortega900_2.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_netherlands.jpg"/> Ortega Submersibles, the Dutch SDV manufacturer, have uploaded a video of the prototype being put through its paces. It's a gorgeous submersible canoe inspired by the WW2 British *Sleeping Beauty*. [Read More &gt;....](/News - Ortega Mk1 SDV trials.html "READ MORE")<br/><a href="/News - Ortega Mk1 SDV trials.html"><img src="/images/ortega900_2.jpg"/></a>
 ---
+
 ![Flag](/images/flag_netherlands.jpg) Ortega Submersibles, the Dutch SDV manufacturer, have uploaded a video of the prototype being put through its paces. It's a gorgeous submersible canoe inspired by the WW2 British *Sleeping Beauty*.   
 
 [![](/images/Ortega_youtube.jpg)](https://www.youtube.com/watch?v=Ox7Q7y1tQUY)  

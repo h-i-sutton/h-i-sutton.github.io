@@ -2,16 +2,14 @@
 layout: post
 title: "Narco Submarine Discovered On Beach"
 date: "2021-12-10 09:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Narco-Submarine-Found-On-Beach.html\"\
-  ><img align=\"left\" src=\"/images/Narco-Submarine-LPV-2021-12-09-317.jpg\"/></a>\
-  \ The Colombian Navy has sized another 'narco submarine' in operations against the\
-  \ \u201CClan del Golfo\u201D group.<br/><br/>The Organized Armed Group (OAG) is\
-  \ known to use improvised explosive devices to protect its shipments.<br/>[Read\
-  \ More &gt;....](/Narco-Submarine-Found-On-Beach.html \"READ MORE\")<br clear=\"\
-  left\"/>"
-
+excerpt: "<br clear=\"right\"/><a href=\"/Narco-Submarine-Found-On-Beach.html\"><img align=\"\
+  left\" src=\"/images/Narco-Submarine-LPV-2021-12-09-317.jpg\"/></a> The Colombian\
+  \ Navy has sized another 'narco submarine' in operations against the \u201CClan\
+  \ del Golfo\u201D group.<br/><br/>The Organized Armed Group (OAG) is known to use\
+  \ improvised explosive devices to protect its shipments.<br/>[Read More &gt;....](/Narco-Submarine-Found-On-Beach.html\
+  \ \"READ MORE\")<br clear=\"left\"/>"
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 ![Narco Submarine Discovered On Beach](/images/Narco-Submarine-LPV-2021-12-09-beach.jpg)  
 *Colombian Navy*  

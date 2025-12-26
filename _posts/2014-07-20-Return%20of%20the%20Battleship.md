@@ -2,15 +2,10 @@
 layout: post
 title: "Return of the Battleship: Zumwalt"
 date: "2014-07-20 10:20:00"
-excerpt: Battleships are large armored surface combatants armed with a battery of heavy guns.
-  In their heyday battleships were the most powerful vessels in the world and vital
-  for naval dominance and power projection. The last were built in WW2 when they were
-  already being eclipsed by the aircraft carrier, and few remained in service after
-  the war. Twenty two years after the last true battleships were retired in 1992,
-  the USS Zumwalt (DDG-1000) restarts history. ![DDG-1000](/images/zumwalt.png)
-...
-
+excerpt: |-
+  Battleships are large armored surface combatants armed with a battery of heavy guns. In their heyday battleships were the most powerful vessels in the world and vital for naval dominance and power projection. The last were built in WW2 when they were already being eclipsed by the aircraft carrier, and few remained in service after the war. Twenty two years after the last true battleships were retired in 1992, the USS Zumwalt (DDG-1000) restarts history. ![DDG-1000](/images/zumwalt.png)
 ---
+
 Battleships were large surface warships of well over 10,000 tons with a main battery of heavy guns. In their day battleships were the most powerful type of warship afloat and center-pieces of all major blue-water navies. Battleships came into being in the 1870s as a successor generation to the ironclad warships and turreted *Monitors* of the mid-1800s. In 1906 there was a watershed moment when the most powerful navy of the day, the Royal Navy, launched a battleship which eclipsed all others by such a margin that conventional wisdom changed overnight. HMS Dreadnought was faster, bigger and much more heavily armed than any warship before her and set the scene for forty years. The last battleships were built in WW2 when they were already being eclipsed by the aircraft carrier. After the war only Britain, France and US could afford to keep any battleships at all. The Royal Nay's HMS Vanguard was decommissioned in 1960, the French Navy's Richelieu was retired in 1967 and the last of the US Navy's Iowa Class battleships were finally retired in 1992.
 
 One hundred years after Dreadnought, the **USS Zumwalt** (DDG-1000) restarts history.

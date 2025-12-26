@@ -2,18 +2,9 @@
 layout: post
 title: "North Korea's Mini-Poseidon: Haeil-2"
 date: "2023-04-08 09:00:00"
-excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"><a href="/North-Korea-Nuclear-Torpedo-Haeil-2.html"><img
-  align="left" src="/images/North-Korea-Haeil-2-317.jpg"/></a> ![Flag DPRK](/images/flag_nork.jpg)  The
-  Pyongyang regime could be forgiven for lamenting that their expensive efforts to
-  capture world attention by testing new wonder weapons has fallen flat. Firing ballistic
-  missiles, even impressive ones, barely gets noticed these days.<br/><br/>Yet of
-  course defense analysts take these developments seriously...<br/>[Read More &gt;....](/North-Korea-Nuclear-Torpedo-Haeil-2.html
-  "READ MORE")<br clear="left"/></br>
-...
-
+excerpt: |-
+  <br/><br clear="right"><a href="/North-Korea-Nuclear-Torpedo-Haeil-2.html"><img align="left" src="/images/North-Korea-Haeil-2-317.jpg"/></a> ![Flag DPRK](/images/flag_nork.jpg)  The Pyongyang regime could be forgiven for lamenting that their expensive efforts to capture world attention by testing new wonder weapons has fallen flat. Firing ballistic missiles, even impressive ones, barely gets noticed these days.<br/><br/>Yet of course defense analysts take these developments seriously...<br/>[Read More &gt;....](/North-Korea-Nuclear-Torpedo-Haeil-2.html "READ MORE")<br clear="left"/></br>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 ![North Korea's Mini-Poseidon: Haeil-2](/images/North-Korea-Haeil-2-Profile.jpg)  
 

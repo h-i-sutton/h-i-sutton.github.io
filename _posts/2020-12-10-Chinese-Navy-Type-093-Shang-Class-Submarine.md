@@ -2,16 +2,10 @@
 layout: post
 title: "Chinese-Navy-Type-093-Shang-Class-Submarine"
 date: "2020-12-10 03:00:00"
-excerpt: '*Updated. Originally posted June 21 2020*<br/><a href="https://twitter.com/covertshores"
-  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="6">**Chinese
-  Type-093 (Type-09III) Class Submarine**</font><br/><img src="/images/flag_China.jpg"/>
-  The Type-09III is China''s main nuclear-powered attack submarine. There has been
-  a lot of speculation and guesswork as analysts have attempted to make sense of each
-  updated version....<br/><a href="/Chinese-Navy-Type-093-Shang-Class-Submarine.html"><img
-  src="/images/China-Type-093-Submarine-900.jpg"/></a><br/>[Read More &gt;....](/Chinese-Navy-Type-093-Shang-Class-Submarine.html
-  "READ MORE")'
-
+excerpt: |-
+  *Updated. Originally posted June 21 2020*<br/><font size="6">**Chinese Type-093 (Type-09III) Class Submarine**</font><br/><img src="/images/flag_China.jpg"/> The Type-09III is China's main nuclear-powered attack submarine. There has been a lot of speculation and guesswork as analysts have attempted to make sense of each updated version....<br/><a href="/Chinese-Navy-Type-093-Shang-Class-Submarine.html"><img src="/images/China-Type-093-Submarine-900.jpg"/></a><br/>[Read More &gt;....](/Chinese-Navy-Type-093-Shang-Class-Submarine.html "READ MORE")
 ---
+
 *Updated. Originally posted June 21 2020*  
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 

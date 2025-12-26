@@ -2,14 +2,10 @@
 layout: post
 title: "Special Forces diver technoloy - DSG Supercavitating Ammunition"
 date: "2015-09-29 11:00:00"
-excerpt: '![Flag](/images/flag_cyprus.jpg) ![Flag](/images/flag_norway.jpg) DSG Technology
-  of Cyprus/Norway have developed a supercavitating underwater round which can be
-  adapted for standard rifles, allowing Special Forces divers to fight both above
-  and below the surface. [Read More &gt;....](/Special Forces diver technoloy - DSG
-  Supercavitating Ammunition.html "READ MORE")<br/><a href="/Special Forces diver
-  technoloy - DSG Supercavitating Ammunition.html"><img src="/images/dsgcover.jpg"/></a>'
-
+excerpt: |-
+  ![Flag](/images/flag_cyprus.jpg) ![Flag](/images/flag_norway.jpg) DSG Technology of Cyprus/Norway have developed a supercavitating underwater round which can be adapted for standard rifles, allowing Special Forces divers to fight both above and below the surface. [Read More &gt;....](/Special Forces diver technoloy - DSG Supercavitating Ammunition.html "READ MORE")<br/><a href="/Special Forces diver technoloy - DSG Supercavitating Ammunition.html"><img src="/images/dsgcover.jpg"/></a>
 ---
+
 ![Flag](/images/flag_cyprus.jpg) ![Flag](/images/flag_norway.jpg) DSG Technology of Cyprus/Norway have developed a supercavitating underwater round which can be adapted for standard rifles, allowing Special Forces divers to fight both above and below the surface. I wasn't aware of this until someone pointed me their way today. Like all good ideas it seems so obvious in hindsight, it just makes sense.
 
 Check out their website: [DSG Technology](http://www.dsgtec.com/mea)  

@@ -2,18 +2,14 @@
 layout: post
 title: "Iranian Nazir-1 XLUUV submarine drone"
 date: "2020-07-11 03:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**Iranian Islamic Revolutionary\
-  \ Guards (IRGC) XLUUV**</font> <br/>![Flag](/images/flag_iran.jpg) Iran has revealed\
-  \ its first large Uncrewed Underwater Vehicle (UUV). Once developed this will add\
-  \ a new dimension to Iran\u2019s systematic warfare capability. It will also mean\
-  \ that Iran joins an elite club with only the U.S. Navy and Britain\u2019s Royal\
-  \ Navy having such large UUVs... <br/>[Read More &gt;....](/Iranian-XLUUV-submarine-drone.html\
+excerpt: "<font size=\"5\">**Iranian Islamic Revolutionary Guards (IRGC) XLUUV**</font> <br/>![Flag](/images/flag_iran.jpg)\
+  \ Iran has revealed its first large Uncrewed Underwater Vehicle (UUV). Once developed\
+  \ this will add a new dimension to Iran\u2019s systematic warfare capability. It\
+  \ will also mean that Iran joins an elite club with only the U.S. Navy and Britain\u2019\
+  s Royal Navy having such large UUVs... <br/>[Read More &gt;....](/Iranian-XLUUV-submarine-drone.html\
   \ \"READ MORE\")<br/><a href=\"/Iranian-XLUUV-submarine-drone.html\"><img src=\"\
   /images/Iran-XLUUV-900.jpg\"/></a><br clear=\"right\"><br/></br>"
-
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Iranian Islamic Revolutionary Guards (IRGC) Nazir-1 XLUUV![Flag](/images/flag_iran.jpg) Iran [has revealed](https://www.forbes.com/sites/hisutton/2020/05/29/mystery-submarine-may-reveal-a-major-new-capability-for-iran/) its first large Uncrewed Underwater Vehicle (UUV). The design has subsequently been identified as the 'Nazir-1'. Once developed this will add a new dimension to Iran’s systematic warfare capability. It will also mean that Iran joins an elite club with only the U.S. Navy and Britain’s Royal Navy having such large UUVs.   
 ![Iranian Islamic Revolutionary Guards (IRGC) XLUUV submarine drone - Covert Shores](/images/Iran-XLUUV.jpg)  

@@ -2,10 +2,10 @@
 layout: post
 title: "Chinese_Swimmer_Delivery_Vehicle"
 date: "2010-09-14 20:00:00"
-excerpt: Placeholder
-...
-
+excerpt: |-
+  Placeholder
 ---
+
 Placeholder____________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
 ![Flag](/images/flag_China.jpg) Chinese [Naval Special Forces projects and capabilities](http://www.hisutton.com{% post_url 2015-05-28-Chinese%20Naval%20Special%20Forces%20projects%20and%20capabilities %})  
 ![Flag](/images/flag_China.jpg) Chinese [Underwater Great Wall](http://www.hisutton.com{% post_url 2018-05-27-Cn_Underwater_Great_Wall %})  

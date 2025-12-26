@@ -2,17 +2,10 @@
 layout: post
 title: "North Korea's New Missile Submarine: Hero Kim Gun-ok"
 date: "2023-09-08 23:00:00"
-excerpt: '**UPDATED**<br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"><a href="/North-Korea-Submarine-Hero-Kim-Gun-ok.html"><img
-  align="left" src="/images/DPRK-North-Korea-Submarine-Hero-Kim-Gun-ok-317.jpg"/></a>
-  ![Flag DPRK](/images/flag_nork.jpg) North Korea launched a modified ROMEO class
-  submarine of September 6 2023. The submarine is distinctive with 10 missiles housed
-  in an extended sail. The missiles are two different types, with four larger and
-  6 smaller launch tubes.<br/><br/>It is likely that these contain both ballistic
-  missiles and cruise missiles...<br/>[Read More &gt;....](/North-Korea-Submarine-Hero-Kim-Gun-ok.html
-  "READ MORE")<br clear="left"/></br>'
-
+excerpt: |-
+  **UPDATED**<br/><br clear="right"><a href="/North-Korea-Submarine-Hero-Kim-Gun-ok.html"><img align="left" src="/images/DPRK-North-Korea-Submarine-Hero-Kim-Gun-ok-317.jpg"/></a> ![Flag DPRK](/images/flag_nork.jpg) North Korea launched a modified ROMEO class submarine of September 6 2023. The submarine is distinctive with 10 missiles housed in an extended sail. The missiles are two different types, with four larger and 6 smaller launch tubes.<br/><br/>It is likely that these contain both ballistic missiles and cruise missiles...<br/>[Read More &gt;....](/North-Korea-Submarine-Hero-Kim-Gun-ok.html "READ MORE")<br clear="left"/></br>
 ---
+
 **UPDATED**  
 [![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 

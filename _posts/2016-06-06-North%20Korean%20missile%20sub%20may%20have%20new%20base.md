@@ -11,8 +11,8 @@ excerpt: "![Flag](/images/flag_nork.jpg) ![Flag](/images/Updated.jpg) Recent TV 
   \ Korean missile sub may have new base.html \"READ MORE\")<br/><a href=\"/North\
   \ Korean missile sub may have new base.html\"><img src=\"/images/Sinpo_sunrise900.jpg\"\
   /></a>"
-
 ---
+
 *Updated following discovery of better detective work. Check out Joseph Dempsey's analysis on* [Twitter](https://twitter.com/JosephHDempsey/status/724353993510686720)
 
 ![Flag](/images/flag_nork.jpg)Recent TV footage from North Korea’s suggests that the country’s sole **Sinpo Class** (aka **Gonae Class**) ballistic missile submarine (SSB) has relocated from the quayside at the factory where it was built, to an isolated peer at a submarine base. Analysis suggests that the new base is the major submarine base at *Cha'aho* (not on the island of *Mayang-do* as this post originally proposed).  

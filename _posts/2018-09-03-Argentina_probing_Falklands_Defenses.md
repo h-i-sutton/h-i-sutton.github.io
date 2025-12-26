@@ -2,17 +2,10 @@
 layout: post
 title: "Argentina_probing_Falklands_Defenses"
 date: "2018-09-03 11:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Argentinean Navy Vessel approached Falklands Islands**</font><br/><img
-  src="/images/flag_Argentina.jpg"/> <img src="/images/flag_UK.jpg"/> On 2nd September
-  2018 an Argentinean Naval vessel approached close to the British territorial waters
-  of the Falkland Islands. The vessel appears to have turned off its AIS (Automated
-  Identification System) as it approached Islands... <br/>[Read More &gt;....](/Argentina_probing_Falklands_Defenses.html
-  "READ MORE")<br/><a href="/Argentina_probing_Falklands_Defenses.html"><img src="/images/ARA_PuertoDeseado900.jpg"/></a><br
-  clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Argentinean Navy Vessel approached Falklands Islands**</font><br/><img src="/images/flag_Argentina.jpg"/> <img src="/images/flag_UK.jpg"/> On 2nd September 2018 an Argentinean Naval vessel approached close to the British territorial waters of the Falkland Islands. The vessel appears to have turned off its AIS (Automated Identification System) as it approached Islands... <br/>[Read More &gt;....](/Argentina_probing_Falklands_Defenses.html "READ MORE")<br/><a href="/Argentina_probing_Falklands_Defenses.html"><img src="/images/ARA_PuertoDeseado900.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Comments and corrections welcome.*  
 
 **Argentinean Navy Vessel approached Falklands Islands**  

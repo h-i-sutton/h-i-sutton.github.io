@@ -2,17 +2,10 @@
 layout: post
 title: "Submarines-We-Do-Not-Know-The-Name-Of"
 date: "2020-11-27 03:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**4 Submarines Which Are So Secret, We Do Not Know Their Name**</font><br
-  clear="right"/><a href="/Submarines-We-Do-Not-Know-The-Name-Of.html"><img align="left"
-  src="/images/4-submarines-we-dont-know-the-name-317.jpg"/></a><br/>Submarines are
-  shrouded in secrecy. But their mere existence is hard to keep under wraps. <br/><br/>Yet
-  here are four submarines, currently out there in the oceans of the world, whose
-  development has been so secret that we do not even know their name.<br/><br/>[Read
-  More &gt;....](/Submarines-We-Do-Not-Know-The-Name-Of.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <font size="6">**4 Submarines Which Are So Secret, We Do Not Know Their Name**</font><br clear="right"/><a href="/Submarines-We-Do-Not-Know-The-Name-Of.html"><img align="left" src="/images/4-submarines-we-dont-know-the-name-317.jpg"/></a><br/>Submarines are shrouded in secrecy. But their mere existence is hard to keep under wraps. <br/><br/>Yet here are four submarines, currently out there in the oceans of the world, whose development has been so secret that we do not even know their name.<br/><br/>[Read More &gt;....](/Submarines-We-Do-Not-Know-The-Name-Of.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![4 Submarines So Secret, We Do Not Know Their Name - Covert Shores](/images/4-submarines-we-dont-know-the-name.jpg)  
 # 4 Submarines Which Are So Secret, We Do Not Know Their NameSubmarines are shrouded in secrecy. Much of their technology, their missions and their capabilities, are closely guarded secrets. But their mere existence is hard to keep under wraps. So it is no secret that, for example, the U.S. Navy operates the USS Jimmy Carter, arguably the world's most capable spy submarine. The same goes for every navy.   

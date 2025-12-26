@@ -2,12 +2,10 @@
 layout: post
 title: "IS-MIX advanced mixed-gas rebreather"
 date: "2014-12-20 11:00:00"
-excerpt: <img src="/images/flag_sweden.jpg"/>There's very little information publicly available
-  about the new IS-MIX rebreather, so here it is... <a href="/IS-MIX advanced mixed-gas
-  rebreather.html"><img src="/images/swe_IS-MIX_cover.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_sweden.jpg"/>There's very little information publicly available about the new IS-MIX rebreather, so here it is... <a href="/IS-MIX advanced mixed-gas rebreather.html"><img src="/images/swe_IS-MIX_cover.jpg"/></a>
 ---
+
 ![](/images/flag_sweden.jpg)  
 The Interspiro **IS-MIX** (aka **OMD 10**) is one of the latest generation of Western semi-closed circuit mixed-gas rebreathers. Being one of the most advanced on the market it is used by several NATO Navies and the Swedish Navy's Clearance Divers (aka Navy EOD, aka **'Röjdykare'**). And therefore it isn't the type of kit which is available on the civilian market, and sets naval applications apart from civilian ones. Consequently only minimal information is available in the public domain.   
 ![Rojdykare](/images/swe_IS-MIX_cover.jpg)   

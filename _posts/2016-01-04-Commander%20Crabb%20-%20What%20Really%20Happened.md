@@ -13,8 +13,8 @@ excerpt: "![stars](/images/stars-five.png) The mysterious disappearance of Comma
   \ Diving Society, is a breath of fresh air.  [Read More &gt;....](/Commander Crabb\
   \ - What Really Happened.html \"READ MORE\")<br/><a href=\"/Commander Crabb - What\
   \ Really Happened.html\"><img src=\"/images/CommanderCrabbBook.jpg\"/></a>"
-
 ---
+
 ![stars](/images/stars-five.png)  **Commander Crabb**   
  **What Really Happened**   
 By John Bevan   

@@ -14,8 +14,8 @@ excerpt: "![Flag](/images/flag_nork.jpg) It\u2019s not every day that you can pr
   \  [Read More &gt;....](/United Nations Security Council report uses Covert Shores\
   \ pic.html \"READ MORE\")<br/><a href=\"/United Nations Security Council report\
   \ uses Covert Shores pic.html\"><img src=\"/images/Sinpo_UN900.jpg\"/></a>"
-
 ---
+
 ![Flag](/images/flag_nork.jpg) It’s not every day that you can provide information to the UN Security Council! More seriously, it validates some of the original analysis posted on this blog. The United Nations Security Council has made public a report by The DPRK Panel of Experts advising on Sanctions in light of North Korean missile and nuclear tests. The Feb 2016 report centers on the May 2015 test launch of the KN-11 (“북극성-1” (Pukgeukseong-1)) ballistic missile and related Sinpo Class ballistic missile submarine (SSB). Page 22 uses an original illustration from this blog to show the submarine. And yes they did ask permission before using it, and of course the answer was an unequivocal yes. The report is massive but makes interesting reading. [https://www.un.org/sc/suborg/en/sanctions/1718/panel_experts/reports](http://www.un.org/ga/search/view_doc.asp?symbol=S/2016/157)   
 
 ![sinpo Class ballistic missile submarine north korea](/images/SinpoSide940_tubes.jpg)  

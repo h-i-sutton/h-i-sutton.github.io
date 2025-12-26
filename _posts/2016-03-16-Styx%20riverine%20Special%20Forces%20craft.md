@@ -2,16 +2,10 @@
 layout: post
 title: "Styx riverine Special Forces craft"
 date: "2016-03-16 15:00:00"
-excerpt: '![Flag](/images/flag_france.jpg) The Seawolf ERF1 **Styx** is a small riverine craft
-  especially designed for Special Forces and elite forces in inland waterways. Aimed
-  at the French market, it is particularly suited to the jungle and swamp environments
-  that some units often find themselves in, particularly with the scaling back of
-  operations in Afghanistan and the Middle East.   [Read More &gt;....](/Styx riverine
-  Special Forces craft.html "READ MORE")<br/><a href="/Styx riverine Special Forces
-  craft.html"><img src="/images/Styx02.jpg"/></a><br/><a href="/Styx riverine Special
-  Forces craft.html"><img src="/images/Styx08.jpg"/></a>'
-
+excerpt: |-
+  ![Flag](/images/flag_france.jpg) The Seawolf ERF1 **Styx** is a small riverine craft especially designed for Special Forces and elite forces in inland waterways. Aimed at the French market, it is particularly suited to the jungle and swamp environments that some units often find themselves in, particularly with the scaling back of operations in Afghanistan and the Middle East.   [Read More &gt;....](/Styx riverine Special Forces craft.html "READ MORE")<br/><a href="/Styx riverine Special Forces craft.html"><img src="/images/Styx02.jpg"/></a><br/><a href="/Styx riverine Special Forces craft.html"><img src="/images/Styx08.jpg"/></a>
 ---
+
 *Thank you to everyone that made this possible.*   
   
 ![Flag](/images/flag_france.jpg) The Seawolf ERF1 **Styx** is a small riverine craft especially designed for Special Forces and elite forces in inland waterways. Aimed at the French market, it is particularly suited to the jungle and swamp environments that some units often find themselves in, particularly with the scaling back of operations in Afghanistan and the Middle East.   

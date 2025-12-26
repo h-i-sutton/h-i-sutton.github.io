@@ -2,15 +2,14 @@
 layout: post
 title: "Nahang Class"
 date: "2016-08-28 02:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a> ![Flag](/images/flag_iran.jpg) After years out\
-  \ of sight, Iran\u2019s sole indigenous Nahang (Whale) Class midget sub is confirmed\
-  \ still in service. The 24m (80ft) boat is visible in multiple sequential satellite\
-  \ images from Google Earth from  Dec 2015 through to July 2016.  [Read More &gt;....](/Nahang\
-  \ Class.html \"READ MORE\")<br/><a href=\"/Nahang Class.html\"><img src=\"/images/Naang_sat2.jpg\"\
+excerpt: " ![Flag](/images/flag_iran.jpg) After years out of sight, Iran\u2019s sole indigenous\
+  \ Nahang (Whale) Class midget sub is confirmed still in service. The 24m (80ft)\
+  \ boat is visible in multiple sequential satellite images from Google Earth from\
+  \  Dec 2015 through to July 2016.  [Read More &gt;....](/Nahang Class.html \"READ\
+  \ MORE\")<br/><a href=\"/Nahang Class.html\"><img src=\"/images/Naang_sat2.jpg\"\
   /></a><br clear=\"right\"/>"
-
 ---
+
 ![Flag](/images/flag_iran.jpg) After years out of sight, Iran’s sole indigenous Nahang (Whale) Class midget sub is confirmed still in service. The 24m (80ft) boat is visible in multiple sequential satellite images from Google Earth from Dec 2015 through to July 2016 at Bandar Abbas.   
 ![Nahang Class SSM](/images/Naang_sat3.jpg)  
 ![Nahang Class SSM](/images/Naang_sat1.jpg)  

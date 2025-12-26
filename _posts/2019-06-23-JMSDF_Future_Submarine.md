@@ -2,15 +2,10 @@
 layout: post
 title: "JMSDF_Future_Submarine"
 date: "2019-06-23 03:00:00"
-excerpt: '*Updated. Originally posted 18th June 2019*<br/><a href="https://twitter.com/covertshores"
-  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="6">**29SS:
-  Japan''s Future Submarine**</font><br/>![Flag](/images/flag_japan.jpg) Japanese
-  submarine builder Mitsubishi Heavy Industries showed off their next generation submarine
-  design.... [Read More &gt;....](/JMSDF_Future_Submarine.html "READ MORE")<br/><a
-  href="/JMSDF_Future_Submarine.html"><img src="/images/Jp_Future_SS_profile900.jpg"/></a><br
-  clear="right"/>'
-
+excerpt: |-
+  *Updated. Originally posted 18th June 2019*<br/><font size="6">**29SS: Japan's Future Submarine**</font><br/>![Flag](/images/flag_japan.jpg) Japanese submarine builder Mitsubishi Heavy Industries showed off their next generation submarine design.... [Read More &gt;....](/JMSDF_Future_Submarine.html "READ MORE")<br/><a href="/JMSDF_Future_Submarine.html"><img src="/images/Jp_Future_SS_profile900.jpg"/></a><br clear="right"/>
 ---
+
 *Updated. Originally posted 18th June 2019*  
 **29SS: Japan's Future Submarine**  
 ![Flag](/images/flag_japan.jpg) Japanese submarine builder Mitsubishi Heavy Industries showed off the **29SS** next generation submarine design. The design is also shown in Japanese Ministry of Defense sources suggesting official endorsement by the Japanese Maritime Self-Defense Force (JMSDF). Research and Development phase is planned from 2025-28.   

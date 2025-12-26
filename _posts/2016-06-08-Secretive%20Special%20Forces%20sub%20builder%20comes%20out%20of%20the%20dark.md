@@ -2,19 +2,18 @@
 layout: post
 title: "Secretive Special Forces sub builder comes out of the dark"
 date: "2016-06-08 18:50:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/>![Flag](/images/flag_italy.jpg)\
-  \ One of the world\u2019s premier Special Forces boat/sub builders looks set to\
-  \ enter the export market. For over fifty years **CABI Cattaneo**  has shunned publicity,\
-  \ building a range of cutting edge products for Italy\u2019s COMSUBIN Special Forces\
-  \ with only minimal exports to an equally secretive customer base. That seems to\
-  \ be changing; CABI Cattaneo has come out of the dark... [Read More &gt;....](/Secretive\
-  \ Special Forces sub builder comes out of the dark.html \"READ MORE\")<br/><a href=\"\
-  /Secretive Special Forces sub builder comes out of the dark.html\"><img src=\"/images/CABI_900.jpg\"\
+excerpt: "<br clear=\"right\"/>![Flag](/images/flag_italy.jpg) One of the world\u2019s premier\
+  \ Special Forces boat/sub builders looks set to enter the export market. For over\
+  \ fifty years **CABI Cattaneo**  has shunned publicity, building a range of cutting\
+  \ edge products for Italy\u2019s COMSUBIN Special Forces with only minimal exports\
+  \ to an equally secretive customer base. That seems to be changing; CABI Cattaneo\
+  \ has come out of the dark... [Read More &gt;....](/Secretive Special Forces sub\
+  \ builder comes out of the dark.html \"READ MORE\")<br/><a href=\"/Secretive Special\
+  \ Forces sub builder comes out of the dark.html\"><img src=\"/images/CABI_900.jpg\"\
   /></a><br/><a href=\"/Secretive Special Forces sub builder comes out of the dark.html\"\
   ><img src=\"/images/Todaro900.jpg\"/></a>"
-
 ---
+
 ![CABI Cattaneo](/images/Italy-CABI-Deep-Guardian.jpg)  
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)![Flag](/images/flag_italy.jpg)  **CABI Cattaneo**   
 ![](/images/CABI_logo.jpg) One of the world’s premier Special Forces boat/sub builders looks set to enter the export market. For over fifty years **CABI Cattaneo** has shunned publicity, building a range of cutting edge products for Italy’s COMSUBIN Special Forces with only minimal exports to an equally secretive customer base. That seems to be changing; CABI Cattaneo has come out of the dark...   

@@ -2,9 +2,8 @@
 layout: post
 title: "Russian-Navy-Belgorod-Submarines-Evolution"
 date: "2021-03-27 12:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**Russian Navy Spy Submarine\
-  \ Belgorod: evolution of OSINT**</font><br clear=\"right\"/><a href=\"/Russian-Navy-Belgorod-Submarines-Evolution.html\"\
+excerpt: "<font size=\"5\">**Russian Navy Spy Submarine Belgorod: evolution of OSINT**</font><br\
+  \ clear=\"right\"/><a href=\"/Russian-Navy-Belgorod-Submarines-Evolution.html\"\
   ><img align=\"left\" src=\"/images/Russia-Navy-Belgorod-Submarine-Evolution-317.jpg\"\
   /></a>![Flag Russia](/images/flag_russia.jpg) Information is very limited about\
   \ the Russian Navy's largest new submarine, the Project 09852 K-329 Belgorod (\"\
@@ -14,8 +13,8 @@ excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img ali
   \ only came to the fore in November 2019. <br/><br/>Here is how the picture evolved...\
   \ <br/>[Read More &gt;....](/Russian-Navy-Belgorod-Submarines-Evolution.html \"\
   READ MORE\")<br clear=\"left\"/>"
-
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 [![](/images/Russia-Navy-Belgorod-Submarine-Evolution-940.jpg)](/images/Russia-Navy-Belgorod-Submarine-Evolution.jpg)  
 CLICK to enlarge.  

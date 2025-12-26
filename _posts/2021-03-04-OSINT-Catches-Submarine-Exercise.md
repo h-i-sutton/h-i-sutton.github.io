@@ -2,16 +2,10 @@
 layout: post
 title: "OSINT-Catches-Submarine-Exercise"
 date: "2021-03-04 01:01:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**OSINT Crosshairs: Satellite Catches Submarine  Photo Op**</font><br clear="right"/><a
-  href="/OSINT-Catches-Submarine-Exercise.html"><img align="left" src="/images/Italian-Navy-Type-212A-317.jpg"/></a>
-  During NATO''s Dynamic Manta exercise in the Mediterranean last month a German Navy
-  P-3C Orion maritime patrol aircraft conducted an anti-submarine exercise with an
-  Italian Navy Type-212A Todaro Class submarine.<br/><br/>But the *Marineflieger*
-  were not the only ones watching...<br/>[Read More &gt;....](/OSINT-Catches-Submarine-Exercise.html
-  "READ MORE")<br clear="left"/>'
-
+excerpt: |-
+  <font size="6">**OSINT Crosshairs: Satellite Catches Submarine  Photo Op**</font><br clear="right"/><a href="/OSINT-Catches-Submarine-Exercise.html"><img align="left" src="/images/Italian-Navy-Type-212A-317.jpg"/></a> During NATO's Dynamic Manta exercise in the Mediterranean last month a German Navy P-3C Orion maritime patrol aircraft conducted an anti-submarine exercise with an Italian Navy Type-212A Todaro Class submarine.<br/><br/>But the *Marineflieger* were not the only ones watching...<br/>[Read More &gt;....](/OSINT-Catches-Submarine-Exercise.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)  
 [![](/images/Italian-Navy-Type-212A-Submarine-Air-OSINT-940.jpg)](/images/Italian-Navy-Type-212A-Submarine-Air-OSINT.jpg)  
 *Click for high resolution. Sentinel-2 satellite image analyzed by @OSINT_1*  

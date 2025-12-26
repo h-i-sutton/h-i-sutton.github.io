@@ -2,16 +2,9 @@
 layout: post
 title: "Cellula's Solus-XR XLUUV Hits The Water"
 date: "2023-09-07 11:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Canada-Cellula-Solus-XR-News.html"><img align="left" src="/images/Canada-Cellula-Solus-XR-W317.jpg"/></a>
-  ![Flag Canada](/images/flag_canada.jpg) The first images of Cellula's new autonomous
-  underwater vehicle in the water have surfaced. The Canadian company's Solus-XR is
-  a long-range extra-large uncrewed underwater vehicle (XLUUV)...<br/>[Read More &gt;....](/Canada-Cellula-Solus-XR-News.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Canada-Cellula-Solus-XR-News.html"><img align="left" src="/images/Canada-Cellula-Solus-XR-W317.jpg"/></a> ![Flag Canada](/images/flag_canada.jpg) The first images of Cellula's new autonomous underwater vehicle in the water have surfaced. The Canadian company's Solus-XR is a long-range extra-large uncrewed underwater vehicle (XLUUV)...<br/>[Read More &gt;....](/Canada-Cellula-Solus-XR-News.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 ![Cellula Solus-XR XLUUV](/images/Canada-Cellula-Solus-XR-Water.jpg)  
 

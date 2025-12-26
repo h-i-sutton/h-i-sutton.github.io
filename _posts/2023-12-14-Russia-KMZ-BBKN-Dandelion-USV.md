@@ -2,18 +2,9 @@
 layout: post
 title: "New Russian USV to counter Ukraine's"
 date: "2023-12-14 23:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Russia-KMZ-BBKN-Dandelion-USV.html"><img align="left" src="/images/Russia-KMZ-BBKN-Dandelion-USV-317.jpg"/></a>
-  ![Flag Russia](/images/flag_russia.jpg) Russian media is reporting that the country's
-  first Ukrainian-style USV ( (uncrewed surface vessel)  will soon be deployed to
-  the Black Sea. The **BBKN Dandelion** is a small USV developed by KMZ in St. Petersburg.<br/><br/>The
-  latest image suggests a very different design to the RK-700 Vizir USVs previously
-  marketed by the company...<br/>[Read More &gt;....](/Russia-KMZ-BBKN-Dandelion-USV.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russia-KMZ-BBKN-Dandelion-USV.html"><img align="left" src="/images/Russia-KMZ-BBKN-Dandelion-USV-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Russian media is reporting that the country's first Ukrainian-style USV ( (uncrewed surface vessel)  will soon be deployed to the Black Sea. The **BBKN Dandelion** is a small USV developed by KMZ in St. Petersburg.<br/><br/>The latest image suggests a very different design to the RK-700 Vizir USVs previously marketed by the company...<br/>[Read More &gt;....](/Russia-KMZ-BBKN-Dandelion-USV.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #New Russian USV to counter Ukraine's![Flag Russia](/images/flag_russia.jpg) Russian media is reporting that the country's first Ukrainian-style USV (uncrewed surface vessel) will soon be deployed to the Black Sea. The **BBKN Dandelion** (ББКН «Одуванчик») is a small USV developed by KMZ (Kingisepp Machine-Building Plant) in St. Petersburg. The latest image suggests a very different design to the RK-700 Vizir USVs previously marketed by the company.   
 ![New Russian USV Dandelion](/images/Russia-Dandelion-USV-Profile.jpg)  

@@ -2,12 +2,10 @@
 layout: post
 title: "21st Century Human Torpedo - Gabler SDV"
 date: "2015-10-08 10:00:00"
-excerpt: <img src="/images/flag_germany.jpg"/> Dubbed the **Sea Devil**, Gabler's two-man SDV
-  (Swimmer Delivery Vehicle) is a unique reintrepration of the Human Torpedo concept
-  .... <br/><a href="/21st Century Human Torpedo - Gabler SDV.html"><img src="/images/Gabler900.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_germany.jpg"/> Dubbed the **Sea Devil**, Gabler's two-man SDV (Swimmer Delivery Vehicle) is a unique reintrepration of the Human Torpedo concept .... <br/><a href="/21st Century Human Torpedo - Gabler SDV.html"><img src="/images/Gabler900.jpg"/></a>
 ---
+
 ![Gabler SDV](/images/Gabler900.jpg)  
   
 

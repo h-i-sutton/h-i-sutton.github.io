@@ -2,14 +2,10 @@
 layout: post
 title: "Iranian-Navy-Mowj-Class"
 date: "2021-01-01 09:01:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Iran''s latest Mowj Class warship: IRIS Dena**</font><br clear="right"/><a
-  href="/Iranian-Navy-Mowj-Class.html"><img align="left" src="/images/Iran-Dena-Frigate-Mowj-Class-317.jpg"/></a>![Flag](/images/flag_iran.jpg)
-  Although it has barely been reported in English language sources, the Iranian Navy
-  has taken delivery of another Mowj class frigate...<br/>[Read More &gt;....](/Iranian-Navy-Mowj-Class.html
-  "READ MORE")<br clear="left"/>'
-
+excerpt: |-
+  <font size="6">**Iran's latest Mowj Class warship: IRIS Dena**</font><br clear="right"/><a href="/Iranian-Navy-Mowj-Class.html"><img align="left" src="/images/Iran-Dena-Frigate-Mowj-Class-317.jpg"/></a>![Flag](/images/flag_iran.jpg) Although it has barely been reported in English language sources, the Iranian Navy has taken delivery of another Mowj class frigate...<br/>[Read More &gt;....](/Iranian-Navy-Mowj-Class.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![Iranian Navy's warship Dena has the new Asr radar](/images/Iran-Dena-Frigate-Mowj-Class.jpg)  
 

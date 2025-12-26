@@ -2,9 +2,8 @@
 layout: post
 title: "OSINT: Ukrainian Drone Took Inland Approach To Attack Russian Navy Headquarters At Sevastopol"
 date: "2022-08-21 22:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Attack-on-Russian-Navy-HQ-At-Sevastopol.html\"\
-  ><img align=\"left\" src=\"/images/Russia-Crimea-Sevastopol-Navy-HQ-317.jpg\"/></a>\
+excerpt: "<br clear=\"right\"/><a href=\"/Attack-on-Russian-Navy-HQ-At-Sevastopol.html\"><img\
+  \ align=\"left\" src=\"/images/Russia-Crimea-Sevastopol-Navy-HQ-317.jpg\"/></a>\
   \ ![Flag Russia](/images/flag_russia.jpg) Sevastopol harbour, the main naval base\
   \ for Russia\u2019s Black Sea fleet (BSF) has, until now, been largely unaffected\
   \ by the sharp end of the Ukraine War. Butthe past week or so has seen Ukraine bring\
@@ -12,8 +11,8 @@ excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img ali
   \ broad daylight. Interestingly, the drone approached from inland...<br/>[Read More\
   \ &gt;....](/Attack-on-Russian-Navy-HQ-At-Sevastopol.html \"READ MORE\")<br clear=\"\
   left\"/>"
-
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #OSINT: Ukrainian Drone Took Inland Approach To Attack Russian Navy Headquarters At Sevastopol![Flag Russia](/images/flag_russia.jpg) Sevastopol harbour, the main naval base for Russia’s Black Sea fleet (BSF) has, until now, been largely unaffected by the sharp end of the Ukraine War. There had been an air defense launch early in the war and a drone attack on the navy headquarters in July. But these felt like isolated incidents. Russian tourists still flocked to its beaches and residents casually strolled along the quayside.   

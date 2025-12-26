@@ -2,15 +2,10 @@
 layout: post
 title: "OSINT-Iranian-IRGC-Fake-Carrier-Breaking-Apart"
 date: "2021-01-18 13:01:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**OSINT Curiosity: Wreck Of Iran''s Fake Aircraft Carrier Is Breaking Apart**</font><br
-  clear="right"/><a href="/OSINT-Iranian-IRGC-Fake-Carrier-Breaking-Apart.html"><img
-  align="left" src="/images/Iran-Fake-Carrier-Breaking-Up-317.jpg"/></a>![Flag](/images/flag_iran.jpg)
-  The IRGC''s (Islamic Revolutionary Guard Corps) fake aircraft carrier, built as
-  a target for war games, is now breaking apart...<br/><br/>[Read More &gt;....](/OSINT-Iranian-IRGC-Fake-Carrier-Breaking-Apart.html
-  "READ MORE")<br clear="left"/>'
-
+excerpt: |-
+  <font size="6">**OSINT Curiosity: Wreck Of Iran's Fake Aircraft Carrier Is Breaking Apart**</font><br clear="right"/><a href="/OSINT-Iranian-IRGC-Fake-Carrier-Breaking-Apart.html"><img align="left" src="/images/Iran-Fake-Carrier-Breaking-Up-317.jpg"/></a>![Flag](/images/flag_iran.jpg) The IRGC's (Islamic Revolutionary Guard Corps) fake aircraft carrier, built as a target for war games, is now breaking apart...<br/><br/>[Read More &gt;....](/OSINT-Iranian-IRGC-Fake-Carrier-Breaking-Apart.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 #OSINT Curiosity: Wreck Of Iran's Fake Aircraft Carrier Is Breaking Apart![Flag](/images/flag_iran.jpg) Breaking up has never been easy. The IRGC's (Islamic Revolutionary Guard Corps) fake aircraft carrier, built as a target for war games, is now breaking apart. The vessel capsized and sunk while being towed back to Bandar Abbas at the end of July 2020. Since then it has rolled over onto its back and drifted with the currents several times. In the latest satellite imagery the port-side trimaran outrigger has become detached toward the stern of the vessel. This again increases the risks posed to maritime traffic.   

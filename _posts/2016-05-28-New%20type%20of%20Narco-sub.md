@@ -2,15 +2,10 @@
 layout: post
 title: "New type of Narco-sub"
 date: "2016-05-28 02:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/>Just when you thought that the design of narco-subs had standardized,
-  a new type arrives. On 20th May the Colombian and Ecuadorian forces intercepted
-  a drug-laden narco-sub near the Galapagos Islands in the Pacific. The design is
-  new and interesting in several ways. [Read More &gt;....](/New type of Narco-sub.html
-  "READ MORE")<br/><a href="/New type of Narco-sub.html"><img src="/images/Narco_fast900.jpg"/></a>
-...
-
+excerpt: |-
+  <br clear="right"/>Just when you thought that the design of narco-subs had standardized, a new type arrives. On 20th May the Colombian and Ecuadorian forces intercepted a drug-laden narco-sub near the Galapagos Islands in the Pacific. The design is new and interesting in several ways. [Read More &gt;....](/New type of Narco-sub.html "READ MORE")<br/><a href="/New type of Narco-sub.html"><img src="/images/Narco_fast900.jpg"/></a>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![New type of Narco-sub](/images/Narco_fast1.jpg)   
 Just when you thought that the design of narco-subs had standardized, a new type arrives. On 20th May the Colombian and Ecuadorian forces intercepted a drug-laden narco-sub near the Galapagos Islands in the Pacific. The design is new and interesting in several ways.   

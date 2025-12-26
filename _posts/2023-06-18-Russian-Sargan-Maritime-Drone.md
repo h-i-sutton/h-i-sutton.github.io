@@ -2,18 +2,9 @@
 layout: post
 title: "Russia's Copy Of Ukraine's Maritime Drones: Sargan USV"
 date: "2023-06-18 22:30:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Russian-Sargan-Maritime-Drone.html"><img align="left" src="/images/Russia-USV-Sargan-317.jpg"/></a>
-  ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg)
-  A group from Sevastopol has displayed a new uncrewed surface vessel, the Sargan,
-  at the St. Petersburg International Economic Forum (SPIEF).<br/><br/>The 'Sargan'
-  vehicle has clear influences from Ukraine's 'maritime drones'. These have been attacking
-  the Russian Navy in Sevastopol since October 2022...<br/>[Read More &gt;....](/Russian-Sargan-Maritime-Drone.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russian-Sargan-Maritime-Drone.html"><img align="left" src="/images/Russia-USV-Sargan-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) A group from Sevastopol has displayed a new uncrewed surface vessel, the Sargan, at the St. Petersburg International Economic Forum (SPIEF).<br/><br/>The 'Sargan' vehicle has clear influences from Ukraine's 'maritime drones'. These have been attacking the Russian Navy in Sevastopol since October 2022...<br/>[Read More &gt;....](/Russian-Sargan-Maritime-Drone.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Russia's Copy Of Ukraine's Maritime Drones: Sargan USV![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) They say that imitation is the sincerest form of flattery. A group from Sevastopol has displayed a new uncrewed surface vessel, the Sargan, at the St. Petersburg International Economic Forum (SPIEF), as noticed by uncrewed systems expert at CNA (Center for Naval Analyses), Samuel Bendett ([Twitter](https://twitter.com/sambendett/status/1670514152010403842)). The 'Sargan' vehicle has clear influences from Ukraine's 'maritime drones'. These have been attacking the Russian Navy in Sevastopol since October 2022. Sargan (Сарган) means Garfish, a long and slender predatory fish with an extremely pointed snout.   
 

@@ -18,8 +18,8 @@ excerpt: "Until now, the underwater craft employed by the World\u2019s Special F
   \ More &gt;....](/Now available on Amazon - Covert Shores.html \"READ MORE\")<br/><a\
   \ href=\"/Now available on Amazon - Covert Shores.html\"><img src=\"/images/Book_cover.jpg\"\
   /></a>"
-
 ---
+
   
 [![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)>>>The ultimate book of Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**  is the ONLY world history of naval Special Forces, their missions and their specialist vehicles. **SEALs**, **SBS**, **COMSUBIN**, **Sh-13**, **Spetsnaz**, **Kampfschwimmers**, **Commando Hubert**, **4RR** and many more.  
 [![](/images/Maiale_arrow.png)](http://www.amazon.com/dp/1533114870/)[Check it out on Amazon](http://www.amazon.com/dp/1533114870/)  

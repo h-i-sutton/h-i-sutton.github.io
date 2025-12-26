@@ -2,18 +2,14 @@
 layout: post
 title: "Chinese Navy (PLAN) Extra-Large & Extra-Extra-Large Underwater Vehicles"
 date: "2025-10-27 23:00:00"
-excerpt: "<a href=\"https://bsky.app/profile/covertshores.bsky.social\" target=\"blank\"><img\
-  \ align=\"right\" src=\"/images/Icon_Bluesky.jpg\"/></a><br clear=\"right\"/><a\
-  \ href=\"/Chinese-XLUUVs.html\"><img align=\"left\" src=\"/images/China-XLUUV-317.jpg\"\
-  /></a> ![Flag China](/images/flag_China.jpg) China\u2019s development of extra-large\
-  \ uncrewed underwater vehicles (XLUUVs) is now unmatched globally, and accelerating\
-  \ rapidly. No other nation is pursuing undersea autonomy at comparable scale, scope,\
-  \ or speed.<br/><br/>Four factors set China\u2019s program apart from all others...<br/>[Read\
-  \ More &gt;....](/Chinese-XLUUVs.html \"READ MORE\")<br clear=\"left\"/>"
-
+excerpt: "<br clear=\"right\"/><a href=\"/Chinese-XLUUVs.html\"><img align=\"left\" src=\"\
+  /images/China-XLUUV-317.jpg\"/></a> ![Flag China](/images/flag_China.jpg) China\u2019\
+  s development of extra-large uncrewed underwater vehicles (XLUUVs) is now unmatched\
+  \ globally, and accelerating rapidly. No other nation is pursuing undersea autonomy\
+  \ at comparable scale, scope, or speed.<br/><br/>Four factors set China\u2019s program\
+  \ apart from all others...<br/>[Read More &gt;....](/Chinese-XLUUVs.html \"READ\
+  \ MORE\")<br clear=\"left\"/>"
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 [![](/images/China-XLUUV-940.jpg)](/images/China-XLUUV.jpg)  
 *CLICK to Enlarge.*  

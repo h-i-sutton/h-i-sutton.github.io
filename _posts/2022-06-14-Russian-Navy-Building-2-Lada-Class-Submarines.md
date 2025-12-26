@@ -2,17 +2,10 @@
 layout: post
 title: "Russia Building More Lada Submarines: Potemkin Class?"
 date: "2022-06-14 10:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Russian-Navy-Building-2-Lada-Class-Submarines.html"><img
-  align="left" src="/images/Russia-Lada-Submarine-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  Russia is good at building impressive and powerfully armed submarines. Now, amidst
-  the Ukraine War and continued efforts to modernize its navy, the keels of two new
-  Pr.677 Lada class submarines have been laid.<br/><br/>This seems unrealistic...<br/>[Read
-  More &gt;....](/Russian-Navy-Building-2-Lada-Class-Submarines.html "READ MORE")<br
-  clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russian-Navy-Building-2-Lada-Class-Submarines.html"><img align="left" src="/images/Russia-Lada-Submarine-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Russia is good at building impressive and powerfully armed submarines. Now, amidst the Ukraine War and continued efforts to modernize its navy, the keels of two new Pr.677 Lada class submarines have been laid.<br/><br/>This seems unrealistic...<br/>[Read More &gt;....](/Russian-Navy-Building-2-Lada-Class-Submarines.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 ![Russian Lada Class Submarine](/images/Russia-Lada-Submarine.jpg)  
 *Lada Class Submarine*  

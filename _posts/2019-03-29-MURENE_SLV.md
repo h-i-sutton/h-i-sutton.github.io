@@ -2,15 +2,10 @@
 layout: post
 title: "MURENE_SLV"
 date: "2019-03-29 11:01:00"
-excerpt: '*Updated with additional images: originally posted 6th Sept. 2018*<br/><a href="https://twitter.com/covertshores"
-  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="6">**SLV-Murene
-  diver propulsion device**</font><br/><img src="/images/flag_france.jpg"/> The **MURENE**
-  Subsea Light Vehicle (**SLV**) is the latest generation of Diver Propulsion Device
-  (DPD) developed by French SDV (Swimmer Deliver Vehicle) manufacturer Alseamar...
-  <br/><a href="/MURENE_SLV.html"><img src="/images/Fr_Alseamar_Murene900.jpg"/></a><br
-  clear="right">[Read More &gt;....](/MURENE_SLV.html "READ MORE")<br/></br>'
-
+excerpt: |-
+  *Updated with additional images: originally posted 6th Sept. 2018*<br/><font size="6">**SLV-Murene diver propulsion device**</font><br/><img src="/images/flag_france.jpg"/> The **MURENE** Subsea Light Vehicle (**SLV**) is the latest generation of Diver Propulsion Device (DPD) developed by French SDV (Swimmer Deliver Vehicle) manufacturer Alseamar... <br/><a href="/MURENE_SLV.html"><img src="/images/Fr_Alseamar_Murene900.jpg"/></a><br clear="right">[Read More &gt;....](/MURENE_SLV.html "READ MORE")<br/></br>
 ---
+
 ##### Share:
 
 *Updated with additional images: originally posted 6th Sept. 2018*  

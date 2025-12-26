@@ -2,15 +2,14 @@
 layout: post
 title: "Centaur_assault_boat"
 date: "2018-09-15 03:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Ukrainian Centaur Class armored\
-  \ assault boat**</font><br/><img src=\"/images/flag_ukraine.jpg\"/> The new Project\
-  \ 58181 **Centaur Class** are a hybrid of Ukraine\u2019s stereotypical Armored Artillery\
-  \ Boat concept and the Swedish Assault Boat concept..... <br/> <br/><a href=\"/Centaur_assault_boat.html\"\
+excerpt: "<font size=\"6\">**Ukrainian Centaur Class armored assault boat**</font><br/><img\
+  \ src=\"/images/flag_ukraine.jpg\"/> The new Project 58181 **Centaur Class** are\
+  \ a hybrid of Ukraine\u2019s stereotypical Armored Artillery Boat concept and the\
+  \ Swedish Assault Boat concept..... <br/> <br/><a href=\"/Centaur_assault_boat.html\"\
   ><img src=\"/images/Ukraine_Centaur_900.jpg\"/></a><br/>[Read More &gt;....](/Centaur_assault_boat.html\
   \ \"READ MORE\")"
-
 ---
+
 Share:[![](/images/mailto.jpg)](mailto:?subject=Shared%20from%20Covert%20Shores&body=http%3A%2F%2Fwww.hisutton.com%2FCentaur_assault_boat.html)_[![](/images/shareFacebook.jpg)](https://www.facebook.com/sharer/sharer.php?u=#url)_[![](/images/shareTwitter.jpg)](https://twitter.com/intent/tweet?text=Covert%20Shores%20-%20Centaur_assault_boat%20@CovertShores&url=http%3A%2F%2Fwww.hisutton.com%2FCentaur_assault_boat.html&hashtags=Submarines)  
 ![Ukrainian Centaur Class](/images/Ukraine_Centaur_940.jpg)  
 **Ukrainian Centaur Class armored assault boat**  

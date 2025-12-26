@@ -2,18 +2,9 @@
 layout: post
 title: "KILO Class Submarine"
 date: "2023-08-17 17:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Kilo-Class-Submarine.html"><img align="left" src="/images/Russia-KILO-Submarine-317.jpg"/></a>
-  ![Flag Russia](/images/flag_russia.jpg) The KILO Class was the last major Soviet
-  diesel-electric submarine of the Cold War era. Today it remains the most prolific
-  class of submarine. Much of its success has been after the collapse of the USSR,
-  with it becoming the main Russian non-nuclear submarine class and also widely exported.<br/><br/>During
-  the Cold War the then-new submarine gained a reputation for stealth...<br/>[Read
-  More &gt;....](/Kilo-Class-Submarine.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Kilo-Class-Submarine.html"><img align="left" src="/images/Russia-KILO-Submarine-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The KILO Class was the last major Soviet diesel-electric submarine of the Cold War era. Today it remains the most prolific class of submarine. Much of its success has been after the collapse of the USSR, with it becoming the main Russian non-nuclear submarine class and also widely exported.<br/><br/>During the Cold War the then-new submarine gained a reputation for stealth...<br/>[Read More &gt;....](/Kilo-Class-Submarine.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #KILO Class Submarine![Flag Russia](/images/flag_russia.jpg) Many of the cruise missiles that the Russia is throwing at Ukraine are launched from submarines. In the Black Sea, 4 Improved KILO Class submarines represent the most formidable Russian Navy assets. Each boat can carry 3-4 Kalibr cruise missiles, particularly the SS-N-30A SAGARIS land attack variant. Russia has leant heavily on this missile to disrupt Ukraine's counteroffensive.  
 

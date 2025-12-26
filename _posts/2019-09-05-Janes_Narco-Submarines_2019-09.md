@@ -2,17 +2,16 @@
 layout: post
 title: "Janes_Narco-Submarines_2019-09"
 date: "2019-09-05 00:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a> <font size=\"5\">**Jane's Intelligence Review\
-  \ (JIR) Article:<br/>Narco-sub design evolves to evade detection**</font><br/>So-called\
-  \ \u2018narco-submarines\u2019 have become increasingly sophisticated, even though\
-  \ they ship only a fraction of the total cocaine entering the United States. In\
-  \ my latest Jane's Intelligence Review (JIR) article I analyse the innovations and\
-  \ evolutions that the vessels have undergone..... <br/><a href=\"/Janes_Narco-Submarines_2019-09.html\"\
-  ><img src=\"/images/Janes_NarcoSubs900.jpg\"/></a><br/>[Read More &gt;....](/Janes_Narco-Submarines_2019-09.html\
+excerpt: " <font size=\"5\">**Jane's Intelligence Review (JIR) Article:<br/>Narco-sub design\
+  \ evolves to evade detection**</font><br/>So-called \u2018narco-submarines\u2019\
+  \ have become increasingly sophisticated, even though they ship only a fraction\
+  \ of the total cocaine entering the United States. In my latest Jane's Intelligence\
+  \ Review (JIR) article I analyse the innovations and evolutions that the vessels\
+  \ have undergone..... <br/><a href=\"/Janes_Narco-Submarines_2019-09.html\"><img\
+  \ src=\"/images/Janes_NarcoSubs900.jpg\"/></a><br/>[Read More &gt;....](/Janes_Narco-Submarines_2019-09.html\
   \ \"READ MORE\")"
-
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Jane's Intelligence Review (JIR) Article:  
 Narco-sub design evolves to evade detection**   
 

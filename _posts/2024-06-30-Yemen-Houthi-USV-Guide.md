@@ -2,16 +2,9 @@
 layout: post
 title: "Houthi's Blowfish: Guide To Explosive USV Threat In Red Sea"
 date: "2024-06-30 10:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Yemen-Houthi-USV-Guide.html"><img align="left" src="/images/Yemen-Houthi-Explosive-USVs-317.jpg"/></a>
-  ![Flag Houthi](/images/flag_Houthi.jpg)Recent attacks with USVs, such as the sinking
-  of MV Tutor, have brought their threat to the fore.<br/><br/>This guide will describe
-  the observed types of Houthi USV...<br/>[Read More &gt;....](/Yemen-Houthi-USV-Guide.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Yemen-Houthi-USV-Guide.html"><img align="left" src="/images/Yemen-Houthi-Explosive-USVs-317.jpg"/></a> ![Flag Houthi](/images/flag_Houthi.jpg)Recent attacks with USVs, such as the sinking of MV Tutor, have brought their threat to the fore.<br/><br/>This guide will describe the observed types of Houthi USV...<br/>[Read More &gt;....](/Yemen-Houthi-USV-Guide.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 [![](/images/Yemen-Houthi-Explosive-USVs-940.jpg)](/images/Yemen-Houthi-Explosive-USVs.jpg)  
 *CLICK to Enlarge.*  

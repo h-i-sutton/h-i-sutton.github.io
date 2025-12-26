@@ -12,8 +12,8 @@ excerpt: "<img src=\"/images/flag_italy.jpg\"/>  The Italian Navy\u2019s MSM-1S 
   \ Museum at La Spezia.html \"READ MORE\")<br/><a href=\"/MSM-1S lock-out sub joins\
   \ Technical Naval Museum at La Spezia.html\"><img src=\"/images/MSM1S_900.jpg\"\
   /></a>"
-
 ---
+
 ![Flag](/images/flag_italy.jpg) The Italian Navy’s MSM-1S / USEL deep sea rescue vehicle (DSRV) has been replaced in service by the SRV-300. The heavily built deep diving submarine has been spared the breaker’s yard and is now on display at the [Technical Naval Museum at La Spezia](http://www.marina.difesa.it/storiacultura/ufficiostorico/musei/museotecnav/Pagine/default.aspx)   
 ![MSM-1S USEL COMSUBIN rescue Submarine DSRV](/images/MSM1S_900.jpg)   
 Built in 1980 by Breda Cantieri di Porto Marghera, the functionally formed MSM-1S was nicknamed "Woodstock" after the canary in the Peanuts comics.   

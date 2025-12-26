@@ -2,15 +2,10 @@
 layout: post
 title: "Cn_Type-094_Incident"
 date: "2019-10-16 03:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Chinese Type-094A Jin Class SSBN in SCS incident, Sept 2019**</font><br/><img
-  src="/images/flag_China.jpg"/> An incident in September, which has only now come
-  to light, illustrates the mutual danger of submarines and fishing vessels...<br/><a
-  href="/Cn_Type-094_Incident.html"><img src="/images/Cn_Type-094_fishing_long900.jpg"/></a><br/>[Read
-  More &gt;....](/Cn_Type-094_Incident.html "READ MORE")
-...
-
+excerpt: |-
+  <font size="6">**Chinese Type-094A Jin Class SSBN in SCS incident, Sept 2019**</font><br/><img src="/images/flag_China.jpg"/> An incident in September, which has only now come to light, illustrates the mutual danger of submarines and fishing vessels...<br/><a href="/Cn_Type-094_Incident.html"><img src="/images/Cn_Type-094_fishing_long900.jpg"/></a><br/>[Read More &gt;....](/Cn_Type-094_Incident.html "READ MORE")
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 **Chinese Type-094A Jin Class SSBN in SCS incident, Sept 2019**  

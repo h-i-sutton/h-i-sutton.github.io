@@ -2,17 +2,16 @@
 layout: post
 title: "Kalvari Class Submarine: The Scorpène's New Sting"
 date: "2021-04-09 12:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**Kalvari Class Submarine: The\
-  \ Scorp\xE8ne's New Sting**</font><br clear=\"right\"/><a href=\"/Scorpene-Class-Submarine.html\"\
-  ><img align=\"left\" src=\"/images/Kalvari-Class-Submarine-317.jpg\"/></a>![Flag\
-  \ India](/images/flag_india.jpg) The latest attack submarines to join the Indian\
-  \ Navy, the six Kalvari Class boats were ordered under the P-75 program. A derivative\
-  \ of the French Scorp\xE8ne Class. they will soon differ in one significant way:\
-  \ they will be upgraded with Air Independent Power (AIP).<br/><br/>[Read More &gt;....](/Scorpene-Class-Submarine.html\
-  \ \"READ MORE\")<br clear=\"left\"/>"
-
+excerpt: "<font size=\"5\">**Kalvari Class Submarine: The Scorp\xE8ne's New Sting**</font><br\
+  \ clear=\"right\"/><a href=\"/Scorpene-Class-Submarine.html\"><img align=\"left\"\
+  \ src=\"/images/Kalvari-Class-Submarine-317.jpg\"/></a>![Flag India](/images/flag_india.jpg)\
+  \ The latest attack submarines to join the Indian Navy, the six Kalvari Class boats\
+  \ were ordered under the P-75 program. A derivative of the French Scorp\xE8ne Class.\
+  \ they will soon differ in one significant way: they will be upgraded with Air Independent\
+  \ Power (AIP).<br/><br/>[Read More &gt;....](/Scorpene-Class-Submarine.html \"READ\
+  \ MORE\")<br clear=\"left\"/>"
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 [![](/images/Kalvari-Class-Submarine-Cutaway-940.jpg)](/images/Kalvari-Class-Submarine-Cutaway.jpg)  
 CLICK to enlarge.  

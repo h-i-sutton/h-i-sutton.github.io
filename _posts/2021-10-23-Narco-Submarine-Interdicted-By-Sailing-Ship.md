@@ -2,15 +2,10 @@
 layout: post
 title: "Narco Submarine Stopped By Ecuadorian Navy Sailing Ship"
 date: "2021-10-23 19:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Narco-Submarine-Interdicted-By-Sailing-Ship.html"><img
-  align="left" src="/images/Guayas-Tall-Ship-stops-Narco-Submarine-317.jpg"/></a>
-  Not what you expect to hear, this might be unique. A modern-day smuggler's boat
-  was interdicted by a navy operated sailing ship in the Pacific. <br/>[Read More
-  &gt;....](/Narco-Submarine-Interdicted-By-Sailing-Ship.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Narco-Submarine-Interdicted-By-Sailing-Ship.html"><img align="left" src="/images/Guayas-Tall-Ship-stops-Narco-Submarine-317.jpg"/></a> Not what you expect to hear, this might be unique. A modern-day smuggler's boat was interdicted by a navy operated sailing ship in the Pacific. <br/>[Read More &gt;....](/Narco-Submarine-Interdicted-By-Sailing-Ship.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 [![](/images/Guayas-Tall-Ship-stops-Narco-Submarine-940.jpg)](/images/Guayas-Tall-Ship-stops-Narco-Submarine.jpg)  
 *CLICK to Enlarge.  

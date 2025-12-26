@@ -2,15 +2,10 @@
 layout: post
 title: "Pr09852_Belgorod_Launch"
 date: "2019-03-22 13:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Belgorod due for launch**</font><br/><img src="/images/flag_russia.jpg"/>
-  The unique Project 09852 Class submarine, Belgorod, is expected to be rolled out
-  of the sheds at Sevmash shipyard in Severodvinsk in just less than two weeks time....
-  <br/><a href="/Pr09852_Belgorod_Launch.html"><img src="/images/Ru_Belgorod_badge900.jpg"/></a><br/>[Read
-  More &gt;....](/Pr09852_Belgorod_Launch.html "READ MORE")
-...
-
+excerpt: |-
+  <font size="6">**Belgorod due for launch**</font><br/><img src="/images/flag_russia.jpg"/> The unique Project 09852 Class submarine, Belgorod, is expected to be rolled out of the sheds at Sevmash shipyard in Severodvinsk in just less than two weeks time.... <br/><a href="/Pr09852_Belgorod_Launch.html"><img src="/images/Ru_Belgorod_badge900.jpg"/></a><br/>[Read More &gt;....](/Pr09852_Belgorod_Launch.html "READ MORE")
 ---
+
 ##### Share: __
 
 ![Flag](/images/flag_russia.jpg) The unique Project 09852 Class submarine, [Belgorod](http://www.hisutton.com{% post_url 2019-10-18-Spy%20Subs%20-Project%2009852%20Belgorod %}), is expected to be rolled out of the sheds at Sevmash shipyard in Severodvinsk in just less than two weeks time. When it is launched it will be the second largest submarine in the world after the remaining [TYPHOON](http://www.hisutton.com{% post_url 2020-02-04-The%20REAL%20Red%20October%20-%20Typhoon%20SSBN %}) Class boat.   

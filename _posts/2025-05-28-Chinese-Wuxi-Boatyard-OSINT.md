@@ -2,19 +2,9 @@
 layout: post
 title: "Revealed: A Key Shipyard In Chain'a Naval Revolution"
 date: "2025-05-28 18:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Chinese-Wuxi-Boatyard-OSINT.html"><img
-  align="left" src="/images/China-Wuxi-Shipyard-geolocation-317.jpg"/></a> ![Flag
-  China](/images/flag_China.jpg) A small boatyard, backing onto a narrow urban canal,
-  may be playing an outsized role in China's naval modernisation. The unassuming site
-  is in Wuxi, west of Shanghai, and around 90 miles inland.<br/><br/> Analysis indicates
-  that it is building cutting edge uncrewed vessels...<br/>[Read More &gt;....](/Chinese-Wuxi-Boatyard-OSINT.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Chinese-Wuxi-Boatyard-OSINT.html"><img align="left" src="/images/China-Wuxi-Shipyard-geolocation-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) A small boatyard, backing onto a narrow urban canal, may be playing an outsized role in China's naval modernisation. The unassuming site is in Wuxi, west of Shanghai, and around 90 miles inland.<br/><br/> Analysis indicates that it is building cutting edge uncrewed vessels...<br/>[Read More &gt;....](/Chinese-Wuxi-Boatyard-OSINT.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 #Revealed: A Key Shipyard In Chain'a Naval Revolution![Flag China](/images/flag_China.jpg) A small boatyard, backing onto a narrow urban canal, may be playing an outsized role in China's naval modernisation. The unassuming site is in Wuxi, west of Shanghai, and around 90 miles inland. Despite this, analysis indicates that it is building cutting edge uncrewed vessels.   
 

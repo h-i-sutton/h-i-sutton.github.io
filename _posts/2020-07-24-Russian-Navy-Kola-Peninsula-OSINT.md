@@ -2,14 +2,10 @@
 layout: post
 title: "Russian-Navy-Kola-Peninsula-OSINT"
 date: "2020-07-24 03:00:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**OSINT: Russian Navy Movements in Kola Peninsula, July 2020**</font> <br/>![Flag](/images/flag_russia.jpg)A
-  collage of Sentinel satellite (Sentinel hub) imagery of the Russian Northern Fleet
-  in the Kola Peninsula... <br/>[Read More &gt;....](/Russian-Navy-Kola-Peninsula-OSINT.html
-  "READ MORE")<br/><a href="/Russian-Navy-Kola-Peninsula-OSINT.html"><img src="/images/Russia-submarines-Kola-peninsula-July2020-900.jpg"/></a><br
-  clear="right"><br/></br>'
-
+excerpt: |-
+  <font size="6">**OSINT: Russian Navy Movements in Kola Peninsula, July 2020**</font> <br/>![Flag](/images/flag_russia.jpg)A collage of Sentinel satellite (Sentinel hub) imagery of the Russian Northern Fleet in the Kola Peninsula... <br/>[Read More &gt;....](/Russian-Navy-Kola-Peninsula-OSINT.html "READ MORE")<br/><a href="/Russian-Navy-Kola-Peninsula-OSINT.html"><img src="/images/Russia-submarines-Kola-peninsula-July2020-900.jpg"/></a><br clear="right"><br/></br>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 **OSINT: Russian Navy Movements in Kola Peninsula, July 2020**   

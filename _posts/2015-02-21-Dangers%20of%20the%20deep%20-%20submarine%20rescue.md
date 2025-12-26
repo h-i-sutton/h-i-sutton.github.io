@@ -2,14 +2,10 @@
 layout: post
 title: "Dangers of the deep - submarine rescue"
 date: "2015-02-21 10:00:00"
-excerpt: <img src="/images/flag_Yugo.jpg"/> One night in October 1983 the almost brand-new
-  Sava class boat Drava ran into serious difficulties in the Adriatic. Unseen by the
-  crew a pin-prick sized hole has developed and the submarine started taking on water.
-  As the water gained, the boat started to slowly sink. <br/><a href="/Dangers of
-  the deep - submarine rescue.html"><img src="/images/yugo_sava.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_Yugo.jpg"/> One night in October 1983 the almost brand-new Sava class boat Drava ran into serious difficulties in the Adriatic. Unseen by the crew a pin-prick sized hole has developed and the submarine started taking on water. As the water gained, the boat started to slowly sink. <br/><a href="/Dangers of the deep - submarine rescue.html"><img src="/images/yugo_sava.jpg"/></a>
 ---
+
 Disaster is never far away in submarine operations generally. Following the tragic losses of the USS Thresher and USS Scorpion, plus a string of Soviet and NATO submarines during the 1960s Navy's became acutely aware of the need to invest in Deep Submergence Rescue Vehicles (DSRV). Popular history recounts USN, Soviet and British programs, but other navies developed this capability too.
 
 Yugoslavia operated a modest fleet of small conventionally-powered attack submarines. Their DSRV capability came in the form of the Mermaid VI submarine rescue vehicles obtained from Germany in 1980, which could operate down to 600m and attach to the on-deck hatches of the submarine to rescue the crew. These were crewed by divers from the elite 82 Maritime Center, the Yugoslav equivalent to the USN SEALs. The Mermaid-IV was built by Bruker Physik AG who started in this area with the two-man Mermaid-I in 1972. By 1975 the company's Mermaid-III included a diver lock-out capability, a vital prerequisite for submarine rescue.![German Mermaid I/II](/images/yugo_mermaid1.jpg)  

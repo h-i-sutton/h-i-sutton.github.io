@@ -2,17 +2,10 @@
 layout: post
 title: "Unidentified-Wave-Glider-off-USA-Coast"
 date: "2020-06-29 03:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="5">**Unidentified Wave Glider seen off U.S. Coast**</font> <br/>![Flag](/images/flag_USA.jpg)
-  A photo has been shared on Instagram asking 'what is this?' Well, it is a version
-  of the **Wave Glider** with a previously unseen aerial attached... <br/><br/>**Update:**
-  Since posting, the antenna has been identified as the **SeaWatch** system from Thayer
-  Mahan.<br/>[Read More &gt;....](/Unidentified-Wave-Glider-off-USA-Coast.html "READ
-  MORE")<br/><a href="/Unidentified-Wave-Glider-off-USA-Coast.html"><img src="/images/Wave-Glider-mystery-900.jpg"/></a><br
-  clear="right"><br/></br>
-...
-
+excerpt: |-
+  <font size="5">**Unidentified Wave Glider seen off U.S. Coast**</font> <br/>![Flag](/images/flag_USA.jpg) A photo has been shared on Instagram asking 'what is this?' Well, it is a version of the **Wave Glider** with a previously unseen aerial attached... <br/><br/>**Update:** Since posting, the antenna has been identified as the **SeaWatch** system from Thayer Mahan.<br/>[Read More &gt;....](/Unidentified-Wave-Glider-off-USA-Coast.html "READ MORE")<br/><a href="/Unidentified-Wave-Glider-off-USA-Coast.html"><img src="/images/Wave-Glider-mystery-900.jpg"/></a><br clear="right"><br/></br>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 **Update:** Since posting, the antenna has been identified as the **SeaWatch** system from Thayer Mahan.  
 

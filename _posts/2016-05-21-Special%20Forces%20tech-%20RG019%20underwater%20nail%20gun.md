@@ -2,15 +2,14 @@
 layout: post
 title: "Special Forces tech- RG019 underwater nail gun"
 date: "2016-05-21 01:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/>![Flag](/images/flag_russia.jpg)\
-  \ The RG019 underwater nail gun was developed in the 1970s to allow Russian divers\
-  \ (Spetsnaz, GRU/KGB\u2026) to fix explosives to steel, wood and concrete.  [Read\
-  \ More &gt;....](/Special Forces tech- RG019 underwater nail gun.html \"READ MORE\"\
-  )<br/><a href=\"/Special Forces tech- RG019 underwater nail gun.html\"><img src=\"\
-  /images/underwaternailgun.jpg\"/></a>"
-
+excerpt: "<br clear=\"right\"/>![Flag](/images/flag_russia.jpg) The RG019 underwater nail gun\
+  \ was developed in the 1970s to allow Russian divers (Spetsnaz, GRU/KGB\u2026) to\
+  \ fix explosives to steel, wood and concrete.  [Read More &gt;....](/Special Forces\
+  \ tech- RG019 underwater nail gun.html \"READ MORE\")<br/><a href=\"/Special Forces\
+  \ tech- RG019 underwater nail gun.html\"><img src=\"/images/underwaternailgun.jpg\"\
+  /></a>"
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![Flag](/images/flag_russia.jpg) The RG019 underwater nail gun was developed in the 1970s to allow Russian divers (Spetsnaz, GRU/KGB…) to fix explosives to steel, wood and concrete.   
 

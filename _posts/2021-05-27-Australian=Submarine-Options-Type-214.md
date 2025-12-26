@@ -2,19 +2,10 @@
 layout: post
 title: "Australian Navy Eyes German Type-214 Submarine?"
 date: "2021-05-27 10:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Australian=Submarine-Options-Type-214.html"><img align="left"
-  src="/images/Australia-Subs-317.jpg"/></a> ![Flag Australia](/images/flag_aus.jpg)
-  News that the Australian Navy may be exploring the idea of purchasing the German
-  Type-214 submarines is surprising. They would replace the Collins class, instead
-  of the French Shortfin Barracuda, which is already underway as the Attack Class.
-  Quite aside from the political economic complications (I'll leave that to others),
-  the choice of submarine is confusing. <br/><br/>Possibly there is a misunderstanding.<br/>
-  [Read More &gt;....](/Australian=Submarine-Options-Type-214.html "READ MORE")<br
-  clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Australian=Submarine-Options-Type-214.html"><img align="left" src="/images/Australia-Subs-317.jpg"/></a> ![Flag Australia](/images/flag_aus.jpg) News that the Australian Navy may be exploring the idea of purchasing the German Type-214 submarines is surprising. They would replace the Collins class, instead of the French Shortfin Barracuda, which is already underway as the Attack Class. Quite aside from the political economic complications (I'll leave that to others), the choice of submarine is confusing. <br/><br/>Possibly there is a misunderstanding.<br/> [Read More &gt;....](/Australian=Submarine-Options-Type-214.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 [![](/images/Australia-Submarine-Size-Chart-940.jpg)](/images/Australia-Submarine-Size-Chart.jpg)  
 *CLICK to enlarge*.  

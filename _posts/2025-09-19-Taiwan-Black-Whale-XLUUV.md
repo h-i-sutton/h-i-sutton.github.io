@@ -2,19 +2,9 @@
 layout: post
 title: "Taiwan's Black Whale XLUUV"
 date: "2025-09-19 22:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Taiwan-Black-Whale-XLUUV.html"><img
-  align="left" src="/images/Taiwan-XLUUV-317.jpg"/></a> ![Flag](/images/flag_taiwan.jpg)
-  Taiwan is rapidly trying to create asymmetrical ways to counter the invasion threat.
-  Principly these include uncrewed systems, many inspired by Ukraine's defence against
-  Russia. <br/><br/>Taiwanese shipbuilder Longteh Shipbuilding has revealed the 'Black
-  Whale' XLUUV...<br/>[Read More &gt;....](/Taiwan-Black-Whale-XLUUV.html "READ MORE")<br
-  clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Taiwan-Black-Whale-XLUUV.html"><img align="left" src="/images/Taiwan-XLUUV-317.jpg"/></a> ![Flag](/images/flag_taiwan.jpg) Taiwan is rapidly trying to create asymmetrical ways to counter the invasion threat. Principly these include uncrewed systems, many inspired by Ukraine's defence against Russia. <br/><br/>Taiwanese shipbuilder Longteh Shipbuilding has revealed the 'Black Whale' XLUUV...<br/>[Read More &gt;....](/Taiwan-Black-Whale-XLUUV.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 ![Black Whale XLUUV, Republic of China, Taiwan](/images/Taiwan-XLUUV-Display-1.jpg)  
 #Taiwan's Black Whale XLUUV![Flag](/images/flag_taiwan.jpg) China (PRC) is racing ahead with numerous extra-large extra-large uncrewed underwater vehicles (XLUUVs), [many of which are armed](https://www.navalnews.com/naval-news/2025/09/chinas-new-giant-underwater-drone-increases-naval-mine-threat-around-taiwan/). Their principle target, at least in the collective consciousness, is Taiwan (ROC). A blockade and/or invasion is expected and looks increasingly likely. Vastly out-gunned and unsure of its allies, Taiwan is rapidly trying to create asymmetrical ways to counter the invasion threat. Principly these include uncrewed systems, many inspired by Ukraine's defence against Russia.   

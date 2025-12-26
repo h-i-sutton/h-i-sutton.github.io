@@ -2,15 +2,10 @@
 layout: post
 title: "Delfin-Class-Submarine"
 date: "2021-01-23 02:00:00"
-excerpt: '*Updated. Originally posted Oct 10 2016 and Feb 27 2020.*<br/><a href="https://twitter.com/covertshores"
-  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="6">**Delfin
-  Class: The Cuban Navy''s Only Submarine**</font> <br clear="right"><a href="/Delfin-Class-Submarine.html"><img
-  align="left" src="/images/Cuban-Navy-Delfin-class-submarine-317.jpg"/></a>![Flag](/images/flag_cuba.jpg)
-  Cuba maintains a shroud of secrecy around its sole active submarine. However OSINT
-  continues to emerge and I now feel that we know enough to create a cutaway. Caveats
-  apply...<br/>[Read More &gt;....](/Delfin-Class-Submarine.html "READ MORE")<br clear="left"/></br>'
-
+excerpt: |-
+  *Updated. Originally posted Oct 10 2016 and Feb 27 2020.*<br/><font size="6">**Delfin Class: The Cuban Navy's Only Submarine**</font> <br clear="right"><a href="/Delfin-Class-Submarine.html"><img align="left" src="/images/Cuban-Navy-Delfin-class-submarine-317.jpg"/></a>![Flag](/images/flag_cuba.jpg) Cuba maintains a shroud of secrecy around its sole active submarine. However OSINT continues to emerge and I now feel that we know enough to create a cutaway. Caveats apply...<br/>[Read More &gt;....](/Delfin-Class-Submarine.html "READ MORE")<br clear="left"/></br>
 ---
+
 *Updated. Originally posted Oct 10 2016 and Feb 27 2020.*  
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 

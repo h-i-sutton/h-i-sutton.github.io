@@ -8,8 +8,8 @@ excerpt: "*Updated with cutaway. Originally posted 8th Dec 2016*<br/><font size=
   \ Iran\u2019s submarine building program has come of age. ... <br/><a href=\"/Fateh-Class_Submarine.html\"\
   ><img src=\"/images/Iran-Fateh-Submarine-Cutaway-900.jpg\"/></a><br/>[Read More](/Fateh-Class_Submarine.html\
   \ \"READ MORE\")<br/>"
-
 ---
+
 *Updated. Originally posted 8th Dec 2016*[![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 **Iranian Navy's Fateh Class Submarine explained**   

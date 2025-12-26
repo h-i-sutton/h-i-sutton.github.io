@@ -2,15 +2,13 @@
 layout: post
 title: "Cn_Underwater_Great_Wall"
 date: "2018-05-27 11:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Good Wind ears: China\u2019\
-  s Underwater Great Wall** </font><br/>![Flag](/images/flag_China.jpg) A recent video\
-  \ adds to the information we have of China's ambitious submarine monitoring system\
-  \ in the South China Sea...   [Read More &gt;....](/Cn_Underwater_Great_Wall.html\
+excerpt: "<font size=\"6\">**Good Wind ears: China\u2019s Underwater Great Wall** </font><br/>![Flag](/images/flag_China.jpg)\
+  \ A recent video adds to the information we have of China's ambitious submarine\
+  \ monitoring system in the South China Sea...   [Read More &gt;....](/Cn_Underwater_Great_Wall.html\
   \ \"READ MORE\")<br/><a href=\"/Cn_Underwater_Great_Wall.html\"><img src=\"/images/Cn_UGW_cover.jpg\"\
   /></a><br clear=\"right\"/>"
-
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Good Wind ears: China’s Underwater Great Wall**   
 ![Flag](/images/flag_China.jpg) A recent [video](http://military.cctv.com/2018/05/24/ARTID2GKodHKQivW8tinDka4180524.shtml) adds to the information we have of China's ambitious submarine monitoring system in the South China Sea. The system will consist of multiple sensors deployed at depths of up to 2,000 meters below sea level. The network is termed '**Underwater Great Wall**' (水下长城) and '**Undetwater Monitoring System**' (水下监听系统) in Chinese media, as well as '**Good wind ears**' (顺风耳 - Omniscient, all-knowing) and has a program cost of 2bn Yuan (313m US Dollars).  
 

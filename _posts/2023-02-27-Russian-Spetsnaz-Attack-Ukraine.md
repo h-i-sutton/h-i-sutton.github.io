@@ -2,18 +2,9 @@
 layout: post
 title: "OSINT Analysis: Russian Spetsnaz Attack Ukrainian Ships Using Western Gear"
 date: "2023-02-27 23:30:00"
-excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Russian-Spetsnaz-Attack-Ukraine.html"><img
-  align="left" src="/images/Russia-Ukraine-Spetsnaz-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  ![Flag Ukraine](/images/flag_ukraine.jpg) A video has surfaced on Russian social
-  media which appears to show Russian Spetsnaz attacking Ukrainian targets. They are
-  equipped with a mix of modern Western and Russian equipment.<br/><br/>It provides
-  useful insights into the under-reported combat swimmer aspects of the war.<br/>[Read
-  More &gt;....](/Russian-Spetsnaz-Attack-Ukraine.html "READ MORE")<br clear="left"/></br>
-...
-
+excerpt: |-
+  <br/><br clear="right"><a href="/Russian-Spetsnaz-Attack-Ukraine.html"><img align="left" src="/images/Russia-Ukraine-Spetsnaz-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) A video has surfaced on Russian social media which appears to show Russian Spetsnaz attacking Ukrainian targets. They are equipped with a mix of modern Western and Russian equipment.<br/><br/>It provides useful insights into the under-reported combat swimmer aspects of the war.<br/>[Read More &gt;....](/Russian-Spetsnaz-Attack-Ukraine.html "READ MORE")<br clear="left"/></br>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #OSINT Analysis: Russian Spetsnaz Attack Ukrainian Ships Using Western Gear![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) A video has surfaced on Russian social media which appears to show Russian Spetsnaz attacking Ukrainian targets. Some of the footage includes combat swimmers conducting a limpet mine attack. The video is dated, likely an amalgamation of attacks last year, and some of it may have been staged and/or training. But it provides useful insights into the under-reported combat swimmer aspects of the war.  
 

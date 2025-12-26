@@ -2,16 +2,13 @@
 layout: post
 title: "Ukraine's Marichka Underwater Drone (AUV)"
 date: "2023-08-23 23:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Ukraine-Marichka-AUV.html\"\
-  ><img align=\"left\" src=\"/images/Ukraine-Marichka-AUV-317.jpg\"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)\
+excerpt: "<br clear=\"right\"/><a href=\"/Ukraine-Marichka-AUV.html\"><img align=\"left\" src=\"\
+  /images/Ukraine-Marichka-AUV-317.jpg\"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)\
   \ The Marichka (\u041C\u0410\u0420\u0406\u0427\u041A\u0410) is a new large autonomous\
   \ underwater vehicle (AUV) developed by AMMO Ukraine. Among the many large AUV projects\
   \ around the world, it is probably the first born directly from wartime needs...<br/>[Read\
   \ More &gt;....](/Ukraine-Marichka-AUV.html \"READ MORE\")<br clear=\"left\"/>"
-
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 ![Marichka Марічка Underwater Drone](/images/Ukraine-Marichka-AUV.jpg)  
 

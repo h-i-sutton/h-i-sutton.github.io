@@ -2,18 +2,10 @@
 layout: post
 title: "Underwater_Defence_Security_2019"
 date: "2018-07-15 12:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Underwater Defence &amp; Security conference dates 2019**</font><br/><img
-  src="/images/flag_UK.jpg"/> <img src="/images/flag_USA.jpg"/> <img src="/images/flag_sweden.jpg"/>
-  <img src="/images/flag_germany.jpg"/> <img src="/images/flag_france.jpg"/> The NATO
-  centric Underwater Defence &amp; Security 2019 (<a href="http://www.underwater-defence-security.com"
-  target="blank">Website</a>) will be held at the Ageas Hilton, Southampton, UK on
-  5th - 7th March 2019... [Read More &gt;....](/Underwater_Defence_Security_2019.html
-  "Read More")<br/><a href="/Underwater_Defence_Security_2019.html"><img src="/images/UDS18_9001.jpg"/></a><br
-  clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Underwater Defence &amp; Security conference dates 2019**</font><br/><img src="/images/flag_UK.jpg"/> <img src="/images/flag_USA.jpg"/> <img src="/images/flag_sweden.jpg"/> <img src="/images/flag_germany.jpg"/> <img src="/images/flag_france.jpg"/> The NATO centric Underwater Defence &amp; Security 2019 (<a href="http://www.underwater-defence-security.com" target="blank">Website</a>) will be held at the Ageas Hilton, Southampton, UK on 5th - 7th March 2019... [Read More &gt;....](/Underwater_Defence_Security_2019.html "Read More")<br/><a href="/Underwater_Defence_Security_2019.html"><img src="/images/UDS18_9001.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Underwater Defense & Security conference dates 2019**  
   
 

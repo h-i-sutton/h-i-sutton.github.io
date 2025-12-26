@@ -2,18 +2,10 @@
 layout: post
 title: "Nordenfelt-submarines"
 date: "2020-04-16 01:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>*Upated*
-  **Covert Shores Guide to**<br/><font size="6">**Nordenfelt steam submarines (1880s)**</font>
-  <br/>![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_greece.jpg)
-  ![Flag](/images/flag_Turkey.jpg) ![Flag](/images/flag_russia.jpg) The Nordenfelt
-  submarines of the 1880s are an underappreciated part of submarine history. They
-  were midway between the human powered submarines of the American Civil War and the
-  gasoline and diesel boats of the 1900s. Much of their technology was ground (sea)
-  breaking...<br/><a href="/Nordenfelt-submarines.html"><img src="/images/Nordenfelt-II-cutaway-900.jpg"/></a><br
-  clear="right">[Read More &gt;....](/Nordenfelt-submarines.html "READ MORE")<br/></br>
-...
-
+excerpt: |-
+  *Upated* **Covert Shores Guide to**<br/><font size="6">**Nordenfelt steam submarines (1880s)**</font> <br/>![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_greece.jpg) ![Flag](/images/flag_Turkey.jpg) ![Flag](/images/flag_russia.jpg) The Nordenfelt submarines of the 1880s are an underappreciated part of submarine history. They were midway between the human powered submarines of the American Civil War and the gasoline and diesel boats of the 1900s. Much of their technology was ground (sea) breaking...<br/><a href="/Nordenfelt-submarines.html"><img src="/images/Nordenfelt-II-cutaway-900.jpg"/></a><br clear="right">[Read More &gt;....](/Nordenfelt-submarines.html "READ MORE")<br/></br>
 ---
+
 *Upated*  
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 

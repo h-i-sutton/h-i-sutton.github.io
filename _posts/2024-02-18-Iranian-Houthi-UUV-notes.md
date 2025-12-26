@@ -2,18 +2,9 @@
 layout: post
 title: "Notes On Emerging Iranian / Houthi Uncrewed Underwater Vehicle (UUV) Threat"
 date: "2024-02-18 23:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Iranian-Houthi-UUV-notes.html"><img align="left" src="/images/Iran-Houthis-UUV-317.jpg"/></a>
-  ![Flag Iran](/images/flag_iran.jpg)![Flag Houthi](/images/flag_Houthi.jpg) CENTCOM
-  has announced that it has "successfully conducted five self-defense strikes against
-  ... one unmanned underwater vessel (UUV)"<br/><br/>The most likely candidate for
-  the Houthi supply at this point is a torpedo-like drone which has featured in several
-  propaganda videos...<br/>[Read More &gt;....](/Iranian-Houthi-UUV-notes.html "READ
-  MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Iranian-Houthi-UUV-notes.html"><img align="left" src="/images/Iran-Houthis-UUV-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg)![Flag Houthi](/images/flag_Houthi.jpg) CENTCOM has announced that it has "successfully conducted five self-defense strikes against ... one unmanned underwater vessel (UUV)"<br/><br/>The most likely candidate for the Houthi supply at this point is a torpedo-like drone which has featured in several propaganda videos...<br/>[Read More &gt;....](/Iranian-Houthi-UUV-notes.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Notes On Emerging Iranian / Houthi Uncrewed Underwater Vehicle (UUV) Threat![Flag Iran](/images/flag_iran.jpg)![Flag Houthi](/images/flag_Houthi.jpg) Today (Feb 18) CENTCOM announced that it has "successfully conducted five self-defense strikes against three mobile anti-ship cruise missiles, one unmanned underwater vessel (UUV), and one unmanned surface vessel (USV) in Iranian-backed Houthi-controlled areas of Yemen." It went on to note that "This is the first observed Houthi employment of a UUV since attacks began in Oct. 23.". This is confirmation that Iranian type AUVs / UUVs (autonomus underwater vehicle / uncrewed underwater vehicle) are being used in Yemen.  
 

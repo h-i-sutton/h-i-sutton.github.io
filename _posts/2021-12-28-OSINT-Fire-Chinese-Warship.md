@@ -2,16 +2,10 @@
 layout: post
 title: "OSINT: Possible Fire Aboard Chinese Navy (PLAN) Warship, Qingdao, China"
 date: "2021-12-28 16:00:00"
-excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"><a href="/OSINT-Fire-Chinese-Warship.html"><img
-  align="left" src="/images/China-OSINT-Fire-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
-  Open Source Intelligence (OSINT) suggests that a Chinese Navy (PLAN) warship may
-  have caught fire on December 27. The vessel and smoke is visible in Sentinel-2 satellite
-  imagery of Qingdao, were one of China's aircraft carriers is based. <br/>[Read More
-  &gt;....](/OSINT-Fire-Chinese-Warship.html "READ MORE")<br clear="left"/></br>
-...
-
+excerpt: |-
+  <br/><br clear="right"><a href="/OSINT-Fire-Chinese-Warship.html"><img align="left" src="/images/China-OSINT-Fire-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) Open Source Intelligence (OSINT) suggests that a Chinese Navy (PLAN) warship may have caught fire on December 27. The vessel and smoke is visible in Sentinel-2 satellite imagery of Qingdao, were one of China's aircraft carriers is based. <br/>[Read More &gt;....](/OSINT-Fire-Chinese-Warship.html "READ MORE")<br clear="left"/></br>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 [![](/images/China-OSINT-Fire-940.jpg)](/images/China-OSINT-Fire.jpg)  
 *CLICK to enlarge*.  

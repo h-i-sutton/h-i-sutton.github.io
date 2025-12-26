@@ -2,17 +2,10 @@
 layout: post
 title: "Object-found-on-Indonesian-beach"
 date: "2021-01-20 19:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Another Suspected-Chinese device found in Indonesia**</font><br clear="right"/><a
-  href="/Object-found-on-Indonesian-beach.html"><img align="left" src="/images/Underwater-Sensor-Indonesia-317.jpg"/></a>The
-  tales of "missile like" objects washing up in Indonesia continue. Just a couple
-  of weeks after the forth Chinese-made Sea Wing underwater glider turned up in Indonesian
-  territorial waters, another China-linked device has turned up on a beach in the
-  country. <br/><br/>This object isn't a Sea Wing however...<br/>[Read More &gt;....](/Object-found-on-Indonesian-beach.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <font size="6">**Another Suspected-Chinese device found in Indonesia**</font><br clear="right"/><a href="/Object-found-on-Indonesian-beach.html"><img align="left" src="/images/Underwater-Sensor-Indonesia-317.jpg"/></a>The tales of "missile like" objects washing up in Indonesia continue. Just a couple of weeks after the forth Chinese-made Sea Wing underwater glider turned up in Indonesian territorial waters, another China-linked device has turned up on a beach in the country. <br/><br/>This object isn't a Sea Wing however...<br/>[Read More &gt;....](/Object-found-on-Indonesian-beach.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 #Another Suspected-Chinese device found in IndonesiaThe tales of "missile like" objects washing up in Indonesia continue. Just a couple of weeks after the forth Chinese-made Sea Wing underwater glider turned up [in Indonesian territorial waters](https://rusi.org/commentary/underwater-drone-incidents-point-china-expanding-intelligence-gathering), another China-linked device has turned up on a beach in the country. This object isn't a Sea Wing however.   

@@ -2,18 +2,9 @@
 layout: post
 title: "OSINT: Chinese Type-003 Aircraft Carrier Moved, May Indicate Sea Trials"
 date: "2023-11-19 18:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Chinese-Navy-Type-003-Carrier-Nov23.html"><img align="left"
-  src="/images/China-Type-033-Carrier-Nov23-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
-  China's newest and largest aircraft carrier, the Type-003 Fujian, has been moved
-  away from the quayside today. The ship has been being fitted out in a basin at the
-  Jiangnan Shipyard in Shanghai since June last year. <br/><br/>It may be a leading
-  indicator of the commencement of sea trials...<br/>[Read More &gt;....](/Chinese-Navy-Type-003-Carrier-Nov23.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Chinese-Navy-Type-003-Carrier-Nov23.html"><img align="left" src="/images/China-Type-033-Carrier-Nov23-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) China's newest and largest aircraft carrier, the Type-003 Fujian, has been moved away from the quayside today. The ship has been being fitted out in a basin at the Jiangnan Shipyard in Shanghai since June last year. <br/><br/>It may be a leading indicator of the commencement of sea trials...<br/>[Read More &gt;....](/Chinese-Navy-Type-003-Carrier-Nov23.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #OSINT: Chinese Type-003 Aircraft Carrier Moved, May Indicate Sea Trials![Flag China](/images/flag_China.jpg) China's newest and largest aircraft carrier, the Type-003 Fujian, has been moved away from the quayside today. The ship has been being fitted out in a basin at the Jiangnan Shipyard in Shanghai since June last year. It's not the first time it has been moved at the quay, but as things progress it may be a leading indicator of the commencement of sea trials.   
 

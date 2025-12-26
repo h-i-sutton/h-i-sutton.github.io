@@ -2,18 +2,9 @@
 layout: post
 title: "Guide To Russian Shahed / Geran Strike Drones"
 date: "2025-12-16 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Russian-Geran-Shahed-Drones.html"><img
-  align="left" src="/images/Russia-Shahed-Geran-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  One of the best-known weapons in the invasion of Ukraine, the Iranian **Shahed-136**,
-  known in Russian service as the **Geran-II**, is a long range strike drone.<br/><br/>Launched
-  in large numbers, it is shaping both the war and the public narrative...<br/>[Read
-  More &gt;....](/Russian-Geran-Shahed-Drones.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russian-Geran-Shahed-Drones.html"><img align="left" src="/images/Russia-Shahed-Geran-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) One of the best-known weapons in the invasion of Ukraine, the Iranian **Shahed-136**, known in Russian service as the **Geran-II**, is a long range strike drone.<br/><br/>Launched in large numbers, it is shaping both the war and the public narrative...<br/>[Read More &gt;....](/Russian-Geran-Shahed-Drones.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 [![](/images/Russia-Shahed-Geran-OWA-UAV-940.jpg)](/images/Russia-Shahed-Geran-OWA-UAV.jpg)  
 *CLICK to Enlarge. Updated profile based on latest analysis.*  

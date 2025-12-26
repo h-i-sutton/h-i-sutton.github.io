@@ -2,15 +2,10 @@
 layout: post
 title: "Egypt_Dolphin_SDV-X"
 date: "2018-08-14 01:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Egyptian Special Forces underwater vehicles**</font><br/>![Flag](/images/flag_egypt.jpg)
-  ![Flag](/images/flag_USA.jpg) A video has recently gained prominence, providing
-  a rare insight into Egyptian Navy special forces capabilities...  [Read More &gt;....](/Egypt_Dolphin_SDV-X.html
-  "READ MORE")<br/><a href="/Egypt_Dolphin_SDV-X.html"><img src="/images/Egypt_DolphinSDV_900.jpg"/></a><br
-  clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Egyptian Special Forces underwater vehicles**</font><br/>![Flag](/images/flag_egypt.jpg) ![Flag](/images/flag_USA.jpg) A video has recently gained prominence, providing a rare insight into Egyptian Navy special forces capabilities...  [Read More &gt;....](/Egypt_Dolphin_SDV-X.html "READ MORE")<br/><a href="/Egypt_Dolphin_SDV-X.html"><img src="/images/Egypt_DolphinSDV_900.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
   
 

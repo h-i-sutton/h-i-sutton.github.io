@@ -2,22 +2,10 @@
 layout: post
 title: "Return of the military canoe"
 date: "2015-09-18 11:00:00"
-excerpt: Since WW2 folding kayaks have been a stable ingredient for most Western water-orientated
-  Special Forces. The British and Australians who led the way but Germany and the
-  United States also employed them. After the war they remained in British service
-  and were slowly adopted by most major Western Special Forces including Italy, France,
-  Israel, Netherlands, Norway, Sweden and of course Germany. The stand-out exception
-  is the US Navy SEALs who preferred inflatable boats although they have been toyed
-  with by SEALs. The ubiquitous type is the German produced Klepper Mk.13 (aka Aerius)
-  which was even adopted by the British and Australians - other manufacturers also
-  make closely equivalent types and the term *'klepper'* is applied to all. Military
-  canoe operations were formed around the 'Swimmer Canoeist' concept originating in
-  WW2 with what is today the Special Boat Service (SBS). [Read More &gt;....](/Return
-  of the military canoe.html "READ MORE")<br/><a href="/Return of the military canoe.html"><img
-  src="/images/canoeOrtega900.jpg"/></a>
-...
-
+excerpt: |-
+  Since WW2 folding kayaks have been a stable ingredient for most Western water-orientated Special Forces. The British and Australians who led the way but Germany and the United States also employed them. After the war they remained in British service and were slowly adopted by most major Western Special Forces including Italy, France, Israel, Netherlands, Norway, Sweden and of course Germany. The stand-out exception is the US Navy SEALs who preferred inflatable boats although they have been toyed with by SEALs. The ubiquitous type is the German produced Klepper Mk.13 (aka Aerius) which was even adopted by the British and Australians - other manufacturers also make closely equivalent types and the term *'klepper'* is applied to all. Military canoe operations were formed around the 'Swimmer Canoeist' concept originating in WW2 with what is today the Special Boat Service (SBS). [Read More &gt;....](/Return of the military canoe.html "READ MORE")<br/><a href="/Return of the military canoe.html"><img src="/images/canoeOrtega900.jpg"/></a>
 ---
+
 Since WW2 folding kayaks (termed *canoes* in many Special Forces - ignore what the sports enthusiasts say!) have been a stable ingredient for most Western water-orientated Special Forces. Derived from thousands of years of experimentation by Inuit populations, the first mass-produced folding versions were invented in Germany at the turn of the last century. It wasn't until WW2 that they were put to military use transporting commandos on raids and reconnaissance missions. The British and Australians who led the way, but Germany and the United States also employed them. After the war they remained in British service and were slowly adopted by most major Western Special Forces including Italy, France, Israel, Netherlands, Norway, Sweden and of course Germany. The stand-out exception is the US Navy SEALs who preferred inflatable boats although they have been toyed with by SEALs. The ubiquitous type is the German produced Klepper Mk.13 (aka Aerius) which was even adopted by the British and Australians - other manufacturers also make closely equivalent types and the term *'klepper'* is applied to all. Military canoe operations were formed around the 'Swimmer Canoeist' concept originating in WW2 with what is today the Special Boat Service (SBS). Canoes were employed in the Falklands War (by the SAS not SBS although the latter had them in theater) and by 4-Recce Regiment (4RR) in Southern Africa during the 1980s Border War.
 
 But even as early as the 1950s they were considered increasingly obsolete, at least in theory. The problem was radar - but the same goes for all small boat operations. There were many advantages to canoes but they were slowly replaced by inflatable boats, particularly as outboard motors improved.

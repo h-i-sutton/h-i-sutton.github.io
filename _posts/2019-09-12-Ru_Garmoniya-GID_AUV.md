@@ -2,15 +2,13 @@
 layout: post
 title: "Ru_Garmoniya-GID_AUV"
 date: "2019-09-12 11:05:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Russian Autonomous Underwater\
-  \ vehicle Garmoniya-GUIDE**</font><br/><img src=\"/images/flag_russia.jpg\"/> The\
-  \ **Project 7\u042022 Garmoniya-GUIDE** is an unmanned underwater vehicle project\
-  \ in Russia which likely fits within the Large Displacement UUV category (LDUUV)....\
-  \ <br/><a href=\"/Ru_Garmoniya-GID_AUV.html\"><img src=\"/images/Ru_Garmoniya-GUIDE900.jpg\"\
-  /></a><br clear=\"right\"/>"
-
+excerpt: "<font size=\"6\">**Russian Autonomous Underwater vehicle Garmoniya-GUIDE**</font><br/><img\
+  \ src=\"/images/flag_russia.jpg\"/> The **Project 7\u042022 Garmoniya-GUIDE** is\
+  \ an unmanned underwater vehicle project in Russia which likely fits within the\
+  \ Large Displacement UUV category (LDUUV).... <br/><a href=\"/Ru_Garmoniya-GID_AUV.html\"\
+  ><img src=\"/images/Ru_Garmoniya-GUIDE900.jpg\"/></a><br clear=\"right\"/>"
 ---
+
   
 [Read More >....]({% post_url 2019-09-12-Ru_Garmoniya-GID_AUV %} "READ MORE")
 

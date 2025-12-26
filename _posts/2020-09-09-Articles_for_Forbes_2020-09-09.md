@@ -2,21 +2,10 @@
 layout: post
 title: "Articles_for_Forbes_2020-09-09"
 date: "2020-09-09 11:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Recent Articles for Forbes**</font><br/>Underwater warfare and similar
-  OSINT / defence analysis topics to a wider audience...<br/><a href="https://www.forbes.com/sites/hisutton/2020/09/10/san-diego-based-coast-guard-stop-narco-submarine-in-pacific/"
-  target="blank"><img src="/images/Forbes-2020-09-Narco-Submarines-500.jpg"/></a><br/><a
-  href="https://www.forbes.com/sites/hisutton/2020/09/09/polands-new-aip-submarines-will-transform-navy/"
-  target="blank"><img src="/images/Forbes-2020-09-Poland.jpg"/></a> <a href="https://www.forbes.com/sites/hisutton/2020/09/08/india-goes-hypersonic-new-missile-technology-may-be-answer-to-chinas-navy/"
-  target="blank"><img src="/images/Forbes-2020-09-HSTDV.jpg"/></a><br/><a href="https://www.forbes.com/sites/hisutton/2020/09/06/venezuelas-new-submarine-could-threaten-us-internet-cables/"
-  target="blank"><img src="/images/Forbes-2020-09-VAS-525.jpg"/></a> <a href="https://www.forbes.com/sites/hisutton/2020/09/04/the-advanced-thinking-behind-swedens-new-a-26-submarine/"
-  target="blank"><img src="/images/Forbes-2020-09-A26.jpg"/></a><br/><a href="https://www.forbes.com/sites/hisutton/2020/09/03/russian-navy-submarine-and-warships-hit-by-runaway-floating-dock/"
-  target="blank"><img src="/images/Forbes-2020-09-Dock.jpg"/></a><a href="https://www.forbes.com/sites/hisutton/2020/09/03/chinese-navy-cruisers-may-be-first-to-get-ballistic-missiles/"
-  target="blank"><img src="/images/Forbes-2020-09-ASBM.jpg"/></a><br/>[Read More &gt;....](/Articles_for_Forbes_2020-09-09.html
-  "READ MORE")<br clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Recent Articles for Forbes**</font><br/>Underwater warfare and similar OSINT / defence analysis topics to a wider audience...<br/><a href="https://www.forbes.com/sites/hisutton/2020/09/10/san-diego-based-coast-guard-stop-narco-submarine-in-pacific/" target="blank"><img src="/images/Forbes-2020-09-Narco-Submarines-500.jpg"/></a><br/><a href="https://www.forbes.com/sites/hisutton/2020/09/09/polands-new-aip-submarines-will-transform-navy/" target="blank"><img src="/images/Forbes-2020-09-Poland.jpg"/></a> <a href="https://www.forbes.com/sites/hisutton/2020/09/08/india-goes-hypersonic-new-missile-technology-may-be-answer-to-chinas-navy/" target="blank"><img src="/images/Forbes-2020-09-HSTDV.jpg"/></a><br/><a href="https://www.forbes.com/sites/hisutton/2020/09/06/venezuelas-new-submarine-could-threaten-us-internet-cables/" target="blank"><img src="/images/Forbes-2020-09-VAS-525.jpg"/></a> <a href="https://www.forbes.com/sites/hisutton/2020/09/04/the-advanced-thinking-behind-swedens-new-a-26-submarine/" target="blank"><img src="/images/Forbes-2020-09-A26.jpg"/></a><br/><a href="https://www.forbes.com/sites/hisutton/2020/09/03/russian-navy-submarine-and-warships-hit-by-runaway-floating-dock/" target="blank"><img src="/images/Forbes-2020-09-Dock.jpg"/></a><a href="https://www.forbes.com/sites/hisutton/2020/09/03/chinese-navy-cruisers-may-be-first-to-get-ballistic-missiles/" target="blank"><img src="/images/Forbes-2020-09-ASBM.jpg"/></a><br/>[Read More &gt;....](/Articles_for_Forbes_2020-09-09.html "READ MORE")<br clear="right"/>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 **Narco Submarine: San Diego Based Coast Guard Stop Drug Runners In Pacific** [LINK](https://www.forbes.com/sites/hisutton/2020/09/10/san-diego-based-coast-guard-stop-narco-submarine-in-pacific/)  

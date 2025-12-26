@@ -2,16 +2,10 @@
 layout: post
 title: "OSINT-Radar-Affecting-SAR-Satellite-Images"
 date: "2020-11-16 01:02:00"
-excerpt: '**OSINT**<br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><font size="6">**Northern Lights:** Radar Affecting
-  SAR Satellite Images</font><br clear="right"><a href="/OSINT-Radar-Affecting-SAR-Satellite-Images.html"><img
-  align="left" src="/images/OSINT-Radar-Affecting-SAR-Satellite-Images-317.jpg"/></a><br/>As
-  the arctic winter sets in over the Barents Sea, a Russian radar is switched on.<br/><br/>You
-  may think that we cannot sea radar waves. But thanks to an unusual effect, it is
-  lighting up the darkness...<br/><br/>[Read More &gt;....](/OSINT-Radar-Affecting-SAR-Satellite-Images.html
-  "READ MORE")<br clear="left"/></br>'
-
+excerpt: |-
+  **OSINT**<br/><font size="6">**Northern Lights:** Radar Affecting SAR Satellite Images</font><br clear="right"><a href="/OSINT-Radar-Affecting-SAR-Satellite-Images.html"><img align="left" src="/images/OSINT-Radar-Affecting-SAR-Satellite-Images-317.jpg"/></a><br/>As the arctic winter sets in over the Barents Sea, a Russian radar is switched on.<br/><br/>You may think that we cannot sea radar waves. But thanks to an unusual effect, it is lighting up the darkness...<br/><br/>[Read More &gt;....](/OSINT-Radar-Affecting-SAR-Satellite-Images.html "READ MORE")<br clear="left"/></br>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 ![OSINT Radar Affecting SAR Satellite Images - Covert Shores](/images/OSINT-Radar-Affecting-SAR-Satellite-Images.jpg)   

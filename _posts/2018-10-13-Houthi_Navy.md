@@ -2,14 +2,10 @@
 layout: post
 title: "Houthi_Navy"
 date: "2018-10-13 01:00:00"
-excerpt: '*Updated. Originally posted 11th Sept. 2018*<br/><a href="https://twitter.com/covertshores"
-  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="6">**Houthi
-  sneak craft 2018**</font><br/>The Houthis have increasingly adopted an asymmetrical
-  naval doctrine focusing on small boats and shore based anti-ship missiles..... <br/>[Read
-  More &gt;....](/Houthi_Navy.html "READ MORE")<br/><a href="/Houthi_Navy.html"><img
-  src="/images/houthi_navy_header900.jpg"/></a><br clear="right"/>'
-
+excerpt: |-
+  *Updated. Originally posted 11th Sept. 2018*<br/><font size="6">**Houthi sneak craft 2018**</font><br/>The Houthis have increasingly adopted an asymmetrical naval doctrine focusing on small boats and shore based anti-ship missiles..... <br/>[Read More &gt;....](/Houthi_Navy.html "READ MORE")<br/><a href="/Houthi_Navy.html"><img src="/images/houthi_navy_header900.jpg"/></a><br clear="right"/>
 ---
+
 ##### Share: __
 
 ![Houthi Naval capabilities 2018 - Covert shores](/images/houthi_navy_header.jpg)  

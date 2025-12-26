@@ -2,18 +2,10 @@
 layout: post
 title: "Russia's Unusual Mother Submarine For Spy Missions On The Sea Floor"
 date: "2021-11-19 12:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Russian-Spy-Submarine-BS-64.html"><img align="left" src="/images/Russia-BS-64-Submarine-317.jpg"/></a>
-  ![Flag Russia](/images/flag_russia.jpg) Central to the Russian Navy's seabed warfare
-  capabilities are its ginormous 'mother submarines'. Created by cutting a missile
-  submarine in half and inserting a special compartment in place of the missile tubes,
-  they are among the largest submarines on the planet.<br/><br/>**BS-64 Podmoskovye**
-  is one of two DELTA class SSBNs which have been cut-and-shut in this way. She is
-  particularly interesting...<br/>[Read More &gt;....](/Russian-Spy-Submarine-BS-64.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russian-Spy-Submarine-BS-64.html"><img align="left" src="/images/Russia-BS-64-Submarine-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Central to the Russian Navy's seabed warfare capabilities are its ginormous 'mother submarines'. Created by cutting a missile submarine in half and inserting a special compartment in place of the missile tubes, they are among the largest submarines on the planet.<br/><br/>**BS-64 Podmoskovye** is one of two DELTA class SSBNs which have been cut-and-shut in this way. She is particularly interesting...<br/>[Read More &gt;....](/Russian-Spy-Submarine-BS-64.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 [![](/images/Russia-BS-64-Submarine-Cutaway-940.jpg)](/images/Russia-BS-64-Submarine-Cutaway.jpg)  
 *CLICK to enlarge. Original artwork*  

@@ -2,15 +2,10 @@
 layout: post
 title: "Status-6_KANYON"
 date: "2018-03-30 11:00:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>Updated:
-  originally posted 12th Feb 2018<br/><font size="5">**Russian ''Poseidon'' Intercontinental,
-  nuclear armed, undersea autonomous torpedo demystified**</font><br/><img src="/images/flag_russia.jpg"/>
-  This brief analysis details a selection of my original research into the subject....
-  <br/><a href="/Status-6_KANYON.html"><img src="/images/KANYON_testRound.png"/></a><br/><a
-  href="/Status-6_KANYON.html"><img src="/images/Belgorod_GCI_900_KANYON1.jpg"/></a><br
-  clear="right"/>'
-
+excerpt: |-
+  Updated: originally posted 12th Feb 2018<br/><font size="5">**Russian 'Poseidon' Intercontinental, nuclear armed, undersea autonomous torpedo demystified**</font><br/><img src="/images/flag_russia.jpg"/> This brief analysis details a selection of my original research into the subject.... <br/><a href="/Status-6_KANYON.html"><img src="/images/KANYON_testRound.png"/></a><br/><a href="/Status-6_KANYON.html"><img src="/images/Belgorod_GCI_900_KANYON1.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)Originally posted 12th Feb 2018.  
   
 

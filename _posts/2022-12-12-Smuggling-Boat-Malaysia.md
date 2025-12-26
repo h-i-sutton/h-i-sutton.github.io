@@ -2,16 +2,10 @@
 layout: post
 title: "Rare Smuggling Boat Captured In Malaysia"
 date: "2022-12-12 11:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Smuggling-Boat-Malaysia.html"><img align="left" src="/images/Smuggling-Malaysia-2022-11-317.jpg"/></a>
-  A large go-fast boat has been interdicted by the Malaysian Coast Guard. The vessel
-  is generally similar to those used off China for smuggling cars and other goods.<br/><br/>while
-  smuggling is not unknown in Southeast Asia, these types of boats are rare there.
-  Or at least rarely reported...<br/>[Read More &gt;....](/Smuggling-Boat-Malaysia.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Smuggling-Boat-Malaysia.html"><img align="left" src="/images/Smuggling-Malaysia-2022-11-317.jpg"/></a> A large go-fast boat has been interdicted by the Malaysian Coast Guard. The vessel is generally similar to those used off China for smuggling cars and other goods.<br/><br/>while smuggling is not unknown in Southeast Asia, these types of boats are rare there. Or at least rarely reported...<br/>[Read More &gt;....](/Smuggling-Boat-Malaysia.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Rare Smuggling Boat Captured In MalaysiaA large go-fast boat has been interdicted [by the Malaysian Coast Guard](https://twitter.com/GardaAramis/status/1600016121939517440). The vessel is generally similar to those used off China for smuggling cars and other goods. Yet while smuggling is not unknown in Southeast Asia, these types of boats are rare there. Or at least rarely reported.  

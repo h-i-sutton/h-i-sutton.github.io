@@ -2,15 +2,10 @@
 layout: post
 title: "Wreck Site For Moskva Cruiser (Coordinates)"
 date: "2022-04-24 23:30:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Russian-Navy-Moskva-Cruiser-Wreck-Found.html"><img align="left"
-  src="/images/Russia-Moskva-Wreck-Location-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  Using open source intelligence (OSINT), the location of the wreck of Moskva has
-  been provisionally identified.<br/><br/>And other updates<br/>[Read More &gt;....](/Russian-Navy-Moskva-Cruiser-Wreck-Found.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russian-Navy-Moskva-Cruiser-Wreck-Found.html"><img align="left" src="/images/Russia-Moskva-Wreck-Location-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Using open source intelligence (OSINT), the location of the wreck of Moskva has been provisionally identified.<br/><br/>And other updates<br/>[Read More &gt;....](/Russian-Navy-Moskva-Cruiser-Wreck-Found.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Wreck Site For Moskva Cruiser (Coordinates)![Flag Russia](/images/flag_russia.jpg) Using open source intelligence (OSINT), the location of the wreck of Moskva has been provisionally identified. Analysis of radar satellite imagery points to the vicinity of 44.92002°, 31.49265°.   

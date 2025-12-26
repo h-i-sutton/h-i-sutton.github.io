@@ -2,18 +2,17 @@
 layout: post
 title: "Rotinor DPV in Jason Statham movie"
 date: "2016-06-26 03:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a> The trailer Jason Statham\u2019s new movie,\
-  \ **The Mechanic: Resurrection** came out a couple of days ago. Sandwiched between\
-  \ the predicable fast action, fast women, grumpy looks and explosions was a brief\
-  \ glimpse of an underwater scene. Statham\u2019s character (I thought he always\
-  \ played himself??) is seen on a sleek black underwater chariot. More specifically,\
-  \ a **SeaBob** diver propulsion vehicle (DPV) which is the civilian version of the\
-  \ Rotinor **Divejet**.... [Read More &gt;....](/Rotinor DPV in Jason Statham movie.html\
-  \ \"READ MORE\")<br/><a href=\"/Rotinor DPV in Jason Statham movie.html\"><img src=\"\
-  /images/Movie_Seabob.jpg\"/></a><br clear=\"right\"/>"
-
+excerpt: " The trailer Jason Statham\u2019s new movie, **The Mechanic: Resurrection** came\
+  \ out a couple of days ago. Sandwiched between the predicable fast action, fast\
+  \ women, grumpy looks and explosions was a brief glimpse of an underwater scene.\
+  \ Statham\u2019s character (I thought he always played himself??) is seen on a sleek\
+  \ black underwater chariot. More specifically, a **SeaBob** diver propulsion vehicle\
+  \ (DPV) which is the civilian version of the Rotinor **Divejet**.... [Read More\
+  \ &gt;....](/Rotinor DPV in Jason Statham movie.html \"READ MORE\")<br/><a href=\"\
+  /Rotinor DPV in Jason Statham movie.html\"><img src=\"/images/Movie_Seabob.jpg\"\
+  /></a><br clear=\"right\"/>"
 ---
+
 ![](/images/Movie_theMechanic.jpg)The trailer Jason Statham’s new movie, **The Mechanic: Resurrection** came out a couple of days ago. Sandwiched between the predicable fast action, fast women, grumpy looks and explosions was a brief glimpse of an underwater scene. Statham’s character (I thought he always played himself??) is seen on a sleek black underwater chariot. More specifically, a **SeaBob** diver propulsion vehicle (DPV) which is the civilian version of the Rotinor **Divejet**.  
 
 [TRAILER](https://www.youtube.com/watch?v=_8kfDZl38PY) (Youtube)  

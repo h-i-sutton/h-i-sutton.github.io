@@ -2,15 +2,14 @@
 layout: post
 title: "The Submarine Which Came In From The Cold: Belgorod Under Cover"
 date: "2021-10-06 23:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Belgorod-Submarine-Returns-To-Builder.html\"\
-  ><img align=\"left\" src=\"/images/Russia-Belgorod-Submarine-2021-10-04_317.jpg\"\
-  /></a> ![Flag Russia](/images/flag_russia.jpg) Russia\u2019s latest super-massive\
-  \ submarine, K-329 Belgorod, has been returned to the sheds.<br/><br/>This answers\
-  \ a small Open Source Intelligence (OSINT) mystery...<br/>[Read More &gt;....](/Belgorod-Submarine-Returns-To-Builder.html\
+excerpt: "<br clear=\"right\"/><a href=\"/Belgorod-Submarine-Returns-To-Builder.html\"><img\
+  \ align=\"left\" src=\"/images/Russia-Belgorod-Submarine-2021-10-04_317.jpg\"/></a>\
+  \ ![Flag Russia](/images/flag_russia.jpg) Russia\u2019s latest super-massive submarine,\
+  \ K-329 Belgorod, has been returned to the sheds.<br/><br/>This answers a small\
+  \ Open Source Intelligence (OSINT) mystery...<br/>[Read More &gt;....](/Belgorod-Submarine-Returns-To-Builder.html\
   \ \"READ MORE\")<br clear=\"left\"/>"
-
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 [![](/images/Russia-Belgorod-Submarine-2021-10-04_Sentinel-2-940.jpg)](/images/Russia-Belgorod-Submarine-2021-10-04_Sentinel-2.jpg)  
 *CLICK to Enlarge*   

@@ -2,17 +2,10 @@
 layout: post
 title: "US Navy's Low Visibility Craft (LVC)"
 date: "2021-05-13 12:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/US-Navy-VSW-MCM-Dolphin-Boat.html"><img align="left" src="/images/US-Navy-Dolphin-Boat-317.jpg"/></a>![Flag
-  America](/images/flag_USA.jpg) Imagine a little-talked about military unit made
-  up of U.S. Navy SEALs, Explosive Ordinance Disposal (EOD) divers and U.S. Marine
-  Corps Force Recon guys. Give them trained Navy dolphins, and ask task them with
-  developing new tactics.<br/><br/>And the unique **Low Visibility Craft** they came
-  up with is particularly interesting.<br/>[Read More &gt;....](/US-Navy-VSW-MCM-Dolphin-Boat.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/US-Navy-VSW-MCM-Dolphin-Boat.html"><img align="left" src="/images/US-Navy-Dolphin-Boat-317.jpg"/></a>![Flag America](/images/flag_USA.jpg) Imagine a little-talked about military unit made up of U.S. Navy SEALs, Explosive Ordinance Disposal (EOD) divers and U.S. Marine Corps Force Recon guys. Give them trained Navy dolphins, and ask task them with developing new tactics.<br/><br/>And the unique **Low Visibility Craft** they came up with is particularly interesting.<br/>[Read More &gt;....](/US-Navy-VSW-MCM-Dolphin-Boat.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 [![](/images/US-Navy-VSW-MCM-Dolphin-Boat-Artwork-940.jpg)](/images/US-Navy-VSW-MCM-Dolphin-Boat-Artwork.jpg)  
 CLICK to enlarge. Original artwork.  

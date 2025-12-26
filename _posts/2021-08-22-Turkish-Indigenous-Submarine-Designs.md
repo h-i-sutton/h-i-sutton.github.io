@@ -2,17 +2,10 @@
 layout: post
 title: "Two New Turkish Indigenous Submarine Designs"
 date: "2021-08-22 23:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Turkish-Indigenous-Submarine-Designs.html"><img align="left"
-  src="/images/Turkey-Submarine-designs-317.jpg"/></a> ![Flag Turkey](/images/flag_Turkey.jpg)
-  With the increasing confidence (and export presence) of Turkish defense industry,
-  submarine designs are being added to the menu. Two defense firms, STM and Dearsan,
-  have recently revealed their respective small submarine designs. <br/><br/>Both
-  designs have some interesting features... <br/>[Read More &gt;....](/Turkish-Indigenous-Submarine-Designs.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Turkish-Indigenous-Submarine-Designs.html"><img align="left" src="/images/Turkey-Submarine-designs-317.jpg"/></a> ![Flag Turkey](/images/flag_Turkey.jpg) With the increasing confidence (and export presence) of Turkish defense industry, submarine designs are being added to the menu. Two defense firms, STM and Dearsan, have recently revealed their respective small submarine designs. <br/><br/>Both designs have some interesting features... <br/>[Read More &gt;....](/Turkish-Indigenous-Submarine-Designs.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 *CLICK to enlarge. Original artwork*  
 [![](/images/Turkey-Submarine-designs-940.jpg)](/images/Turkey-Submarine-designs-2021.jpg)  

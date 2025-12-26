@@ -2,19 +2,9 @@
 layout: post
 title: "Unreported North Korean Submersible Torpedo Boat May Be Uncrewed"
 date: "2025-11-09 15:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/North-Korean-Submersible-Torpedo-Boat-202511.html"><img
-  align="left" src="/images/DPRK-Submersible-Torpedo-Boat-317.jpg"/></a> ![Flag DPRK](/images/flag_nork.jpg)
-  Hiding in the background of an official media image of the annual Defence Development
-  exhibition in Pyongyang, North Korea, which opened on October 4, 2025, is a previously
-  unreported vessel.<br/><br/>Visual clues point to it being a submersible boat...<br/>[Read
-  More &gt;....](/North-Korean-Submersible-Torpedo-Boat-202511.html "READ MORE")<br
-  clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/North-Korean-Submersible-Torpedo-Boat-202511.html"><img align="left" src="/images/DPRK-Submersible-Torpedo-Boat-317.jpg"/></a> ![Flag DPRK](/images/flag_nork.jpg) Hiding in the background of an official media image of the annual Defence Development exhibition in Pyongyang, North Korea, which opened on October 4, 2025, is a previously unreported vessel.<br/><br/>Visual clues point to it being a submersible boat...<br/>[Read More &gt;....](/North-Korean-Submersible-Torpedo-Boat-202511.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 #Unreported North Korean Submersible Torpedo Boat May Be Uncrewed![Flag DPRK](/images/flag_nork.jpg) Hiding in the background of an official media image of the annual Defence Development exhibition in Pyongyang, North Korea, which opened on October 4, 2025, is a previously unreported vessel. The Korean Central News Agency (KCNA) photo shows a model of a boat. Clear visual clues point to it being a submersible boat. Further, it appears to have torpedo tubes, and may be uncrewed.   
 

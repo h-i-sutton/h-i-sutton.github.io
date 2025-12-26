@@ -2,18 +2,17 @@
 layout: post
 title: "Taiwanese_midget_sub"
 date: "2017-02-16 02:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\"> **Taiwanese 130 ton Special\
-  \ Forces midget submarine design** </font> <br/> The recent uncertainty of US foreign\
-  \ policy regarding the sovereignty of Taiwan (Republic of China) reminds us the\
-  \ Taiwanese Navy\u2019s embattled acquisition program. In 2014 the **HARD ROC 2.0**\
-  \ report by the US Strategic and Budget Assessment Center recommended that Taiwan\
-  \ instead concentrate on building a large fleet of some 42 midget submarines. This\
-  \ 350 ton design is most likely in response to this....  [Read More &gt;....](/Taiwanese_midget_sub.html\
-  \ \"READ MORE\")<br/><a href=\"/Taiwanese_midget_sub.html\"><img src=\"/images/ROCN_midget900.jpg\"\
-  /></a><br clear=\"right\"/>"
-
+excerpt: "<font size=\"6\"> **Taiwanese 130 ton Special Forces midget submarine design** </font>\
+  \ <br/> The recent uncertainty of US foreign policy regarding the sovereignty of\
+  \ Taiwan (Republic of China) reminds us the Taiwanese Navy\u2019s embattled acquisition\
+  \ program. In 2014 the **HARD ROC 2.0** report by the US Strategic and Budget Assessment\
+  \ Center recommended that Taiwan instead concentrate on building a large fleet of\
+  \ some 42 midget submarines. This 350 ton design is most likely in response to this....\
+  \  [Read More &gt;....](/Taiwanese_midget_sub.html \"READ MORE\")<br/><a href=\"\
+  /Taiwanese_midget_sub.html\"><img src=\"/images/ROCN_midget900.jpg\"/></a><br clear=\"\
+  right\"/>"
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social) **Taiwanese 130 ton Special Forces midget submarine design**    
  *Feedback and further info welcome.*  
 

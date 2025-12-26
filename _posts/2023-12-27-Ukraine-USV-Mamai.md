@@ -2,18 +2,9 @@
 layout: post
 title: "Ukraine's SBU Reveals Mamai Maritime Drone (USV)"
 date: "2023-12-27 10:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Ukraine-USV-Mamai.html"><img align="left" src="/images/Ukraine-USV-Kazok-Mamai-317.jpg"/></a>
-  ![Flag Ukraine](/images/flag_ukraine.jpg) Ukraine's SBU (Security Service of Ukraine)
-  has revealed another type of maritime drone. The Mamai type is combat proven. It
-  was used in the attacks on the Ropucha Class landing ship Olenegorsky Gornyak and
-  the tanker Sig.<br/><br/>Both attacks, far away from Ukrainian controlled territory,
-  inflicted significant damage....<br/>[Read More &gt;....](/Ukraine-USV-Mamai.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Ukraine-USV-Mamai.html"><img align="left" src="/images/Ukraine-USV-Kazok-Mamai-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Ukraine's SBU (Security Service of Ukraine) has revealed another type of maritime drone. The Mamai type is combat proven. It was used in the attacks on the Ropucha Class landing ship Olenegorsky Gornyak and the tanker Sig.<br/><br/>Both attacks, far away from Ukrainian controlled territory, inflicted significant damage....<br/>[Read More &gt;....](/Ukraine-USV-Mamai.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 ![Ukrainian maritime drone USV Kozak Mamai](/images/Ukraine-USV-Kazok-Mamai.jpg)  
 

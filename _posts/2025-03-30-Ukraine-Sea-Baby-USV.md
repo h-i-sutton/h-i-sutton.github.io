@@ -2,18 +2,9 @@
 layout: post
 title: "Ukraine's Sea Baby Maritime Drone (USV)"
 date: "2025-03-30 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Ukraine-Sea-Baby-USV.html"><img
-  align="left" src="/images/Ukraine-Sea-Baby-USV-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)
-  The public first learnt of the now-famous 'Sea Baby' surface drones when they were
-  used on July 17 2023 to destroy a section of the Kerch Bridge.<br/><br/>These small
-  vessels have since shown themselves to be a versitile and enduring design...<br/>[Read
-  More &gt;....](/Ukraine-Sea-Baby-USV.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Ukraine-Sea-Baby-USV.html"><img align="left" src="/images/Ukraine-Sea-Baby-USV-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) The public first learnt of the now-famous 'Sea Baby' surface drones when they were used on July 17 2023 to destroy a section of the Kerch Bridge.<br/><br/>These small vessels have since shown themselves to be a versitile and enduring design...<br/>[Read More &gt;....](/Ukraine-Sea-Baby-USV.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 [![](/images/Ukraine-Sea-Baby-USV-940.jpg)](/images/Ukraine-Sea-Baby-USV.jpg)  
 *CLICK to Enlarge.*  

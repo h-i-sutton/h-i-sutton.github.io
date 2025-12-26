@@ -2,10 +2,9 @@
 layout: post
 title: "Cold War Intelligence Doc"
 date: "2017-01-21 02:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Analysis of Soviet Cold War\
-  \ Intelligence document on Naval Special Forces**</font><br/><font size=\"5\">*Organizing\
-  \ Combat Against Underwater Sabotage Forces and Means in Naval Theaters*</font><br/>![Flag](/images/flag_USA.jpg)![Flag](/images/flag_russia.jpg)\
+excerpt: "<font size=\"6\">**Analysis of Soviet Cold War Intelligence document on Naval Special\
+  \ Forces**</font><br/><font size=\"5\">*Organizing Combat Against Underwater Sabotage\
+  \ Forces and Means in Naval Theaters*</font><br/>![Flag](/images/flag_USA.jpg)![Flag](/images/flag_russia.jpg)\
   \ This is an analysis of a document found on the CIA Records Search Tool (CREST)\
   \ (here) which is in fact an American translation of a secret Russian document originally\
   \ dating from 1965. The original document was part of the SECRET Russian Defense\
@@ -18,8 +17,8 @@ excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img ali
   \ capabilities as he saw them..... [Read More &gt;....](/Cold War Intelligence Doc.html\
   \ \"READ MORE\")<br/><a href=\"/Cold War Intelligence Doc.html\"><img src=\"/images/Soviet_analysis1965_cover.jpg\"\
   /></a><br clear=\"right\"/>"
-
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Analysis of Soviet Cold War Intelligence document on Naval Special Forces**  
 *Organizing Combat Against Underwater Sabotage Forces and Means in Naval Theaters*  
 

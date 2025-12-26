@@ -2,18 +2,9 @@
 layout: post
 title: "Iran's First Carrier Expected To Be Launched In 2023"
 date: "2022-12-30 12:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Iran-IRGC-Drone-Carrier-Update.html"><img align="left"
-  src="/images/Iran-IRGC-Drone-Carrier-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg)
-  Work is progressing on the Islamic Revolutionary Guard Corps' first aircraft carrier.
-  The 240 meter long drone carrier is based on a large merchant ship hull. Two of
-  the vessels are expected to be built, the Shahid Mahdavi and Shahid Bagheri...<br/>[Read
-  More &gt;....](/Iran-IRGC-Drone-Carrier-Update.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Iran-IRGC-Drone-Carrier-Update.html"><img align="left" src="/images/Iran-IRGC-Drone-Carrier-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) Work is progressing on the Islamic Revolutionary Guard Corps' first aircraft carrier. The 240 meter long drone carrier is based on a large merchant ship hull. Two of the vessels are expected to be built, the Shahid Mahdavi and Shahid Bagheri...<br/>[Read More &gt;....](/Iran-IRGC-Drone-Carrier-Update.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-![Iran's First Carrier Shahid Mahdavi](/images/Iran-IRGC-Drone-Carrier-OSINT-1.jpg)  
 
 #Iran's First Carrier Expected To Be Launched In 2023![Flag Iran](/images/flag_iran.jpg) Work is progressing on the Islamic Revolutionary Guard Corps' first aircraft carrier (We should ignore the infamous fake aircraft carrier target barge). The 240 meter long drone carrier is based on a large merchant ship hull. Two of the vessels are expected to be built, the Shahid Mahdavi and Shahid Bagheri.   
 

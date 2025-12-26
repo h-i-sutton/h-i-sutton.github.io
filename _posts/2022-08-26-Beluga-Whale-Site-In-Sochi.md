@@ -2,15 +2,10 @@
 layout: post
 title: "OSINT: Mysterious Beluga Whale Base In Sochi, Black Sea"
 date: "2022-08-26 18:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Beluga-Whale-Site-In-Sochi.html"><img align="left" src="/images/Russia-Beluga-Whales-Sochi-317.jpg"/></a>
-  ![Flag Russia](/images/flag_russia.jpg) The Russian Navy's use of trained dolphins,
-  seals and beluga whales, is well established.<br/><br/>A Beluga Whale site in Sochi,
-  on the Black Sea, retains an air of mystery...<br/>[Read More &gt;....](/Beluga-Whale-Site-In-Sochi.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Beluga-Whale-Site-In-Sochi.html"><img align="left" src="/images/Russia-Beluga-Whales-Sochi-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The Russian Navy's use of trained dolphins, seals and beluga whales, is well established.<br/><br/>A Beluga Whale site in Sochi, on the Black Sea, retains an air of mystery...<br/>[Read More &gt;....](/Beluga-Whale-Site-In-Sochi.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #OSINT: Mysterious Beluga Whale Base In Sochi, Black Sea![Flag Russia](/images/flag_russia.jpg) The Russian Navy's use of trained dolphins, seals and (now infamously) [beluga whales]({% post_url 2019-04-29-Russia_Navy_Beluga_Whale %}), is well established. Two marine mammal programs exist, one based in the Arctic, the other in the Black Sea. The sites associated with these, even forward deployments to naval bases ([Sevastopol](https://news.usni.org/2022/04/27/trained-russian-navy-dolphins-are-protecting-black-sea-naval-base-satellite-photos-show), [Novorossiysk](http://www.hisutton.com{% post_url 2022-07-17-Russian-Navy-Trained-Dolphins-in-Novorossiysk %}) and [Tartus](http://www.hisutton.com{% post_url 2020-10-11-Russian-Navy-Base-in-Tartus-Syria %})), are known. But there is a loose end.   

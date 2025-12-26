@@ -2,16 +2,10 @@
 layout: post
 title: "OSINT: Another Major Iranian Warship Accident"
 date: "2021-12-06 12:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Iranian-Navy-Accident-Talayieh.html"><img align="left"
-  src="/images/Iran-Navy-Accident-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg)
-  The Iranian Navy seems to have more bad luck than most when it comes to warship
-  accidents. On December 5 2021 their newest warship, **IRIS Talayieh**, which has
-  not yet been commissioned, capsized in a partially flooded dry dock. <br/>[Read
-  More &gt;....](/Iranian-Navy-Accident-Talayieh.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Iranian-Navy-Accident-Talayieh.html"><img align="left" src="/images/Iran-Navy-Accident-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) The Iranian Navy seems to have more bad luck than most when it comes to warship accidents. On December 5 2021 their newest warship, **IRIS Talayieh**, which has not yet been commissioned, capsized in a partially flooded dry dock. <br/>[Read More &gt;....](/Iranian-Navy-Accident-Talayieh.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 [![](/images/Iran-Navy-Accidents-Map-940.jpg)](/images/Iran-Navy-Accidents-Map.jpg)  
 *CLICK to enlarge*.  

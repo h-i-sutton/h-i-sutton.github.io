@@ -2,20 +2,9 @@
 layout: post
 title: "Ukraine's Toloka TLK-150 Underwater Drone"
 date: "2025-03-02 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Ukraine-Toloka-TLK-150-Underwater-drone.html"><img
-  align="left" src="/images/Ukraine-UUV-Toloka-TLK-150_317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  The Russian Navy is doing badly in the Russo-Ukraine War, losing control of the
-  Black Sea. Ukraine's maritime surface drones (USVs - uncrewed surface vessels) have
-  denied them sea control, and pushed them back to the eastern coast of the Black
-  Sea.<br/><br/>Among the development Ukrainian engineers have up their sleeves, are
-  underwater versions of drones. The **Toloka TLK-150** is a publicly displayed version...<br/>[Read
-  More &gt;....](/Ukraine-Toloka-TLK-150-Underwater-drone.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Ukraine-Toloka-TLK-150-Underwater-drone.html"><img align="left" src="/images/Ukraine-UUV-Toloka-TLK-150_317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The Russian Navy is doing badly in the Russo-Ukraine War, losing control of the Black Sea. Ukraine's maritime surface drones (USVs - uncrewed surface vessels) have denied them sea control, and pushed them back to the eastern coast of the Black Sea.<br/><br/>Among the development Ukrainian engineers have up their sleeves, are underwater versions of drones. The **Toloka TLK-150** is a publicly displayed version...<br/>[Read More &gt;....](/Ukraine-Toloka-TLK-150-Underwater-drone.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 #Ukraine's Toloka TLK-150 Underwater Drone![Flag Ukraine](/images/flag_ukraine.jpg) The Russian Navy is doing badly in the Russo-Ukraine War, losing control of the Black Sea. Ukraine's maritime surface drones (USVs - uncrewed surface vessels) have denied them sea control, and pushed them back to the eastern coast of the Black Sea. However, it is a constantly evolving battlefield and Russia has been improving its defenses against USVs. Among the development Ukrainian engineers have up their sleeves, are underwater versions of drones. The **Toloka TLK-150** is a publicly displayed version.  
 

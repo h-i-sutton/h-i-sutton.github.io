@@ -2,16 +2,10 @@
 layout: post
 title: "Torpedo SEAL diver propulsion device"
 date: "2016-03-13 14:00:00"
-excerpt: '![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_UK.jpg) Following the latest
-  trend in wet subs (''chariots'') the Swedish ''Torpedo SEAL'' is designed to fit
-  into a regular 533mm torpedo tube to allow easy deployment from minimally modified
-  submarines. Two Torpedo SEALs can be carried in a single torpedo tube. The type
-  has enjoyed significant early sales and is promoted by British firm James Fisher
-  Defence (JFD) as part of the *SEALPod* range together with the **SEALCarrier** submersible
-  RIB and **SubSEAL** SDV.[Read More &gt;....](/Torpedo SEAL diver propulsion device.html
-  "READ MORE")<br/><a href="/Torpedo SEAL diver propulsion device.html"><img src="/images/TorpSEAL_900.jpg"/></a>'
-
+excerpt: |-
+  ![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_UK.jpg) Following the latest trend in wet subs ('chariots') the Swedish 'Torpedo SEAL' is designed to fit into a regular 533mm torpedo tube to allow easy deployment from minimally modified submarines. Two Torpedo SEALs can be carried in a single torpedo tube. The type has enjoyed significant early sales and is promoted by British firm James Fisher Defence (JFD) as part of the *SEALPod* range together with the **SEALCarrier** submersible RIB and **SubSEAL** SDV.[Read More &gt;....](/Torpedo SEAL diver propulsion device.html "READ MORE")<br/><a href="/Torpedo SEAL diver propulsion device.html"><img src="/images/TorpSEAL_900.jpg"/></a>
 ---
+
 ![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_UK.jpg)Following the latest trend in wet subs ('chariots') the Swedish 'Torpedo SEAL' is designed to fit into a regular 533mm torpedo tube to allow easy deployment from minimally modified submarines. Two Torpedo SEALs can be carried in a single torpedo tube. The type has enjoyed significant early sales and is promoted by British firm James Fisher Defence (JFD) as part of the *SEALPod* range together with the **SEALCarrier** submersible RIB and **SubSEAL** SDV. In the export market its main competitors are the American Stidd DPD and German Rotinor BlackShadow730.   
 ![JFD DCE SEAL Torpedo](/images/TorpSEAL2_side.jpg)   
   

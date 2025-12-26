@@ -2,17 +2,10 @@
 layout: post
 title: "U212-AIP-Submarine"
 date: "2020-05-26 01:00:00"
-excerpt: '*Update: Originally posted Apr 25 2020*<br/><a href="https://twitter.com/covertshores"
-  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="6">**Stealth
-  &amp; sophistication: Type-212 submarine**</font> <br/>![Flag](/images/flag_germany.jpg)
-  ![Flag](/images/flag_italy.jpg) The Type-212 class has a reputation for sophistication,
-  largely thanks to its first-use of Fuel Cell AIP (Air Independent Power). It is
-  considered the elite model in the German submarine design list, above the later
-  Type-214 and Type-218 products. The design is interesting in a number of ways. ...<br/><a
-  href="/U212-AIP-Submarine.html"><img src="/images/U-212-submarine-900.jpg"/></a><br
-  clear="right">[Read More &gt;....](/U212-AIP-Submarine.html "READ MORE")<br/></br>'
-
+excerpt: |-
+  *Update: Originally posted Apr 25 2020*<br/><font size="6">**Stealth &amp; sophistication: Type-212 submarine**</font> <br/>![Flag](/images/flag_germany.jpg) ![Flag](/images/flag_italy.jpg) The Type-212 class has a reputation for sophistication, largely thanks to its first-use of Fuel Cell AIP (Air Independent Power). It is considered the elite model in the German submarine design list, above the later Type-214 and Type-218 products. The design is interesting in a number of ways. ...<br/><a href="/U212-AIP-Submarine.html"><img src="/images/U-212-submarine-900.jpg"/></a><br clear="right">[Read More &gt;....](/U212-AIP-Submarine.html "READ MORE")<br/></br>
 ---
+
 *Update: Originally posted Apr 25 2020*  
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 

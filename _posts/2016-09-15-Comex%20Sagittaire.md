@@ -2,16 +2,10 @@
 layout: post
 title: "Comex Sagittaire"
 date: "2016-09-15 12:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><img
-  src="/images/flag_france.jpg"/> The **Sagittaire** was an innovative midget submarine
-  design from French submarine builder Comex Industries. The 200 ton submarine came
-  in two versions; a Special Forces *Diver Intervention* (DI) model and the torpedo
-  armed *Coastal Defense* (CD) version.... [Read More &gt;....](/Comex Sagittaire.html
-  "READ MORE")<br/><a href="/Comex Sagittaire.html"><img src="/images/Sagittaire900.jpg"/></a><br
-  clear="right"/>
-...
-
+excerpt: |-
+  <img src="/images/flag_france.jpg"/> The **Sagittaire** was an innovative midget submarine design from French submarine builder Comex Industries. The 200 ton submarine came in two versions; a Special Forces *Diver Intervention* (DI) model and the torpedo armed *Coastal Defense* (CD) version.... [Read More &gt;....](/Comex Sagittaire.html "READ MORE")<br/><a href="/Comex Sagittaire.html"><img src="/images/Sagittaire900.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Thank you to an unnamed source. Any errors or incorrect assumptions are purely my responsibility however*   
 ![Comex Sagittaire midget submarine concept](/images/Sagittaireside.jpg)  
 ![Flag](/images/flag_france.jpg) The **Sagittaire** was an innovative midget submarine design from French submarine builder Comex Industries. The 200 ton submarine came in two versions; a Special Forces *Diver Intervention* (DI) model and the torpedo armed *Coastal Defense* (D) version.   

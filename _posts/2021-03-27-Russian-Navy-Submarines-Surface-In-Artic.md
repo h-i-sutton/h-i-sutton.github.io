@@ -2,19 +2,10 @@
 layout: post
 title: "Russian-Navy-Submarines-Surface-In-Artic"
 date: "2021-03-27 12:00:00"
-excerpt: '*updated with fresh intelligence*<br/><a href="https://twitter.com/covertshores"
-  target="blank"><img align="right" src="/images/twitter.jpg"/></a><font size="5">**Spy
-  Sub Among Russian Navy Submarines Which Surfaced In Artic**</font><br clear="right"><a
-  href="/Russian-Navy-Submarines-Surface-In-Artic.html"><img align="left" src="/images/Russia-Submarines-Arctic-317.jpg"/></a>![Flag
-  Russia](/images/flag_russia.jpg) The Russian Navy''s ICEEX, ''* Umka-21 *'', is
-  taking place in the Arctic. As part of the exercises, three nuclear submarines surfaced  within
-  300m of each other. They surfaced in pre-marked locations.   They were widely reported
-  (including here!) as ballistic missile subs (SSBNs); the two DELTA-IVs and a single
-  Borei-II (K-549 Knyaz Vladimir) were within 300m. <br/><br/>Actually one of the
-  DELTAs was BS-64  Podmoskovye, a "special mission" submarine (read: spy sub). <br/>[Read
-  More &gt;....](/Russian-Navy-Submarines-Surface-In-Artic.html "READ MORE")<br clear="left"/></br>'
-
+excerpt: |-
+  *updated with fresh intelligence*<br/><font size="5">**Spy Sub Among Russian Navy Submarines Which Surfaced In Artic**</font><br clear="right"><a href="/Russian-Navy-Submarines-Surface-In-Artic.html"><img align="left" src="/images/Russia-Submarines-Arctic-317.jpg"/></a>![Flag Russia](/images/flag_russia.jpg) The Russian Navy's ICEEX, '* Umka-21 *', is taking place in the Arctic. As part of the exercises, three nuclear submarines surfaced  within 300m of each other. They surfaced in pre-marked locations.   They were widely reported (including here!) as ballistic missile subs (SSBNs); the two DELTA-IVs and a single Borei-II (K-549 Knyaz Vladimir) were within 300m. <br/><br/>Actually one of the DELTAs was BS-64  Podmoskovye, a "special mission" submarine (read: spy sub). <br/>[Read More &gt;....](/Russian-Navy-Submarines-Surface-In-Artic.html "READ MORE")<br clear="left"/></br>
 ---
+
 *updated with fresh intelligence*  
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 

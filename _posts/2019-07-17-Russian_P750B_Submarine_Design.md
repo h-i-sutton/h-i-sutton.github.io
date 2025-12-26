@@ -2,15 +2,10 @@
 layout: post
 title: "Russian_P750B_Submarine_Design"
 date: "2019-07-17 00:00:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
-  <font size="6">**New Russian Submarine design: P-750B**</font><br/>![Flag](/images/flag_russia.jpg)
-  Famous Russian design Bureau Malachite displayed a model of a Small Attack Submarine
-  design at the IMDS-2019 International Maritime Defence Show in St. Petersburg. The
-  design has several innovative features... <br/><a href="/Russian_P750B_Submarine_Design.html"><img
-  src="/images/ru_P750B_900.jpg"/></a><br/>[Read More &gt;....](/Russian_P750B_Submarine_Design.html
-  "READ MORE")'
-
+excerpt: |2-
+   <font size="6">**New Russian Submarine design: P-750B**</font><br/>![Flag](/images/flag_russia.jpg) Famous Russian design Bureau Malachite displayed a model of a Small Attack Submarine design at the IMDS-2019 International Maritime Defence Show in St. Petersburg. The design has several innovative features... <br/><a href="/Russian_P750B_Submarine_Design.html"><img src="/images/ru_P750B_900.jpg"/></a><br/>[Read More &gt;....](/Russian_P750B_Submarine_Design.html "READ MORE")
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**New Russian Submarine design: P-750B**  
    
 

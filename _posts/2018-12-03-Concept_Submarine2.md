@@ -2,14 +2,10 @@
 layout: post
 title: "Concept_Submarine2"
 date: "2018-12-03 12:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Future Submarine Concept**</font><br/>The Future Submarine will operate
-  as a host platform for an array of unmanned vehicles...<br/><a href="/Concept_Submarine2.html"><img
-  src="/images/FutureSubConcept900.jpg"/></a><br clear="right">[Read More &gt;....](/Concept_Submarine2.html
-  "READ MORE")<br/></br>
-...
-
+excerpt: |-
+  <font size="6">**Future Submarine Concept**</font><br/>The Future Submarine will operate as a host platform for an array of unmanned vehicles...<br/><a href="/Concept_Submarine2.html"><img src="/images/FutureSubConcept900.jpg"/></a><br clear="right">[Read More &gt;....](/Concept_Submarine2.html "READ MORE")<br/></br>
 ---
+
 ##### Share:
 
 **Future Submarine Concept**  

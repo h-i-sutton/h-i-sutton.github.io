@@ -2,17 +2,9 @@
 layout: post
 title: "OSINT: Myanmar's New Dry Dock Built By China Flooded"
 date: "2024-10-22 18:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Myanmar-Dry-Dock-OSINT.html"><img align="left" src="/images/Myanmar-Navy-Dry-Dock-317.jpg"/></a>
-  ![Flag Myanmar](/images/flag-Myanmar.jpg) Chinese engineers have reached a major
-  milestone in the expansion and modernization of the Myanmar military Junta's navy.
-  The large dry dock being constructed by the Chinese on the banks of the Yangon River.<br/><br/>The
-  docks were flooded some time between the 3rd and 8th October...<br/>[Read More &gt;....](/Myanmar-Dry-Dock-OSINT.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Myanmar-Dry-Dock-OSINT.html"><img align="left" src="/images/Myanmar-Navy-Dry-Dock-317.jpg"/></a> ![Flag Myanmar](/images/flag-Myanmar.jpg) Chinese engineers have reached a major milestone in the expansion and modernization of the Myanmar military Junta's navy. The large dry dock being constructed by the Chinese on the banks of the Yangon River.<br/><br/>The docks were flooded some time between the 3rd and 8th October...<br/>[Read More &gt;....](/Myanmar-Dry-Dock-OSINT.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #OSINT: Myanmar's New Dry Dock Built By China Flooded![Flag Myanmar](/images/flag-Myanmar.jpg) Chinese engineers have reached a major milestone in the expansion and modernization of the Myanmar (aka Burma) military Junta's navy. The large dry dock being constructed by the Chinese on the banks of the Yangon River. The focus on growing the navy has suffered during the ongoing civil war (which looks likely to end the Junta sooner or later), but China continues to prop them up. Russia too is an ally, even joining the Myanmar Navy for joint drills in the past couple of days.   
 

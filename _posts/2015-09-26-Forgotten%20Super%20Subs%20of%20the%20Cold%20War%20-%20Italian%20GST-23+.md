@@ -2,17 +2,10 @@
 layout: post
 title: "Forgotten Super Subs of the Cold War - Italian GST-23+"
 date: "2015-09-26 11:00:00"
-excerpt: '![Flag](/images/flag_italy.jpg) At the end of the Cold War a small firm from Italy
-  promised to shake up the submarine world with pocket-sized AIP (Air Independant
-  Propulsion) submarines. The designs represented a completely new way of constructing
-  submarines. A series of prototypes proved the technology but the end of the Cold
-  War combined with commercial factors consigned most of the designs to the drawing
-  board. Today they are almost forgotten. This article deals with the GST-100 (aka
-  LWT-23/27), 20GST48, S-300CC and MS-200 designs.  [Read More &gt;....](/Forgotten
-  Super Subs of the Cold War - Italian GST-23+.html "READ MORE")<br/><a href="/Forgotten
-  Super Subs of the Cold War - Italian GST-23+.html"><img src="/images/It_LWT27.jpg"/></a>'
-
+excerpt: |-
+  ![Flag](/images/flag_italy.jpg) At the end of the Cold War a small firm from Italy promised to shake up the submarine world with pocket-sized AIP (Air Independant Propulsion) submarines. The designs represented a completely new way of constructing submarines. A series of prototypes proved the technology but the end of the Cold War combined with commercial factors consigned most of the designs to the drawing board. Today they are almost forgotten. This article deals with the GST-100 (aka LWT-23/27), 20GST48, S-300CC and MS-200 designs.  [Read More &gt;....](/Forgotten Super Subs of the Cold War - Italian GST-23+.html "READ MORE")<br/><a href="/Forgotten Super Subs of the Cold War - Italian GST-23+.html"><img src="/images/It_LWT27.jpg"/></a>
 ---
+
 ![Flag](/images/flag_italy.jpg) At the end of the Cold War a small firm from Italy promised to shake up the submarine world with pocket-sized AIP (Air Independant Propulsion) submarines. The designs represented a completely new way of constructing submarines. A series of prototypes proved the technology but the end of the Cold War combined with commercial factors consigned most of the designs to the drawing board. Today they are almost forgotten.   
   
 *Original artwork - CLICK for HIGH-RESOLUTION (1600px) image.*   

@@ -2,15 +2,10 @@
 layout: post
 title: "Attack_Class_Submarine"
 date: "2018-12-14 03:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Attack Class submarine**</font><br/><img src="/images/flag_aus.jpg"/>
-  The **Attack Class** diesel-electric submarine will replace the Collins Class in
-  service with the Australian Navy with the first boat, HMAS Attack, to be delivered
-  in the 2030s....<br/><a href="/Attack_Class_Submarine.html"><img src="/images/Aus_Attack-900.jpg"/></a><br/>[Read
-  More &gt;....](/Attack_Class_Submarine.html "READ MORE")
-...
-
+excerpt: |-
+  <font size="6">**Attack Class submarine**</font><br/><img src="/images/flag_aus.jpg"/> The **Attack Class** diesel-electric submarine will replace the Collins Class in service with the Australian Navy with the first boat, HMAS Attack, to be delivered in the 2030s....<br/><a href="/Attack_Class_Submarine.html"><img src="/images/Aus_Attack-900.jpg"/></a><br/>[Read More &gt;....](/Attack_Class_Submarine.html "READ MORE")
 ---
+
 Share:[![](/images/mailto.jpg)](mailto:?subject=Shared%20from%20Covert%20Shores&body=http%3A%2F%2Fwww.hisutton.com%2FAttack_Class_Submarine.html)_[![](/images/shareFacebook.jpg)](https://www.facebook.com/sharer/sharer.php?u=#url)_[![](/images/shareTwitter.jpg)](https://twitter.com/intent/tweet?text=Covert%20Shores%20-%20Attack_Class_Submarine%20@CovertShores&url=http%3A%2F%2Fwww.hisutton.com%2FAttack_Class_Submarine.html&hashtags=Submarines)  
 
 **Attack Class submarine**  

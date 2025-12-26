@@ -2,12 +2,10 @@
 layout: post
 title: "Vogo Chariot SDVs"
 date: "2016-03-10 11:00:00"
-excerpt: <img src="/images/flag_RoK.jpg"/> <img src="/images/Updated.jpg"/> Vogo Engineering's
-  SDV-300 and SDV-340 Swimmer Delivery Vehicles. <br/><a href="/Vogo Chariot SDVs.html"><img
-  src="/images/vogo_header.png"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_RoK.jpg"/> <img src="/images/Updated.jpg"/> Vogo Engineering's SDV-300 and SDV-340 Swimmer Delivery Vehicles. <br/><a href="/Vogo Chariot SDVs.html"><img src="/images/vogo_header.png"/></a>
 ---
+
 ![Flag](/images/flag_RoK.jpg) ![](/images/Updated.jpg)   
  **History: Cos.Mo.S and WooJungSa SDVs in ROKN Service**   
 In the 1980s the South Korean government acquired seven midget submarines from the famous Cos.Mo.S manufacturer (Livorno, Italy). Details of the deal are not publicly known but they came with SDVs to allow the employment of UDT (Underwater Demolition Team) and SEALs, particularly in the anti-ship role, attacking targets in port. Each submarine can carry two of the SDVs on their lower hull. Only one photo of the SDVs is in the public domain (see below) but it reveals that they were of the CE2F-X100 type.   

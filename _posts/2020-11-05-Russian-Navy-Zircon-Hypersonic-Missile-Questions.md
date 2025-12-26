@@ -2,16 +2,10 @@
 layout: post
 title: "Russian-Navy-Zircon-Hypersonic-Missile-Questions"
 date: "2020-11-05 03:00:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Russia''s Much Vaunted Zircon Hypersonic Missile Launch: Not All It Seems?**</font><br
-  clear="right"/><a href="/Russian-Navy-Zircon-Hypersonic-Missile-Questions.html"><img
-  align="left" src="/images/Russia-Zircon-300.jpg"/></a><br/><br/>![Flag](/images/flag_russia.jpg)
-  In the race to field hypersonics, Russia is forging ahead by rolling out the **3M22
-  Zircon** missile to its Navy. <br/><br/>But there is a catch...<br/><br/>[Read More
-  &gt;....](/Russian-Navy-Zircon-Hypersonic-Missile-Questions.html "READ MORE")<br
-  clear="left"/>'
-
+excerpt: |-
+  <font size="6">**Russia's Much Vaunted Zircon Hypersonic Missile Launch: Not All It Seems?**</font><br clear="right"/><a href="/Russian-Navy-Zircon-Hypersonic-Missile-Questions.html"><img align="left" src="/images/Russia-Zircon-300.jpg"/></a><br/><br/>![Flag](/images/flag_russia.jpg) In the race to field hypersonics, Russia is forging ahead by rolling out the **3M22 Zircon** missile to its Navy. <br/><br/>But there is a catch...<br/><br/>[Read More &gt;....](/Russian-Navy-Zircon-Hypersonic-Missile-Questions.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![Russian Navy Zircon Missile launch - Covert shores](/images/Russia-P800-Oniks-VLS.jpg)  
 # Russia's Much Vaunted Zircon Hypersonic Missile Launch: Not All It Seems?![Flag](/images/flag_russia.jpg) In the race to field hypersonics, Russia is forging ahead by rolling out the **3M22 Zircon** missile to its Navy. A wide range of submarines and surface combatants are slated to get the new anti-ship missile. *Zirconization* fever is in many ways similar to the 'Kalibrization', which has occurred over the past 10 years. President Putin himself has repeatedly emphasized the importance of the missile.   

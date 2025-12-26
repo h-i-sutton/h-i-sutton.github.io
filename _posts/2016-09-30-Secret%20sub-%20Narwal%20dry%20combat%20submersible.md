@@ -2,20 +2,18 @@
 layout: post
 title: "Secret sub- Narwal dry combat submersible"
 date: "2016-09-30 02:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/>![Flag](/images/flag_germany.jpg)\
-  \ ![Flag](/images/Updated.jpg) Germany has a reputation for building technologically\
-  \ sophisticated submarines. The West German \"Klasse 740/03\" **Narwal** Dry Combat\
-  \ Submersible (German *Unterwassertransportger\xE4t*, UWTG) was built and operated\
-  \ in secret in the final days of the Cold War. It was designed as transport for\
-  \ kampfschwimmers (German Navy Special Forces combat swimmers) to targets along\
-  \ the Baltic coast, and for intelligence missions.  [Read More &gt;....](/Secret\
-  \ sub- Narwal dry combat submersible.html \"READ MORE\")<br/><a href=\"/Secret sub-\
-  \ Narwal dry combat submersible.html\"><img src=\"/images/Orca_model900.jpg\"/></a><br/><a\
-  \ href=\"/Secret sub- Narwal dry combat submersible.html\"><img src=\"/images/Orca_poster900.jpg\"\
-  /></a>"
-
+excerpt: "<br clear=\"right\"/>![Flag](/images/flag_germany.jpg) ![Flag](/images/Updated.jpg)\
+  \ Germany has a reputation for building technologically sophisticated submarines.\
+  \ The West German \"Klasse 740/03\" **Narwal** Dry Combat Submersible (German *Unterwassertransportger\xE4\
+  t*, UWTG) was built and operated in secret in the final days of the Cold War. It\
+  \ was designed as transport for kampfschwimmers (German Navy Special Forces combat\
+  \ swimmers) to targets along the Baltic coast, and for intelligence missions.  [Read\
+  \ More &gt;....](/Secret sub- Narwal dry combat submersible.html \"READ MORE\")<br/><a\
+  \ href=\"/Secret sub- Narwal dry combat submersible.html\"><img src=\"/images/Orca_model900.jpg\"\
+  /></a><br/><a href=\"/Secret sub- Narwal dry combat submersible.html\"><img src=\"\
+  /images/Orca_poster900.jpg\"/></a>"
 ---
+
 *Thank you to everyone who made this possible.*  
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 

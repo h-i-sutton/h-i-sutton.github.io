@@ -2,11 +2,10 @@
 layout: post
 title: "AssaultRifle_Quiz3"
 date: "2017-03-12 20:40:00"
-excerpt: Test your knowledge of assault current rifles and similar weapons.<br/><a href="assaultrifle_quiz3.html"><img
-  src="/images/ARQuiz3_header.jpg" width="900"/></a>
-...
-
+excerpt: |-
+  Test your knowledge of assault current rifles and similar weapons.<br/><a href="assaultrifle_quiz3.html"><img src="/images/ARQuiz3_header.jpg" width="900"/></a>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**No bullpups...**   
 
 Just pick the correct answer from the list provided. **WARNING**: to add to the challenge picking a wrong answer removes that answer from future selection. Just get it right first time!  

@@ -19,8 +19,8 @@ excerpt: "[XPOST - <a href=\"http://www.foreignbrief.com/narco-subs/\" target=\"
   \ <a href=\"http://www.foreignbrief.com/narco-subs/\" target=\"blank\">ForeignBrief.com</a><br/>[Read\
   \ More &gt;....](/XPOST -Narco-Subs Cartels and Law Enforcement.html \"READ MORE\"\
   )"
-
 ---
+
 2016 looks set to be a bumper year for narco-sub incidents.  
 
 Just last month, Colombian security forces discovered a 15-metre narco-sub in the jungle near the Pacific coast. A few weeks earlier, the U.S. Coast Guard published footage of a narco-sub intercepted off the Panamanian coast with 5.5 tonnes of cocaine on board, valued at $200 million. In March, an abandoned narco-sub was found stranded on a reef off the Yucatan peninsula in Mexico, its load of narcotics already unloaded by drug smugglers.  

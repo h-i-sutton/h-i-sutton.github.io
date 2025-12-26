@@ -2,16 +2,15 @@
 layout: post
 title: "Chinese Navy's Little-Known Cruise Missile Submarine"
 date: "2021-09-05 12:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Chinese-Navy-Type-033G-Wuhan-Class-Submarine.html\"\
+excerpt: "<br clear=\"right\"/><a href=\"/Chinese-Navy-Type-033G-Wuhan-Class-Submarine.html\"\
   ><img align=\"left\" src=\"/images/China-Type-033G-Wuhan-317.jpg\"/></a> ![Flag\
   \ China](/images/flag_China.jpg) Chinese attack submarines, like the Type-093 Shang,\
   \ emphasize anti-ship cruise missiles. The story of the Chinese Navy\u2019s (PLAN)\
   \ submarine launched anti-ship missiles goes back to a very interesting submarine\
   \ in the 1980s.<br/>[Read More &gt;....](/Chinese-Navy-Type-033G-Wuhan-Class-Submarine.html\
   \ \"READ MORE\")<br clear=\"left\"/>"
-
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 [![](/images/China-Type-033G-Wuhan-Cutaway-940.jpg)](/images/China-Type-033G-Wuhan-Cutaway.jpg)  
 *CLICK to enlarge*.  

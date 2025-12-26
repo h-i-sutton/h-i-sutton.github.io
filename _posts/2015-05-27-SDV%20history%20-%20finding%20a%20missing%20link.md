@@ -2,20 +2,10 @@
 layout: post
 title: "SDV history - finding a missing link"
 date: "2015-05-27 11:00:00"
-excerpt: <img src="/images/flag_france.jpg"/> <img src="/images/flag_UK.jpg"/> <img src="/images/flag_USA.jpg"/>
-  <img src="/images/flag_Yugo.jpg"/> I recently had the good fortune to be allowed
-  to view an archive of Swimmer Delivery Vehicles documents. It is held by the Historical
-  Diving Society (Check them out! <a href="http://www.thehds.com/" target="_blank">HDS
-  website</a> ) and covered several Cold War SDVs developed for the Special Boat Service
-  (SBS) and Royal Navy Clearance Divers. Among the materiel were photocopies of old
-  magazine articles collected by one of the leading engineers in the field, K.R. Tuson.
-  I came face to face with an evolutionary missing link in the development of SDVs
-  on both sides of the Atlantic. [Read More &gt;....](/SDV history - finding a missing
-  link.html "READ MORE")<br/><a href="/SDV history - finding a missing link.html"><img
-  src="/images/rebikoff_banner.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_france.jpg"/> <img src="/images/flag_UK.jpg"/> <img src="/images/flag_USA.jpg"/> <img src="/images/flag_Yugo.jpg"/> I recently had the good fortune to be allowed to view an archive of Swimmer Delivery Vehicles documents. It is held by the Historical Diving Society (Check them out! <a href="http://www.thehds.com/" target="_blank">HDS website</a> ) and covered several Cold War SDVs developed for the Special Boat Service (SBS) and Royal Navy Clearance Divers. Among the materiel were photocopies of old magazine articles collected by one of the leading engineers in the field, K.R. Tuson. I came face to face with an evolutionary missing link in the development of SDVs on both sides of the Atlantic. [Read More &gt;....](/SDV history - finding a missing link.html "READ MORE")<br/><a href="/SDV history - finding a missing link.html"><img src="/images/rebikoff_banner.jpg"/></a>
 ---
+
 ![Flag](/images/flag_france.jpg) ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_Yugo.jpg) *I recently had the good fortune to be allowed to view an archive of Swimmer Delivery Vehicles documents. It is held by the Historical Diving Society (Check them out! [HDS website](http://www.thehds.com/) ) and covered several Cold War SDVs developed for the Special Boat Service (SBS) and Royal Navy Clearance Divers. Among the materiel were photocopies of old magazine articles collected by one of the leading engineers in the field, K.R. Tuson. I came face to face with an evolutionary missing link in the development of SDVs on both sides of the Atlantic.* How did the distinctive enclosed two-man PR-77 *Phaeton* SDV evolve from the tiny T-14 *Pegasus* underwater scooter? You may not have heard of these craft but they represent critical steps on the road to modern SDVs.   
 ![Rebikoff Pegasus SDV DPV scuba scooter](/images/rebikoff_banner.jpg)  
   

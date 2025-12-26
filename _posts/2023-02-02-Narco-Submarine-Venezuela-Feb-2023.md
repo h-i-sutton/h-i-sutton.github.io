@@ -2,18 +2,9 @@
 layout: post
 title: "Unusually Large Narco Submarine Found"
 date: "2023-02-02 23:00:00"
-excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Narco-Submarine-Venezuela-Feb-2023.html"><img
-  align="left" src="/images/Narco-Submarine-Venezuela-Feb2023-317.jpg"/></a> Venezuelan
-  government forces have captured an unusual narco submarine. The large twin-motor
-  vessel was under construction in the jungle.<br/><br/>Its size, twin motors and
-  construction site open up the possibility that this is actually another transatlantic
-  craft.<br/>[Read More &gt;....](/Narco-Submarine-Venezuela-Feb-2023.html "READ MORE")<br
-  clear="left"/></br>
-...
-
+excerpt: |-
+  <br/><br clear="right"><a href="/Narco-Submarine-Venezuela-Feb-2023.html"><img align="left" src="/images/Narco-Submarine-Venezuela-Feb2023-317.jpg"/></a> Venezuelan government forces have captured an unusual narco submarine. The large twin-motor vessel was under construction in the jungle.<br/><br/>Its size, twin motors and construction site open up the possibility that this is actually another transatlantic craft.<br/>[Read More &gt;....](/Narco-Submarine-Venezuela-Feb-2023.html "READ MORE")<br clear="left"/></br>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Unusually Large Narco Submarine Found - Possibly TransatlanticVenezuelan government forces have captured an unusual narco submarine ([See video on Twitter](https://twitter.com/dhernandezlarez/status/1621225752137007113)). The large twin-motor vessel was under construction in the jungle. The artisan boat yard was on the banks of the Rio Brava in Zulia in west of the country. This area is close to the Colombian border and is known as a staging ground for smugglers. Normally however it is used by aircraft. Finding a narco submarine there is extremely unusual.   
 

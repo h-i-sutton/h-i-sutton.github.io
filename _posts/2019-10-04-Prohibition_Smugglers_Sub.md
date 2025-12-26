@@ -2,15 +2,10 @@
 layout: post
 title: "Prohibition_Smugglers_Sub"
 date: "2019-10-04 10:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Moonshine smuggling sub, 1920s, Mississippi** </font><br/>![Flag](/images/flag_USA.jpg)
-  During the 1920-33 prohibition era cunning individuals devised contraptions to smuggle
-  'moonshine' whisky from their illicit distilleries to the big cities...   [Read
-  More &gt;....](/Prohibition_Smugglers_Sub.html "READ MORE")<br/><a href="/Prohibition_Smugglers_Sub.html"><img
-  src="/images/Moonshine_Cutaway_900.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Moonshine smuggling sub, 1920s, Mississippi** </font><br/>![Flag](/images/flag_USA.jpg) During the 1920-33 prohibition era cunning individuals devised contraptions to smuggle 'moonshine' whisky from their illicit distilleries to the big cities...   [Read More &gt;....](/Prohibition_Smugglers_Sub.html "READ MORE")<br/><a href="/Prohibition_Smugglers_Sub.html"><img src="/images/Moonshine_Cutaway_900.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Moonshine smuggling sub, 1920s, Mississippi**   
 ![Flag](/images/flag_USA.jpg) Since time immemorial people have sought to smuggle illicit goods for financial gain. This includes particularly clever people who construct specialized boats or submarines. These contraptions are, by their nature, fascinating irrespective of the contraband involved. Often the line between engineering genius and suicidal nut job is very close. So these craft have a few design surprises in store. Today this is the [Narco Sub]({% post_url 2020-03-29-Narco%20Subs%20101 %}) phenomenon; during the 1920-33 prohibition era cunning individuals devised contraptions to smuggle 'moonshine' whisky from their illicit distilleries to the big cities. Some of these were ‘moonshine submarines’.  
 

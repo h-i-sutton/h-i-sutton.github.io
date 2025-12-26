@@ -2,20 +2,9 @@
 layout: post
 title: "New Tracked Underwater Drones"
 date: "2023-02-26 23:00:00"
-excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Bayonet-Underwater-Crawlers.html"><img
-  align="left" src="/images/US-Bayonet-crawlers-317.jpg"/></a> ![Flag Uunited States](/images/flag_USA.jpg)The
-  concept of submarine crawlers, which use tracks to navigate on the sea floor is
-  not new. But it is still novel.<br/><br/>What the Bayonet series of crawlers adds
-  is modern levels of automation, reliability and flexibility. And unlike regular
-  UUVs (Uncrewed Underwater Vehicles) the crawlers are amphibious. <br/>[Read More
-  &gt;....](/Bayonet-Underwater-Crawlers.html "READ MORE")<br clear="left"/></br>
-...
-
+excerpt: |-
+  <br/><br clear="right"><a href="/Bayonet-Underwater-Crawlers.html"><img align="left" src="/images/US-Bayonet-crawlers-317.jpg"/></a> ![Flag Uunited States](/images/flag_USA.jpg)The concept of submarine crawlers, which use tracks to navigate on the sea floor is not new. But it is still novel.<br/><br/>What the Bayonet series of crawlers adds is modern levels of automation, reliability and flexibility. And unlike regular UUVs (Uncrewed Underwater Vehicles) the crawlers are amphibious. <br/>[Read More &gt;....](/Bayonet-Underwater-Crawlers.html "READ MORE")<br clear="left"/></br>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-![U.S. Bayonet Underwater Crawlers](/images/US-Bayonet-350-crawler.jpg)  
-*Bayonet 350*  
 
 #New Tracked Underwater Drones![Flag Uunited States](/images/flag_USA.jpg) The concept of submarine crawlers, which use tracks to navigate on the sea floor is not new. But it is still novel. What the Bayonet series of crawlers adds is modern levels of automation, reliability and flexibility.  
 

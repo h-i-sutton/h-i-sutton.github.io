@@ -2,18 +2,17 @@
 layout: post
 title: "Chinese-Maritime-Militia-At-Whitsun-Reef"
 date: "2021-04-03 12:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**New OSINT Shows Changes At\
-  \ Whisun Reef**</font><br clear=\"right\"/><a href=\"/Chinese-Maritime-Militia-At-Whitsun-Reef.html\"\
-  ><img align=\"left\" src=\"/images/South-China-Sea-Whitsun-317.jpg\"/></a>![Flag\
-  \ China](/images/flag_China.jpg) The latest tide of OSINT (Open Source Intelligence)\
-  \ from the South China Sea shows that most of China\u2019s fishing vessels have\
-  \ vacated Whitsun Reef. The presence of over two hundred fishing vessels had caused\
-  \ considerable concern in the region.<br/><br/>But caution is needed in drawing\
-  \ a strong conclusion at this stage.<br/>[Read More &gt;....](/Chinese-Maritime-Militia-At-Whitsun-Reef.html\
-  \ \"READ MORE\")<br clear=\"left\"/>"
-
+excerpt: "<font size=\"5\">**New OSINT Shows Changes At Whisun Reef**</font><br clear=\"right\"\
+  /><a href=\"/Chinese-Maritime-Militia-At-Whitsun-Reef.html\"><img align=\"left\"\
+  \ src=\"/images/South-China-Sea-Whitsun-317.jpg\"/></a>![Flag China](/images/flag_China.jpg)\
+  \ The latest tide of OSINT (Open Source Intelligence) from the South China Sea shows\
+  \ that most of China\u2019s fishing vessels have vacated Whitsun Reef. The presence\
+  \ of over two hundred fishing vessels had caused considerable concern in the region.<br/><br/>But\
+  \ caution is needed in drawing a strong conclusion at this stage.<br/>[Read More\
+  \ &gt;....](/Chinese-Maritime-Militia-At-Whitsun-Reef.html \"READ MORE\")<br clear=\"\
+  left\"/>"
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![Whitsun Reef](/images/South-China-Sea-Whitsun-April-2021.jpg)  
 #New OSINT Shows Changes At Whisun Reef![Flag China](/images/flag_China.jpg) The latest tide of OSINT (Open Source Intelligence) from the South China Sea shows that most of China’s fishing vessels have vacated Whitsun Reef. The Sentinel-2 satellite imagery is from April 3 2021. The presence of over two hundred fishing vessels had caused considerable concern in the region.   

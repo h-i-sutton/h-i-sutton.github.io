@@ -2,17 +2,15 @@
 layout: post
 title: "Yacht_Elden"
 date: "2018-11-05 02:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Yacht tracking: Russian yacht\
-  \ Elden** </font> (\u042D\u041B\u0414\u0415\u041D)<br/>![Flag](/images/flag_russia.jpg)\
-  \ Super yachts usually get noticed for their bold design, impressive scale, sleek\
-  \ lines and massive price tag. The 29 meter long **Elden** (\u042D\u041B\u0414\u0415\
-  \u041D), owned by Russian oligarch Oleg Deripaska, has gained notoriety for other\
-  \ reasons however. ...  [Read More &gt;....](/Yacht_Elden.html \"READ MORE\")<br/><a\
-  \ href=\"/Yacht_Elden.html\"><img src=\"/images/Ru_YachtElden_news900.jpg\"/></a><br\
-  \ clear=\"right\"/>"
-
+excerpt: "<font size=\"6\">**Yacht tracking: Russian yacht Elden** </font> (\u042D\u041B\u0414\
+  \u0415\u041D)<br/>![Flag](/images/flag_russia.jpg) Super yachts usually get noticed\
+  \ for their bold design, impressive scale, sleek lines and massive price tag. The\
+  \ 29 meter long **Elden** (\u042D\u041B\u0414\u0415\u041D), owned by Russian oligarch\
+  \ Oleg Deripaska, has gained notoriety for other reasons however. ...  [Read More\
+  \ &gt;....](/Yacht_Elden.html \"READ MORE\")<br/><a href=\"/Yacht_Elden.html\"><img\
+  \ src=\"/images/Ru_YachtElden_news900.jpg\"/></a><br clear=\"right\"/>"
 ---
+
 **Yacht tracking: Russian yacht Elden**    
 Super yachts usually get noticed for their bold design, impressive scale, sleek lines and massive price tag. The 29 meter long **Elden** (ЭЛДЕН) luxury motor super yacht, owned by Russian oligarch Oleg Deripaska, has gained notoriety for other reasons however.   
 ![Yacht Elden - covert shores](/images/Ru_Yacht_Elden.jpg)  

@@ -2,16 +2,10 @@
 layout: post
 title: "The Revolutionary Submarine You Haven't Heard Of: Narval (1899)"
 date: "2022-01-20 23:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Narval-Submarine-of-1899.html"><img align="left" src="/images/France-Narval-1899-317.jpg"/></a>
-  ![Flag](/images/flag_france.jpg) Many histories of submarines start with the designs
-  of John Philip Holland. Yet there was, at the same time, a French designer who was
-  arguably equally important.<br/><br/>Maxime Laubeuf's ideas and designs literally
-  shaped submarines to this day.<br/>[Read More &gt;....](/Narval-Submarine-of-1899.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Narval-Submarine-of-1899.html"><img align="left" src="/images/France-Narval-1899-317.jpg"/></a> ![Flag](/images/flag_france.jpg) Many histories of submarines start with the designs of John Philip Holland. Yet there was, at the same time, a French designer who was arguably equally important.<br/><br/>Maxime Laubeuf's ideas and designs literally shaped submarines to this day.<br/>[Read More &gt;....](/Narval-Submarine-of-1899.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 [![](/images/France-Narval-1899-cutaway-940.jpg)](/images/France-Narval-1899-cutaway.jpg)  
 *Original artwork. CLICK for high-resolution image:*  

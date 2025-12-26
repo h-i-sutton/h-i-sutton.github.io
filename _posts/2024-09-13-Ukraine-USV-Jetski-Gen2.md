@@ -2,16 +2,10 @@
 layout: post
 title: "New Ukrainian Weaponized Jet Ski Used In Crimea Raid"
 date: "2024-09-13 07:00:00"
-excerpt: '*Updated. Originally posted Aug 17 2024*<a href="https://twitter.com/covertshores"
-  target="blank"><img align="right" src="/images/twitter.jpg"/></a><br clear="right"/><a
-  href="/Ukraine-USV-Jetski-Gen2.html"><img align="left" src="/images/Ukraine-OWA-USV-Jetski-Gen2-317.jpg"/></a>
-  ![Flag Ukraine](/images/flag_ukraine.jpg) Ukraine continues to surprise observers,
-  with yet another variation of uncrewed surface vessel (USV) revealed by the latest
-  round of raids on Russian-occupied Crimea.<br/><br/>The USV is evidently a modified
-  yet ski...<br/>[Read More &gt;....](/Ukraine-USV-Jetski-Gen2.html "READ MORE")<br
-  clear="left"/>'
-
+excerpt: |-
+  *Updated. Originally posted Aug 17 2024*<br clear="right"/><a href="/Ukraine-USV-Jetski-Gen2.html"><img align="left" src="/images/Ukraine-OWA-USV-Jetski-Gen2-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Ukraine continues to surprise observers, with yet another variation of uncrewed surface vessel (USV) revealed by the latest round of raids on Russian-occupied Crimea.<br/><br/>The USV is evidently a modified yet ski...<br/>[Read More &gt;....](/Ukraine-USV-Jetski-Gen2.html "READ MORE")<br clear="left"/>
 ---
+
 *Updated. Originally posted Aug 17 2024*[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #New Ukrainian Weaponized Jet Ski Used In Crimea Raid![Flag Ukraine](/images/flag_ukraine.jpg) Ukraine continues to surprise observers, with yet another variation of uncrewed surface vessel (USV) revealed by the latest round of raids on Russian-occupied Crimea. The USV is evidently a modified yet ski. Last month, a [weaponized Yamaha Waverunner FX jet ski was found]({% post_url 2024-07-27-Ukraine-USV-Jetski %}) on Turkish beach near Istanbul. That craft was less extensively modified, suggesting that this is the second-generation iteration.   

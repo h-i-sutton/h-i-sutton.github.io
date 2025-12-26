@@ -2,20 +2,18 @@
 layout: post
 title: "K-329_Belgorod_Update"
 date: "2019-09-10 00:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a> <font size=\"6\">**OSINT: first candid photo\
-  \ of Belgorod submarine**</font><br/>![Flag](/images/flag_russia.jpg) Russia\u2019\
-  s TYPHOON Class submarine was once very camera shy. Today only one of these behemoths\
-  \ remains in service, and it is nearing the end of its useful life. Consequently,\
-  \ the Russian Navy are now willing for photographs of this impressive beast to be\
-  \ pasted around the internet. In August Russian State media outlet TASS posted several\
-  \ excellent high resolution images of the last boat in an article and on its twitter\
-  \ feed.  The images are superb, but of particular interest is that another submarine\
-  \ is just visible in the background of one of them... <br/><a href=\"/K-329_Belgorod_Update.html\"\
-  ><img src=\"/images/Ru_Belgorod_Candid900.jpg\"/></a><br/>[Read More &gt;....](/K-329_Belgorod_Update.html\
-  \ \"READ MORE\")"
-
+excerpt: " <font size=\"6\">**OSINT: first candid photo of Belgorod submarine**</font><br/>![Flag](/images/flag_russia.jpg)\
+  \ Russia\u2019s TYPHOON Class submarine was once very camera shy. Today only one\
+  \ of these behemoths remains in service, and it is nearing the end of its useful\
+  \ life. Consequently, the Russian Navy are now willing for photographs of this impressive\
+  \ beast to be pasted around the internet. In August Russian State media outlet TASS\
+  \ posted several excellent high resolution images of the last boat in an article\
+  \ and on its twitter feed.  The images are superb, but of particular interest is\
+  \ that another submarine is just visible in the background of one of them... <br/><a\
+  \ href=\"/K-329_Belgorod_Update.html\"><img src=\"/images/Ru_Belgorod_Candid900.jpg\"\
+  /></a><br/>[Read More &gt;....](/K-329_Belgorod_Update.html \"READ MORE\")"
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**OSINT: first candid photo of Belgorod submarine**  
    
 

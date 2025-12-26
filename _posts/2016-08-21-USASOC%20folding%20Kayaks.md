@@ -2,17 +2,10 @@
 layout: post
 title: "USASOC folding Kayaks"
 date: "2016-08-21 03:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>![Flag](/images/flag_USA.jpg)
-  It may come as a surprise that the US Army Special Operations Command (**USASOC**)
-  has a requirement for *Foldable Kayaks*. Pioneered by the British during World War
-  Two and associated with the British way of doing things throughout the Cold War
-  (SBS, SAS), kayaks are rarely at the forefront of Special Forces today. However,
-  in certain missions they remain relevant, and may be the first choice ahead of inflatable
-  boats and RIBs.....  [Read More &gt;....](/USASOC folding Kayaks.html "READ MORE")<br/><a
-  href="/USASOC folding Kayaks.html"><img src="/images/Kayak4.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |-
+  ![Flag](/images/flag_USA.jpg) It may come as a surprise that the US Army Special Operations Command (**USASOC**) has a requirement for *Foldable Kayaks*. Pioneered by the British during World War Two and associated with the British way of doing things throughout the Cold War (SBS, SAS), kayaks are rarely at the forefront of Special Forces today. However, in certain missions they remain relevant, and may be the first choice ahead of inflatable boats and RIBs.....  [Read More &gt;....](/USASOC folding Kayaks.html "READ MORE")<br/><a href="/USASOC folding Kayaks.html"><img src="/images/Kayak4.jpg"/></a><br clear="right"/>
 ---
+
 ![Flag](/images/flag_USA.jpg) It may come as a surprise that the US Army Special Operations Command (**USASOC**) has a requirement for *Foldable Kayaks* [(Ref)](https://www.fbo.gov/index?s=opportunity&mode=form&id=a047ad98225c3a16caa031a2aa1ef49f&tab=core&_cview=0). Pioneered by the British during World War Two and associated with the British way of doing things throughout the Cold War (SBS, SAS), kayaks are rarely at the forefront of Special Forces today. However, in certain missions they remain relevant, and may be the first choice ahead of inflatable boats and RIBs.   
 ![USASOC folding Kayaks - Commando Mk.II](/images/Kayak4.jpg)  
 *Possibly product demo*  

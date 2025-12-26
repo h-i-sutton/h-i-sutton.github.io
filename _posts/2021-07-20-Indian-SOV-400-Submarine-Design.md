@@ -2,15 +2,10 @@
 layout: post
 title: "India's New Indiginous Submarine design: L&T SOV-400"
 date: "2021-07-20 12:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Indian-SOV-400-Submarine-Design.html"><img align="left"
-  src="/images/India-SOV-400-Submarine-317.jpg"/></a>![Flag](/images/flag_india.jpg)
-  The SOV-400 is a new submarine design from Larsen &amp; Toubro. As it's name implies
-  it is around 400 tons placing it at the larger end of the 'midget submarine' spectrum....<br/>[Read
-  More &gt;....](/Indian-SOV-400-Submarine-Design.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Indian-SOV-400-Submarine-Design.html"><img align="left" src="/images/India-SOV-400-Submarine-317.jpg"/></a>![Flag](/images/flag_india.jpg) The SOV-400 is a new submarine design from Larsen &amp; Toubro. As it's name implies it is around 400 tons placing it at the larger end of the 'midget submarine' spectrum....<br/>[Read More &gt;....](/Indian-SOV-400-Submarine-Design.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![L&T SOV-400 Class Submarine](/images/India-SOV-400-Submarine-Profile.jpg)  
 

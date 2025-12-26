@@ -2,8 +2,7 @@
 layout: post
 title: "Spy Subs -Project 09852 Belgorod"
 date: "2019-10-18 03:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a>*Updated. Originally posted 25th June 2016*<br/>![Flag](/images/flag_russia.jpg)\
+excerpt: "*Updated. Originally posted 25th June 2016*<br/>![Flag](/images/flag_russia.jpg)\
   \ On 23rd April 2019 Russia launched its latest \u2018special mission\u2019 submarine,\
   \ **Belgorod**. Measures were taken to control images published in the media. However,\
   \ the same day a commercial satellite passed west of the city, snapping an image\
@@ -12,8 +11,8 @@ excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img ali
   \ boat...... [Read More &gt;....](/Spy Subs -Project 09852 Belgorod.html \"READ\
   \ MORE\")<br/><a href=\"/Spy Subs -Project 09852 Belgorod.html\"><img src=\"/images/Ru_Belgorod_Profile900.jpg\"\
   /></a><br clear=\"right\"/>"
-
 ---
+
 [Read More >....]({% post_url 2021-06-29-Belgorod-Class-Submarine %} "This Articles Has Been Superseded. Go Here For Latest Info")
 
 *Updated. Originally posted 25th June 2016*  

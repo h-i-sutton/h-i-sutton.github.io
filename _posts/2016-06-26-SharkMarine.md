@@ -2,21 +2,10 @@
 layout: post
 title: "SharkMarine"
 date: "2016-06-26 02:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>![Flag](/images/flag_canada.jpg)
-  In spite of navigation being probably the single greatest challenges to underwater
-  operations, development has tended to emphasize the vehicle before the sensors.
-  Traditionally for divers, sensor and navigation systems were subsystems of an SDV
-  (Swimmer Delivery Vehicle), or merely optional add-ons. Many smaller DPVs (Diver
-  Propulsion Devices, hand-held SDVs) has virtually no instrumentation making long
-  range missions underwater unviable. Not only is this changing, but the relationship
-  between navigation systems and SDV is reversing; increasingly SDVs can be seen as
-  an add-on to a navigation system. Nowhere is this more apparent than with Canadian
-  manufacturer SharkMarine.... [Read More &gt;....](/SharkMarine.html "READ MORE")<br/><a
-  href="/SharkMarine.html"><img src="/images/SharkMarine_MAKO1.jpg"/></a><br/><a href="/SharkMarine.html"><img
-  src="/images/SharkMarine_Mako_nose.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |-
+  ![Flag](/images/flag_canada.jpg) In spite of navigation being probably the single greatest challenges to underwater operations, development has tended to emphasize the vehicle before the sensors. Traditionally for divers, sensor and navigation systems were subsystems of an SDV (Swimmer Delivery Vehicle), or merely optional add-ons. Many smaller DPVs (Diver Propulsion Devices, hand-held SDVs) has virtually no instrumentation making long range missions underwater unviable. Not only is this changing, but the relationship between navigation systems and SDV is reversing; increasingly SDVs can be seen as an add-on to a navigation system. Nowhere is this more apparent than with Canadian manufacturer SharkMarine.... [Read More &gt;....](/SharkMarine.html "READ MORE")<br/><a href="/SharkMarine.html"><img src="/images/SharkMarine_MAKO1.jpg"/></a><br/><a href="/SharkMarine.html"><img src="/images/SharkMarine_Mako_nose.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Thank you to everybody who has made this article possible.*  
   
 

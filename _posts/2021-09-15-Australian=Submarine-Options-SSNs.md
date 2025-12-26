@@ -2,16 +2,10 @@
 layout: post
 title: "Australian Navy May Be Looking At Nuclear Submarines"
 date: "2021-09-15 10:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Australian=Submarine-Options-SSNs.html"><img align="left"
-  src="/images/Australian-Nuclear-Sub-317.jpg"/></a> ![Flag Australia](/images/flag_aus.jpg)
-  Rumors have surfaced that the US, and Britain, could be about to step in to help
-  the Australian Navy realize a nuclear submarine capability. We may know whether
-  this is true, and what it means, soon. In the meantime, these are the relevant submarines.<br/>
-  [Read More &gt;....](/Australian=Submarine-Options-SSNs.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Australian=Submarine-Options-SSNs.html"><img align="left" src="/images/Australian-Nuclear-Sub-317.jpg"/></a> ![Flag Australia](/images/flag_aus.jpg) Rumors have surfaced that the US, and Britain, could be about to step in to help the Australian Navy realize a nuclear submarine capability. We may know whether this is true, and what it means, soon. In the meantime, these are the relevant submarines.<br/> [Read More &gt;....](/Australian=Submarine-Options-SSNs.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 [![](/images/Australian-Nuclear-Submarine-Options-940.jpg)](/images/Australian-Nuclear-Submarine-Options.jpg)  
 *CLICK to enlarge*.  

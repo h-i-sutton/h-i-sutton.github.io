@@ -2,16 +2,10 @@
 layout: post
 title: "Chinese Navy Expansion: Yet Another Massive Dry Dock Takes Shape"
 date: "2022-09-09 23:02:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/China-Dry-Dock-Shanghai.html"><img align="left" src="/images/China-Shanghai-Dry-Dock-317.jpg"/></a>
-  ![Flag China](/images/flag_China.jpg) The rate of Chinese warship production is
-  impressive by any standards. A new Google Earth satellite image update of shipyards
-  in Shanghai emphasises this.<br/><br/>The latest image shows solid progress on a
-  massive dry dock...<br/>[Read More &gt;....](/China-Dry-Dock-Shanghai.html "READ
-  MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/China-Dry-Dock-Shanghai.html"><img align="left" src="/images/China-Shanghai-Dry-Dock-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) The rate of Chinese warship production is impressive by any standards. A new Google Earth satellite image update of shipyards in Shanghai emphasises this.<br/><br/>The latest image shows solid progress on a massive dry dock...<br/>[Read More &gt;....](/China-Dry-Dock-Shanghai.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Chinese Navy Expansion: Yet Another Massive Dry Dock Takes Shape![Flag China](/images/flag_China.jpg) The rate of Chinese warship production is impressive by any standards. A new Google Earth satellite image update of shipyards in Shanghai emphasises this. But while many eyes are on the new Type-003 Fujian Class aircraft carrier, and destroyers / cruisers, there is something else nearby. The latest image shows solid progress on a massive dry dock.   

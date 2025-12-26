@@ -2,17 +2,9 @@
 layout: post
 title: "Ukraine War Navy Recognition Quiz"
 date: "2023-01-13 18:20:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Ukraine-War-Navy-quiz.html"><img align="left" src="/images/Ukraine-War-Navy-Quiz-317.jpg"/></a>
-  ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg)
-  This quiz covers warships and other naval vessels currently operating in the Black
-  Sea as part of the war. Both Russian and Ukrainian types are shown.<br/><br/>Think
-  you know your warships and submarines?  Take the quiz!<br/>[Read More &gt;....](/Ukraine-War-Navy-quiz.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Ukraine-War-Navy-quiz.html"><img align="left" src="/images/Ukraine-War-Navy-Quiz-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) This quiz covers warships and other naval vessels currently operating in the Black Sea as part of the war. Both Russian and Ukrainian types are shown.<br/><br/>Think you know your warships and submarines?  Take the quiz!<br/>[Read More &gt;....](/Ukraine-War-Navy-quiz.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) This quiz covers warships, submarines and other naval vessels currently operating in the Black Sea as part of the war. Both Russian and Ukrainian types are shown.   
 

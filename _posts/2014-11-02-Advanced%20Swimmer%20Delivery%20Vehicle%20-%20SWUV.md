@@ -7,8 +7,8 @@ excerpt: "The first glimpse of the next generation *Special Warfare Underwater V
   \ history and present trend in French Special Forces (Commando Hubert) submersibles.<a\
   \ href=\"/Advanced Swimmer Delivery Vehicle - SWUV.html\"><img src=\"/images/SWUV_header.jpg\"\
   /></a>"
-
 ---
+
 ![SWUV artwork](/images/SWUV_header.jpg)
 
 Since WW2 France has always been in the top tier of Naval Special forces adopters and maintained a ‘proper’ SDV capability during the Cold War. Defense budgets and desert distractions contributed to the loss of this capability, but things are looking brighter again for the famous *Nageurs de Combat* (combat swimmers). France pioneered Swimmer Delivery Vehicle (SDV) technology and adoption and was the first Navy to operate removable Dry Deck Shelters. So it was a major step backwards when they retired the last of the Agosta class submarines in 2001 and with it the world-reaching SDV capability. The SDVs they operated (termed PSM in France) were a well kept secret and they too have been retired.

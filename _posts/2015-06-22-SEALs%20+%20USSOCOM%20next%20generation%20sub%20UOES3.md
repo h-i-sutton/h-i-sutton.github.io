@@ -2,14 +2,10 @@
 layout: post
 title: "SEALs + USSOCOM next generation sub UOES3"
 date: "2015-06-22 11:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><img src="/images/flag_USA.jpg"/> <img src="/images/flag_italy.jpg"/>
-  **UPDATED** [Read More &gt;....](/SEALs + USSOCOM next generation sub UOES3.html
-  "READ MORE")<br/><a href="/SEALs + USSOCOM next generation sub UOES3.html"><img
-  src="/images/UOES3_900.jpg"/></a>
-...
-
+excerpt: |-
+  <br clear="right"/><img src="/images/flag_USA.jpg"/> <img src="/images/flag_italy.jpg"/> **UPDATED** [Read More &gt;....](/SEALs + USSOCOM next generation sub UOES3.html "READ MORE")<br/><a href="/SEALs + USSOCOM next generation sub UOES3.html"><img src="/images/UOES3_900.jpg"/></a>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 **UPDATED**  
 *All information from public sources*  

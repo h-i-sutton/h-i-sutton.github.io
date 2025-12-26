@@ -2,15 +2,9 @@
 layout: post
 title: "Countries That Can Design And Build Submarines Today"
 date: "2023-03-09 15:30:00"
-excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Submarine-Building-Countries-List.html"><img
-  align="left" src="/images/Submarine-Construction-317.jpg"/></a> There are more countries
-  building submarines today than there has ever been.<br/><br/>This is the list.<br/>[Read
-  More &gt;....](/Submarine-Building-Countries-List.html "READ MORE")<br clear="left"/></br>
-...
-
+excerpt: |-
+  <br/><br clear="right"><a href="/Submarine-Building-Countries-List.html"><img align="left" src="/images/Submarine-Construction-317.jpg"/></a> There are more countries building submarines today than there has ever been.<br/><br/>This is the list.<br/>[Read More &gt;....](/Submarine-Building-Countries-List.html "READ MORE")<br clear="left"/></br>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 ![Submarine Construction Astute class](/images/Submarine-Construction-Astute.jpg)  
 *3 Astute Class nuclear submarines under construction at Barrow, United Kingdom. Photo BAE Systems*  

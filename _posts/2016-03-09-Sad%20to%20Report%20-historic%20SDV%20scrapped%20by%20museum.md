@@ -2,17 +2,10 @@
 layout: post
 title: "Sad to Report -historic SDV scrapped by museum"
 date: "2016-03-09 14:00:00"
-excerpt: '![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_italy.jpg) One of only four remaining
-  (now three!) wartime Italian *Siluro San Bartolomeo* (SSB) underwater chariots has
-  been scrapped. From a historical standpoint the type is hugely important in the
-  history of SDVs (Swimmer Delivery Vehicles) on both sides of the Atlantic. For years
-  the craft was on display at the Submarine Forces Library in Groton, CT, USA. I had
-  noticed that it was no longer on display, and have recently learned through a friend
-  that it has in fact been scrapped. [Read More &gt;....](/Sad to Report -historic
-  SDV scrapped by museum.html "READ MORE")<br/><a href="/Sad to Report -historic SDV
-  scrapped by museum.html"><img src="/images/SSB_scrapped900.jpg"/></a>'
-
+excerpt: |-
+  ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_italy.jpg) One of only four remaining (now three!) wartime Italian *Siluro San Bartolomeo* (SSB) underwater chariots has been scrapped. From a historical standpoint the type is hugely important in the history of SDVs (Swimmer Delivery Vehicles) on both sides of the Atlantic. For years the craft was on display at the Submarine Forces Library in Groton, CT, USA. I had noticed that it was no longer on display, and have recently learned through a friend that it has in fact been scrapped. [Read More &gt;....](/Sad to Report -historic SDV scrapped by museum.html "READ MORE")<br/><a href="/Sad to Report -historic SDV scrapped by museum.html"><img src="/images/SSB_scrapped900.jpg"/></a>
 ---
+
 ![Siluro San Bartolomeo SSB maiale chariot human torpedo](/images/SSB_scrapped900.jpg)   
 ![Siluro San Bartolomeo SSB maiale chariot human torpedo](/images/SSB_testing900.jpg)   
 ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_italy.jpg) One of only four remaining (now three!) wartime Italian *Siluro San Bartolomeo* (SSB) underwater chariots has been scrapped. From a historical standpoint the type is hugely important in the history of SDVs (Swimmer Delivery Vehicles) on both sides of the Atlantic. For years the craft was on display at the Submarine Forces Library in Groton, CT, USA. I had noticed that it was no longer on display, and have recently learned through a friend that it has in fact been scrapped.   

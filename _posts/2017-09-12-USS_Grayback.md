@@ -2,15 +2,10 @@
 layout: post
 title: "USS_Grayback"
 date: "2017-09-12 22:01:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**USS Grayback (LPSS-574): SEAL host submarine**</font> <br/>![Flag](/images/flag_USA.jpg)  At
-  the height of the Cold War and Vietnam Wars In the mid-1960s the US Navy planned
-  to convert two nuclear deterrence guided missile submarines into dedicated Special
-  Forces host submarines.....includes information on **Operation THUNDERHEAD**...  [Read
-  More &gt;....](/USS_Grayback.html "READ MORE")<br/><a href="/USS_Grayback.html"><img
-  src="/images/Grayback900.jpg"/></a><br clear="right"/>'
-
+excerpt: |-
+  <font size="6">**USS Grayback (LPSS-574): SEAL host submarine**</font> <br/>![Flag](/images/flag_USA.jpg)  At the height of the Cold War and Vietnam Wars In the mid-1960s the US Navy planned to convert two nuclear deterrence guided missile submarines into dedicated Special Forces host submarines.....includes information on **Operation THUNDERHEAD**...  [Read More &gt;....](/USS_Grayback.html "READ MORE")<br/><a href="/USS_Grayback.html"><img src="/images/Grayback900.jpg"/></a><br clear="right"/>
 ---
+
 **USS Grayback (LPSS-574): SEAL host submarine**   
 ![Flag](/images/flag_USA.jpg) At the height of the Cold War and Vietnam Wars In the mid-1960s the US Navy planned to convert two nuclear deterrence guided missile submarines into dedicated Special Forces host submarines. The diesel-electric powered Grayback Class had been designed in the 1950s to provide an interim nuclear deterrent capability while more capable nuclear-powered vessels were brought into service. Armed with four aircraft-sized Regulus nuclear cruise missiles the submarines had to surface to launch their nuclear strike. The Regulus was deemed obsolete by the successful introduction of the Polaris submarine launched ballistic missile (SSBM) which could be launched from a submerged submarine and the follow-on Regulus-II was cancelled, making the Graybacks quickly obsolete. The Regulus were stored in two large hangars above the torpedo room making the Grayback Class ideal for conversion into special operations submarines.   
 

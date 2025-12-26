@@ -2,17 +2,10 @@
 layout: post
 title: "Book Review: Clearance Diver by Tony Ey"
 date: "2014-09-20 10:00:00"
-excerpt: '<a href="/Book Review: Clearance Diver by Tony Ey.html"><img src="/images/stars-five.png"/></a>
-  FIVE STARS!. **Clearance Diver** by former Royal Australian Navy (RAN) Chief Petty
-  Officer Tony Ey An excellent read, very funny in places and very well written. The
-  author has an easy writing style that sucks you in to the narrative providing a
-  rare insight into the world of elite ''special forces'' units. Books like this also
-  serve a vital role in recording the history of these under-documented units and
-  it''s great that the author can do this in an entertaining way without unduly stretching
-  the stories. So a very valuable book from a historical perspective also. [READ MORE](/Book
-  Review: Clearance Diver by Tony Ey.html "Clearance Diver by Tony Ey")'
-
+excerpt: |-
+  <a href="/Book Review: Clearance Diver by Tony Ey.html"><img src="/images/stars-five.png"/></a> FIVE STARS!. **Clearance Diver** by former Royal Australian Navy (RAN) Chief Petty Officer Tony Ey An excellent read, very funny in places and very well written. The author has an easy writing style that sucks you in to the narrative providing a rare insight into the world of elite 'special forces' units. Books like this also serve a vital role in recording the history of these under-documented units and it's great that the author can do this in an entertaining way without unduly stretching the stories. So a very valuable book from a historical perspective also. [READ MORE](/Book Review: Clearance Diver by Tony Ey.html "Clearance Diver by Tony Ey")
 ---
+
 [![](/images/stars-five.png)](/Book Review: Clearance Diver by Tony Ey.html)Tony Ey is eminently qualified to write this, which is not just his own story, but a rare insight into the discrete world of elite naval special forces. It is a good read for anyone interested in naval special forces or equally military history in general.
 
 [![](/images/tonyEy_book.jpg)](/Book_Review_TonyEy.html)[Get your copy on AMAZON](http://www.amazon.com/Clearance-Diver-times-Australian-Frogman/dp/1494348853/ref=la_B00DPCW41I_1_1_title_0_main?s=books&ie=UTF8&qid=1411299540&sr=1-1 )

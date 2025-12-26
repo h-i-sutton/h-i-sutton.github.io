@@ -2,17 +2,15 @@
 layout: post
 title: "The_First_Clearance_Diver"
 date: "2016-11-25 11:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><img src=\"/images/flag_UK.jpg\"/><font size=\"\
-  6\"> **John Deane, Diver in Crimean War** </font> <br/> Someone forwarded me a link\
-  \ to James Nestor\u2019s account of the Deane brother\u2019s *unfathomable* exploits\
-  \ in Epic Magazine. An excellent read. <br/><a href=\"/The_First_Clearance_Diver.html\"\
-  ><img src=\"/images/DeaneHelmet900.jpg\"/></a><br/>A quick note re the Deane Brothers\
-  \ and particularly John Deane\u2019s work clearing naval mines in the Crimean War\u2026\
-  .[Read More &gt;....](/The_First_Clearance_Diver.html \"READ MORE\")<br clear=\"\
-  right\"/>"
-
+excerpt: "<img src=\"/images/flag_UK.jpg\"/><font size=\"6\"> **John Deane, Diver in Crimean\
+  \ War** </font> <br/> Someone forwarded me a link to James Nestor\u2019s account\
+  \ of the Deane brother\u2019s *unfathomable* exploits in Epic Magazine. An excellent\
+  \ read. <br/><a href=\"/The_First_Clearance_Diver.html\"><img src=\"/images/DeaneHelmet900.jpg\"\
+  /></a><br/>A quick note re the Deane Brothers and particularly John Deane\u2019\
+  s work clearing naval mines in the Crimean War\u2026.[Read More &gt;....](/The_First_Clearance_Diver.html\
+  \ \"READ MORE\")<br clear=\"right\"/>"
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Thank you to the Historical Diving Society (HDS) and those who have uncovered and shared this fascinating history. Any errors are entirely my responsibility*   
 
 ![Flag](/images/flag_UK.jpg) Someone forwarded me a link to James Nestor’s account of the Deane brother’s *unfathomable* exploits in [Epic Magazine](http://unfathomable.epicmagazine.com/). An excellent read.   

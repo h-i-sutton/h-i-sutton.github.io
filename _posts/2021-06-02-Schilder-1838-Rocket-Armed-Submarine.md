@@ -2,18 +2,10 @@
 layout: post
 title: "World's First Rocket Armed Submarine, From 1834"
 date: "2021-06-02 23:01:00"
-excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Schilder-1838-Rocket-Armed-Submarine.html"><img
-  align="left" src="/images/Russian-Navy-Schilder-sub-317.jpg"/></a> ![Flag](/images/flag_russia.jpg)
-  Naval warfare was changed in the 1960s when the US Navy started deploying large
-  rockets on submarines. Actually Russia, then USSR, beat them by several years. The
-  first Russian ballistic missile submarines were sailing in the late 1950s. <br/><br/>But
-  Russia beat them by much more than a few years. The first rocket-armed Russian submarine
-  was in the 1830s.<br/>[Read More](/Schilder-1838-Rocket-Armed-Submarine.html "READ
-  MORE")<br clear="left"/></br>
-...
-
+excerpt: |-
+  <br/><br clear="right"><a href="/Schilder-1838-Rocket-Armed-Submarine.html"><img align="left" src="/images/Russian-Navy-Schilder-sub-317.jpg"/></a> ![Flag](/images/flag_russia.jpg) Naval warfare was changed in the 1960s when the US Navy started deploying large rockets on submarines. Actually Russia, then USSR, beat them by several years. The first Russian ballistic missile submarines were sailing in the late 1950s. <br/><br/>But Russia beat them by much more than a few years. The first rocket-armed Russian submarine was in the 1830s.<br/>[Read More](/Schilder-1838-Rocket-Armed-Submarine.html "READ MORE")<br clear="left"/></br>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 [![](/images/Russian-Navy-Schilder-submarine-cutaway-940.jpg)](/images/Russian-Navy-Schilder-submarine-cutaway-1838.jpg)  
 *Original Artwork. CLICK to enlarge*.  

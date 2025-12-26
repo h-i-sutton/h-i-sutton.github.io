@@ -2,17 +2,9 @@
 layout: post
 title: "Russian Navy Deploys Makeshift GPS Jammers To Warship For St. Petersburg Parade"
 date: "2023-07-19 17:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Russian-Navy-GPS-Jammer-OSINT.html"><img align="left" src="/images/Russia-GPS-Jammer-317.jpg"/></a>
-  ![Flag Russia](/images/flag_russia.jpg) The Russian Navy appears to have heightened
-  concerns that its annual Navy Day parade in Saint Petersburg may be attacked by
-  drones.<br/><br/>Photographs shared on Russian social media appear to show a GPS
-  jammer aboard a Russian warship in the city...<br/>[Read More &gt;....](/Russian-Navy-GPS-Jammer-OSINT.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russian-Navy-GPS-Jammer-OSINT.html"><img align="left" src="/images/Russia-GPS-Jammer-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The Russian Navy appears to have heightened concerns that its annual Navy Day parade in Saint Petersburg may be attacked by drones.<br/><br/>Photographs shared on Russian social media appear to show a GPS jammer aboard a Russian warship in the city...<br/>[Read More &gt;....](/Russian-Navy-GPS-Jammer-OSINT.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Russian Navy Deploys Makeshift GPS Jammers To Warship For St. Petersburg Parade![Flag Russia](/images/flag_russia.jpg) The Russian Navy appears to have heightened concerns that its annual Navy Day parade in Saint Petersburg may be attacked by drones. The parade takes place on July 30 and traditionally included a large selection of warships and submarines, including visiting nuclear subs. However this year it is already scaled back.   
 

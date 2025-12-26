@@ -2,15 +2,9 @@
 layout: post
 title: "Drones Over Ukraine: Test Your Identification Skills"
 date: "2024-01-07 23:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Russo-Ukraine-UAV-Quiz.html"><img align="left" src="/images/Russo-Ukraine-War-UAV-Quiz-317.jpg"/></a>  How
-  well can you tell you the Ukrainian and Russian drones (UAVs) apart? This quiz will
-  present you with various types. All are in use in the war... <br/><br/>[Read More
-  &gt;....](/Russo-Ukraine-UAV-Quiz.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russo-Ukraine-UAV-Quiz.html"><img align="left" src="/images/Russo-Ukraine-War-UAV-Quiz-317.jpg"/></a>  How well can you tell you the Ukrainian and Russian drones (UAVs) apart? This quiz will present you with various types. All are in use in the war... <br/><br/>[Read More &gt;....](/Russo-Ukraine-UAV-Quiz.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 You are standing in a windswept mud field in southern Ukraine. You feel cold, lonely and exposed. Your machine gun points skyward, its metal freezing to the touch. Trying to put the chill to the back of your mind, you scan the sky purposefully, waiting. Finally you hear the irritating buzz of a small engine. Could this be it? The enemy drone? Or what told its friendly and you shoot down the wrong one?!?!   
 

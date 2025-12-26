@@ -2,14 +2,10 @@
 layout: post
 title: "Italy-COMSUBIN-SDVs"
 date: "2020-04-17 01:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**COMSUBIN reveal underwater vehicles**</font> <br/>![Flag](/images/flag_italy.jpg)
-  Finally, COMSUBIN has shared high quality imagery of some of their historic underwater
-  vehicles...<br/><a href="/Italy-COMSUBIN-SDVs.html"><img src="/images/Italy-COMSUBIN-900.jpg"/></a><br
-  clear="right">[Read More &gt;....](/Italy-COMSUBIN-SDVs.html "READ MORE")<br/></br>
-...
-
+excerpt: |-
+  <font size="6">**COMSUBIN reveal underwater vehicles**</font> <br/>![Flag](/images/flag_italy.jpg) Finally, COMSUBIN has shared high quality imagery of some of their historic underwater vehicles...<br/><a href="/Italy-COMSUBIN-SDVs.html"><img src="/images/Italy-COMSUBIN-900.jpg"/></a><br clear="right">[Read More &gt;....](/Italy-COMSUBIN-SDVs.html "READ MORE")<br/></br>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 ![Italy Special Forces COMSUBIN / GOI swimmer delivery vehicle mini-submarines - Covert Shores](/images/Italy-COMSUBIN-900.jpg)  

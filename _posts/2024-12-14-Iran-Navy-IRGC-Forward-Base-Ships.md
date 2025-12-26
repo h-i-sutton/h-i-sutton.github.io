@@ -2,18 +2,9 @@
 layout: post
 title: "Guide To Iran's Navy & IRGC's Drone Carriers, Forward Base Ships, and Covert Intelligence Ships"
 date: "2024-12-14 22:30:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Iran-Navy-IRGC-Forward-Base-Ships.html"><img align="left"
-  src="/images/Iran-Drone-Carriers-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg)
-  The Iranian Navy and IRGC (Islamic Revolutionary Guard Corps) both employ a growing
-  number of large ships as drone carriers, forward operating bases and covert intelligence
-  platforms. These vessels use merchant ship hulls but with new decks and an array
-  of armaments...<br/>[Read More &gt;....](/Iran-Navy-IRGC-Forward-Base-Ships.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Iran-Navy-IRGC-Forward-Base-Ships.html"><img align="left" src="/images/Iran-Drone-Carriers-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) The Iranian Navy and IRGC (Islamic Revolutionary Guard Corps) both employ a growing number of large ships as drone carriers, forward operating bases and covert intelligence platforms. These vessels use merchant ship hulls but with new decks and an array of armaments...<br/>[Read More &gt;....](/Iran-Navy-IRGC-Forward-Base-Ships.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 [![](/images/Iran-Shahid-Bagheri-Maxar-940.jpg)](/images/Iran-Shahid-Bagheri-Maxar.jpg)  
 *CLICK to Enlarge. Satellite image of the drone carrier I.R.I.S. Shahid Bagheri (C-110-4) by Maxar Technologies. Note the open aircraft lift and boxed anti-ship missiles behind the superstructure. There appears to be a UAV under netting ahead of the superstructure. This may be a Gaza or similar type*  

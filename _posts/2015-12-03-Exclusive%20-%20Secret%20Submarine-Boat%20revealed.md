@@ -10,8 +10,8 @@ excerpt: "<img src=\"/images/flag_italy.jpg\"/> Italy is renowned for sleek and 
   \ kept secrets.   [Read More &gt;....](/Exclusive - Secret Submarine-Boat revealed.html\
   \ \"READ MORE\")<br/><a href=\"/Exclusive - Secret Submarine-Boat revealed.html\"\
   ><img src=\"/images/Comsubin1.jpg\"/></a>"
-
 ---
+
 ![Italian COMSUBIN GOI submersible boat](/images/COMSUBIN_illustration940.jpg)  
 ![](/images/flag_italy.jpg) Italy is renowned for sleek and stylish speed boats. And acknowledged as a pioneer and world leader in underwater Special Forces technology. So it should come as no surprise that the elite Special Forces, COMSUBIN, operate some of the most powerful and impressive submersible boats in the world. But it will, because it is also one of the Special Forces community’s best kept secrets.   
 ![Italian COMSUBIN GOI submersible boat](/images/Comsubin1.jpg)  

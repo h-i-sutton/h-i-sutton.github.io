@@ -2,19 +2,9 @@
 layout: post
 title: "Taiwan's Surface Drone Threat Emerging - Kuaiqi USV"
 date: "2025-08-10 11:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Taiwan-USV-Kuaiqi.html"><img
-  align="left" src="/images/Taiwan-USV-Kuaiqi-317.jpg"/></a> ![Flag](/images/flag_taiwan.jpg)
-  Facing an ever increasing threat from the mainland, Taiwan (Republic of China, ROC)
-  is racing to develop a similar uncrewed capabilities to Ukraine. Most visible of
-  these in the naval sphere are weaponised uncrewed surface vessels (USVs).<br/><br/>One
-  of the most promising homegrown designs is the Kuaiqi...<br/>[Read More &gt;....](/Taiwan-USV-Kuaiqi.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Taiwan-USV-Kuaiqi.html"><img align="left" src="/images/Taiwan-USV-Kuaiqi-317.jpg"/></a> ![Flag](/images/flag_taiwan.jpg) Facing an ever increasing threat from the mainland, Taiwan (Republic of China, ROC) is racing to develop a similar uncrewed capabilities to Ukraine. Most visible of these in the naval sphere are weaponised uncrewed surface vessels (USVs).<br/><br/>One of the most promising homegrown designs is the Kuaiqi...<br/>[Read More &gt;....](/Taiwan-USV-Kuaiqi.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 ![Kuaiqi USS, Republic of China, Taiwan](/images/Taiwan-USV-Kuaiqi-profile.jpg)  
 #Taiwan's Surface Drone Threat Emerging - Kuaiqi USV![Flag](/images/flag_taiwan.jpg) Facing an ever increasing threat from the mainland, Taiwan (Republic of China, ROC) is racing to develop a similar uncrewed capabilities to Ukraine. Most visible of these in the naval sphere are weaponised uncrewed surface vessels (USVs), similar to Ukraine's Magura and Sea Baby types. One of the most promising homegrown designs is the Kuaiqi.  

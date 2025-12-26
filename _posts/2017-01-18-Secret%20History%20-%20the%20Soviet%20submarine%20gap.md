@@ -2,19 +2,10 @@
 layout: post
 title: "Secret History - the Soviet submarine gap"
 date: "2017-01-18 11:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><a
-  href="/Secret History - the Soviet submarine gap.html"><img align="left" src="/images/SovietMidgetSubs_1952_250.jpg"/></a>Originally
-  posted 13tth Dec 2014. <br/><br/><font size="5"> **Updated with infor from CIA CREST
-  archives.** </font><br/><br/>![Flag](/images/flag_russia.jpg) ![Flag](/images/flag_UK.jpg)
-  ![Flag](/images/flag_USA.jpg) After WW2 those with Top Secret clearances in UK and
-  US were concerned that Russia was building a fleet of midget submarines which could
-  deal a deadly blow to NATO navies in the opening moments of World War Three. Declassified
-  documents found in the National Archives (UK) and CIA FOIA Reading Room (US) shed
-  interesting light on these fears.<br/><br/><a href="/Secret History - the Soviet
-  submarine gap.html">READ MORE</a><br/><br/>
-...
-
+excerpt: |-
+  <a href="/Secret History - the Soviet submarine gap.html"><img align="left" src="/images/SovietMidgetSubs_1952_250.jpg"/></a>Originally posted 13tth Dec 2014. <br/><br/><font size="5"> **Updated with infor from CIA CREST archives.** </font><br/><br/>![Flag](/images/flag_russia.jpg) ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_USA.jpg) After WW2 those with Top Secret clearances in UK and US were concerned that Russia was building a fleet of midget submarines which could deal a deadly blow to NATO navies in the opening moments of World War Three. Declassified documents found in the National Archives (UK) and CIA FOIA Reading Room (US) shed interesting light on these fears.<br/><br/><a href="/Secret History - the Soviet submarine gap.html">READ MORE</a><br/><br/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social) *Originally posted 13tth Dec 2014. Thank you to everyone who has provided further information.*  
 
 ![Flag](/images/flag_russia.jpg) ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_USA.jpg) Cold War history often centered on the arms race between West and East. Throughout the 1950s and -60s both sides rushed to modernize their massive yet increasingly outmoded armed forces and an arms race on a scale never seen before or since ensued. One of the major fuels in this race was the rapid exploitation of captured Axis technology. German rockets, aircraft designs and super submarines with snorkels all played a part. Less well known were the fruits of captured Italian and Japanese technology.   

@@ -2,11 +2,10 @@
 layout: post
 title: "EMT Barracuda SDV"
 date: "2015-05-23 11:00:00"
-excerpt: '<img src="/images/flag_UEA.jpg"/> <img src="/images/flag_france.jpg"/> Revealed:
-  FWS-1 to FWS-5 SDVs [Read More &gt;....](/EMT Barracuda SDV.html "READ MORE")<br/><a
-  href="/EMT Barracuda SDV.html"><img src="/images/UAE_cover.jpg"/></a>'
-
+excerpt: |-
+  <img src="/images/flag_UEA.jpg"/> <img src="/images/flag_france.jpg"/> Revealed: FWS-1 to FWS-5 SDVs [Read More &gt;....](/EMT Barracuda SDV.html "READ MORE")<br/><a href="/EMT Barracuda SDV.html"><img src="/images/UAE_cover.jpg"/></a>
 ---
+
 ![Flag](/images/flag_UEA.jpg) ![Flag](/images/flag_france.jpg) The FWS-5 Barracuda Swimmer Delivery Vehicle (SDV) is built by Emirates Marine Technology (EMT) based in Abu Dhabi, United Arab Emirates (UAE). Benefiting from significant financial investment plus technology and expertise sourced in Europe, the FWS family of SDVs has a distinctly French influence. The FWS-5 design received some marketing in the late 2000s but the designs before it, FWS-1 > 4, are virtually unknown. Looked at together they show a clear design progressions.   
 
  **FWS-1 SDV**   

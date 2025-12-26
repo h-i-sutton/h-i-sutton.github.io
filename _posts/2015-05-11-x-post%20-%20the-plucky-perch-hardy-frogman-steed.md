@@ -2,13 +2,10 @@
 layout: post
 title: "x-post - the-plucky-perch-hardy-frogman-steed"
 date: "2015-05-11 11:00:00"
-excerpt: <img src="/images/flag_USA.jpg"/> I came across this fantastic article n USS Perch,
-  one of the first dedicated transport submarines for US Navy's elite UDT and SEALs
-  [Read More &gt;....](x-post - the-plucky-perch-hardy-frogman-steed.html "READ MORE")<br/><a
-  href="/x-post - the-plucky-perch-hardy-frogman-steed.html"><img src="/images/Perch_article.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_USA.jpg"/> I came across this fantastic article n USS Perch, one of the first dedicated transport submarines for US Navy's elite UDT and SEALs [Read More &gt;....](x-post - the-plucky-perch-hardy-frogman-steed.html "READ MORE")<br/><a href="/x-post - the-plucky-perch-hardy-frogman-steed.html"><img src="/images/Perch_article.jpg"/></a>
 ---
+
  **Warship Wednesday, the plucky Perch, hardy frogman steed**   
 By Christopher Eger at [laststandonzombieisland](http://laststandonzombieisland.com/2014/08/27/warship-wednesday-august-27-the-plucky-perch-hardy-frogman-steed/)   
   

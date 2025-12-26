@@ -2,12 +2,10 @@
 layout: post
 title: "Covert Shores News Roundup- 9th May 2016"
 date: "2016-05-09 01:00:00"
-excerpt: '![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_Yugo.jpg)
-  Various things that have happened recently. Thank you to everyone who feeds me info.
-  <br/><a href="/Covert Shores News Roundup- 9th May 2016.html"><img src="/images/News_may9th.jpg"/></a><br/>
-  [Read More &gt;....](/Covert Shores News Roundup- 9th May 2016.html "READ MORE")'
-
+excerpt: |-
+  ![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_Yugo.jpg) Various things that have happened recently. Thank you to everyone who feeds me info. <br/><a href="/Covert Shores News Roundup- 9th May 2016.html"><img src="/images/News_may9th.jpg"/></a><br/> [Read More &gt;....](/Covert Shores News Roundup- 9th May 2016.html "READ MORE")
 ---
+
  **Spain's SAES Limpet Naval Mine (MILA) on board SEAL Carrier SDV**    
 ![Flag](/images/flag_spain.jpg) ![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_UK.jpg) SAES (S.A. Electrónica Submarina) recently revealed that they have integrated their MILA limpet mine into the JFD SEAL Carrier SDV.   
 

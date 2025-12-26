@@ -2,21 +2,10 @@
 layout: post
 title: "OSINT_Webcams"
 date: "2017-08-05 23:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Analysis of submarine operating patterns and capabilities using public
-  webcams**</font> <br/> The recent Open Source Intelligence (OSINT) revolution has
-  seriously eroded the secrecy which can be expected of submarine operations. Fueled
-  by the Information age and, increasingly, the AI revolution, OSINT provides many
-  ways to track certain elements of submarine operations, principle the time they
-  spend in port. This is significant because it can reveal operating patterns, readiness
-  levels, procedures and routes, indicators of movement and, potentially changes in
-  readiness status. During times of tension some OSINT sources may provide real-time
-  or near real time indicators of action or inaction, of strength or vulnerability....
-  [Read More &gt;....](/OSINT_Webcams.html "READ MORE")<br/><a href="/OSINT_Webcams.html"><img
-  src="/images/OSINT_Webcams_900.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Analysis of submarine operating patterns and capabilities using public webcams**</font> <br/> The recent Open Source Intelligence (OSINT) revolution has seriously eroded the secrecy which can be expected of submarine operations. Fueled by the Information age and, increasingly, the AI revolution, OSINT provides many ways to track certain elements of submarine operations, principle the time they spend in port. This is significant because it can reveal operating patterns, readiness levels, procedures and routes, indicators of movement and, potentially changes in readiness status. During times of tension some OSINT sources may provide real-time or near real time indicators of action or inaction, of strength or vulnerability.... [Read More &gt;....](/OSINT_Webcams.html "READ MORE")<br/><a href="/OSINT_Webcams.html"><img src="/images/OSINT_Webcams_900.jpg"/></a><br clear="right"/>
 ---
+
 **Analysis of submarine operating patterns and capabilities using public webcams**  
 ![OSINT_Webcam- Covert Shores](/images/OSINT_Webcam_USN.jpg)   
 *A US Navy nuclear powered attack submarine passes a publicly viewable webcam.*  

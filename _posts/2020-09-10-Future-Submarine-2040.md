@@ -2,15 +2,14 @@
 layout: post
 title: "Future-Submarine-2040"
 date: "2020-09-10 03:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**What a submarine might look\
-  \ like in 20 years time**</font> <br/>A driving force will be to increase the number\
-  \ of weapons a future submarine can carry, as well as autonomous underwater vehicles\
-  \ (AUVs, aka UUVs or simply \u2018drones\u2019)... <br/>[Read More &gt;....](/Future-Submarine-2040.html\
-  \ \"READ MORE\")<br/><a href=\"/Future-Submarine-2040.html\"><img src=\"/images/FutureSub-2040-Cutaway-900.jpg\"\
+excerpt: "<font size=\"6\">**What a submarine might look like in 20 years time**</font> <br/>A\
+  \ driving force will be to increase the number of weapons a future submarine can\
+  \ carry, as well as autonomous underwater vehicles (AUVs, aka UUVs or simply \u2018\
+  drones\u2019)... <br/>[Read More &gt;....](/Future-Submarine-2040.html \"READ MORE\"\
+  )<br/><a href=\"/Future-Submarine-2040.html\"><img src=\"/images/FutureSub-2040-Cutaway-900.jpg\"\
   /></a><br clear=\"right\"><br/></br>"
-
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 **What a submarine might look like in 20 years time**   

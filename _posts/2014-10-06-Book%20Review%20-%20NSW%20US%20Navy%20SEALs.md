@@ -2,10 +2,10 @@
 layout: post
 title: "Book Review - NSW US Navy SEALs"
 date: "2014-10-06 10:00:00"
-excerpt: '![stars](/images/stars-five.png) THE authoritative SEAL / UDT / SBU / SDVT book.
-  [READ MORE](/Book Review - NSW US Navy SEALs.html "US Navy SEALs")'
-
+excerpt: |-
+  ![stars](/images/stars-five.png) THE authoritative SEAL / UDT / SBU / SDVT book. [READ MORE](/Book Review - NSW US Navy SEALs.html "US Navy SEALs")
 ---
+
 ![stars](/images/stars-five.png) **United States Naval Special Warfare: US Navy SEALs**   
  By:   
 - Greg E. Mathieson Sr   

@@ -2,13 +2,10 @@
 layout: post
 title: "Covert_Shores_Articles"
 date: "2017-11-08 23:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Popular Covert Shores Articles**</font><br/>[Read More &gt;....](/Covert_Shores_Articles.html
-  "READ MORE")<br/><a href="/Covert_Shores_Articles.html"><img src="/images/Popular900.jpg"/></a><br
-  clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Popular Covert Shores Articles**</font><br/>[Read More &gt;....](/Covert_Shores_Articles.html "READ MORE")<br/><a href="/Covert_Shores_Articles.html"><img src="/images/Popular900.jpg"/></a><br clear="right"/>
 ---
+
 *Scroll down for Special Forces, Uncrewed Underwater Vehicles (UUVs) Defense Analysis and Misc.*  
 
 ______________________________________________________________#Submarines![Flag](/images/flag_russia.jpg) [![](/images/pr09852_250.png)](http://www.hisutton.com{% post_url 2021-06-29-Belgorod-Class-Submarine %}) Project 09852 [Belgorod](http://www.hisutton.com{% post_url 2021-06-29-Belgorod-Class-Submarine %}) Special Mission submarine (spy sub). *w/Cutaway*   

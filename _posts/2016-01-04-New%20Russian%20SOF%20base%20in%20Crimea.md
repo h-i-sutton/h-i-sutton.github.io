@@ -9,8 +9,8 @@ excerpt: "<img src=\"/images/flag_russia.jpg\"/> UPDATED: Over the last few days
   \ CB90, the **Project 03160 \u2018Raptor\u2019** [Read More &gt;....](/New Russian\
   \ SOF base in Crimea.html \"READ MORE\")<br/><a href=\"/New Russian SOF base in\
   \ Crimea.html\"><img src=\"/images/Crimea900.jpg\"/></a>"
-
 ---
+
 ![Flag](/images/flag_russia.jpg) Over the last few days defense related Social Media has lit up with excellent intelligence on a new Russian SOF (or elite unit) naval base in Crimea. It’s a diminutive jetty previously used for civilian boats. What first caught people’s eye was the Russian copy of the Swedish CB90, the **BK-16**: (photos from [Collega60132 @ Yandex.ru](https://fotki.yandex.ru/next/users/collega60132/album/456801/view/998510))  
 ![Crimean SOF base](/images/CrimeaBoat4.jpg)  
 ![Crimean SOF base](/images/CrimeaBoat1.jpg)  

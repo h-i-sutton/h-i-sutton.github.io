@@ -2,12 +2,10 @@
 layout: post
 title: "Swedish incursions 2014"
 date: "2014-10-18 09:00:00"
-excerpt: '![incursion flags](/images/sweru_flags.png) It seems that we are back in the Cold
-  War when Soviet subs were accused of routinely compromising Swedish sovereignty.
-  As news breaks on the latest incursion I have done a quick round-up of the possible
-  candidates in this latest episode.'
-
+excerpt: |-
+  ![incursion flags](/images/sweru_flags.png) It seems that we are back in the Cold War when Soviet subs were accused of routinely compromising Swedish sovereignty. As news breaks on the latest incursion I have done a quick round-up of the possible candidates in this latest episode.
 ---
+
 ![incursion flags](/images/sweru_flags.png)   
    
 The Swedes are currently searching for a mysterious underwater activity in the Stockholm archipelago. It comes on the tail of a joint exercise which may be the motive for the intrusion. Some reports suggest it may have been an underwater surveillance system (hydrophones etc) and others that it may have been an eye witness. If it is the latter then hopefully they had the presence of mind to whip out their camera-phone. A Dutch submarine participating in the exercises has been ruled out.   

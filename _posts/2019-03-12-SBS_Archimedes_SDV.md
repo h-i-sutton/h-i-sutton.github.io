@@ -2,16 +2,10 @@
 layout: post
 title: "SBS_Archimedes_SDV"
 date: "2019-03-12 00:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
-  <font size="6">**British SBS Archimedes swimmer delivery vehicle**</font><br/> ![Flag](/images/flag_UK.jpg)
-  During the undeclared war between Indonesia and Malaysia in 1963-66 (known as the
-  Indonesia Confrontation),an official requirement was raised for the SBS to be ready
-  to conduct underwater sabotage missions against enemy ships in harbor...  [Read
-  More &gt;....](/SBS_Archimedes_SDV.html "READ MORE")<br/><a href="/SBS_Archimedes_SDV.html"><img
-  src="/images/UK_Archimedes900.jpg"/></a><br/>
-...
-
+excerpt: |2-
+   <font size="6">**British SBS Archimedes swimmer delivery vehicle**</font><br/> ![Flag](/images/flag_UK.jpg) During the undeclared war between Indonesia and Malaysia in 1963-66 (known as the Indonesia Confrontation),an official requirement was raised for the SBS to be ready to conduct underwater sabotage missions against enemy ships in harbor...  [Read More &gt;....](/SBS_Archimedes_SDV.html "READ MORE")<br/><a href="/SBS_Archimedes_SDV.html"><img src="/images/UK_Archimedes900.jpg"/></a><br/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**British SBS Archimedes swimmer delivery vehicle**   
 ![Flag](/images/flag_UK.jpg) When World War Two came to a close British frogmen were at the forefront of underwater special forces tactics and training. The Royal Marines’ Special Forces units which evolved into the postwar SBS (Special Boat *Squadron*) had developed diving operations from Canoes (‘Swimmer Canoeist’), paddle boards, X-Craft and the ‘Sleeping Beauty’ Motorised Submersible Canoe (MSC). These capabilities were generally maintained and developed post-war, albeit on a smaller scale.   
 

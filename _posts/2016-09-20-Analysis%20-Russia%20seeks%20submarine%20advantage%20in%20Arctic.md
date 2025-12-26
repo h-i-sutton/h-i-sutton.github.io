@@ -2,19 +2,10 @@
 layout: post
 title: "Analysis -Russia seeks submarine advantage in Arctic"
 date: "2016-09-20 03:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>![Flag](/images/flag_russia.jpg)![Flag](/images/Updated.jpg)
-  This analysis follows on from the <a href="/Spy Subs -Project 09852 Belgorod.html">Belgorod
-  submarine analysis</a>. A recent article in a Russian newspaper supports suspicions
-  that Russia is planning a new network of naval installations in the Arctic. Together
-  with other indications, this builds a picture of a program which one observer characterized
-  as "turning the Arctic into Russia's own back yard."  .. [Read More &gt;....](/Analysis
-  -Russia seeks submarine advantage in Arctic.html "READ MORE")<br/><a href="/Analysis
-  -Russia seeks submarine advantage in Arctic.html"><img src="/images/Arctic_header900.jpg"/></a><br/><a
-  href="/Analysis -Russia seeks submarine advantage in Arctic.html"><img src="/images/Ru_Arctic_Hydraulic.jpg"/></a><br
-  clear="right"/>
-...
-
+excerpt: |-
+  ![Flag](/images/flag_russia.jpg)![Flag](/images/Updated.jpg) This analysis follows on from the <a href="/Spy Subs -Project 09852 Belgorod.html">Belgorod submarine analysis</a>. A recent article in a Russian newspaper supports suspicions that Russia is planning a new network of naval installations in the Arctic. Together with other indications, this builds a picture of a program which one observer characterized as "turning the Arctic into Russia's own back yard."  .. [Read More &gt;....](/Analysis -Russia seeks submarine advantage in Arctic.html "READ MORE")<br/><a href="/Analysis -Russia seeks submarine advantage in Arctic.html"><img src="/images/Arctic_header900.jpg"/></a><br/><a href="/Analysis -Russia seeks submarine advantage in Arctic.html"><img src="/images/Ru_Arctic_Hydraulic.jpg"/></a><br clear="right"/>
 ---
+
 *This article relies heavily on the advice of unnamed others. Sincere thanks to everybody who has helped.* Information and corrections welcome. Contact the author [HERE](/pages/contact.html)  
 
  *"turning the Arctic into Russia's own back yard"*   

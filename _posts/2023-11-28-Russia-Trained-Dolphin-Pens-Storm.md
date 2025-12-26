@@ -2,18 +2,9 @@
 layout: post
 title: "Free Willy: Russian Navy Trained Dolphins Hit By Storm"
 date: "2023-11-28 20:45:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Russia-Trained-Dolphin-Pens-Storm.html"><img align="left"
-  src="/images/Russia-Navy-Dolphins-Storm-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  A massive storm battered Crimea on the November 27. Preliminary analysis of the
-  damage done to Russian defenses reveals that the dolphin pens in Sevastopol harbor
-  are gone as a result.<br/><br/>It is plausible that some or all of the trained dolphins
-  have been freed...<br/>[Read More &gt;....](/Russia-Trained-Dolphin-Pens-Storm.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russia-Trained-Dolphin-Pens-Storm.html"><img align="left" src="/images/Russia-Navy-Dolphins-Storm-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) A massive storm battered Crimea on the November 27. Preliminary analysis of the damage done to Russian defenses reveals that the dolphin pens in Sevastopol harbor are gone as a result.<br/><br/>It is plausible that some or all of the trained dolphins have been freed...<br/>[Read More &gt;....](/Russia-Trained-Dolphin-Pens-Storm.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Free Willy: Russian Navy Trained Dolphins Hit By Storm![Flag Russia](/images/flag_russia.jpg) A massive storm [battered Crimea](https://www.reuters.com/sustainability/climate-energy/three-dead-storm-hits-crimea-russias-black-sea-coast-2023-11-27/) on the November 27. Preliminary analysis of the damage done to Russian defenses reveals that the dolphin pens in Sevastopol harbor are gone as a result. They may have been sunk or washed away. It is plausible that some or all of the trained dolphins have been freed.  
 

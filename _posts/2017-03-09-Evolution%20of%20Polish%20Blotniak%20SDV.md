@@ -2,14 +2,10 @@
 layout: post
 title: "Evolution of Polish Blotniak SDV"
 date: "2017-03-09 11:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>![Flag](/images/flag_poland.jpg)
-  The Polish Blotniak is the only single seat enclosed SDV (Swimmer Delivery Vehicle)
-  ever seriously developed. <a href="/Evolution of Polish Blotniak SDV.html"><img
-  src="/images/Blotniak_header900.jpg"/></a><br/>![Flag](/images/Updated.jpg) *Originally
-  posted 22nd Oct 2014*<br/>
-...
-
+excerpt: |-
+  ![Flag](/images/flag_poland.jpg) The Polish Blotniak is the only single seat enclosed SDV (Swimmer Delivery Vehicle) ever seriously developed. <a href="/Evolution of Polish Blotniak SDV.html"><img src="/images/Blotniak_header900.jpg"/></a><br/>![Flag](/images/Updated.jpg) *Originally posted 22nd Oct 2014*<br/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Thanks to Karina Kowalska of the [Muzeum Kowania, Poland](http://muzeumnurkowania.pl/) for providing additional information.*  
 
 ![Blotniak in water](/images/Blotniak_header.jpg)*Background based on original photo from* [Blotniak.com.pl](http://www.blotniak.com.pl/)    

@@ -2,16 +2,14 @@
 layout: post
 title: "Indonesian_KTBA_chariots"
 date: "2018-11-06 23:01:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Indonesia reveals new KTBA\
-  \ series SDV**</font> <br/>![Flag](/images/flag_indo.jpg) Indonesia has revealed\
-  \ the latest in its indigenous Kendaraan Tempur Bawah Air (KTBA) series of Swimmer\
-  \ Delivery Vehicles (SDVs) developed for the elite naval special forces unit **Kopaska**.\u2026\
-  \ [Read More &gt;....](/Indonesian_KTBA_chariots.html \"READ MORE\")<br/><a href=\"\
-  /Indonesian_KTBA_chariots.html\"><img src=\"/images/Indo_KTBA_900.jpg\"/></a><br\
-  \ clear=\"right\"/>"
-
+excerpt: "<font size=\"6\">**Indonesia reveals new KTBA series SDV**</font> <br/>![Flag](/images/flag_indo.jpg)\
+  \ Indonesia has revealed the latest in its indigenous Kendaraan Tempur Bawah Air\
+  \ (KTBA) series of Swimmer Delivery Vehicles (SDVs) developed for the elite naval\
+  \ special forces unit **Kopaska**.\u2026 [Read More &gt;....](/Indonesian_KTBA_chariots.html\
+  \ \"READ MORE\")<br/><a href=\"/Indonesian_KTBA_chariots.html\"><img src=\"/images/Indo_KTBA_900.jpg\"\
+  /></a><br clear=\"right\"/>"
 ---
+
 ##### Share:
 
 **Indonesia reveals new KTBA series SDV**   

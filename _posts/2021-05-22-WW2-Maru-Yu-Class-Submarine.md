@@ -2,17 +2,10 @@
 layout: post
 title: "The Imperial Japanese Army's Sneaky Troop Transport Submarine"
 date: "2021-05-22 01:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/WW2-Maru-Yu-Class-Submarine.html"><img align="left" src="/images/Jpn-Type-3-Maru-Yu-Class-Sub-317.jpg"/></a>
-  ![Japanese Flag](/images/flag_japan.jpg) The vulnerability of landing craft is a
-  hot topic for amphibious forces around the world. So Navies and Marines are looking
-  to ways to make their landing craft more survivable, and using submarines is not
-  a daft idea.<br/><br/>Faced with a similar problem in World war Two, the Japanese
-  Army (not navy) built dedicated transport submarines.<br/>[Read More](/WW2-Maru-Yu-Class-Submarine.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/WW2-Maru-Yu-Class-Submarine.html"><img align="left" src="/images/Jpn-Type-3-Maru-Yu-Class-Sub-317.jpg"/></a> ![Japanese Flag](/images/flag_japan.jpg) The vulnerability of landing craft is a hot topic for amphibious forces around the world. So Navies and Marines are looking to ways to make their landing craft more survivable, and using submarines is not a daft idea.<br/><br/>Faced with a similar problem in World war Two, the Japanese Army (not navy) built dedicated transport submarines.<br/>[Read More](/WW2-Maru-Yu-Class-Submarine.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 [![](/images/Jpn-Type-3-Maru-Yu-Class-Submarine-Cutaway-940.jpg)](/images/Jpn-Type-3-Maru-Yu-Class-Submarine-Cutaway.jpg)  
 CLICK to enlarge. Original artwork.  

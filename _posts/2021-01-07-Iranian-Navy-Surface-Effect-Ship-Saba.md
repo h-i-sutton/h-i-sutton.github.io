@@ -2,17 +2,10 @@
 layout: post
 title: "Iranian-Navy-Surface-Effect-Ship-Saba"
 date: "2021-01-07 13:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Mystery Surface-Effect-Ship (SES) In Iran Identified**</font><br clear="right"/><a
-  href="/Iranian-Navy-Surface-Effect-Ship-Saba.html"><img align="left" src="/images/Iran-Navy-SES-minesweeper-Saba-317.jpg"/></a>![Flag](/images/flag_iran.jpg)
-  A surface-effect-ship (SES) seen in overhead imagery of Shahid Darvish yard near
-  Bandar Abbas (reported first in Naval News) has been provisionally identified. Its
-  size, form, timing and location match a new minesweeper (or possibly a minehunter)
-  project for the Iranian Navy. ...<br/><br/>[Read More &gt;....](/Iranian-Navy-Surface-Effect-Ship-Saba.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <font size="6">**Mystery Surface-Effect-Ship (SES) In Iran Identified**</font><br clear="right"/><a href="/Iranian-Navy-Surface-Effect-Ship-Saba.html"><img align="left" src="/images/Iran-Navy-SES-minesweeper-Saba-317.jpg"/></a>![Flag](/images/flag_iran.jpg) A surface-effect-ship (SES) seen in overhead imagery of Shahid Darvish yard near Bandar Abbas (reported first in Naval News) has been provisionally identified. Its size, form, timing and location match a new minesweeper (or possibly a minehunter) project for the Iranian Navy. ...<br/><br/>[Read More &gt;....](/Iranian-Navy-Surface-Effect-Ship-Saba.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 [![](/images/Iran-Navy-SES-minesweeper-Saba-940.jpg)](/images/Iran-Navy-SES-minesweeper-Saba.jpg)  
 *CLICK for HIGH-RESOLUTION image.*   

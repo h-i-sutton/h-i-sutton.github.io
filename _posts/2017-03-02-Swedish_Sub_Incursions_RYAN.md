@@ -2,18 +2,16 @@
 layout: post
 title: "Swedish_Sub_Incursions_RYAN"
 date: "2017-03-02 03:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Swedish news article on Cold\
-  \ War imcursions**</font> <br/>![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_russia.jpg)\
-  \ This morning\u2019s Blekinge Lans Tidning (BLT) newspaper ran a story on the Swedish\
-  \ Cold War submarine Incursions. Retired Naval Officer Nils-Ove Jansson  drew parallels\
-  \ to when Soviet Spetsnaz combat swimmers came ashore in Sweden to reconnoiter the\
-  \ placing of nuclear mines (allegedly). An interesting article in a few ways...\
-  \ [Read More &gt;....](/Swedish_Sub_Incursions_RYAN.html \"READ MORE\")<br/><a href=\"\
-  /Swedish_Sub_Incursions_RYAN.html\"><img src=\"/images/Swe_Incursions_Nils-Ove_Jansson900.jpg\"\
+excerpt: "<font size=\"6\">**Swedish news article on Cold War imcursions**</font> <br/>![Flag](/images/flag_sweden.jpg)\
+  \ ![Flag](/images/flag_russia.jpg) This morning\u2019s Blekinge Lans Tidning (BLT)\
+  \ newspaper ran a story on the Swedish Cold War submarine Incursions. Retired Naval\
+  \ Officer Nils-Ove Jansson  drew parallels to when Soviet Spetsnaz combat swimmers\
+  \ came ashore in Sweden to reconnoiter the placing of nuclear mines (allegedly).\
+  \ An interesting article in a few ways... [Read More &gt;....](/Swedish_Sub_Incursions_RYAN.html\
+  \ \"READ MORE\")<br/><a href=\"/Swedish_Sub_Incursions_RYAN.html\"><img src=\"/images/Swe_Incursions_Nils-Ove_Jansson900.jpg\"\
   /></a><br clear=\"right\"/>"
-
 ---
+
 **Swedish news article on Cold War imcursions**   
 ![Swedish news article on Cold War imcursions](/images/Swe_Incursions_Nils-Ove_Jansson.jpg)  
 ![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_russia.jpg) This morning’s Blekinge Lans Tidning (BLT) newspaper ran a story on the Swedish Cold War submarine Incursions. Retired Naval Officer Nils-Ove Jansson drew parallels to when Soviet Spetsnaz combat swimmers came ashore in Sweden to reconnoiter the placing of nuclear mines (allegedly). An interesting article in a few ways.  

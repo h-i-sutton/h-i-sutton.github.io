@@ -2,15 +2,10 @@
 layout: post
 title: "The Surprising Secret Of This Brazilian Navy Ship From 1915"
 date: "2021-11-20 23:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Brazilian-Navy-Sip-Ceara.html"><img align="left" src="/images/Brazil-Submarine-Tender-Ceara317.jpg"/></a>
-  ![Flag Brazil](/images/flag_brazil.jpg) From the outside the Brazilian Navy's **Ceara**
-  looked remarkably ordinary. And described as a 'submarine tender', it sounded ordinary
-  too. But on the inside the layout was almost James Bond levels of cool...<br/>[Read
-  More &gt;....](/Brazilian-Navy-Sip-Ceara.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Brazilian-Navy-Sip-Ceara.html"><img align="left" src="/images/Brazil-Submarine-Tender-Ceara317.jpg"/></a> ![Flag Brazil](/images/flag_brazil.jpg) From the outside the Brazilian Navy's **Ceara** looked remarkably ordinary. And described as a 'submarine tender', it sounded ordinary too. But on the inside the layout was almost James Bond levels of cool...<br/>[Read More &gt;....](/Brazilian-Navy-Sip-Ceara.html "READ MORE")<br clear="left"/>
 ---
+
 *Thanks to "Força-Tarefa 46" ([Task Force 46, Twitter](https://twitter.com/forca46)) for additional information.*  
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 

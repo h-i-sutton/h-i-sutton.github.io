@@ -2,15 +2,10 @@
 layout: post
 title: "CDV-1_SDV-1_Swimmer-Delivery-Vehicle"
 date: "2019-03-25 13:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="5">**Rare piece of SBS and Royal Navy diving history now on display**</font><br/><img
-  src="/images/flag_UK.jpg"/> It was a in many respects ahead of its time, but  this
-  advanced Swimmer Delivery Vehicle from the height of the Cold War is virtually unknown....
-  <br/><a href="/CDV-1_SDV-1_Swimmer-Delivery-Vehicle.html"><img src="/images/UK_SDV1_900.jpg"/></a><br/>[Read
-  More &gt;....](/CDV-1_SDV-1_Swimmer-Delivery-Vehicle.html "READ MORE")
-...
-
+excerpt: |-
+  <font size="5">**Rare piece of SBS and Royal Navy diving history now on display**</font><br/><img src="/images/flag_UK.jpg"/> It was a in many respects ahead of its time, but  this advanced Swimmer Delivery Vehicle from the height of the Cold War is virtually unknown.... <br/><a href="/CDV-1_SDV-1_Swimmer-Delivery-Vehicle.html"><img src="/images/UK_SDV1_900.jpg"/></a><br/>[Read More &gt;....](/CDV-1_SDV-1_Swimmer-Delivery-Vehicle.html "READ MORE")
 ---
+
 ##### Share: __
 
 **Rare piece of SBS and Royal Navy diving history now on display**  

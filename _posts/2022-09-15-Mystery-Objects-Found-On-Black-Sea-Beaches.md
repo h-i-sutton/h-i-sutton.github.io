@@ -2,16 +2,10 @@
 layout: post
 title: "Russia’s Washed Up Invasion: Mystery Objects Found On Beaches"
 date: "2022-09-15 23:01:00"
-excerpt: '**Updated**<a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"/><a href="/Mystery-Objects-Found-On-Black-Sea-Beaches.html"><img
-  align="left" src="/images/Russian-Mystery-Objects-Beach-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  ![Flag](/images/flag_ukraine.jpg) Amid the debris of war, mysterious round objects
-  have been washing up on Black Sea beaches. Metal spheres, with a series of horns
-  protruding, they have been reported in local media as mines.<br/><br/>Indeed their
-  nature seems obvious. But it is not, these are not mines...<br/>[Read More &gt;....](/Mystery-Objects-Found-On-Black-Sea-Beaches.html
-  "READ MORE")<br clear="left"/>'
-
+excerpt: |-
+  **Updated**<br clear="right"/><a href="/Mystery-Objects-Found-On-Black-Sea-Beaches.html"><img align="left" src="/images/Russian-Mystery-Objects-Beach-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag](/images/flag_ukraine.jpg) Amid the debris of war, mysterious round objects have been washing up on Black Sea beaches. Metal spheres, with a series of horns protruding, they have been reported in local media as mines.<br/><br/>Indeed their nature seems obvious. But it is not, these are not mines...<br/>[Read More &gt;....](/Mystery-Objects-Found-On-Black-Sea-Beaches.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 ![Mystery Objects Found On Black Sea Beaches](/images/Russian-Mystery-Objects-Beach.jpg)  

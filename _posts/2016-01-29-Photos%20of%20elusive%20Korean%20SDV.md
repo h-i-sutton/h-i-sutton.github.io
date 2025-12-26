@@ -2,14 +2,10 @@
 layout: post
 title: "Photos of elusive Korean SDV"
 date: "2016-01-29 01:00:00"
-excerpt: <img src="/images/flag_RoK.jpg"/> <img src="/images/flag_italy.jpg"/> Fresh photos
-  of a well-kept secret, the South Korean CE**3**F three-man SDV.[Read More&gt;....](/Photos
-  of elusive Korean SDV.html "READ MORE")<br/><a href="/Photos of elusive Korean SDV.html"><img
-  src="/images/Vogo_CE3F.jpg"/></a><br/><a href="/Photos of elusive Korean SDV.html"><img
-  src="/images/Vogo_CE3F_1.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_RoK.jpg"/> <img src="/images/flag_italy.jpg"/> Fresh photos of a well-kept secret, the South Korean CE**3**F three-man SDV.[Read More&gt;....](/Photos of elusive Korean SDV.html "READ MORE")<br/><a href="/Photos of elusive Korean SDV.html"><img src="/images/Vogo_CE3F.jpg"/></a><br/><a href="/Photos of elusive Korean SDV.html"><img src="/images/Vogo_CE3F_1.jpg"/></a>
 ---
+
 ![Flag](/images/flag_RoK.jpg) ![Flag](/images/flag_italy.jpg) Fresh photos of a well-kept secret, the South Korean CE**3**F three-man SDV.   
 ![Flag](/images/Vogo_CE3F.jpg)  
 ![Flag](/images/Vogo_CE3F_1.jpg)  

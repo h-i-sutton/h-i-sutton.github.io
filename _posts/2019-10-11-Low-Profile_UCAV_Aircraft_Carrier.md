@@ -2,16 +2,10 @@
 layout: post
 title: "Low-Profile_UCAV_Aircraft_Carrier"
 date: "2019-10-11 03:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Low-Profile UCAV Carrier**</font><br/>Aircraft Carriers are continuously
-  evolving. Yet some of the basic characteristics of carriers hark back to their inception
-  in World War One. Can we conceive of a way to reverse this, and have a carrier which
-  has a very low radar signature, certainly compared to the current carriers?...<br/><a
-  href="/Low-Profile_UCAV_Aircraft_Carrier.html"><img src="/images/LowPro_CarrierArt_900.jpg"/></a><br/>[Read
-  More &gt;....](/Low-Profile_UCAV_Aircraft_Carrier.html "READ MORE")
-...
-
+excerpt: |-
+  <font size="6">**Low-Profile UCAV Carrier**</font><br/>Aircraft Carriers are continuously evolving. Yet some of the basic characteristics of carriers hark back to their inception in World War One. Can we conceive of a way to reverse this, and have a carrier which has a very low radar signature, certainly compared to the current carriers?...<br/><a href="/Low-Profile_UCAV_Aircraft_Carrier.html"><img src="/images/LowPro_CarrierArt_900.jpg"/></a><br/>[Read More &gt;....](/Low-Profile_UCAV_Aircraft_Carrier.html "READ MORE")
 ---
+
 Share:[![](/images/mailto.jpg)](mailto:?subject=Shared%20from%20Covert%20Shores&body=http%3A%2F%2Fwww.hisutton.com%2FLow-Profile_UCAV_Aircraft_Carrier.html)_[![](/images/shareFacebook.jpg)](https://www.facebook.com/sharer/sharer.php?u=#url)_[![](/images/shareTwitter.jpg)](https://twitter.com/intent/tweet?text=Covert%20Shores%20-%20Low-Profile_UCAV_Aircraft_Carrier%20@CovertShores&url=http%3A%2F%2Fwww.hisutton.com%2FLow-Profile_UCAV_Aircraft_Carrier.html&hashtags=Submarines)  
 
 **Low-Profile UCAV Carrier**  

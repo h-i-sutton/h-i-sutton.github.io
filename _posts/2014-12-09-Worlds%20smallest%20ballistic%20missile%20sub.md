@@ -2,14 +2,10 @@
 layout: post
 title: "Worlds smallest ballistic missile sub"
 date: "2014-12-09 11:00:00"
-excerpt: Intelligence analysts are ticking-off warning signs that the world's smallest ballistic
-  missile sub, the pocket-boomer UC3 Nautilus, is being readied for another test mission.
-  She is hidden in plain view among the low profile sheds of Copenhagen's port facilities,
-  midway between the Naval Base and the Sewage Works.<a href="/Worlds smallest ballistic
-  missile sub.html"><img src="/images/nautilus_header.jpg"/></a>
-...
-
+excerpt: |-
+  Intelligence analysts are ticking-off warning signs that the world's smallest ballistic missile sub, the pocket-boomer UC3 Nautilus, is being readied for another test mission. She is hidden in plain view among the low profile sheds of Copenhagen's port facilities, midway between the Naval Base and the Sewage Works.<a href="/Worlds smallest ballistic missile sub.html"><img src="/images/nautilus_header.jpg"/></a>
 ---
+
 This recently leaked photograph is reported to show Cop-Sub's (Copenhagen Sub-Orbitals') midget submarine UC3 Nautilus in 'dry dock'. The image is dated November 2014.   
 ![covert photo](/images/nautilus.jpg)   
 *Source:* [HERE](http://williamedwardscoder.tumblr.com/post/102953980123/home-made-space-rockets)

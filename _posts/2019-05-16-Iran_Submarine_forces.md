@@ -2,12 +2,10 @@
 layout: post
 title: "Iran_Submarine_forces"
 date: "2019-05-16 10:00:00"
-excerpt: <font size="6">**Iranian Submarine Forces** </font><br/><img src="/images/flag_iran.jpg"/>
-  Iran has one of the largest submarine fleets in the world...<br/><a href="/Iran_Submarine_forces.html"><img
-  src="/images/Iran_Submarines300.jpg"/></a><br/>
-...
-
+excerpt: |-
+  <font size="6">**Iranian Submarine Forces** </font><br/><img src="/images/flag_iran.jpg"/> Iran has one of the largest submarine fleets in the world...<br/><a href="/Iran_Submarine_forces.html"><img src="/images/Iran_Submarines300.jpg"/></a><br/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Iranian Submarine Forces**   
 ![](/images/flag_iran.jpg) Quantity they say, has a quality all of its own. Iran has one of the largest submarine fleets in the world, and most are relatively small midget submarines. These are however ideally suited to the restricted waterways of the Straits of Hormuz and Persian Gulf.   
 

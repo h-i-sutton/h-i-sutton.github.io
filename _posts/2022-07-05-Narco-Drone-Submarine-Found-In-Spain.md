@@ -2,17 +2,10 @@
 layout: post
 title: "Elusive Narco Drone Submarines Surface In Spain"
 date: "2022-07-05 09:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Narco-Drone-Submarine-Found-In-Spain.html"><img align="left"
-  src="/images/Narco-Torpedo-Spain-317.jpg"/></a> Each of the remote-controlled craft
-  can carry an estimated 200 kg of narcotics. The Gibraltar area is known for hashish
-  smuggling from nearby Morocco. But reports suggest that these narco torpedoes were
-  destined for French criminals. their payload would likely have been cocaine rather
-  than hashish...<br/>[Read More &gt;....](/Narco-Drone-Submarine-Found-In-Spain.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Narco-Drone-Submarine-Found-In-Spain.html"><img align="left" src="/images/Narco-Torpedo-Spain-317.jpg"/></a> Each of the remote-controlled craft can carry an estimated 200 kg of narcotics. The Gibraltar area is known for hashish smuggling from nearby Morocco. But reports suggest that these narco torpedoes were destined for French criminals. their payload would likely have been cocaine rather than hashish...<br/>[Read More &gt;....](/Narco-Drone-Submarine-Found-In-Spain.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 ![Narco Drone Submarines Surface In Spain](/images/Narco-Torpedo-Spain-Type1-Finished-diarioarea.jpg)  
 *Photo from [diarioarea.com](https://www.diarioarea.com/2022/07/04/campo-gibraltar-narcotrafico-narco-drones-submarinos-policia/)*  

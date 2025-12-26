@@ -2,16 +2,10 @@
 layout: post
 title: "Iran-deploys-Missiles-and-MLRS"
 date: "2020-04-05 01:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Iran deploys MLRS and anti-ship missiles to Strait of Hormuz**</font><br/>![Flag](/images/flag_iran.jpg)
-  Videos are emerging of Iranian rocket and missile systems lined up along beaches,
-  apparently to cover the Strait of Hormuz. They appear to show an assortment of systems
-  including Fajr-5, Fajr-3 MLRS and a Khatam-5 anti-ship missile launcher...<br/><a
-  href="/Iran-deploys-Missiles-and-MLRS.html"><img src="/images/Iran-straits-HormuzVid-900.jpg"/></a><br/>[Read
-  More &gt;....](/Iran-deploys-Missiles-and-MLRS.html "READ MORE")
-...
-
+excerpt: |-
+  <font size="6">**Iran deploys MLRS and anti-ship missiles to Strait of Hormuz**</font><br/>![Flag](/images/flag_iran.jpg) Videos are emerging of Iranian rocket and missile systems lined up along beaches, apparently to cover the Strait of Hormuz. They appear to show an assortment of systems including Fajr-5, Fajr-3 MLRS and a Khatam-5 anti-ship missile launcher...<br/><a href="/Iran-deploys-Missiles-and-MLRS.html"><img src="/images/Iran-straits-HormuzVid-900.jpg"/></a><br/>[Read More &gt;....](/Iran-deploys-Missiles-and-MLRS.html "READ MORE")
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![Iran deploys anti-ship missiles and MLRS to Strait of Hormuz - Covert Shores](/images/Iran-straits-HormuzVid-900.jpg)  
 

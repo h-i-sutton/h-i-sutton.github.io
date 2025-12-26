@@ -2,16 +2,10 @@
 layout: post
 title: "low-cost-autonomous-submarine"
 date: "2019-12-27 11:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Concept For Low-Cost Autonomous Anti-Ship Submarine**</font><br/>As the
-  US Navy's Orca XLUUV program gathers pace, and other navies look to larger AUVs
-  (Autonomous Underwater Vehicles), it is time to consider what the future might look
-  like. Specifically, what a low-cost, low-risk XLUUV might be like. ... [Read More
-  &gt;....](/low-cost-autonomous-submarine.html "READ MORE")<br/><a href="/low-cost-autonomous-submarine.html"><img
-  src="/images/Low-Cost-XLUUV-Cutaway-900.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Concept For Low-Cost Autonomous Anti-Ship Submarine**</font><br/>As the US Navy's Orca XLUUV program gathers pace, and other navies look to larger AUVs (Autonomous Underwater Vehicles), it is time to consider what the future might look like. Specifically, what a low-cost, low-risk XLUUV might be like. ... [Read More &gt;....](/low-cost-autonomous-submarine.html "READ MORE")<br/><a href="/low-cost-autonomous-submarine.html"><img src="/images/Low-Cost-XLUUV-Cutaway-900.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Concept For Low-Cost Autonomous Anti-Ship Submarine**  
 As the US Navy's Orca XLUUV program gathers pace, and other navies look to larger AUVs (Autonomous Underwater Vehicles), it is time to consider what the future might look like. Specifically, what a low-cost, low-risk XLUUV might be like. This thought exercise combines current trends, concept of operations and a few original ideas to create a notional XLUUV design. This concept is well suited to littoral combat in restricted areas such as straits and archipelagos  
 

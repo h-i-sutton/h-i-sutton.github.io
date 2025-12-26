@@ -2,17 +2,10 @@
 layout: post
 title: "Chinese-Submarines-Seen-At-Wuchang"
 date: "2021-03-13 10:00:00"
-excerpt: '<a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**China''s Submarine Modernization Continues: 2 Submarines Seen Outside
-  New Shipyard**</font><br clear="right"/><a href="/Chinese-Submarines-Seen-At-Wuchang.html"><img
-  align="left" src="/images/China-Wuchang-317.jpg"/></a>![Flag](/images/flag_China.jpg)
-  Following on from my previous  <a href="https://www.navalnews.com/naval-news/2021/02/china-increases-production-of-aip-submarines-with-massive-new-shipyard/"
-  target="blank">analysis for Naval News</a>, multiple Type-039A/B Yuan Class submarines
-  are being built at the Wuchang shipyard outside Wuhan. This can now be clearly evidenced
-  using commercial satellite imagery. <br/><br/>[Read More &gt;....](/Chinese-Submarines-Seen-At-Wuchang.html
-  "READ MORE")<br clear="left"/>'
-
+excerpt: |-
+  <font size="6">**China's Submarine Modernization Continues: 2 Submarines Seen Outside New Shipyard**</font><br clear="right"/><a href="/Chinese-Submarines-Seen-At-Wuchang.html"><img align="left" src="/images/China-Wuchang-317.jpg"/></a>![Flag](/images/flag_China.jpg) Following on from my previous  <a href="https://www.navalnews.com/naval-news/2021/02/china-increases-production-of-aip-submarines-with-massive-new-shipyard/" target="blank">analysis for Naval News</a>, multiple Type-039A/B Yuan Class submarines are being built at the Wuchang shipyard outside Wuhan. This can now be clearly evidenced using commercial satellite imagery. <br/><br/>[Read More &gt;....](/Chinese-Submarines-Seen-At-Wuchang.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 [![](/images/China-Wuchang-Sat-940.jpg)](/images/China-Wuchang-Sat.jpg)  
 CLICK to enlarge  

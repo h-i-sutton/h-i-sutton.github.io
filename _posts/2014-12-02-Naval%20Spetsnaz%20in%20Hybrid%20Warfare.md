@@ -8,8 +8,8 @@ excerpt: "<img src=\"/images/flag_russia.jpg\"/> With the annexation of the Crim
   \ the \u2018Hybrid War\u2019, their capabilities are among those best suited to\
   \ this kind of operatng environment. <a href=\"/Naval Spetsnaz in Hybrid Warfare.html\"\
   ><img src=\"images/spetsnaz_header.jpg\"/></a>"
-
 ---
+
 ![](/images/flag_russia.jpg)  **Illustrated analysis of near-term Russian maritime Special Forces underwater vehicles and capabilities** 
 
 ![Header](/images/spetsnaz_header.jpg)  

@@ -2,20 +2,18 @@
 layout: post
 title: "Bladerunner"
 date: "2016-09-05 02:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\"> *Royal Navy tests boat already\
-  \ operated by Iran* </font><br/><a href=\"/Bladerunner.html\"><img src=\"/images/bladerunner_RN1.jpg\"\
-  /></a><br/>![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_iran.jpg) The Royal\
-  \ Navy demonstrated the UK\u2019s **Maritime Autonomy Surface Testbed** (MAST) unmanned\
-  \ surface vessel (USV) on the River Thames today. The craft utilizes the innovative\
-  \ British **Bladerunner** hull design from Ice Marine. The Royal Navy is the only\
-  \ operator of the autonomous Bladerunner, but they are not the first to navalize\
-  \ the type. Iran acquired a Bladerunner around 2009 and unveiled a local adaptation\
-  \ in 2010 as the **Seraj-1 Class**... [Read More &gt;....](/Bladerunner.html \"\
-  READ MORE\")<br/><a href=\"/Bladerunner.html\"><img src=\"/images/bladerunner_Iran900.jpg\"\
-  /></a><br clear=\"right\"/>"
-
+excerpt: "<font size=\"6\"> *Royal Navy tests boat already operated by Iran* </font><br/><a\
+  \ href=\"/Bladerunner.html\"><img src=\"/images/bladerunner_RN1.jpg\"/></a><br/>![Flag](/images/flag_UK.jpg)\
+  \ ![Flag](/images/flag_iran.jpg) The Royal Navy demonstrated the UK\u2019s **Maritime\
+  \ Autonomy Surface Testbed** (MAST) unmanned surface vessel (USV) on the River Thames\
+  \ today. The craft utilizes the innovative British **Bladerunner** hull design from\
+  \ Ice Marine. The Royal Navy is the only operator of the autonomous Bladerunner,\
+  \ but they are not the first to navalize the type. Iran acquired a Bladerunner around\
+  \ 2009 and unveiled a local adaptation in 2010 as the **Seraj-1 Class**... [Read\
+  \ More &gt;....](/Bladerunner.html \"READ MORE\")<br/><a href=\"/Bladerunner.html\"\
+  ><img src=\"/images/bladerunner_Iran900.jpg\"/></a><br clear=\"right\"/>"
 ---
+
  *Royal Navy tests boat already operated by Iran*   
 ![Bladerunner](/images/bladerunner_RN2.jpg)  
 ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_iran.jpg) The Royal Navy demonstrated the UK’s **Maritime Autonomy Surface Testbed** (MAST) unmanned surface vessel (USV) on the River Thames today. The craft utilizes the innovative British **Bladerunner** hull design from Ice Marine. The Bladerunner started life as a racing boat and has a top speed of 70-80kt (80-92 mph). A closely related design, the larger Bladerunner-51, holds the Round Britain World Record set in 2005 and is arguably the fastest speed boat in production.  

@@ -2,17 +2,10 @@
 layout: post
 title: "Poseidon_Torpedo_Supercavitation"
 date: "2019-01-09 11:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Russian super weapon wrongly reported as Supercavitating**</font><font
-  size="5"><br/>*Poseidon Intercontinental Nuclear-armed Autonomous Torpedo*</font><br/><img
-  src="/images/flag_russia.jpg"/> Russian state news agency TASS has recently reported
-  that the Poseidon weapon uses supercavitation, and claimed a maximum speed in excess
-  of 200 kmph (108 knots). This report is not credible.... <br/>[Read More &gt;....](/Poseidon_Torpedo_Supercavitation.html
-  "READ MORE")<br/><a href="/Poseidon_Torpedo_Supercavitation.html"><img src="/images/Ru_Poseidon_notSupercav.jpg"/></a><br
-  clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Russian super weapon wrongly reported as Supercavitating**</font><font size="5"><br/>*Poseidon Intercontinental Nuclear-armed Autonomous Torpedo*</font><br/><img src="/images/flag_russia.jpg"/> Russian state news agency TASS has recently reported that the Poseidon weapon uses supercavitation, and claimed a maximum speed in excess of 200 kmph (108 knots). This report is not credible.... <br/>[Read More &gt;....](/Poseidon_Torpedo_Supercavitation.html "READ MORE")<br/><a href="/Poseidon_Torpedo_Supercavitation.html"><img src="/images/Ru_Poseidon_notSupercav.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Comments and corrections welcome.*  
 
 **Poseidon** (*Посейдон*)  

@@ -2,21 +2,14 @@
 layout: post
 title: "Guide To Ukraine's Long Range Attack Drones"
 date: "2025-07-06 10:01:00"
-excerpt: "**UPDATED** *Originally posted Jan 24*.<br/><a href=\"https://twitter.com/covertshores\"\
-  \ target=\"blank\"><img align=\"right\" src=\"/images/twitter.jpg\"/></a><br clear=\"\
-  right\"><a href=\"/Ukraine-OWA-UAVs.html\"><img align=\"left\" src=\"/images/Ukraine-OWA-UAVs-317.jpg\"\
-  /></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Russia\u2019s use of long range\
-  \ drones, principally the Iranian Shahed type, against Ukraine is well documented.\
-  \ Ukraine too is increasingly using this category of drone.<br/><br/>This article\
-  \ will focus on the Ukrainian OWA-UAVs which can strike deep into Russia...<br/>[Read\
-  \ More &gt;....](/Ukraine-OWA-UAVs.html \"READ MORE\")<br clear=\"left\"/></br>"
-
+excerpt: "**UPDATED** *Originally posted Jan 24*.<br/><br clear=\"right\"><a href=\"/Ukraine-OWA-UAVs.html\"\
+  ><img align=\"left\" src=\"/images/Ukraine-OWA-UAVs-317.jpg\"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)\
+  \ Russia\u2019s use of long range drones, principally the Iranian Shahed type, against\
+  \ Ukraine is well documented. Ukraine too is increasingly using this category of\
+  \ drone.<br/><br/>This article will focus on the Ukrainian OWA-UAVs which can strike\
+  \ deep into Russia...<br/>[Read More &gt;....](/Ukraine-OWA-UAVs.html \"READ MORE\"\
+  )<br clear=\"left\"/></br>"
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")  
-**UPDATED** *Originally posted Jan 24*.  
-[![](/images/Ukraine-OWA-UAVs-940.jpg)](/images/Ukraine-OWA-UAVs.jpg)  
-*CLICK to Enlarge.*  
 
 #Guide To Ukraine's Long Range Attack Drones![Flag Ukraine](/images/flag_ukraine.jpg) Russia’s use of long range drones, principally the Iranian Shahed type, against Ukraine is well documented. These are termed one-way attack drones (OWA-UAVs), or informally as *'Kamikaze drones'*. These are used as part of large scale attacks combined with more expensive cruise missiles. While the Shaheds are valid offensive weapons in their own right, they are being used to stretch Ukrainian air defenses and create better chances for the larger cruise missiles.   
 

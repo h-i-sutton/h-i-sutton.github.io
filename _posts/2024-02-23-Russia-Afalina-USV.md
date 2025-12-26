@@ -2,18 +2,15 @@
 layout: post
 title: "Russia's New 'Afalina' Maritime Drone Is RC 'Bat Boat' Toy"
 date: "2024-02-23 09:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Russia-Afalina-USV.html\"\
-  ><img align=\"left\" src=\"/images/Russia-USV-Afalina-317.jpg\"/></a> ![Flag Russia](/images/flag_russia.jpg)\
+excerpt: "<br clear=\"right\"/><a href=\"/Russia-Afalina-USV.html\"><img align=\"left\" src=\"\
+  /images/Russia-USV-Afalina-317.jpg\"/></a> ![Flag Russia](/images/flag_russia.jpg)\
   \ Russian media has revealed the 'Afalina' uncrewed surface vessel (USV) to rival\
   \ the Ukrainian Sea Baby and Magura types. The Russian version, actually a sub-scale\
   \ prototype, is shown being put through its paces on a calm lake.<br/><br/>The prototype\
   \ actually bears a striking resemblance to a remote control model of one of Ocke\
   \ Mannerfelt's famous \u2018bat boat\u2019...<br/>[Read More &gt;....](/Russia-Afalina-USV.html\
   \ \"READ MORE\")<br clear=\"left\"/>"
-
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Russia's New 'Afalina' Maritime Drone Is RC 'Bat Boat' Toy![Flag Russia](/images/flag_russia.jpg) Russian media has revealed the 'Afalina' uncrewed surface vessel (USV) to rival the Ukrainian Sea Baby and Magura types. The Russian version, actually a sub-scale prototype, is shown [(via Samuel Bendett, Twitter)](https://twitter.com/sambendett/status/1760754175938265292) being put through its paces on a calm lake.   
 

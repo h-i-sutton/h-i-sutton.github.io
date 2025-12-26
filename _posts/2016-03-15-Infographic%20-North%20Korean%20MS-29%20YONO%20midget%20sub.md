@@ -11,8 +11,8 @@ excerpt: "![Flag](/images/flag_nork.jpg) Ever since the loss of a North Korean s
   \ is my quick infographic comparing the type to other North Korean submarines.<br/><a\
   \ href=\"/images/Yono_Infographic_2000.jpg\"><img src=\"/images/Yono_Infographic_900.jpg\"\
   /></a>"
-
 ---
+
 ![Flag](/images/flag_nork.jpg) Ever since the loss of a North Korean submarine was reported on [USNI News](http://news.usni.org/2016/03/11/u-s-official-north-korean-submarine-is-missing-presumed-sunk) I have been trying to find out which type of submarine it was. I don’t have a definite answer, but the rumors (‘RUMINT’ as someone called it!) all point to an MS-29 YONO Class midget submarine, the same class credited with sinking the ROKN corvette Cheonan on 26 March 2010. Here is my quick infographic comparing the type to other North Korean submarines.   
 [![](/images/Yono_Infographic_900.jpg)](/images/Yono_Infographic_2000.jpg) *Original artwork -> CLICK for hi-res*  
 

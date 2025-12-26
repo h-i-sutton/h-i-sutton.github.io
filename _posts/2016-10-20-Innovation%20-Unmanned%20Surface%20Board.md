@@ -11,8 +11,8 @@ excerpt: "![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_germany.jpg) ![F
   \ \"READ MORE\")<br/><a href=\"/Innovation -Unmanned Surface Board.html\"><img src=\"\
   /images/UBS3.jpg\"/></a><br/><a href=\"/Innovation -Unmanned Surface Board.html\"\
   ><img src=\"/images/USB4.jpg\"/></a>"
-
 ---
+
 ![Unmanned Service board](/images/USB2.jpg)  
 ![](/images/USB1.jpg) ![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_germany.jpg) ![Flag](/images/Updated.jpg) There is a new trend in Special Forces transport which gives the little known World War Two and Cold War paddle board a modern makeover. Key to the advancement is the availability of high density reliable batteries and compact electric motors which allow the board to be self-propelled. ‘Jet boards’ are not just rich kids’ toys.   
 

@@ -2,19 +2,9 @@
 layout: post
 title: "Chinese Navy (PLAN) Submarine Seen Configured To Carry Minisub"
 date: "2025-11-03 09:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Chinese-Type-039-Song-DSRV.html"><img
-  align="left" src="/images/China-Song-Class-Mod-202510-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
-  The most advanced submarine in PLAN (Peoples Liberation Army Navy) service when
-  she entered service in 1999, the first of class Type-039 Song class submarine 320
-  is now nearing the end of her useful life.<br/><br/>The submarine has been observed
-  fitted with mountings...<br/>[Read More &gt;....](/Chinese-Type-039-Song-DSRV.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Chinese-Type-039-Song-DSRV.html"><img align="left" src="/images/China-Song-Class-Mod-202510-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) The most advanced submarine in PLAN (Peoples Liberation Army Navy) service when she entered service in 1999, the first of class Type-039 Song class submarine 320 is now nearing the end of her useful life.<br/><br/>The submarine has been observed fitted with mountings...<br/>[Read More &gt;....](/Chinese-Type-039-Song-DSRV.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 #Chinese Navy (PLAN) Submarine Seen Configured To Carry Minisub![Flag China](/images/flag_China.jpg) The most advanced submarine in PLAN (Peoples Liberation Army Navy) service when she entered service in 1999, the first of class Type-039 Song class submarine 320 is now nearing the end of her useful life. She was the first Chinese submarine to feature true diesel-electric propulsion (where the diesels are only used to generate electricity), which is quieter, as well as raft mounted propulsion, anechoic coatings and Western (French) sonar, and anti-ship missiles.   
 ![Chinese Type-039 Song class submarine](/images/China-Song-Class-Mod-202510-940.jpg)  

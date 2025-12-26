@@ -2,16 +2,9 @@
 layout: post
 title: "Houthi's Blowfish: Disguised Uncrewed Surface Vessel (USV) Sunk MV Tutor"
 date: "2024-06-20 10:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Yemen-Houthi-USV-MV-Tutor.html"><img align="left" src="/images/Yemen-Houthi-MV-Tutor-USV-317.jpg"/></a>
-  ![Flag Houthi](/images/flag_Houthi.jpg) On June 12 2024 the merchant ship MV Tutor,
-  was hit by a Houthi uncrewed surface vessel (USV) 66 nautical miles southwest of
-  Al Hudaydah, Yemen.<br/><br/>The ship has since sunk, causing an oil slick...<br/>[Read
-  More &gt;....](/Yemen-Houthi-USV-MV-Tutor.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Yemen-Houthi-USV-MV-Tutor.html"><img align="left" src="/images/Yemen-Houthi-MV-Tutor-USV-317.jpg"/></a> ![Flag Houthi](/images/flag_Houthi.jpg) On June 12 2024 the merchant ship MV Tutor, was hit by a Houthi uncrewed surface vessel (USV) 66 nautical miles southwest of Al Hudaydah, Yemen.<br/><br/>The ship has since sunk, causing an oil slick...<br/>[Read More &gt;....](/Yemen-Houthi-USV-MV-Tutor.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Houthi's Blowfish: Disguised Uncrewed Surface Vessel (USV) Sunk MV Tutor![Flag Houthi](/images/flag_Houthi.jpg) On June 12 2024 the merchant ship MV Tutor, was hit by a Houthi uncrewed surface vessel (USV) 66 nautical miles southwest of Al Hudaydah, Yemen. According to reports, the Liberian-flagged Greek-owned ship had recently unloaded 80,000 tonnes of coal from the Russian port of Ust-Luga in Port Said, Egypt, on June 9. The explosive-laden USV hit the stern of the ship, immobilizing it and causing flooding. One crew member is missing, assumed dead.  
 

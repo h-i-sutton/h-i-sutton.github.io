@@ -2,17 +2,14 @@
 layout: post
 title: "Update: 2017 Gävle submarine incident may have been Russian incursion"
 date: "2023-04-23 12:30:00"
-excerpt: "<br/><a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"\
-  right\" src=\"/images/twitter.jpg\"/></a><br clear=\"right\"><a href=\"/Gavle-submarine-incident.html\"\
-  ><img align=\"left\" src=\"/images/Sweden-Gavle-317.jpg\"/></a> ![Flag Sweden](/images/flag_sweden.jpg)\
+excerpt: "<br/><br clear=\"right\"><a href=\"/Gavle-submarine-incident.html\"><img align=\"\
+  left\" src=\"/images/Sweden-Gavle-317.jpg\"/></a> ![Flag Sweden](/images/flag_sweden.jpg)\
   \ ![Flag Russia](/images/flag_russia.jpg) In July 2017 an unidentified submersible\
   \ was imaged underwater in G\xE4vle harbour, Sweden, by a ship conducting a survey.<br/><br/>I\
   \ no longer believe that it was a Swedish made Carrier SEAL. By implication, a Russian\
   \ submersible is most likely.<br/>[Read More &gt;....](/Gavle-submarine-incident.html\
   \ \"READ MORE\")<br clear=\"left\"/></br>"
-
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Update: 2017 Gävle submarine incident may have been Russian incursion![Flag Sweden](/images/flag_sweden.jpg) ![Flag Russia](/images/flag_russia.jpg) In July 2017 an unidentified submersible was imaged underwater in Gävle harbour, Sweden, by a ship conducting a survey. The high-resolution sonar images clearly show the small craft. Initial reports confirmed that it was not a Swedish Navy submersible.   
 

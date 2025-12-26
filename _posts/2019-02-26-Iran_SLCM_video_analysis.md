@@ -8,8 +8,8 @@ excerpt: "**Revised**<br/><font size=\"6\">**Iran's Jask-2 submarine launched mi
   \ aboard an IS-120 Ghadir Class midget submarine. This article disects the footage...<br/><a\
   \ href=\"/Iran_SLCM_video_analysis.html\"><img src=\"/images/Ir_Jask2_900.jpg\"\
   /></a><br/>"
-
 ---
+
 **Revised**  
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 

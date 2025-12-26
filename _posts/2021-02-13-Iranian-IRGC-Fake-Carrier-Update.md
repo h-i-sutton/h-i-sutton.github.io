@@ -2,17 +2,10 @@
 layout: post
 title: "Iranian-IRGC-Fake-Carrier-Update"
 date: "2021-02-13 13:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Wreck Of Iran's Fake Aircraft Carrier - update**</font><br clear="right"/><a
-  href="/Iranian-IRGC-Fake-Carrier-Update.html"><img align="left" src="/images/Iran-Fake-Carrier-Breaking-Up-317.jpg"/></a>![Flag](/images/flag_iran.jpg)
-  The sorry saga of IRGC's (Islamic Revolutionary Guard Corps) fake aircraft carrier
-  continues. The wreck, next to the entrance of Bandar Abbas Navy Base, recently began
-  to break up. <br/><br/>Now it appears to either be being cleared, or to have lost
-  large chunks...<br/><br/>[Read More &gt;....](/Iranian-IRGC-Fake-Carrier-Update.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <font size="6">**Wreck Of Iran's Fake Aircraft Carrier - update**</font><br clear="right"/><a href="/Iranian-IRGC-Fake-Carrier-Update.html"><img align="left" src="/images/Iran-Fake-Carrier-Breaking-Up-317.jpg"/></a>![Flag](/images/flag_iran.jpg) The sorry saga of IRGC's (Islamic Revolutionary Guard Corps) fake aircraft carrier continues. The wreck, next to the entrance of Bandar Abbas Navy Base, recently began to break up. <br/><br/>Now it appears to either be being cleared, or to have lost large chunks...<br/><br/>[Read More &gt;....](/Iranian-IRGC-Fake-Carrier-Update.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)  
 ![Wreck of Iran's Fake Aircraft Carrier](/images/Iran-IRGC-Fake-Carrier-Sentinel.jpg)  
 #Wreck Of Iran's Fake Aircraft Carrier - update![Flag](/images/flag_iran.jpg) The sorry saga of IRGC's (Islamic Revolutionary Guard Corps) fake aircraft carrier continues. The wreck, next to the entrance of Bandar Abbas Navy Base, recently began to break up. Now it appears to either be being cleared, or to have lost large chunks.  

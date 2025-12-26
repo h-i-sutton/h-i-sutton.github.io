@@ -2,18 +2,10 @@
 layout: post
 title: "OSINT: China's New Type-075 Assault Carrier On Sea Trials"
 date: "2021-11-28 23:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Chinese-Navy-Type-075-Assault-Carrier-OSINT.html"><img
-  align="left" src="/images/China-Type-075-Airctaft-Carrier-OSINT-317.jpg"/></a> ![Flag
-  China](/images/flag_China.jpg) China has taken another small step forward. Videos
-  shared online have shown the commencement of sea trials for their third assault
-  carrier. The Type-075 was moved away from its fitting-out pier by two tugs on November
-  25. OSINT soon emerged, and it is visible in Sentinel-2 satellite imagery out to
-  sea.<br/>[Read More &gt;....](/Chinese-Navy-Type-075-Assault-Carrier-OSINT.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Chinese-Navy-Type-075-Assault-Carrier-OSINT.html"><img align="left" src="/images/China-Type-075-Airctaft-Carrier-OSINT-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) China has taken another small step forward. Videos shared online have shown the commencement of sea trials for their third assault carrier. The Type-075 was moved away from its fitting-out pier by two tugs on November 25. OSINT soon emerged, and it is visible in Sentinel-2 satellite imagery out to sea.<br/>[Read More &gt;....](/Chinese-Navy-Type-075-Assault-Carrier-OSINT.html "READ MORE")<br clear="left"/>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 [![](/images/China-Type-075-Airctaft-Carrier-OSINT-Trials-940.jpg)](/images/China-Type-075-Airctaft-Carrier-OSINT-Trials.jpg)  
 *CLICK to enlarge*.  

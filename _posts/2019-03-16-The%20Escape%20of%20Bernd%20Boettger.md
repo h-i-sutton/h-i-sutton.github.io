@@ -2,16 +2,10 @@
 layout: post
 title: "The Escape of Bernd Boettger"
 date: "2019-03-16 11:00:00"
-excerpt: '*Updated. Originally posted 7th November 2014*<br/><a href="https://twitter.com/covertshores"
-  target="blank"><img align="right" src="/images/twitter.jpg"/></a> <font size="6">**Daring
-  underwater escape from East Germany**</font><br/> ![Flag](/images/flag_germany.jpg)There
-  were many fantastic and inspiring escapes across the Iron Curtain during the Cold
-  War. With the odds stacked against anyone even trying to escape, it often came down
-  to ingenious contraptions to exploit weaknesses in the defenses. One of the most
-  impressive examples was Bernd Boettger''s 1968 escape by home-made diver propulsion
-  device (DPV)<a href="/The Escape of Bernd Boettger.html"><img src="/images/escape1.jpg"/></a>'
-
+excerpt: |-
+  *Updated. Originally posted 7th November 2014*<br/> <font size="6">**Daring underwater escape from East Germany**</font><br/> ![Flag](/images/flag_germany.jpg)There were many fantastic and inspiring escapes across the Iron Curtain during the Cold War. With the odds stacked against anyone even trying to escape, it often came down to ingenious contraptions to exploit weaknesses in the defenses. One of the most impressive examples was Bernd Boettger's 1968 escape by home-made diver propulsion device (DPV)<a href="/The Escape of Bernd Boettger.html"><img src="/images/escape1.jpg"/></a>
 ---
+
 **Daring underwater escape from East Germany**  
 ![header](/images/escape1.jpg)   
  ![Flag](/images/flag_germany.jpg) All attempts to escape from East Germany deserve admiration but Bernd Boettger's is undoubtedly one of the greatest and most fascinating. Although not technically a naval/military topic the historical context and ingenious engineering involved fits with the wider SDV narrative.

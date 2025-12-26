@@ -2,16 +2,10 @@
 layout: post
 title: "Thunderball - classic CosMoS SDV in classic Bond movie"
 date: "2015-12-15 10:00:00"
-excerpt: '**UPDATED**. The orange midget sub in Thunderball is actually a real SDV (Swimmer
-  Delivery Vehicle). I recently watched back-to-back Bond classics on a transatlantic
-  flight which reminded me. The horrific jetlag was well worth it. The underwater
-  battle scenes in Thunderball are timeless, and are relevant to SDV history in a
-  couple of ways.  [Read More &gt;....](/Thunderball - classic CosMoS SDV in classic
-  Bond movie.html "READ MORE")<br/><a href="/Thunderball - classic CosMoS SDV in classic
-  Bond movie.html"><img src="/images/Bond_Cosmos900.jpg"/></a><br/><a href="/Thunderball
-  - classic CosMoS SDV in classic Bond movie.html"><img src="/images/cosmos_cm0184.jpg"/></a>'
-
+excerpt: |-
+  **UPDATED**. The orange midget sub in Thunderball is actually a real SDV (Swimmer Delivery Vehicle). I recently watched back-to-back Bond classics on a transatlantic flight which reminded me. The horrific jetlag was well worth it. The underwater battle scenes in Thunderball are timeless, and are relevant to SDV history in a couple of ways.  [Read More &gt;....](/Thunderball - classic CosMoS SDV in classic Bond movie.html "READ MORE")<br/><a href="/Thunderball - classic CosMoS SDV in classic Bond movie.html"><img src="/images/Bond_Cosmos900.jpg"/></a><br/><a href="/Thunderball - classic CosMoS SDV in classic Bond movie.html"><img src="/images/cosmos_cm0184.jpg"/></a>
 ---
+
 The orange midget sub in Thunderball is actually a real SDV (Swimmer Delivery Vehicle). I recently watched back-to-back Bond classics on a transatlantic flight which reminded me. The horrific jetlag was well worth it. The underwater battle scenes in Thunderball are timeless, and are relevant to SDV history in a couple of ways.   
 ![James Bond SDV midget Submarine from Thunderball made by CosMoS](/images/Bond_Cosmos3.jpg)  
 **SPOILER ALERT**: In the movie, the villain Largos manages to steal an armed Vulcan V-Bomber and crash land it in a place where only a midget sub can get to its nuclear payload. He steals the nuclear bombs and holds the world to random. Bond catches up with him and an epic underwater battle ensues. The battle itself is completely unrealistic, and the vehicles shown are film props and civilian toys. But there is one SDV is used to transport the nuclear bombs between the Vulcan and a secret underwater cave, and then to Largo’s clever hydrofoil yacht.   

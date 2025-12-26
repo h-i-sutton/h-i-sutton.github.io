@@ -2,13 +2,10 @@
 layout: post
 title: "Submarine_Recognition_Poster"
 date: "2018-04-21 12:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Submarine Recognition poster**</font><br/> Essential reference for Journalists
-  and surface navy alike.... <br/><a href="/Submarine_Recognition_Poster.html"><img
-  src="/images/SM_recognition_v2_250.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Submarine Recognition poster**</font><br/> Essential reference for Journalists and surface navy alike.... <br/><a href="/Submarine_Recognition_Poster.html"><img src="/images/SM_recognition_v2_250.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Submarine Recognition poster**  
 Essential reference for Journalists and surface navy alike. Following on from the earlier [tongue-in-cheek version, this poster provides recognition silhouettes of submarine classes possibly operating in Eastern Mediterranean during 2017-18, including NATO and Russian boats. Submarines are rarely sighted on the surface, but in cases where they are, this could prove useful. Images taken from the [Covert Shores Submarine Recognition book.](https://www.amazon.com/dp/1541392302)]({% post_url 2018-04-16-How_to_identify_a_submarine %})
 

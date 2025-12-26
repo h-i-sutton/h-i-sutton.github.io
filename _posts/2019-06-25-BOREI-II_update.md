@@ -2,15 +2,13 @@
 layout: post
 title: "BOREI-II_update"
 date: "2019-06-25 00:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a> <font size=\"6\">**OSINT: new BOREI-II class\
-  \ SSBN is lengthened**</font><br/> ![Flag](/images/flag_russia.jpg) fresh commercial\
-  \ satellite imagery available on Google Earth\u2019s history layers shows that the\
-  \ latest boat is also longer than the baseline version...  [Read More &gt;....](/BOREI-II_update.html\
-  \ \"READ MORE\")<br/><a href=\"/BOREI-II_update.html\"><img src=\"/images/Ru_Borei-Len900.jpg\"\
-  /></a>"
-
+excerpt: " <font size=\"6\">**OSINT: new BOREI-II class SSBN is lengthened**</font><br/> ![Flag](/images/flag_russia.jpg)\
+  \ fresh commercial satellite imagery available on Google Earth\u2019s history layers\
+  \ shows that the latest boat is also longer than the baseline version...  [Read\
+  \ More &gt;....](/BOREI-II_update.html \"READ MORE\")<br/><a href=\"/BOREI-II_update.html\"\
+  ><img src=\"/images/Ru_Borei-Len900.jpg\"/></a>"
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**OSINT: new BOREI-II class SSBN is lengthened**   
 
 ![Flag](/images/flag_russia.jpg) Although it is well understood that Russia’s latest [Pr.955A Borei-II Class]({% post_url 2020-11-18-Borei-A %}) ballistic missile submarine is greatly redesigned relative to the initial three Borei’s, fresh commercial satellite imagery available on Google Earth’s history layers shows that the latest boat is also longer than the baseline version.   

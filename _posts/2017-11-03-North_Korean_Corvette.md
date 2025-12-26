@@ -2,17 +2,10 @@
 layout: post
 title: "North_Korean_Corvette"
 date: "2017-11-03 18:40:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="5">**North Korean Stealth Warship has vintage weapons**</font><br/><img src="/images/flag_nork.jpg"/>
-  I do not like sensationalist headlines but this is a turnup for the books. And it
-  might be telling of the precarious state of North Korean naval modernization. New
-  photos of one of the most modern North Korean warships shows that its main gun is
-  a vintage 85mm gun.... [Read More &gt;....](/North_Korean_Corvette.html "READ MORE")<br/><a
-  href="/North_Korean_Corvette.html"><img src="/images/NK_Corvette900.jpg"/></a><br
-  clear="right"/>
-...
-
+excerpt: |-
+  <font size="5">**North Korean Stealth Warship has vintage weapons**</font><br/><img src="/images/flag_nork.jpg"/> I do not like sensationalist headlines but this is a turnup for the books. And it might be telling of the precarious state of North Korean naval modernization. New photos of one of the most modern North Korean warships shows that its main gun is a vintage 85mm gun.... [Read More &gt;....](/North_Korean_Corvette.html "READ MORE")<br/><a href="/North_Korean_Corvette.html"><img src="/images/NK_Corvette900.jpg"/></a><br clear="right"/>
 ---
+
 **North Korean Stealth Warship has vintage weapons**  
 ![](/images/flag_nork.jpg) I do not like sensationalist headlines but this is a turnup for the books. And it might be telling of the precarious state of North Korean naval modernization. New photos of one of the most modern North Korean warships shows that its main gun is a vintage 85mm gun, not the comparatively advanced automatic 76mm weapon seen on other recent warships. The 76mm gun is a copy of the Italian made OTO-Melara 76mm gun and may have been sourced from either Iran or Burma.   
 

@@ -2,16 +2,10 @@
 layout: post
 title: "Russia Finally Launches The Poseidon Armed Submarine Khabarovsk"
 date: "2025-11-09 14:50:00"
-excerpt: '**Updated**<br/><a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img
-  align="right" src="/images/Icon_Bluesky.jpg"/></a><br clear="right"><a href="/Russian-Submarine-Khabarovsk-20251102.html"><img
-  align="left" src="/images/Russia-khabarovsk-2025-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  After a painfully long wait, the Russian submarine Khabarovsk has finally emerged
-  from its construction shed in Severodvinsk.<br/><br/>The Pr. 09851 class boat is
-  the second Poseidon carrying submarine in the Russian Navy, following the Pr. 09852
-  Belgorod...<br/>[Read More &gt;....](/Russian-Submarine-Khabarovsk-20251102.html
-  "READ MORE")<br clear="left"/></br>'
-
+excerpt: |-
+  **Updated**<br/><br clear="right"><a href="/Russian-Submarine-Khabarovsk-20251102.html"><img align="left" src="/images/Russia-khabarovsk-2025-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) After a painfully long wait, the Russian submarine Khabarovsk has finally emerged from its construction shed in Severodvinsk.<br/><br/>The Pr. 09851 class boat is the second Poseidon carrying submarine in the Russian Navy, following the Pr. 09852 Belgorod...<br/>[Read More &gt;....](/Russian-Submarine-Khabarovsk-20251102.html "READ MORE")<br clear="left"/></br>
 ---
+
 **Updated**  
 [![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 

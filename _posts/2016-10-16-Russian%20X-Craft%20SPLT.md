@@ -2,15 +2,10 @@
 layout: post
 title: "Russian X-Craft SPLT"
 date: "2016-10-16 01:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>![Flag](/images/flag_russia.jpg)  ![Flag](/images/Updated.jpg)
-  Very little is known about the nine X-Craft built by the Soviet Union in the 1970s,
-  and operated through the 1980s. The Project 1015 **SPLC** (aka SPLC) type was in
-  some respects analogous to the British X-Craft midget submarine... [Read More &gt;....](/Russian
-  X-Craft SPLT.html "READ MORE")<br/><a href="/Russian X-Craft SPLT.html"><img src="/images/SPLC_header900.jpg"/></a><br
-  clear="right"/>
-...
-
+excerpt: |-
+  ![Flag](/images/flag_russia.jpg)  ![Flag](/images/Updated.jpg) Very little is known about the nine X-Craft built by the Soviet Union in the 1970s, and operated through the 1980s. The Project 1015 **SPLC** (aka SPLC) type was in some respects analogous to the British X-Craft midget submarine... [Read More &gt;....](/Russian X-Craft SPLT.html "READ MORE")<br/><a href="/Russian X-Craft SPLT.html"><img src="/images/SPLC_header900.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Thank you to unnamed advisers. This work would not have been possible without substantial inputs from experts. Any errors or incorrect assumptions are purely the responsibility of the author*   
 ![Russian / Soviet X-Craft SPLT](/images/SPLC_header940.jpg)  
 

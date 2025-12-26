@@ -2,17 +2,10 @@
 layout: post
 title: "World survey of Special Operations Craft"
 date: "2016-06-08 18:40:00"
-excerpt: <img src="/images/flag_USA.jpg"/> <img src="/images/flag_UK.jpg"/> <img src="/images/flag_isreal.jpg"/>
-  <img src="/images/flag_Turkey.jpg"/> ![Flag](/images/Updated.jpg) In addition to
-  submarines and Swimmer Delivery Vehicles (SDVs), naval orientated Special Forces
-  are increasingly employing purpose-built high speed surface craft for insertion,
-  extraction and mission support. ... [Read More &gt;....](/World survey of Special
-  Operations Craft.html "READ MORE")<br/><a href="/World survey of Special Operations
-  Craft.html"><img src="/images/CCM900.jpg"/></a><br/><a href="/World survey of Special
-  Operations Craft.html"><img src="/images/SAT_900.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_USA.jpg"/> <img src="/images/flag_UK.jpg"/> <img src="/images/flag_isreal.jpg"/> <img src="/images/flag_Turkey.jpg"/> ![Flag](/images/Updated.jpg) In addition to submarines and Swimmer Delivery Vehicles (SDVs), naval orientated Special Forces are increasingly employing purpose-built high speed surface craft for insertion, extraction and mission support. ... [Read More &gt;....](/World survey of Special Operations Craft.html "READ MORE")<br/><a href="/World survey of Special Operations Craft.html"><img src="/images/CCM900.jpg"/></a><br/><a href="/World survey of Special Operations Craft.html"><img src="/images/SAT_900.jpg"/></a>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![Flag](/images/Updated.jpg)  
 ![](/images/flag_USA.jpg) ![](/images/flag_UK.jpg) ![](/images/flag_isreal.jpg) ![](/images/flag_Turkey.jpg)  

@@ -2,19 +2,9 @@
 layout: post
 title: "OSINT: Previously Unreported Low-Observable Naval Transport"
 date: "2025-08-05 23:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Chinese-Stealth-Transport.html"><img
-  align="left" src="/images/China-Navy-Transport-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
-  A previously unreported Chinese transport vessel, with low-observable characteristics,
-  has been observed in historic satellite imagery of Sanya on Hainan, in the South
-  China Sea<br/><br/>Civilian multihull ferries are common in the port but these vessel
-  appears to be a military transport, possibly optionally crewed...<br/>[Read More
-  &gt;....](/Chinese-Stealth-Transport.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Chinese-Stealth-Transport.html"><img align="left" src="/images/China-Navy-Transport-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) A previously unreported Chinese transport vessel, with low-observable characteristics, has been observed in historic satellite imagery of Sanya on Hainan, in the South China Sea<br/><br/>Civilian multihull ferries are common in the port but these vessel appears to be a military transport, possibly optionally crewed...<br/>[Read More &gt;....](/Chinese-Stealth-Transport.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 #OSINT: Previously Unreported Low-Observable Naval Transport![Flag China](/images/flag_China.jpg) A previously unreported Chinese transport vessel, with low-observable characteristics, has been observed in historic satellite imagery of Sanya on Hainan, in the South China Sea. The vessel is visible in Airbus imagery from October 5 2023 at 18.2215°, 109.5385°.   
 

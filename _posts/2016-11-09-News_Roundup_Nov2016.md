@@ -2,12 +2,10 @@
 layout: post
 title: "News_Roundup_Nov2016"
 date: "2016-11-09 00:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>
-  [Read More &gt;....](/News_Roundup_Nov2016.html "READ MORE")<br/><a href="/News_Roundup_Nov2016.html"><img
-  src="/images/news900.jpg"/></a>
-...
-
+excerpt: |2-
+   [Read More &gt;....](/News_Roundup_Nov2016.html "READ MORE")<br/><a href="/News_Roundup_Nov2016.html"><img src="/images/news900.jpg"/></a>
 ---
+
 **COMSUBIN special forces boat displayed**  
 Italian boat builder **Intermarine** is building two very large Special Forces support boats for COMSUBIN. The Unità Navali Polivalenti ad Altissima Velocità (**UNPAV**) - *Multipurpose Ultra High Speed Naval Units* is nearly 40m long and powered by three diesels.![Mignatta](/images/INTERMARINE1.jpg)  
 

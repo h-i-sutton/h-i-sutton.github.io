@@ -2,13 +2,10 @@
 layout: post
 title: "New Russian naval weapon - Status-6"
 date: "2015-11-11 11:00:00"
-excerpt: <img src="/images/flag_russia.jpg"/> Russian news sources 'leak' Russian nuclear Torpedo
-  with special purpose submarines details [Read More &gt;....](/New Russian naval
-  weapon - Status-6.html "READ MORE")<br/><a href="/New Russian naval weapon - Status-6.html"><img
-  src="/images/Status6.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_russia.jpg"/> Russian news sources 'leak' Russian nuclear Torpedo with special purpose submarines details [Read More &gt;....](/New Russian naval weapon - Status-6.html "READ MORE")<br/><a href="/New Russian naval weapon - Status-6.html"><img src="/images/Status6.jpg"/></a>
 ---
+
 ![Flag](/images/flag_russia.jpg)  **Status-6, KANYON and pr.09851**   
 ![status6](/images/Status6.jpg)  
 Russian news sources 'leak' **Status-6** nuclear Torpedo with special purpose submarines details.

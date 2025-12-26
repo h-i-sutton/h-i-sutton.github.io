@@ -2,16 +2,10 @@
 layout: post
 title: "HP_COMMANDO_Mk1"
 date: "2017-09-24 01:01:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**Nautiraid High Pressure Commando Mk.1**</font> <br/>![Flag](/images/flag_france.jpg)
-  This is a unique submarine concept developed by the Rubin design bureau. It is designed
-  to conduct sub-bottom surveys using very low frequency active sonar which can penetrate
-  the sea floor...<br/>[Read More](/HP_COMMANDO_Mk1.html "READ MORE")<br/><a href="/HP_COMMANDO_Mk1.html"><img
-  src="/images/NautiraidInfKayak900.jpg"/></a><br/><a href="/HP_COMMANDO_Mk1.html"><img
-  src="/images/Nautiraid_inflKayak_jungle900.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**Nautiraid High Pressure Commando Mk.1**</font> <br/>![Flag](/images/flag_france.jpg) This is a unique submarine concept developed by the Rubin design bureau. It is designed to conduct sub-bottom surveys using very low frequency active sonar which can penetrate the sea floor...<br/>[Read More](/HP_COMMANDO_Mk1.html "READ MORE")<br/><a href="/HP_COMMANDO_Mk1.html"><img src="/images/NautiraidInfKayak900.jpg"/></a><br/><a href="/HP_COMMANDO_Mk1.html"><img src="/images/Nautiraid_inflKayak_jungle900.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*This article relies heavily on the advice of unnamed others. Information and corrections welcome. Contact the author* [HERE](/pages/contact.html)  
 
 ![Nautiraid Inflatable Commando Kayak - Covert Shores](/images/Nautiraid_inflKayak_jungle.jpg)  

@@ -2,17 +2,14 @@
 layout: post
 title: "Another Trans-Atlantic Narco Submarine Found In Europe"
 date: "2025-01-23 09:30:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Transatlantic-Narco-Submarine-202501.html\"\
-  ><img align=\"left\" src=\"/images/Narcosub-Transatlantic-2025-01-22_317.jpg\"/></a>\
+excerpt: "<br clear=\"right\"/><a href=\"/Transatlantic-Narco-Submarine-202501.html\"><img\
+  \ align=\"left\" src=\"/images/Narcosub-Transatlantic-2025-01-22_317.jpg\"/></a>\
   \ Another narco-submarine has been found in an isolated cove on the Galician coast\
   \ in northern Spain. The vessel was discovered off Mux\xEDa, a headland on the north-west\
   \ tip of the country.<br/><br/>This is significant for several reasons...<br/>[Read\
   \ More &gt;....](/Transatlantic-Narco-Submarine-202501.html \"READ MORE\")<br clear=\"\
   left\"/>"
-
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #Another Trans-Atlantic Narco Submarine Found In Europe
 

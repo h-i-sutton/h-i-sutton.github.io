@@ -2,15 +2,14 @@
 layout: post
 title: "New Iranian Weaponized Underwater Drone"
 date: "2022-03-16 11:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Iran-IRGC-Weaponized-UUV.html\"\
-  ><img align=\"left\" src=\"/images/Iran-IRGC-Torpedo-UUV-317.jpg\"/></a> ![Flag\
-  \ Iran](/images/flag_iran.jpg) Iran\u2019s IRGC (Islamic Revolutionary Guard Corps)\
-  \ has unveiled yet another new weapon.<br/><br/>This one appears more useful than\
-  \ many previous grand unveilings.<br/>[Read More &gt;....](/Iran-IRGC-Weaponized-UUV.html\
-  \ \"READ MORE\")<br clear=\"left\"/>"
-
+excerpt: "<br clear=\"right\"/><a href=\"/Iran-IRGC-Weaponized-UUV.html\"><img align=\"left\"\
+  \ src=\"/images/Iran-IRGC-Torpedo-UUV-317.jpg\"/></a> ![Flag Iran](/images/flag_iran.jpg)\
+  \ Iran\u2019s IRGC (Islamic Revolutionary Guard Corps) has unveiled yet another\
+  \ new weapon.<br/><br/>This one appears more useful than many previous grand unveilings.<br/>[Read\
+  \ More &gt;....](/Iran-IRGC-Weaponized-UUV.html \"READ MORE\")<br clear=\"left\"\
+  />"
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 #New Iranian Weaponized Underwater Drone![Flag Iran](/images/flag_iran.jpg) Iran’s IRGC (Islamic Revolutionary Guard Corps) has unveiled yet another new weapon. This one appears more useful than many previous grand unveilings, and is also being produced in quantity. It is essentially a blending of uncrewed underwater vehicle (UUV) technology and a torpedo.   

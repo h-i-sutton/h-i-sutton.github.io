@@ -2,17 +2,16 @@
 layout: post
 title: "Cephalopod"
 date: "2018-07-27 11:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"5\">**Russian 'Cephalopod' Armed\
-  \ Autonomous Underwater Vehicle (AUV) program**</font><br/><img src=\"/images/flag_russia.jpg\"\
-  /> Russia\u2019s research into armed underwater drones has been overshadowed by\
-  \ the gigantic \u2018Poseidon\u2019 nuclear autonomous torpedo. **Cephalopod** (\u0426\
-  \u0435\u0444\u0430\u043B\u043E\u043F\u043E\u0434) is a small unmanned submarine\
-  \ with a sonar like a proper submarine and torpedoes to make the kill... <br/>[Read\
-  \ More &gt;....](/Cephalopod.html \"READ MORE\")<br/><a href=\"/Cephalopod.html\"\
-  ><img src=\"/images/Ru_Cephalopod_900.jpg\"/></a><br clear=\"right\"/>"
-
+excerpt: "<font size=\"5\">**Russian 'Cephalopod' Armed Autonomous Underwater Vehicle (AUV)\
+  \ program**</font><br/><img src=\"/images/flag_russia.jpg\"/> Russia\u2019s research\
+  \ into armed underwater drones has been overshadowed by the gigantic \u2018Poseidon\u2019\
+  \ nuclear autonomous torpedo. **Cephalopod** (\u0426\u0435\u0444\u0430\u043B\u043E\
+  \u043F\u043E\u0434) is a small unmanned submarine with a sonar like a proper submarine\
+  \ and torpedoes to make the kill... <br/>[Read More &gt;....](/Cephalopod.html \"\
+  READ MORE\")<br/><a href=\"/Cephalopod.html\"><img src=\"/images/Ru_Cephalopod_900.jpg\"\
+  /></a><br clear=\"right\"/>"
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Comments and corrections welcome.*  
 
 **Russian 'Cephalopod' Armed Autonomous Underwater Vehicle (AUV) program**  

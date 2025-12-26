@@ -2,16 +2,10 @@
 layout: post
 title: "Captured-UUV-in-Pyongyang-North-Korea"
 date: "2020-03-11 00:00:00"
-excerpt: '*Updated*<br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><font size="6">**NMRS Underwater Drone in North Korea**</font>
-  <br/>![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_nork.jpg) An often misunderstood
-  object on display next to the USS Pueblo in Pyongyang, North Korea, is *possibly*
-  a US Navy NMRS unmanned underwater vehicle (UUV)..<a href="/Captured-UUV-in-Pyongyang-North-Korea.html"><img
-  src="/images/US-Navy-UUV-North-Korea-900.jpg"/></a><br/><a href="/Captured-UUV-in-Pyongyang-North-Korea.html"><img
-  src="/images/US-Navy-NMRS-900.jpg"/></a><br clear="right">[Read More &gt;....](/Captured-UUV-in-Pyongyang-North-Korea.html
-  "READ MORE")<br/></br>'
-
+excerpt: |-
+  *Updated*<br/><font size="6">**NMRS Underwater Drone in North Korea**</font> <br/>![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_nork.jpg) An often misunderstood object on display next to the USS Pueblo in Pyongyang, North Korea, is *possibly* a US Navy NMRS unmanned underwater vehicle (UUV)..<a href="/Captured-UUV-in-Pyongyang-North-Korea.html"><img src="/images/US-Navy-UUV-North-Korea-900.jpg"/></a><br/><a href="/Captured-UUV-in-Pyongyang-North-Korea.html"><img src="/images/US-Navy-NMRS-900.jpg"/></a><br clear="right">[Read More &gt;....](/Captured-UUV-in-Pyongyang-North-Korea.html "READ MORE")<br/></br>
 ---
+
 *Updated. See Forbes article* [HERE](https://www.forbes.com/sites/hisutton/2020/03/11/mystery-solved-the-submarine-spy-drone-captured-by-north-korea/)  
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

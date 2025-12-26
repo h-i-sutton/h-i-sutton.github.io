@@ -2,19 +2,10 @@
 layout: post
 title: "The Kaiser's Forgotten Steam-Powered Super Submarine, Project 50"
 date: "2022-01-09 01:00:00"
-excerpt: <br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"><a href="/German-WW1-Steam-Cruiser-Submarine.html"><img
-  align="left" src="/images/Germany-WW1-Project-50-Steam-Cruiser-Submarine-317.jpg"/></a>
-  ![Flag germany](/images/flag_germany.jpg) During World War One Germany was undoubtedly
-  one of the leading countries for submarines. Their mainstay types were extremely  combat
-  effective. But they were not known for extreme designs. In tis regard, the British
-  generally built bigger and more elaborate designs. But Germany did build a few large
-  submarines. <br/><br/>The most impressive design was the steam-powered Project 50
-  *Tauchschiff*...<br/>[Read More &gt;....](/German-WW1-Steam-Cruiser-Submarine.html
-  "READ MORE")<br clear="left"/></br>
-...
-
+excerpt: |-
+  <br/><br clear="right"><a href="/German-WW1-Steam-Cruiser-Submarine.html"><img align="left" src="/images/Germany-WW1-Project-50-Steam-Cruiser-Submarine-317.jpg"/></a> ![Flag germany](/images/flag_germany.jpg) During World War One Germany was undoubtedly one of the leading countries for submarines. Their mainstay types were extremely  combat effective. But they were not known for extreme designs. In tis regard, the British generally built bigger and more elaborate designs. But Germany did build a few large submarines. <br/><br/>The most impressive design was the steam-powered Project 50 *Tauchschiff*...<br/>[Read More &gt;....](/German-WW1-Steam-Cruiser-Submarine.html "READ MORE")<br clear="left"/></br>
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 [![](/images/Germany-WW1-Project-50-Steam-Cruiser-Submarine-940.jpg)](/images/Germany-WW1-Project-50-Steam-Cruiser-Submarine.jpg)  
 *CLICK to enlarge*.  

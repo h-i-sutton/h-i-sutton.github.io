@@ -2,13 +2,10 @@
 layout: post
 title: "Bonex DPVs as used by Kampfschwimmers"
 date: "2016-01-29 11:01:00"
-excerpt: <img src="/images/flag_germany.jpg"/> Bonex, a German diver propulsion vehicle (DPV)
-  manufacturer, is known to supply several Special Forces units including the German
-  Kampfschwimmers and Turkish SAT.  <br/><a href="/Bonex DPVs as used by Kampfschwimmers.html"><img
-  src="/images/Bonex1.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_germany.jpg"/> Bonex, a German diver propulsion vehicle (DPV) manufacturer, is known to supply several Special Forces units including the German Kampfschwimmers and Turkish SAT.  <br/><a href="/Bonex DPVs as used by Kampfschwimmers.html"><img src="/images/Bonex1.jpg"/></a>
 ---
+
 ![Flag](/images/flag_germany.jpg) Bonex, a German diver propulsion vehicle (DPV) manufacturer, is known to supply several Special Forces units including the German Kampfschwimmers and Turkish SAT (*Sualtı Taarruz*, translating as 'Underwater Offence').   
 ![Flag](/images/Bonex1.jpg)   
 

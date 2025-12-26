@@ -2,17 +2,10 @@
 layout: post
 title: "Barracuda stealth Special Forces interceptor"
 date: "2016-11-18 01:00:00"
-excerpt: '![Flag](/images/flag_ireland.jpg) ![Flag](/images/Updated.jpg) Specialist boat builder
-  Safe Haven Marine have added the stealthy XSV-17 to their Barracuda series of Special
-  Forces craft. The new design features a high speed surfacing planing hull with a
-  wave-piercing bow which allows incredibly high speeds (60kt) while maintaning the
-  impressive sea-keeping of the Barracuda series. [Read More &gt;....](/Barracuda
-  stealth Special Forces interceptor.html "READ MORE")<br/><a href="/Barracuda stealth
-  Special Forces interceptor.html"><img src="/images/XSV17_900.jpg"/></a><br/><a href="/Barracuda
-  stealth Special Forces interceptor.html"><img src="/images/Safehaven_SXSV17-900.jpg"/></a><br/><a
-  href="/Barracuda stealth Special Forces interceptor.html"><img src="/images/Safehaven1.jpg"/></a>'
-
+excerpt: |-
+  ![Flag](/images/flag_ireland.jpg) ![Flag](/images/Updated.jpg) Specialist boat builder Safe Haven Marine have added the stealthy XSV-17 to their Barracuda series of Special Forces craft. The new design features a high speed surfacing planing hull with a wave-piercing bow which allows incredibly high speeds (60kt) while maintaning the impressive sea-keeping of the Barracuda series. [Read More &gt;....](/Barracuda stealth Special Forces interceptor.html "READ MORE")<br/><a href="/Barracuda stealth Special Forces interceptor.html"><img src="/images/XSV17_900.jpg"/></a><br/><a href="/Barracuda stealth Special Forces interceptor.html"><img src="/images/Safehaven_SXSV17-900.jpg"/></a><br/><a href="/Barracuda stealth Special Forces interceptor.html"><img src="/images/Safehaven1.jpg"/></a>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)![Flag](/images/Updated.jpg)   
 ![safehaven Marine Engineering Barracuda SV-11 SV-13 XSV-17 Interceptors](/images/Safehaven_SXSV17.jpg)   
 ![safehaven Marine Engineering Barracuda SV-11 SV-13 XSV-17 Interceptors](/images/XSV17.jpg)   

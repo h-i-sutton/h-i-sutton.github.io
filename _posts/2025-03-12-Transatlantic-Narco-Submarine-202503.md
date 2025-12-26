@@ -2,17 +2,9 @@
 layout: post
 title: "First Trans-Atlantic Narco Submarine Found In Africa"
 date: "2025-03-12 14:30:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Transatlantic-Narco-Submarine-202503.html"><img
-  align="left" src="/images/Narco-Sub-Sierra-Leone-317.jpg"/></a> A narco submarine
-  has washed up on Black Johnson beach of Sierra Leone, on the west coast of Africa.<br/><br/>As
-  well as being the country's first discovery, it is significant in other ways...<br/>[Read
-  More &gt;....](/Transatlantic-Narco-Submarine-202503.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Transatlantic-Narco-Submarine-202503.html"><img align="left" src="/images/Narco-Sub-Sierra-Leone-317.jpg"/></a> A narco submarine has washed up on Black Johnson beach of Sierra Leone, on the west coast of Africa.<br/><br/>As well as being the country's first discovery, it is significant in other ways...<br/>[Read More &gt;....](/Transatlantic-Narco-Submarine-202503.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 #First Trans-Atlantic Narco Submarine Found In AfricaA narco submarine has washed up on Black Johnson beach of Sierra Leone, on the west coast of Africa. As well as being the country's first discovery, it is significant in other ways.  
 ![Narco Submarine found in Sierra Leone](/images/Narco-Sub-Sierra-Leone-1.jpg)  

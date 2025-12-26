@@ -2,16 +2,14 @@
 layout: post
 title: "Iran_Chariot"
 date: "2017-12-29 02:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a> <font size=\"6\">**Iranian** *e-Ghavasi* **Human\
-  \ Torpedo**</font> <br/>![Flag](/images/flag_iran.jpg) This enigmatic \u2018Swimmer\
-  \ Delivery Vehicle\u2019 developed by Iran takes the term \u2018human torpedo\u2019\
-  \ to the extreme; it is based on a 533mm (21\u201D) heavyweight torpedo with the\
-  \ pilot laying prone in the nose.... [Read More &gt;....](/Iran_Chariot.html \"\
-  READ MORE\")<br/><a href=\"/Iran_Chariot.html\"><img src=\"/images/Ghavasi_900.jpg\"\
+excerpt: " <font size=\"6\">**Iranian** *e-Ghavasi* **Human Torpedo**</font> <br/>![Flag](/images/flag_iran.jpg)\
+  \ This enigmatic \u2018Swimmer Delivery Vehicle\u2019 developed by Iran takes the\
+  \ term \u2018human torpedo\u2019 to the extreme; it is based on a 533mm (21\u201D\
+  ) heavyweight torpedo with the pilot laying prone in the nose.... [Read More &gt;....](/Iran_Chariot.html\
+  \ \"READ MORE\")<br/><a href=\"/Iran_Chariot.html\"><img src=\"/images/Ghavasi_900.jpg\"\
   /></a><br clear=\"right\"/>"
-
 ---
+
 **Iranian** *e-Ghavasi* **Human Torpedo**   
 ![Flag](/images/flag_iran.jpg) This enigmatic ‘Swimmer Delivery Vehicle' developed by Iran takes the term ‘human torpedo’ to the extreme; it is based on a 533mm (21”) heavyweight torpedo with the pilot laying prone in the nose.   
 

@@ -2,12 +2,10 @@
 layout: post
 title: "India-Pakistan_Submarines"
 date: "2019-03-07 10:00:00"
-excerpt: <img src="/images/flag_india.jpg"/> <img src="/images/flag_pakistan.jpg"/> High-resolution
-  poster of submarines in service with Indian ad Pakistani Navies.... <br/><a href="/India-Pakistan_Submarines.html"><img
-  src="/images/IndiaPakistan_Subs900.jpg"/></a><br/>
-...
-
+excerpt: |-
+  <img src="/images/flag_india.jpg"/> <img src="/images/flag_pakistan.jpg"/> High-resolution poster of submarines in service with Indian ad Pakistani Navies.... <br/><a href="/India-Pakistan_Submarines.html"><img src="/images/IndiaPakistan_Subs900.jpg"/></a><br/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![](/images/flag_india.jpg) ![](/images/flag_pakistan.jpg) High-resolution poster of submarines in service with Indian ad Pakistani Navies. Both navies have strong submarine force traditions dating back to the Cold War.   
 

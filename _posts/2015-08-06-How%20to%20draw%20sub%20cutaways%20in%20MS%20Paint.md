@@ -2,14 +2,10 @@
 layout: post
 title: "How to draw sub cutaways in MS Paint"
 date: "2015-08-06 11:00:00"
-excerpt: Apparently I am crazy to draw with these outdated tools but I like the hand-drawn
-  look and feel. I don't think that I can do a streaming any time soon, but I can
-  share how I draw the illustrations old-school in MS Paint and shade in GIMP. [Read
-  More &gt;....](/How to draw sub cutaways in MS Paint.html "READ MORE")<br/><a href="/How
-  to draw sub cutaways in MS Paint.html"><img src="/images/P2Sketch900.jpg"/></a>
-...
-
+excerpt: |-
+  Apparently I am crazy to draw with these outdated tools but I like the hand-drawn look and feel. I don't think that I can do a streaming any time soon, but I can share how I draw the illustrations old-school in MS Paint and shade in GIMP. [Read More &gt;....](/How to draw sub cutaways in MS Paint.html "READ MORE")<br/><a href="/How to draw sub cutaways in MS Paint.html"><img src="/images/P2Sketch900.jpg"/></a>
 ---
+
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 *Apparently I am crazy to draw with these outdated tools but I like the hand-drawn look and feel. I don't think that I can do a streaming any time soon, but I can share how I draw the illustrations old-school in MS Paint and shade in GIMP.* I finished illustrating my special forces subs book (see link below - check it out on Amazon) so I have a bit of time to indulge on other types of sub illustration.   

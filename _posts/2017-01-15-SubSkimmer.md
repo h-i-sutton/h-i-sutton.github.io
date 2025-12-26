@@ -2,17 +2,10 @@
 layout: post
 title: "SubSkimmer"
 date: "2017-01-15 02:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a>![Flag](/images/flag_UK.jpg)
-  The SubSkimmer is possibly one of the most innovative underwater craft ever designed
-  for the infiltration of Special Forces. It combines the characteristics of a rigid-inflatable
-  (RIB) with an underwater scooter and is better understood as a submersible boat
-  rather than a typical Swimmer Delivery vehicle (SDV). First built in the early 1980s,
-  it has been widely exported and version are still in production today..... [Read
-  More &gt;....](/SubSkimmer.html "READ MORE")<br/><a href="/SubSkimmer.html"><img
-  src="/images/Subskimmer_cover900.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |-
+  ![Flag](/images/flag_UK.jpg) The SubSkimmer is possibly one of the most innovative underwater craft ever designed for the infiltration of Special Forces. It combines the characteristics of a rigid-inflatable (RIB) with an underwater scooter and is better understood as a submersible boat rather than a typical Swimmer Delivery vehicle (SDV). First built in the early 1980s, it has been widely exported and version are still in production today..... [Read More &gt;....](/SubSkimmer.html "READ MORE")<br/><a href="/SubSkimmer.html"><img src="/images/Subskimmer_cover900.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)![Flag](/images/flag_UK.jpg) The SubSkimmer is possibly one of the most innovative underwater craft ever designed for the infiltration of Special Forces. It combines the characteristics of a rigid-inflatable (RIB) with an underwater scooter and is better understood as a submersible boat rather than a typical Swimmer Delivery vehicle (SDV). First built in the early 1980s, it has been widely exported and version are still in production today.   
 ![Subskimmer](/images/Subskimmer_cover940.jpg)  
 

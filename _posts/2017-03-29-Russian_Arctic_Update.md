@@ -2,22 +2,20 @@
 layout: post
 title: "Russian_Arctic_Update"
 date: "2017-03-29 23:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Russian shipbuilder proposes\
-  \ range of arctic projects**</font> <br/>![Flag](/images/flag_russia.jpg) An exhibition\
-  \ in Arkhangelsk, Russia, called **Arctic \u2013 Territory Dialogue** (\u0410\u0440\
-  \u043A\u0442\u0438\u043A\u0430 - \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\
-  \u0438\u044F \u0434\u0438\u0430\u043B\u043E\u0433\u0430) reveals some of the proposed\
-  \ civilian applications for Russia\u2019s deep sea engineering and Autonomous Nuclear\
-  \ Power Plants. Shipbuilder USC and famous design bureau **Rubin** showed models\
-  \ of a nuclear-powered under-ice oil or gas drilling platform called *Iceberg*.\
-  \ The submarines are of special interest, and the topic is related to naval projects\
-  \ under the icecap... [Read More &gt;....](/Russian_Arctic_Update.html \"READ MORE\"\
-  )<br/><a href=\"/Russian_Arctic_Update.html\"><img src=\"/images/RuArctic_art900.jpg\"\
+excerpt: "<font size=\"6\">**Russian shipbuilder proposes range of arctic projects**</font>\
+  \ <br/>![Flag](/images/flag_russia.jpg) An exhibition in Arkhangelsk, Russia, called\
+  \ **Arctic \u2013 Territory Dialogue** (\u0410\u0440\u043A\u0442\u0438\u043A\u0430\
+  \ - \u0442\u0435\u0440\u0440\u0438\u0442\u043E\u0440\u0438\u044F \u0434\u0438\u0430\
+  \u043B\u043E\u0433\u0430) reveals some of the proposed civilian applications for\
+  \ Russia\u2019s deep sea engineering and Autonomous Nuclear Power Plants. Shipbuilder\
+  \ USC and famous design bureau **Rubin** showed models of a nuclear-powered under-ice\
+  \ oil or gas drilling platform called *Iceberg*. The submarines are of special interest,\
+  \ and the topic is related to naval projects under the icecap... [Read More &gt;....](/Russian_Arctic_Update.html\
+  \ \"READ MORE\")<br/><a href=\"/Russian_Arctic_Update.html\"><img src=\"/images/RuArctic_art900.jpg\"\
   /></a><br/><a href=\"/Russian_Arctic_Update.html\"><img src=\"/images/RuArctic_guide900.jpg\"\
   /></a><br clear=\"right\"/>"
-
 ---
+
 **Russian shipbuilder proposes range of arctic projects**   
 ![Russian shipbuilder proposes range of arctic projects - Covert Shores](/images/RuArctic_art.jpg)   
 ![Flag](/images/flag_russia.jpg) An exhibition in Arkhangelsk, Russia, called **Arctic – Territory Dialogue** (Арктика - территория диалога) reveals some of the proposed civilian applications for Russia’s deep sea engineering and Autonomous Nuclear Power Plants. Shipbuilder USC and famous design bureau **Rubin** showed models of a nuclear-powered under-ice oil or gas drilling platform called *Iceberg*. The submarines are of special interest, and the topic is related to naval projects under the icecap.   

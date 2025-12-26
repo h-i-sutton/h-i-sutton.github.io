@@ -2,16 +2,9 @@
 layout: post
 title: "Another Russian Floating Dock Sinks In Sevastopol"
 date: "2023-06-21 22:30:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/><a href="/Russian-Floating-Dock-PD-19-Sinks.html"><img align="left"
-  src="/images/Russia-Floating-Dock-PD-19-sunk-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  Marked by an orange floating boom, there is now a dark hole of calm water in Sevastopol
-  Harbour. Beneath it, a floating dock sits on the bottom, sunk...<br/>[Read More
-  &gt;....](/Russian-Floating-Dock-PD-19-Sinks.html "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Russian-Floating-Dock-PD-19-Sinks.html"><img align="left" src="/images/Russia-Floating-Dock-PD-19-sunk-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Marked by an orange floating boom, there is now a dark hole of calm water in Sevastopol Harbour. Beneath it, a floating dock sits on the bottom, sunk...<br/>[Read More &gt;....](/Russian-Floating-Dock-PD-19-Sinks.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 ![Russian Floating Dock PD-19 Sinks In Sevastopol](/images/Russia-Floating-Dock-PD-19-sunk.jpg)  
 

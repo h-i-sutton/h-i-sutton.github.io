@@ -7,8 +7,8 @@ excerpt: "![Flag](/images/flag_RoK.jpg) The lead boat of South Korea\u2019s next
   \ this year... [Read More &gt;....](/HDS-400_Midget-Submarine.html \"READ MORE\"\
   )<br/><a href=\"/HDS-400_Midget-Submarine.html\"><img src=\"/images/HDS-400_900.jpg\"\
   /></a>"
-
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)Original article from September 2015: [Here](/News - Korea building new HDS-400 midget submarine.html "HERE")   
 ![Pr. Covert Shores](/images/HDS-400.jpg)   
 

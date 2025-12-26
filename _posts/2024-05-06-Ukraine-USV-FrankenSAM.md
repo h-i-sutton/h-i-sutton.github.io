@@ -2,17 +2,9 @@
 layout: post
 title: "Ukrainian Magura USV armed With R-73/AA-11 ARCHER FrankenSAM"
 date: "2024-05-05 22:00:00"
-excerpt: '**UPDATED**<br/><a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"><a href="/Ukraine-USV-FrankenSAM.html"><img
-  align="left" src="/images/Ukraine-USV-Archer-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)
-  Footage has emerged, taken from the Russian side, of a Ukrainian uncrewed surface
-  vessel (USV) armed with an improvised air-defense system. This is the first time
-  anything like this has been observed.<br/><br/>The system uses repurposed air-air
-  missiles in an arrangement often termed a ''FrankenSAM''...<br/>[Read More &gt;....](/Ukraine-USV-FrankenSAM.html
-  "READ MORE")<br clear="left"/></br>'
-
+excerpt: |-
+  **UPDATED**<br/><br clear="right"><a href="/Ukraine-USV-FrankenSAM.html"><img align="left" src="/images/Ukraine-USV-Archer-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Footage has emerged, taken from the Russian side, of a Ukrainian uncrewed surface vessel (USV) armed with an improvised air-defense system. This is the first time anything like this has been observed.<br/><br/>The system uses repurposed air-air missiles in an arrangement often termed a 'FrankenSAM'...<br/>[Read More &gt;....](/Ukraine-USV-FrankenSAM.html "READ MORE")<br clear="left"/></br>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 **UPDATED**  
 #Ukrainian Magura USV armed With R-73/AA-11 ARCHER FrankenSAM![Flag Ukraine](/images/flag_ukraine.jpg) Footage has emerged, taken from the Russian side, of a Ukrainian uncrewed surface vessel (USV) armed with an improvised air-defense system. This is the first time anything like this has been observed. (UPDATE: The vessel was subsequently confirmed to be a Magura design used by GUR).  

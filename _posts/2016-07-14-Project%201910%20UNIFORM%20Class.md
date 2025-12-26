@@ -2,16 +2,14 @@
 layout: post
 title: "Project 1910 UNIFORM Class"
 date: "2016-07-14 12:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><img src=\"/images/flag_russia.jpg\"\
-  /> The Project 1910 *Kashalot* Class deep-submergence special missions submarine\
-  \ (NATO: UNIFORM Class) was introduced in the 1980s, analogous to the US Navy\u2019\
-  s NR-1.  ... [Read More &gt;....](Project 1910 UNIFORM Class.html \"READ MORE\"\
-  )<br/><a href=\"/Project 1910 UNIFORM Class.html\"><img src=\"/images/Pr1910_surface900.jpg\"\
-  /></a><br/><a href=\"/Project 1910 UNIFORM Class.html\"><img src=\"/images/Pr1910_900.jpg\"\
-  /></a>"
-
+excerpt: "<br clear=\"right\"/><img src=\"/images/flag_russia.jpg\"/> The Project 1910 *Kashalot*\
+  \ Class deep-submergence special missions submarine (NATO: UNIFORM Class) was introduced\
+  \ in the 1980s, analogous to the US Navy\u2019s NR-1.  ... [Read More &gt;....](Project\
+  \ 1910 UNIFORM Class.html \"READ MORE\")<br/><a href=\"/Project 1910 UNIFORM Class.html\"\
+  ><img src=\"/images/Pr1910_surface900.jpg\"/></a><br/><a href=\"/Project 1910 UNIFORM\
+  \ Class.html\"><img src=\"/images/Pr1910_900.jpg\"/></a>"
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Thank you to everyone who has helped with information or insights. Corections and additional information welcome.*   
 
 The Project 1910 *Kashalot* ('Sperm Whale') Class deep-submergence submarine (NATO: UNIFORM Class) program was initiated in 1972 under the famous Malachite design bureau. Construction of the first boat starting in 1977 with the first of three boats entering service in the 1980s. Designed for special'ocean engineering' missions it was analogous to the US Navy’s NR-1 which had been built in the 1960s. The Russian boat was significantly larger however, at about twice the length which made it, on paper, a full-size submarine. Under the outer hull however it was in fact incredibly small, with an inner hull diameter of about 6m which allowed for two decks. The hull was split into two distinct sections with the unmanned reactor compartment and machinery room in the stern, with no direct access from the crew compartment.   

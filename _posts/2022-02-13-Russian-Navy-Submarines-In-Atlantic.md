@@ -2,17 +2,16 @@
 layout: post
 title: "Russia’s Unseen Ukraine Build-Up: There are Probably Submarines In the Atlantic"
 date: "2022-02-13 18:00:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><br clear=\"right\"/><a href=\"/Russian-Navy-Submarines-In-Atlantic.html\"\
-  ><img align=\"left\" src=\"/images/Russian-Yasen-Submarine-317.jpg\"/></a> ![Flag\
-  \ Russia](/images/flag_russia.jpg) When Russia moved a group of warships from the\
-  \ Arctic to the North Atlantic it made the news. As did some ambitious landing ships\
-  \ which were sent to the Black Sea as part of \u2018drills\u2019. Yet other developments\
-  \ go unreported.<br/><br/>It is likely that Russia has deployed nuclear-powered\
-  \ submarines to the North Atlantic. [Read More &gt;....](/Russian-Navy-Submarines-In-Atlantic.html\
-  \ \"READ MORE\")<br clear=\"left\"/>"
-
+excerpt: "<br clear=\"right\"/><a href=\"/Russian-Navy-Submarines-In-Atlantic.html\"><img align=\"\
+  left\" src=\"/images/Russian-Yasen-Submarine-317.jpg\"/></a> ![Flag Russia](/images/flag_russia.jpg)\
+  \ When Russia moved a group of warships from the Arctic to the North Atlantic it\
+  \ made the news. As did some ambitious landing ships which were sent to the Black\
+  \ Sea as part of \u2018drills\u2019. Yet other developments go unreported.<br/><br/>It\
+  \ is likely that Russia has deployed nuclear-powered submarines to the North Atlantic.\
+  \ [Read More &gt;....](/Russian-Navy-Submarines-In-Atlantic.html \"READ MORE\")<br\
+  \ clear=\"left\"/>"
 ---
+
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 ![Yasen Class Submarine](/images/Ru_Yasen.jpg)  
 *SEVERODVINSK Class (Yasen) submarine*  

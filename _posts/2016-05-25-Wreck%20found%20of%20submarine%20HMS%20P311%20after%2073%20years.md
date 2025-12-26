@@ -2,17 +2,10 @@
 layout: post
 title: "Wreck found of submarine HMS P311 after 73 years"
 date: "2016-05-25 01:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><br
-  clear="right"/>![Flag](/images/flag_UK.jpg) The wreck of wartime British submarine
-  HMS P311 has finally been found by Italian divers near the island of Tavolora in
-  Sardinia. She was lost with all hands between 30th December 1942 and 8th January
-  1943 while undertaking Operation PRINCIPLE. [Read More &gt;....](/Wreck found of
-  submarine HMS P311 after 73 years.html "READ MORE")<br/><a href="/Wreck found of
-  submarine HMS P311 after 73 years.html"><img src="/images/p311.jpg"/></a><br/><a
-  href="/Wreck found of submarine HMS P311 after 73 years.html"><img src="/images/p311_900.jpg"/></a>
-...
-
+excerpt: |-
+  <br clear="right"/>![Flag](/images/flag_UK.jpg) The wreck of wartime British submarine HMS P311 has finally been found by Italian divers near the island of Tavolora in Sardinia. She was lost with all hands between 30th December 1942 and 8th January 1943 while undertaking Operation PRINCIPLE. [Read More &gt;....](/Wreck found of submarine HMS P311 after 73 years.html "READ MORE")<br/><a href="/Wreck found of submarine HMS P311 after 73 years.html"><img src="/images/p311.jpg"/></a><br/><a href="/Wreck found of submarine HMS P311 after 73 years.html"><img src="/images/p311_900.jpg"/></a>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 ![Wreck found of submarine HMS P311 after 73 years](/images/p311.jpg)  
 ![Flag](/images/flag_UK.jpg) The wreck of wartime British submarine HMS P311 has finally been found by Italian divers near the island of Tavolora in Sardinia. She was lost with all hands between 30th December 1942 and 8th January 1943 while undertaking Operation PRINCIPLE. Her targets were two Italian Navy cruisers based at La Maddalena in Sardinia. For the mission she was carrying two Chariot Mk.1 human torpedoes in sealed containers mounted behind the sail.   

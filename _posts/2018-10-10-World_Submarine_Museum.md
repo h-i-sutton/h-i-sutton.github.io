@@ -2,14 +2,10 @@
 layout: post
 title: "World_Submarine_Museum"
 date: "2018-10-10 03:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**TYPHOON World Submarine Museum**</font><br/>This strawman proposal is
-  to convert one of the remaining TYPHOON Class submarines a World Submarine Museum...
-  <br/>[Read More &gt;....](/World_Submarine_Museum.html "READ MORE") <br/><a href="/World_Submarine_Museum.html"><img
-  src="/images/TyphoonMuseumHeader900.jpg"/></a><br/>
-...
-
+excerpt: |-
+  <font size="6">**TYPHOON World Submarine Museum**</font><br/>This strawman proposal is to convert one of the remaining TYPHOON Class submarines a World Submarine Museum... <br/>[Read More &gt;....](/World_Submarine_Museum.html "READ MORE") <br/><a href="/World_Submarine_Museum.html"><img src="/images/TyphoonMuseumHeader900.jpg"/></a><br/>
 ---
+
 ##### Share: __
 
 **TYPHOON World Submarine Museum**  

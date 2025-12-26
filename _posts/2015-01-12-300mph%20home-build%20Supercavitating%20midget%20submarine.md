@@ -2,11 +2,10 @@
 layout: post
 title: "300mph home-build Supercavitating midget submarine"
 date: "2015-01-13 12:00:00"
-excerpt: Ever fancied burning from Canada to France in 13 hours, under water? <a href="/300mph
-  home-build Supercavitating midget submarine.html"><img src="/images/papp_color900.jpg"/></a>
-...
-
+excerpt: |-
+  Ever fancied burning from Canada to France in 13 hours, under water? <a href="/300mph home-build Supercavitating midget submarine.html"><img src="/images/papp_color900.jpg"/></a>
 ---
+
 Researchers in China recently claimed that have taken a big step towards creating a 'supersonic' submarine. No one believes them.   
 
 Today we are all familiar with the Russian VA-111 'Shkval' supercavitating torpedo. The best that Soviet engineers could manage was pedestrian 230mph (200kts) for about 10 miles. So imagine sitting inside a one-man midget submarine averaging 300mph for thousands of miles, which you built in your shed?????

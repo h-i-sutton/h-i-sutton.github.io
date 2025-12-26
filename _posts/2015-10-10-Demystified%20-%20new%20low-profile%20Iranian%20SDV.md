@@ -2,19 +2,10 @@
 layout: post
 title: "Demystified - new low-profile Iranian SDV"
 date: "2015-10-10 11:00:00"
-excerpt: <img src="/images/flag_iran.jpg"/> Around this time of year it is usual for Iran to
-  reveal a few more of its super weapons. Scared Defense Week occurs in late September
-  and is accompanied by multiple military parades and static displays. Hidden amidst
-  the dazzling array of missiles and UAVs, Swimmer Delivery Vehicles (SDVs) do not
-  get very much press attention *(journalists being widely ignorant of what they even
-  are!???!!!)*. This year was no different. But on display was a slick *'new'* SDV
-  with a low profile hull without any canopy or viewing ports. Here's why it's not
-  actually new, but why it is still interesting.... [Read More &gt;....](/Demystified
-  - new low-profile Iranian SDV.html "READ MORE")<br/><a href="/Demystified - new
-  low-profile Iranian SDV.html"><img src="/images/AlSabehatNew900.jpg"/></a>
-...
-
+excerpt: |-
+  <img src="/images/flag_iran.jpg"/> Around this time of year it is usual for Iran to reveal a few more of its super weapons. Scared Defense Week occurs in late September and is accompanied by multiple military parades and static displays. Hidden amidst the dazzling array of missiles and UAVs, Swimmer Delivery Vehicles (SDVs) do not get very much press attention *(journalists being widely ignorant of what they even are!???!!!)*. This year was no different. But on display was a slick *'new'* SDV with a low profile hull without any canopy or viewing ports. Here's why it's not actually new, but why it is still interesting.... [Read More &gt;....](/Demystified - new low-profile Iranian SDV.html "READ MORE")<br/><a href="/Demystified - new low-profile Iranian SDV.html"><img src="/images/AlSabehatNew900.jpg"/></a>
 ---
+
 ![](/images/flag_iran.jpg) Around this time of year it is usual for Iran to reveal a few more of its super weapons. Scared Defense Week occurs in late September and is accompanied by multiple military parades and static displays. Hidden amidst the dazzling array of missiles and UAVs, Swimmer Delivery Vehicles (SDVs) do not get very much press attention *(journalists being widely ignorant of what they even are!???!!!)*. This year was no different. But on display was a slick *'new'* SDV with a low profile hull without any canopy or viewing ports. Here's why it's not actually new, but why it is still interesting.   
 ![Iranian Al-Sabehat SDV](/images/AlSabehatNew.jpg)  
 At first glance the Iranian craft looks very streamlined. Without the aid of a scaling object, it would be easy to overestimate its size and mistake it for a dry-SDV. In fact it resembles the German Orca dry-SDV design from the Cold War. The two types are however completely different in size and capability and any likeness is coincidental. The Iranian type is a wet-sub where the crew have to wear diving kit (the hatch on the spine is not a crew access). The secretive Orca dry-SDV:  

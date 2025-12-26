@@ -2,12 +2,10 @@
 layout: post
 title: "Cold_War_Rec"
 date: "2017-10-28 08:40:00"
-excerpt: I got this quiz idea while preparing recognition silhouettes for my submarine new
-  book. Take the quiz! <br/><a href="cold_war_rec.html"><img src="images/CWQuiz_header900.jpg"
-  width="900"/></a>
-...
-
+excerpt: |-
+  I got this quiz idea while preparing recognition silhouettes for my submarine new book. Take the quiz! <br/><a href="cold_war_rec.html"><img src="images/CWQuiz_header900.jpg" width="900"/></a>
 ---
+
 I got this quiz idea while preparing recognition silhouettes for [WORLD SUBMARINES: Covert Shores Recognition Guide](https://www.amazon.com/dp/1541392302)  
 
 Some of the silhouettes in this quiz are a bit crude, please forgive me. Anyway I thought that it’s a cool test of Cold War memories.   

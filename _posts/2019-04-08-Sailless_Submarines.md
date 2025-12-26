@@ -2,16 +2,15 @@
 layout: post
 title: "Sailless_Submarines"
 date: "2019-04-08 11:01:00"
-excerpt: "<a href=\"https://twitter.com/covertshores\" target=\"blank\"><img align=\"right\"\
-  \ src=\"/images/twitter.jpg\"/></a><font size=\"6\">**Submarines without sails**</font><br/>![Flag](/images/flag_China.jpg)\
+excerpt: "<font size=\"6\">**Submarines without sails**</font><br/>![Flag](/images/flag_China.jpg)\
   \ ![Flag](/images/flag_russia.jpg) ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_france.jpg)\
   \ China has launched an unnamed \u2018sailless\u2019 submarine in Shanghai. It is\
   \ probably the first full-sized sailless submarine, but it the Chinese naval architects\
   \ behind it are not the first to seriously consider this layout... <br/><a href=\"\
   /Sailless_Submarines.html\"><img src=\"/images/Sailless_900.jpg\"/></a><br clear=\"\
   right\">[Read More &gt;....](/Sailless_Submarines.html \"READ MORE\")<br/></br>"
-
 ---
+
 ##### Share:
 
 **Submarines without sails**[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

@@ -2,16 +2,9 @@
 layout: post
 title: "Russian Navy's New Deceptive Camouflage To Protect Kalibr-Armed Warships"
 date: "2023-07-09 01:00:00"
-excerpt: '**UPDATED**<a href="https://twitter.com/covertshores" target="blank"><img align="right"
-  src="/images/twitter.jpg"/></a><br clear="right"/><a href="/Russian-Navy-Deceptive-Camouflage.html"><img
-  align="left" src="/images/Russia-Deceptive-Camo-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)
-  The Russian Navy has continued to apply deceptive camouflage to key ships in the
-  Black Sea. The new camo was first reported on the frigate Admiral Essen last week.<br/><br/>Since
-  then at least 3 more warships have been painted in a similar way...<br/>[Read More
-  &gt;....](/Russian-Navy-Deceptive-Camouflage.html "READ MORE")<br clear="left"/>'
-
+excerpt: |-
+  **UPDATED**<br clear="right"/><a href="/Russian-Navy-Deceptive-Camouflage.html"><img align="left" src="/images/Russia-Deceptive-Camo-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The Russian Navy has continued to apply deceptive camouflage to key ships in the Black Sea. The new camo was first reported on the frigate Admiral Essen last week.<br/><br/>Since then at least 3 more warships have been painted in a similar way...<br/>[Read More &gt;....](/Russian-Navy-Deceptive-Camouflage.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 **UPDATED**  
 #Russian Navy's New Deceptive Camouflage To Protect Kalibr-Armed Warships![Flag Russia](/images/flag_russia.jpg) The Russian Navy has continued to apply deceptive camouflage to key ships in the Black Sea. The new camo was [first reported](https://www.navalnews.com/naval-news/2023/06/russian-navy-attempts-to-disguise-its-most-powerful-warship-in-black-sea/) on June 22 when the frigate Admiral Essen was observed in Sevastopol. Since then at least 3 more warships have been painted in a similar way.   

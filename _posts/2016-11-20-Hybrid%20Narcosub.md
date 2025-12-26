@@ -2,16 +2,10 @@
 layout: post
 title: "Hybrid Narcosub"
 date: "2016-10-21 17:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**New type of narco-sub**</font> <br/>Colombian Navy officials announced
-  their forth Narcosub capture today. Like two so-called *narcosubs* captured earlier
-  this year, it is in fact not a submarine. Nor is it a semi-submersible (as described
-  in the press). It is actually a custom **go-fast boat** designed for speed. ...  [Read
-  More &gt;....](/Hybrid Narcosub.html "READ MORE")<br/><a href="/Hybrid Narcosub.html"><img
-  src="/images/Narco_hybrid_900.jpg"/></a>
-...
-
+excerpt: |-
+  <font size="6">**New type of narco-sub**</font> <br/>Colombian Navy officials announced their forth Narcosub capture today. Like two so-called *narcosubs* captured earlier this year, it is in fact not a submarine. Nor is it a semi-submersible (as described in the press). It is actually a custom **go-fast boat** designed for speed. ...  [Read More &gt;....](/Hybrid Narcosub.html "READ MORE")<br/><a href="/Hybrid Narcosub.html"><img src="/images/Narco_hybrid_900.jpg"/></a>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**New type of narco-sub**   
 Colombian Navy officials announced their forth Narcosub capture today. Like two so-called *narcosubs* captured earlier this year, it is in fact not a submarine. Nor is it a semi-submersible (as described in the press). It is actually a custom **go-fast boat** designed for speed. The boat was reportedly carrying 983 kg of cocaine.   
   

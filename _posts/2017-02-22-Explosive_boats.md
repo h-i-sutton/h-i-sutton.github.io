@@ -2,20 +2,10 @@
 layout: post
 title: "Explosive_boats"
 date: "2017-02-22 02:00:00"
-excerpt: <a href="https://twitter.com/covertshores" target="blank"><img align="right" src="/images/twitter.jpg"/></a><font
-  size="6">**A brief history of Explosive Boats**</font> <br/>![Flag](/images/flag_Confederate.jpg)
-  ![Flag](/images/flag_germany.jpg) ![Flag](/images/flag_italy.jpg) ![Flag](/images/flag_UK.jpg)
-  ![Flag](/images/flag_japan.jpg) ![Flag](/images/flag_isreal.jpg) ![Flag](/images/flag_croatia.jpg)
-  ![Flag](/images/flag_iran.jpg)<br/> The recent attack on a Saudi frigate off Yemen
-  by Houti rebels using a remote controlled explosive boat brings these craft into
-  focus. There have been a lot of different explosive boats developed over the years
-  although few are well known. They are not only used by non-State actors and their
-  history is actually closely intertwined with the minisubs used by Naval Special
-  Forces...  [Read More &gt;....](/Explosive_boats.html "READ MORE")<br/><a href="/Explosive_boats.html"><img
-  src="/images/Explosive_attack.jpg"/></a><br clear="right"/>
-...
-
+excerpt: |-
+  <font size="6">**A brief history of Explosive Boats**</font> <br/>![Flag](/images/flag_Confederate.jpg) ![Flag](/images/flag_germany.jpg) ![Flag](/images/flag_italy.jpg) ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_japan.jpg) ![Flag](/images/flag_isreal.jpg) ![Flag](/images/flag_croatia.jpg) ![Flag](/images/flag_iran.jpg)<br/> The recent attack on a Saudi frigate off Yemen by Houti rebels using a remote controlled explosive boat brings these craft into focus. There have been a lot of different explosive boats developed over the years although few are well known. They are not only used by non-State actors and their history is actually closely intertwined with the minisubs used by Naval Special Forces...  [Read More &gt;....](/Explosive_boats.html "READ MORE")<br/><a href="/Explosive_boats.html"><img src="/images/Explosive_attack.jpg"/></a><br clear="right"/>
 ---
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**A brief history of Explosive Boats**   
  *Feedback and further info welcome.*  
 

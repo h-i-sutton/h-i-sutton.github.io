@@ -2,18 +2,9 @@
 layout: post
 title: "OSINT: New Underwater Structures At Chinese USV/AUV Test Site"
 date: "2025-09-19 09:00:00"
-excerpt: <a href="https://bsky.app/profile/covertshores.bsky.social" target="blank"><img align="right"
-  src="/images/Icon_Bluesky.jpg"/></a><br clear="right"/><a href="/Chinese-Pier-OSINT-202509.html"><img
-  align="left" src="/images/China-Pier-Crane-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)
-  Just south of Dalian there is a pier which has become closely associated with China's
-  uncrewed vessel developments<br/><br/>Now there appears to be new seabed structures
-  being deployed at the site...<br/>[Read More &gt;....](/Chinese-Pier-OSINT-202509.html
-  "READ MORE")<br clear="left"/>
-...
-
+excerpt: |-
+  <br clear="right"/><a href="/Chinese-Pier-OSINT-202509.html"><img align="left" src="/images/China-Pier-Crane-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) Just south of Dalian there is a pier which has become closely associated with China's uncrewed vessel developments<br/><br/>Now there appears to be new seabed structures being deployed at the site...<br/>[Read More &gt;....](/Chinese-Pier-OSINT-202509.html "READ MORE")<br clear="left"/>
 ---
-[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
-[(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "INDEX of Articles")
 
 #OSINT: New Underwater Structures At Chinese USV/AUV Test Site![Flag China](/images/flag_China.jpg) Just south of Dalian there is a pier which has become closely associated with China's uncrewed vessel developments. The pier is associated with 702 Institute, and is likely [used for trials and development](https://news.usni.org/2021/10/11/chinese-testing-experimental-armed-drone-ships-at-secret-naval-base) of both uncrewed surface vessels (USVs) and autonomous underwater vehicles (AUVs). Just off the pier, 600 meters (0.4 miles) out to sea, are [four marker buoys](http://www.hisutton.com{% post_url 2022-05-27-Unidentified-Objects-Off-Chines-Naval-Base %}) which likely protect a sensitive seabed structure related to the site. This may be a docking station or beacon related to AUV navigation testing for example. Now there appears to be new seabed structures being deployed at the site.   
 
