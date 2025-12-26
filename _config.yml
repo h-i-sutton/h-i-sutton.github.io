@@ -26,6 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Naval Special Forces ◆ Original Artwork
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.hisutton.com" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:title:output_ext
+
 #twitter_username: 
 bluesky_username: covertshores
 youtube_username: HISuttonCovertShores

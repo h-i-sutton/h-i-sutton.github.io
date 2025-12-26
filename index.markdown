@@ -8,9 +8,9 @@ layout: home
 {% for post in site.posts %}
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 {% if post.modified %}
-    <p>{{ post.modified | date: "%-d %B %Y" }}</p>
-{% elif post.date %}
-    <p>{{ post.date | date: "%-d %B %Y" }}</p>
+<p>{{ post.modified | date: "%-d %B %Y" }}</p>
+{% elsif post.date %}
+<p>{{ post.date | date: "%-d %B %Y" }}</p>
 {% endif %}
-<p>{{ post.excerpt }}</p>
+<p>{{ post.excerpt | markdownify }}</p>
 {% endfor %}
