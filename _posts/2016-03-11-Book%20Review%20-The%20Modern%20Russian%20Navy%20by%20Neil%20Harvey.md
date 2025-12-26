@@ -23,5 +23,6 @@ Every major class is represented and almost every minor class too. By default cl
 Available on [Amazon](http://www.amazon.co.uk/Modern-Russian-Navy-Neil-Harvey/dp/0993289835)
 
   
+
 ![Books](/images/ModernXNavy.jpg)  
 *Other titles by the author. I do not have these but going by the Russian book, definitely worth a look*.

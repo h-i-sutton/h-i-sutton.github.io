@@ -7,9 +7,12 @@ excerpt: |-
 ---
 
 [![](/images/USN-Semi-Submersible-Torpedo-Boat-940.jpg)](/images/USN-Semi-Submersible-Torpedo-Boat.jpg)  
+
 *CLICK to Enlarge.*  
 
-#U.S. Navy's Semi-Submerged Torpedo Boat, 1943![Flag US](/images/flag_USA.jpg) During World War Two the U.S. Navy was not known for its unconventional thinking. While the Italians and British quickly embraced novel means of sneak attacks, America focused on overwhelming conventional forces. Yet that doesn't mean that everyone within the U.S. military thought that way; there were various unconventional naval craft being built. One such craft was a semi-submersible torpedo boat.   
+# U.S. Navy's Semi-Submerged Torpedo Boat, 1943
+
+![Flag US](/images/flag_USA.jpg) During World War Two the U.S. Navy was not known for its unconventional thinking. While the Italians and British quickly embraced novel means of sneak attacks, America focused on overwhelming conventional forces. Yet that doesn't mean that everyone within the U.S. military thought that way; there were various unconventional naval craft being built. One such craft was a semi-submersible torpedo boat.   
 
 Photos of a 'semi-submersible torpedo craft', named only C-25465, appear on the [Naval History and Heritage Command website](https://www.history.navy.mil/content/history/nhhc/search.html?q=C-25465). They indicate that it was built at the Robert Jacob, Inc., Shipyard, City Island, New York, in around March 1943.  
 
@@ -21,7 +24,7 @@ The design is interesting though. It has two torpedoes carried in the lower hull
 
 ![U.S. Navy's Semi-Submerged Torpedo Boat, 1943](/images/USN-Semi-Submersible-Torpedo-Boat-photo1.jpg)   
 
-##Shearer Torpedo Boat?
+## Shearer Torpedo Boat?
 
 The design is reminiscent of some proposals by American inventor William Baldwin Shearer of the International Torpedo Boat Corp around 1917-23. Shearer was born in Philadelphia, and served with the U.S. Navy in the Spanish-American War (possibly aboard USS New Orleans. When World War One broke out he sailed to England and offered his services to the Admiralty, before returning to America and serving again with the U.S. Navy throughout the war.   
 
@@ -33,8 +36,14 @@ Various patents were filed showing a low profile vessel which run awash with a t
 
 We can speculate that the later design was also from, or at least influenced by, William Baldwin Shearer. Naval-History.net [notes](https://www.naval-history.net/PhotoZHinds.htm) that he also submitted a proposal in 1942, and this might be that, but I cannot confirm at this point.   
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_Confederate.jpg) [![](/images/CSS-David-250.png)]({% post_url 2021-01-23-David-Class-Confederate-Torpedo %}) [David Class]({% post_url 2021-01-23-David-Class-Confederate-Torpedo %})American Civil War semi-submersible torpedo boat. *w/Cutaway*  
+
 ![Flag](/images/flag_Confederate.jpg) [![](/images/Hunley-250.png)]({% post_url 2017-08-24-Hunley %}) American Civil War submarine [H. L. Hunley]({% post_url 2017-08-24-Hunley %})  
+
 ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_russia.jpg) ![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_germany.jpg) ![Flag](/images/flag_italy.jpg) ![Flag](/images/flag_france.jpg) ![Flag](/images/flag_japan.jpg) ![Flag](/images/flag_RoK.jpg) ![Flag](/images/flag_india.jpg) ![Flag](/images/flag_China.jpg) ![Flag](/images/flag_iran.jpg) ![Flag](/images/flag_nork.jpg) [![](/images/Torpedoes-250.jpg)]({% post_url 2020-03-20-Guide-to-heavyweight-533mm-torpedoes %}) World guide to [Heavyweight Torpedoes]({% post_url 2020-03-20-Guide-to-heavyweight-533mm-torpedoes %})  
+
 ![Flag](/images/flag_USA.jpg) [![](/images/Moonshine_Sub_250.png)]({% post_url 2019-10-04-Prohibition_Smugglers_Sub %}) Prohibition era [Moonshine smuggler's sub]({% post_url 2019-10-04-Prohibition_Smugglers_Sub %}). *w/Cutaway*  

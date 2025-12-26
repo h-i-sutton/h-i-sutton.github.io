@@ -7,6 +7,7 @@ excerpt: |-
 ---
 
 **Analysis of submarine operating patterns and capabilities using public webcams**  
+
 ![OSINT_Webcam- Covert Shores](/images/OSINT_Webcam_USN.jpg)   
 *A US Navy nuclear powered attack submarine passes a publicly viewable webcam.*  
 
@@ -22,16 +23,37 @@ To an extent OSINT is democratizing the intelligence arena. Countries or non-sta
 In many countries years of defense cuts have exasperated the problem. The trend towards consolidating ever smaller submarine fleets at one or two naval bases makes them easier to keep an eye on. And locating those bases in populated areas, where publicly viewable webcams are most likely, increases the risk further.   
 
 If it is possible to for a foreign power to monitor comings and goings from a naval base they can build up a detailed picture of when submarines are present and when they are at sea:  
+
 ![OSINT_Webcam- Covert Shores](/images/OSINT_ActivityMap.jpg)   
+
 This could be used to answer a number of questions:  
 
-* Are there extended periods when no subs are at sea? (A, B above)* What are the deployment patterns around national holidays, naval days etc? It may be possible to predict when fewest submarines are at sea and time operations accordingly, e.g. a surprise attack while the submarines are in port and the submariners are home on national holidays* What are the weekday-weekend patterns?* Are there shorter periods where all submarines are in base? Are there leading indicators of this?* Are some subs less active? Does this mean that they are unreliable or simply at lower readiness?* How many at-sea days do crews get? Are they well trained?* Are submarines exercising together?* How prepared are the crews for extended operations?* ….
+* Are there extended periods when no subs are at sea? (A, B above)
+
+* What are the deployment patterns around national holidays, naval days etc? It may be possible to predict when fewest submarines are at sea and time operations accordingly, e.g. a surprise attack while the submarines are in port and the submariners are home on national holidays
+
+* What are the weekday-weekend patterns?
+
+* Are there shorter periods where all submarines are in base? Are there leading indicators of this?
+
+* Are some subs less active? Does this mean that they are unreliable or simply at lower readiness?
+
+* How many at-sea days do crews get? Are they well trained?
+
+* Are submarines exercising together?
+
+* How prepared are the crews for extended operations?
+
+* ….
 
   
-[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)>>>The ultimate book of Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**  is the ONLY world history of naval Special Forces, their missions and their specialist vehicles. **SEALs**, **SBS**, **COMSUBIN**, **Sh-13**, **Spetsnaz**, **Kampfschwimmers**, **Commando Hubert**, **4RR** and many more.  
+[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)
+
+>>>The ultimate book of Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**  is the ONLY world history of naval Special Forces, their missions and their specialist vehicles. **SEALs**, **SBS**, **COMSUBIN**, **Sh-13**, **Spetsnaz**, **Kampfschwimmers**, **Commando Hubert**, **4RR** and many more.  
 [![](/images/Maiale_arrow.png)](http://www.amazon.com/dp/1533114870/)[Check it out on Amazon](http://www.amazon.com/dp/1533114870/)  
 
 **Example webcam: Swedish submarine base**  
+
 ![OSINT_Webcam- Covert Shores](/images/OSINT_SwedishSubs.jpg)   
 *Swedish Gotland Class (left) and Södermanland Class (right) AIP submarines*  
 
@@ -44,6 +66,7 @@ On the 24th July 2017 a [Swedish newspaper](http://www.blt.se/blekinge/kommunens
 We shall use this as the case study because the media has already highlighted the concern here. There are numerous other locations where something very similar is also possible.   
 
 ![OSINT_Webcam- Covert Shores](/images/OSINT_Karlskrona_Cam1.jpg)   
+
 ![OSINT_Webcam- Covert Shores](/images/OSINT_Karlskrona_zoom2.jpg)   
 
 The local authority appears to have determined, without Navy input, that the camera is too low resolution to be of use to a opposing force. From the article:  
@@ -60,6 +83,7 @@ In fact the low resolution is only a minor annoyance for OSINT analysts. Althoug
 
 ![OSINT_Webcam- Covert Shores](/images/OSINT_Karlskrona_Cam.jpg)   
 *Location and approximate field of view of the Karlskrona webcam. Below is its probable location which is also an AIS tower (see below):*  
+
 ![OSINT_Webcam- Covert Shores](/images/OSINT_Karlskrona_Tower.jpg)   
 
 Webcams tend to be less useful during nighttime hours (although navigation lights may still be visible) but generally work 24 hours a day meaning that early morning returns to port are captured while the rest of the world sleeps.  
@@ -73,7 +97,9 @@ Counterintuitively, the absence of AIS broadcasting can actually work in the OSI
 OSINT analyst Steffen Watkins ([Twitter](https://twitter.com/steffanwatkins) / [Vessel of interest blog](http://www.vesselofinterest.com/)) has shown several ways in which AIS can be used to track submarines and surface vessels – what is revealed here and on his blog is only scratching the surface.   
 
 Here I am using [Marine Traffic](https://www.marinetraffic.com/) but other providers include [IHS Markit (AIS Live)](https://www.ihs.com/products/ais-live-ship-tracker.html) and [Lloyd's List Intelligence](http://www.lloydslistintelligence.com/llint/ais.htm).  
+
   
+
 ![OSINT_Webcam- Covert Shores](/images/OSINT_Karlskrona_AIS.jpg)   
 *AIS snapshot of Karlskrona viewed via MarineTraffic.com*  
 
@@ -104,11 +130,20 @@ I am going to stop short of posting the movement patterns of Swedish or NATO sub
 *HMS Belos, Submarine Rescue ship returning to the base. CLICK for high-resolution image.*  
   
 
-______________________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+______________________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_germany.jpg) ![Flag](/images/flag_italy.jpg) ![Flag](/images/flag_france.jpg) ![Flag](/images/flag_greece.jpg) ![Flag](/images/flag_japan.jpg) ![Flag](/images/flag_potugal.jpg) ![Flag](/images/flag_RoK.jpg) ![Flag](/images/flag_pakistan.jpg) ![Flag](/images/flag_isreal.jpg) ![Flag](/images/flag_russia.jpg) ![Flag](/images/flag_spain.jpg) ![Flag](/images/Flag_Singapore.jpg) ![Flag](/images/flag_india.jpg) ![Flag](/images/flag_China.jpg) [![](/images/AIP_subs_250.png)]({% post_url 2016-03-19-World%20survey%20of%20AIP%20submarines %}) World survey of [AIP submarines]({% post_url 2016-03-19-World%20survey%20of%20AIP%20submarines %})  
+
 ![Flag](/images/flag_sweden.jpg) [![](/images/A11A_250.png)]({% post_url 2022-02-03-Swedish_SSN %}) Sweden's [nuclear powered submarine]({% post_url 2022-02-03-Swedish_SSN %}) project (A-11A)   
+
 ![Flag](/images/flag_russia.jpg) [![](/images/TYPHOON_250.png)]({% post_url 2020-02-04-The%20REAL%20Red%20October%20-%20Typhoon%20SSBN %}) [Russian Typhoon Class SSBN]({% post_url 2020-02-04-The%20REAL%20Red%20October%20-%20Typhoon%20SSBN %})   
+
 ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_russia.jpg) ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_france.jpg) ![Flag](/images/flag_China.jpg) + ![Flag](/images/flag_india.jpg) ![Flag](/images/flag_nork.jpg) ![Flag](/images/flag_isreal.jpg) ![Flag](/images/flag_pakistan.jpg) [![](/images/SSBNs_250.png)]({% post_url 2017-01-10-Nuclear%20Missile%20Submarines %}) [Nuclear Missile submarines]({% post_url 2017-01-10-Nuclear%20Missile%20Submarines %})  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Yantar_250.png)]({% post_url 2017-09-13-Yantar %}) [Yantar]({% post_url 2017-09-13-Yantar %}) spy ship loitering over undersea cables   
+
 ![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_russia.jpg)[![](/images/lulea250.png)]({% post_url 2016-10-19-Lulea%201983 %}) [Analysis of Swedish submarine incursion- Luleå 1983]({% post_url 2016-10-19-Lulea%201983 %})  
+
 ![Flag](/images/flag_russia.jpg) [Russia seeks submarine advantage in Arctic]({% post_url 2016-09-20-Analysis%20-Russia%20seeks%20submarine%20advantage%20in%20Arctic %}) (SHELF system, GUGI special mission subs)   

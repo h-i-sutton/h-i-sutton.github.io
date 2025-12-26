@@ -8,11 +8,14 @@ excerpt: |-
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
-#OSINT-Versus-Fiction: Jack Ryan's Ship IdentifiedTom Clancy's Jack Ryan is now in series 3 on Amazon Prime. In [this Season](https://www.amazon.com/dp/B0B8L2GQ17) Jack races against time and across Europe to stop a rogue faction within the Russian government from restoring the Soviet Empire and starting World War III. Presumably 'rogue faction' means it's not the President doing this in the fictional version.   
+# OSINT-Versus-Fiction: Jack Ryan's Ship Identified
+
+Tom Clancy's Jack Ryan is now in series 3 on Amazon Prime. In [this Season](https://www.amazon.com/dp/B0B8L2GQ17) Jack races against time and across Europe to stop a rogue faction within the Russian government from restoring the Soviet Empire and starting World War III. Presumably 'rogue faction' means it's not the President doing this in the fictional version.   
 
 Twitter user [@legitloginname](https://twitter.com/legitloginname/status/1605647994988204058) noticed that the show used satellite imagery of Sevastopol in one of its episodes. It is supposed to show a cargo ship. Of course, many in the defense and OSINT communities will instantly recognize which class of ship it actually is.   
 
 [![](/images/Jack-Ryan-Sevastopol-Ship_identified-940.jpg)](/images/Jack-Ryan-Sevastopol-Ship_identified.jpg)  
+
 *CLICK to Enlarge.*.  
 
 I do not want to ruin the plot or your enjoyment of the show, but the following unmasking of the 'cargo ship' as a Russian Navy warship is obligatory.   
@@ -25,8 +28,14 @@ Using this method we can say with confidence that the ship highlighted in the sh
 
 The Buyan-M shown will be one of the ships now launching Kalibr cruise missiles at Ukraine. Maybe Jack Ryan knew something we didn't back in 2020?  
 
-________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/pr09852_250.png)](http://www.hisutton.com{% post_url 2021-06-29-Belgorod-Class-Submarine %}) Project 09852 [Belgorod](http://www.hisutton.com{% post_url 2021-06-29-Belgorod-Class-Submarine %}) Special Mission submarine (spy sub). *w/Cutaway*   
+
 ![Flag](/images/flag_russia.jpg) [![](/images/TYPHOON_250.png)]({% post_url 2020-02-04-The%20REAL%20Red%20October%20-%20Typhoon%20SSBN %}) [TYPHOON Class SSBN]({% post_url 2020-02-04-The%20REAL%20Red%20October%20-%20Typhoon%20SSBN %}). *w/Cutaway*   
+
 ![Flag](/images/flag_USA.jpg) [![](/images/US-Lockheed-Active-Sonar-Stealth-Sub-250.png)]({% post_url 2021-09-12-Lockheed-Stealth-Submarine-Design %}) F-117 of the Seas: Lockheed's [Stealth Submarine]({% post_url 2021-09-12-Lockheed-Stealth-Submarine-Design %}) design  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Lun-Ekranoplan-250.png)]({% post_url 2020-08-16-Russian-Navy-Ekranoplan-WIG %}) [Lun Class Ekranoplan]({% post_url 2020-08-16-Russian-Navy-Ekranoplan-WIG %}) (Wings in Ground Effect) *w/Cutaway*  

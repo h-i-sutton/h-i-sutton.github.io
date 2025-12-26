@@ -12,7 +12,11 @@ One hundred years after Dreadnought, the **USS Zumwalt** (DDG-1000) restarts his
 
 Zumwalt is categorized as a Destroyer but since when has that counted for anything(?). If she performs as expected it will be a Dreadnought moment with all other large surface warships rendered, in design terms, obsolete. But more interesting to the casual observer is the fact that her shaping, designed to deflect radar signals, harks back to 1800s US Navy warship design. In looks as well as spirit the USS Zumwalt is a fitting 21st century successor to the Ironclads, monitors and pre-dreadnought battleships of the 1800s. Her 'tumblehome' hull slopes the opposite way to regular ships and her tall sloping structure is reminiscent of the ironclad warships of the Civil War.
 
-![DDG-1000 Drawing](/images/zumwalt.png)![DDG-1000 Photo](/images/zumwalt_photo.jpg)*USS Zumwalt*
+![DDG-1000 Drawing](/images/zumwalt.png)
+
+![DDG-1000 Photo](/images/zumwalt_photo.jpg)
+
+*USS Zumwalt*
 
 ![DDG-1000 Photo](/images/bb_1863.jpg)
 
@@ -22,10 +26,18 @@ Zumwalt's main armament of two 155mm guns may appear puny in comparison to the I
 
 Comparisons with the mighty 45,000 ton Iowa Class are not as interesting as comparisons with the older pre-dreadnoughts of the US Navy. Zumwalt displaces about 14,600 tons, which is almost the same as the USS *Virginia Class* battleships launched almost exactly 100 years before her.
 
-The Virginias were he last of the pre-Dreadnoughts and featured the distinctive tumblehome hull. Their main batteries were four 12" (305mm) guns mounted in two twin turrets, one fore and one aft. Superimposed on each main turret was a second turret with two 8" (203mm) guns. This arrangement was distinctive of US Navy battleships of the time.![USS Virginia Class drawing](/images/bb_1906.jpg)![USS New Jersey](/images/bb_1918.jpg)*Virginia Class battleships. Note the refitted masts in the photo*
+The Virginias were he last of the pre-Dreadnoughts and featured the distinctive tumblehome hull. Their main batteries were four 12" (305mm) guns mounted in two twin turrets, one fore and one aft. Superimposed on each main turret was a second turret with two 8" (203mm) guns. This arrangement was distinctive of US Navy battleships of the time.
+
+![USS Virginia Class drawing](/images/bb_1906.jpg)
+
+![USS New Jersey](/images/bb_1918.jpg)
+
+*Virginia Class battleships. Note the refitted masts in the photo*
 
 There is a common perception that modern warships are smaller than battleships. This is certainly true of the mammoth Iowa class, rivalled only by aircraft carriers today. But Zumwalt is much larger than one might imagine and deserves the loose description of a battleship. Placed side-by-side, the Zumwalt is larger than the Virginas, making her literally as large as a battleship.
 
-![Battleships compared](/images/bb_comp.png)*USS Virginia superimposed on USS Zumwalt*
+![Battleships compared](/images/bb_comp.png)
+
+*USS Virginia superimposed on USS Zumwalt*
 
 Zumwalt may be termed a *'destroyer'* for political purposes but she is, in spirit at least, a battleship. And that maybe no bad thing. Let's hope that the Zumwalts live up to promises and that the press, accountants and congress can keep any teething problems in perspective.

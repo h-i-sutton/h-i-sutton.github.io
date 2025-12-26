@@ -6,7 +6,9 @@ excerpt: |-
   <br clear="right"/><a href="/Hamas-Al-Asef-UUV.html"><img align="left" src="/images/Hamas-Al-Asef-Armed-Underwater-Vehicle-317.jpg"/></a>![Flag Hamas](/images/Flag_Hamas.jpg) A fresh image shared by Israeli sources shows, for the first time, the insides of Hamas' garage-built underwater vehicle. The Al-Asef has been used on several occasions against Israeli targets but has yet to score a major success.<br/><br/>The  new image still leaves some questions unanswered...<br/>[Read More &gt;....](/Hamas-Al-Asef-UUV.html "READ MORE")<br clear="left"/>
 ---
 
-#Hamas Al-Asef Armed Underwater Vehicle![Flag Hamas](/images/Flag_Hamas.jpg) A fresh image shared by Israeli sources shows, for the first time, the insides of Hamas' garage-built underwater vehicle. The Al-Asef has been used on several occasions against Israeli targets but has yet to score a major success. The new image still leaves some questions unanswered.   
+# Hamas Al-Asef Armed Underwater Vehicle
+
+![Flag Hamas](/images/Flag_Hamas.jpg) A fresh image shared by Israeli sources shows, for the first time, the insides of Hamas' garage-built underwater vehicle. The Al-Asef has been used on several occasions against Israeli targets but has yet to score a major success. The new image still leaves some questions unanswered.   
 
 ![Hamas Al-Asef Armed Underwater Vehicle - Covert Shores](/images/Hamas-UUV-Open.jpg)  
 
@@ -17,11 +19,19 @@ It relies on a human pilot, making it susceptible to communication jamming. It i
 While unverified, video evidence suggests the existence of at least two such weapons, with the possibility of more being built. Indications are that Israel has captured at least one.  
 
 [![](/images/Hamas-Al-Asef-Armed-Underwater-Vehicle-940.jpg)](/images/Hamas-Al-Asef-Armed-Underwater-Vehicle.jpg)  
+
 *CLICK to Enlarge.*  
 
-________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_isreal.jpg) [![](/images/Sealion_250.png)]({% post_url 2017-02-13-SEALION%20and%20Alligator%20stealth%20boats %}) [*CCH* (Combat Craft Heavy) SEALION and Alligator]({% post_url 2017-02-13-SEALION%20and%20Alligator%20stealth%20boats %})  Semi-Submersible Boats. *w/Cutaway*   
+
 [![](/images/Jetski_250.png)]({% post_url 2018-09-12-Special%20Forces%20Jet%20Skis %}) Special Forces [Jet Skis]({% post_url 2018-09-12-Special%20Forces%20Jet%20Skis %})   
+
 ![Flag](/images/flag_nork.jpg) [![](/images/DPRK_VSV_250.png)]({% post_url 2016-09-28-North_Korean_VSV %}) North Korean [Very Slender Vessels (VSVs)]({% post_url 2016-09-28-North_Korean_VSV %})   
+
 ![Flag](/images/flag_isreal.jpg) ![Sub](/images/Dolphin250.png) [History of Israeli subs]({% post_url 2017-05-20-History%20of%20Israeli%20Subs %})   
+
 ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_russia.jpg) ![Flag Israel](/images/flag_isreal.jpg) ![Flag](/images/flag_nork.jpg) [![](/images/World-Navies-Marine-Mammals-250.png)]({% post_url 2022-01-12-Navy-Marine-Mammal-Programs %}) [World survey of Navy Marine Mammal Prorams]({% post_url 2022-01-12-Navy-Marine-Mammal-Programs %})   

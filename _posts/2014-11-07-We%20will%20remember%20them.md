@@ -42,5 +42,6 @@ We shall not sleep, though poppies grow
 
 In Flanders fields. 
 
-**In Flanders Fields**    
+**In Flanders Fields**
+
 John McCrea, 1917

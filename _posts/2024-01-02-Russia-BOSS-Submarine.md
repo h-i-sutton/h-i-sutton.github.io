@@ -7,9 +7,12 @@ excerpt: |-
 ---
 
 [![](/images/Russia-BOSS-Submarine-Cutaway-940.jpg)](/images/Russia-BOSS-Submarine-Cutaway.jpg)  
+
 *CLICK to Enlarge.*  
 
-#Russia's BOSS Submarine Concept For Border Guards![Flag Russia](/images/flag_russia.jpg) Imagine a future where submarines prowl on the surface, launching aerial drones (UAVs) and engaging targets with gunfire and anti-tank missiles. It seems the antithesis of modern submarine operations.   
+# Russia's BOSS Submarine Concept For Border Guards
+
+![Flag Russia](/images/flag_russia.jpg) Imagine a future where submarines prowl on the surface, launching aerial drones (UAVs) and engaging targets with gunfire and anti-tank missiles. It seems the antithesis of modern submarine operations.   
 
 Yet Russia's famous design bureau Rubin has been suggesting exactly that. The twist: it's for border guard duties not regular combat. In Russia the border guard is part of the FSB.  
 
@@ -36,7 +39,13 @@ The design is intended as multi-functional and can be used as patrol ships, and 
 While Russia could possibly purchase such a vessel for the FSB, it is also aimed at the export market. It is designed to be relatively inexpensive, making it affordable for smaller navies. Rubin suggests that it could be an inexpensive training vessel to give crews seagoing experience. This could also prepare the infrastructure before purchasing classical submarines. A bit like a starter-sub.  
 
 Rubin consider the proposed submersible patrol ship combining the benefits of a submarine and a surface ship. Whether it's the best of both worlds, or the worst of both, is open to debate.   
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Ru_Malachite_arctic_250.png)]({% post_url 2019-01-14-Malachite_arctic_submarine %}) Malachite [Arctic Submarine]({% post_url 2019-01-14-Malachite_arctic_submarine %}) concept  
+
 ![Flag](/images/flag_russia.jpg) ![Sub](/images/SAROV_250.png) [Russian Sarov experimental sub]({% post_url 2019-02-22-SAROV-Class_Submarine %})   
+
 ![Flag](/images/flag_russia.jpg) [![](/images/HUSKY_250.png)]({% post_url 2019-12-30-Husky_SSN %}) [HUSKY Class]({% post_url 2019-12-30-Husky_SSN %}) future attack submarine   

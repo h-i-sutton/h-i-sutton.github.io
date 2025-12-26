@@ -8,7 +8,9 @@ excerpt: |-
 
 ![Ukraine's New Maritime Drone Revealed](/images/Ukraine-Maritime-Drone-2023-03-22.jpg)  
 
-#Ukraine's New Maritime Drone Revealed![Flag Ukraine](/images/flag_ukraine.jpg) Images have emerged showing a new 'maritime drone, aka uncrewed surface vessel (USV), developed in Ukraine. The design is related to Monobank, an online bank which has become one of the main ways volunteers to provide money to the Ukrainian war effort. monobank has been directly involved in efforts to raise money for maritime drones.   
+# Ukraine's New Maritime Drone Revealed
+
+![Flag Ukraine](/images/flag_ukraine.jpg) Images have emerged showing a new 'maritime drone, aka uncrewed surface vessel (USV), developed in Ukraine. The design is related to Monobank, an online bank which has become one of the main ways volunteers to provide money to the Ukrainian war effort. monobank has been directly involved in efforts to raise money for maritime drones.   
 
 There was, perhaps not coincidently, a maritime drone attack on Sevastopol today (March 22 2023). It is however unconfirmed whether this new design was directly involved in that incident.   
 
@@ -24,9 +26,16 @@ One video coming out of the Sevastopol attack appears to be burning USV caught a
 ![Ukraine's New Maritime Drone Revealed](/images/Ukraine-Maritime-Drone-2023-03-22-cat.jpg)  
 *Obligatory cat photo. Via [Oleg Gorohovsky, Instagram](https://www.instagram.com/gorokhovsky/)*  
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_ukraine.jpg) [![](/images/Ukraine-USV-250.png)]({% post_url 2022-11-11-Ukraine-Maritime-Drones %}) Ukraine's [Maritime Drones (USVs)]({% post_url 2022-11-11-Ukraine-Maritime-Drones %})  
+
 ![Flag](/images/flag_USA.jpg) [![](/images/US-Bayonet-crawler-250.png)]({% post_url 2023-02-26-Bayonet-Underwater-Crawlers %}) [Bayonet Crawlers]({% post_url 2023-02-26-Bayonet-Underwater-Crawlers %}), tracked UUVs  
+
 ![Flag](/images/flag_USA.jpg) [![](/images/US_SwarmDiver_250.png)]({% post_url 2018-12-07-SwarmDiver %}) [SwarmDiver]({% post_url 2018-12-07-SwarmDiver %}) micro-USV   
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Ru_NerpaUUV_250.png)]({% post_url 2018-08-25-Nerpa_Armed-UUV %}) [Nerpa]({% post_url 2018-08-25-Nerpa_Armed-UUV %}) anti-diver UUV   
+
 [![](/images/ExplosiveBoat250.png)]({% post_url 2017-02-22-Explosive_boats %}) [Explosive Boats]({% post_url 2017-02-22-Explosive_boats %}) world history   

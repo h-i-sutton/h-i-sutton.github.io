@@ -8,7 +8,9 @@ excerpt: |-
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
-#Montreux Games: Russia's Self-Inflicted Submarine Problem During The Ukraine Tensions![Flag Russia](/images/flag_russia.jpg) If the current tensions with Russia, centered on Ukraine, escalate to localized blows they will likely be a land, air and cyber conflict. Not naval. Largely this is because of geography. But there is another factor, the little known Montreux Convention.   
+# Montreux Games: Russia's Self-Inflicted Submarine Problem During The Ukraine Tensions
+
+![Flag Russia](/images/flag_russia.jpg) If the current tensions with Russia, centered on Ukraine, escalate to localized blows they will likely be a land, air and cyber conflict. Not naval. Largely this is because of geography. But there is another factor, the little known Montreux Convention.   
 
 The Montreux agreement places Russia at a natural advantage. But it also comes at a tactical and strategic cost; a largely self-inflicted one.   
 
@@ -19,24 +21,34 @@ Penned in a picturesque Swiss lakeside town in the aftermath of the First World 
 
 Whether this is a good thing or not is beyond this article. Many of my regulars readers will be well versed in Montreux, and read [other articles I have written](https://news.usni.org/2020/07/08/russian-black-sea-sub-deployments-to-mediterranean-could-violate-treaty). Here are some quick (and unfinised) thoughts on it however.   
 
-##Russia has the home advantageRussia's Black Sea fleet has 6 Pr.636.3 improved-KILO Class submarines and 1 older Pr.877V KILO. Armed with modern torpedoes and Kalibr cruise missiles (anti-sip and land attack), the Improved-KILOs could be a powerful tool. Especially if NATO steams into the Black Sea in support of Ukraine.   
+## Russia has the home advantage
+
+Russia's Black Sea fleet has 6 Pr.636.3 improved-KILO Class submarines and 1 older Pr.877V KILO. Armed with modern torpedoes and Kalibr cruise missiles (anti-sip and land attack), the Improved-KILOs could be a powerful tool. Especially if NATO steams into the Black Sea in support of Ukraine.   
 
 Russia has a problem though. One of the most significant details of the Montreaux agreement is that foreign submarines cannot pass the straits. This includes Russian ones. So in essence Russia can have as many submarines in the Black Sea as it wants, but they can never leave.   
 
 Yet only 2 of the 7 are available in the Black Sea. This is because Russia has begun deploying them to fight in Syria and operate in the Mediterranean.   
    
 
-##Current Status of 4th Independent Submarine Brigade, Black Sea FleetIn Black Sea, available:  
+## Current Status of 4th Independent Submarine Brigade, Black Sea Fleet
 
-* Staryy Oskol (B-262), Improved Kilo 636.3.* Velikiy Novgorod (B-268), Improved Kilo 636.3.
+In Black Sea, available:  
+
+* Staryy Oskol (B-262), Improved Kilo 636.3.
+
+* Velikiy Novgorod (B-268), Improved Kilo 636.3.
 
 In Black Sea, but in maintenance:   
 
-* Kolpino (B-271), Improved Kilo 636.3. undergoing maintenance* Alrosa (B-871), Kilo 877V. Older type, but has a pump-jet. Not serviceable, now undergoing maintenance/upgrade. May be transferred to another fleet.
+* Kolpino (B-271), Improved Kilo 636.3. undergoing maintenance
+
+* Alrosa (B-871), Kilo 877V. Older type, but has a pump-jet. Not serviceable, now undergoing maintenance/upgrade. May be transferred to another fleet.
 
 In Syria:   
 
-* Krasnodar (B-265), Improved Kilo 636.3.* Rostov na donu (B-237), Improved Kilo 636.3.
+* Krasnodar (B-265), Improved Kilo 636.3.
+
+* Rostov na donu (B-237), Improved Kilo 636.3.
 
 In transit, not currently available:   
 
@@ -47,7 +59,9 @@ In transit, not currently available:
 To do this they use a loophole (they wouldn’t use that term!). The exception to the Montreux limitation is for delivery or maintenance. So Russia has been sending its Black Sea submarines for regular maintenance in the Baltic shipyards. In reality they spend many months in Syria, sometimes performing missile strikes, during this ‘maintained voyage’.   
 
   
-[![](/images/Book_WorldSubsCover175.jpg)](https://www.amazon.com/dp/1541392302)>>>Get *The* essential guide to  **[World Submarines](https://www.amazon.com/dp/1541392302)**  
+[![](/images/Book_WorldSubsCover175.jpg)](https://www.amazon.com/dp/1541392302)
+
+>>>Get *The* essential guide to  **[World Submarines](https://www.amazon.com/dp/1541392302)**  
 This **Covert Shores Recognition Guide**  Covers over 80 classes of submarines including all types currently in service with World Navies.  
 [![](/images/Book_Walrus400.png)](https://www.amazon.com/dp/1541392302)[Check it out on Amazon](https://www.amazon.com/dp/1541392302)  
 
@@ -61,18 +75,34 @@ NATO navies are similarly restricted. Major NATO submarine operators such as US 
 
 There are several more aspects which could be discussed...
 
-* The importance of Turkey’s interpretation, and lack of challenges to the loophole exploitation to date.* Potential responses if Russia forced the issue and returned submarines to the Black Sea without receiving maintenance.* Turkey's possible plans for a new canal which would not be subject to the convention.* Whether Turkey will try to capitalize, politically within NATO, on the renewed focus on its strategic importance (F-35s anyone?).
+* The importance of Turkey’s interpretation, and lack of challenges to the loophole exploitation to date.
+
+* Potential responses if Russia forced the issue and returned submarines to the Black Sea without receiving maintenance.
+
+* Turkey's possible plans for a new canal which would not be subject to the convention.
+
+* Whether Turkey will try to capitalize, politically within NATO, on the renewed focus on its strategic importance (F-35s anyone?).
 
 And so on. But I’ll leave it here.
 
   
-[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)>>> **THE** book on Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**. A world history of naval Special Forces, their missions and their specialist vehicles. SEALs, SBS, COMSUBIN, Sh-13, Spetsnaz, Kampfschwimmers, Commando Hubert, 4RR and many more.  
+[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)
+
+>>> **THE** book on Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**. A world history of naval Special Forces, their missions and their specialist vehicles. SEALs, SBS, COMSUBIN, Sh-13, Spetsnaz, Kampfschwimmers, Commando Hubert, 4RR and many more.  
 [Check it out on Amazon](http://www.amazon.com/dp/1533114870/) [![](/images/Maiale_arrow.png)](http://www.amazon.com/dp/1533114870/)  
 
-##Wildcard Submarine![Submarine KILO Russia](/images/Russian-Submarine-Novorossiysk-transit.jpg)  
+## Wildcard Submarine
+
+![Submarine KILO Russia](/images/Russian-Submarine-Novorossiysk-transit.jpg)  
+
 One of the Black Sea Fleet Improved-KILOs, Novorossiysk, as recently finished maintenance in the Baltic. It is underway to the Mediterranean and/or Black Sea. Whether it stops for a deployment in Syria, or goes direct to the Black Sea, will be telling.   
 
-___________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+___________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Yantar_250.png)]({% post_url 2017-09-13-Yantar %}) [Yantar]({% post_url 2017-09-13-Yantar %}) spy ship loitering over undersea cables   
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Ru_Beluga_whale250.png)]({% post_url 2019-04-29-Russia_Navy_Beluga_Whale %}) Russian Navy [Beluga whale]({% post_url 2019-04-29-Russia_Navy_Beluga_Whale %})   
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Russia-Oscar-II-250.png)]({% post_url 2019-06-29-OSCAR-II_SSGN %}) Project 949A/AM [OSCAR-II Class]({% post_url 2019-06-29-OSCAR-II_SSGN %}) Cruise Missile Submarine. *w/Cutaway*   

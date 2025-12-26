@@ -6,4 +6,5 @@ excerpt: "![Twitter](/images/twitter.png)<br/> Get your updates easier!... "
 ---
 
 ![Twitter](/images/twitter.png)  
+
 Get your updates easier!... [Twitter](https://bsky.app/profile/covertshores.bsky.social)  

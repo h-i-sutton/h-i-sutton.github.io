@@ -17,6 +17,7 @@ excerpt: "<a href=\"/images/IndoPak_CASD-infographic.jpg\" target=\"blank\"><img
 ---
 
 *Click for high resolution*  
+
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/IndoPak_CASD-infographic_350.jpg)](/images/IndoPak_CASD-infographic.jpg)   
   
   
@@ -31,10 +32,14 @@ Related:
 ![Flag](/images/flag_india.jpg) ![Sub](/images/Arihant250.png) [INS Arihant SSBN]({% post_url 2018-11-12-Vanquisher%20of%20Enemies%20-%20INS%20Arihant %})]({% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %})
 
   
-[![](/images/Book_WorldSubsCover175.jpg)](https://www.amazon.com/dp/1541392302)>>>Get *The* essential guide to  **[World Submarines](https://www.amazon.com/dp/1541392302)**  
+[![](/images/Book_WorldSubsCover175.jpg)](https://www.amazon.com/dp/1541392302)
+
+>>>Get *The* essential guide to  **[World Submarines](https://www.amazon.com/dp/1541392302)**  
 This **Covert Shores Recognition Guide**  Covers over 80 classes of submarines including all types currently in service with World Navies.  
 [![](/images/Book_Walrus400.png)](https://www.amazon.com/dp/1541392302)[Check it out on Amazon](https://www.amazon.com/dp/1541392302)  
 
   
-[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)>>> **THE** book on Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**. A world history of naval Special Forces, their missions and their specialist vehicles. SEALs, SBS, COMSUBIN, Sh-13, Spetsnaz, Kampfschwimmers, Commando Hubert, 4RR and many more.  
+[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)
+
+>>> **THE** book on Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**. A world history of naval Special Forces, their missions and their specialist vehicles. SEALs, SBS, COMSUBIN, Sh-13, Spetsnaz, Kampfschwimmers, Commando Hubert, 4RR and many more.  
 [Check it out on Amazon](http://www.amazon.com/dp/1533114870/) [![](/images/Maiale_arrow.png)](http://www.amazon.com/dp/1533114870/)  

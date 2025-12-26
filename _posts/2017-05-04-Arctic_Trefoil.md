@@ -14,12 +14,15 @@ excerpt: "<font size=\"6\">**Photos of construction of Russian Artic Trefoil Bas
 ---
 
 **Photos of construction of Russian Artic Trefoil Base**   
+
 ![Flag](/images/flag_russia.jpg) Russia recently showcased its ‘new’ Arctic Trefoil military base on Alexandra Land in the Franz Josef Land archipelago in the Arctic. Infrastructure includes accommodation for 150 personnel with up to 18 months supplies. It has a ‘self-powered energy unit’ (e.g. nuclear?) and is independent from the outside world.  
 
 As it was shown to the media:  
+
 ![Russian Arctic Trefoil base - Covert Shores](/images/Arctic_Base3.jpg)   
 
 Analysis suggests that it is built at a pre-existing artic outpost known as Nagurskoye (Нагу́рское) located at 80.810090°, 47.651465°.  
+
 ![Russian Arctic Trefoil base - Covert Shores](/images/Arctic_base_sat.jpg)   
 *Satellite imagery from 2006 before current work began*  
 
@@ -27,16 +30,25 @@ Analysis suggests that it is built at a pre-existing artic outpost known as Nagu
 *The base in 2009. Photo by zzary*  
 
 Researched images of First phase:  
+
 ![Russian Arctic Trefoil base - Covert Shores](/images/Arctic_base4.jpg)   
+
 ![Russian Arctic Trefoil base - Covert Shores](/images/Arctic_Base2.jpg)   
 
   
-[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)>>> **THE** book on Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**. A world history of naval Special Forces, their missions and their specialist vehicles. SEALs, SBS, COMSUBIN, Sh-13, Spetsnaz, Kampfschwimmers, Commando Hubert, 4RR and many more.  
+[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)
+
+>>> **THE** book on Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**. A world history of naval Special Forces, their missions and their specialist vehicles. SEALs, SBS, COMSUBIN, Sh-13, Spetsnaz, Kampfschwimmers, Commando Hubert, 4RR and many more.  
 [Check it out on Amazon](http://www.amazon.com/dp/1533114870/) [![](/images/Maiale_arrow.png)](http://www.amazon.com/dp/1533114870/)  
 
 Images of second phase (possibly some distance from first):  
+
 ![Russian Arctic Trefoil base - Covert Shores](/images/Arctic_Base1.jpg)   
+
 ![Russian Arctic Trefoil base - Covert Shores](/images/Arctic_Base5.jpg)   
+
 ![Russian Arctic Trefoil base - Covert Shores](/images/Arctic_Base7.jpg)   
+
 ![Russian Arctic Trefoil base - Covert Shores](/images/Arctic_Base6.jpg)   
+
 ![Russian Arctic Trefoil base - Covert Shores](/images/Arctic_base8.jpg)   

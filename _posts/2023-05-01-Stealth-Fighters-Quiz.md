@@ -13,12 +13,82 @@ Do all 'stealth fighters' look the same? Well here is the quiz to prove your kno
 
 This quiz needs Javacsript.
 
-↓ click here to start ↓![](images/Stealth-Fighter-Quiz-Header.jpg)  
+
+
+↓ click here to start ↓
+
+![](images/Stealth-Fighter-Quiz-Header.jpg)  
+
 ↑ click here to start ↑
 
-|  |  |  |
-| --- | --- | --- |
-| Which Stealth Fighter is this? ||  |
+
+
 |  |
+| --- |
+| Which Stealth Fighter is this? |
+
+|  |
+| --- |
+|  |
+
+|  |
+| --- |
+|  |
+
+
+
+
+
+document.getElementById("quiz_start").onclick = function() {
+
+document.getElementById("quiz_splash").style.display = "none";
+
+document.getElementById("quiz_table").style.display = "block";
+
+image_list_quiz([
+
+"images/Stealth-Fighter-Quiz-1.jpg",
+
+"images/Stealth-Fighter-Quiz-2.jpg",
+
+"images/Stealth-Fighter-Quiz-3.jpg",
+
+"images/Stealth-Fighter-Quiz-4.jpg",
+
+"images/Stealth-Fighter-Quiz-5.jpg",
+
+"images/Stealth-Fighter-Quiz-6.jpg",
+
+"images/Stealth-Fighter-Quiz-7.jpg",
+
+"images/Stealth-Fighter-Quiz-8.jpg",
+
+"images/Stealth-Fighter-Quiz-9.jpg",
+
+"images/Stealth-Fighter-Quiz-10.jpg"],[
+
+"TF-X / KAAN, Turkey",
+
+"F-22 Raptor, United States",
+
+"J-20, China",
+
+"F-35 Lightning-II, United States",
+
+"J-35, China",
+
+"Su-57 FELON, Russia",
+
+"YF-23, United States",
+
+"F-117A Nighthawk, United States",
+
+"KF-21 Boramae, South Korea",
+
+"X-2 Shinshin, Japan"]);
+
+}
+
+
 
 (You may also like the [Naval Special Forces insignia quiz](unit-insignia-quiz-1.html), but be warned: its hard!)

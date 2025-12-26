@@ -17,6 +17,7 @@ excerpt: "<font size=\"6\">**Appeal**</font><br clear=\"right\"/>The sense of lo
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Appeal**    
+
 ![Project 673 Soviet sailless super-sub](/images/SanJuan.jpg)  
 
 The sense of loss when a submarine is lost during peace time transcends national boundaries and politics. Submariners have a sense of community so it is no surprise that, absent any suitable charity appeals already being established by others, a former submariner has taken it upon himself to organize one. Details yet to be published.  

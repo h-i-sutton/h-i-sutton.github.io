@@ -7,9 +7,12 @@ excerpt: |-
 ---
 
 [![](/images/Russia-LIMA-Class-Submarine-Cutaway-940.jpg)](/images/Russia-LIMA-Class-Submarine-Cutaway.jpg)  
+
 *Original Artwork. CLICK to Enlarge.*  
 
-#The Soviet's Elaborate Saturation Diver Submarine In The Black Sea![Flag Russia](/images/flag_russia.jpg) The Soviet Navy Project 1840 **LIMA Class** submarine, was a unique special purpose boat operational in the Black Sea from 1979 until 1994. Her retro lines, reminiscent of a 1950s submarine, belied an unusual internal arrangement. There is a lot which is unclear about her mission and operations.  
+# The Soviet's Elaborate Saturation Diver Submarine In The Black Sea
+
+![Flag Russia](/images/flag_russia.jpg) The Soviet Navy Project 1840 **LIMA Class** submarine, was a unique special purpose boat operational in the Black Sea from 1979 until 1994. Her retro lines, reminiscent of a 1950s submarine, belied an unusual internal arrangement. There is a lot which is unclear about her mission and operations.  
 
 The submarine was designed by the 40th State Research Institute together with the Malakhit design bureau in Lenningrad (now St. Petersburg). She was laid down on October 26, 1977 in Leningrad, but transferred, via the network of inland waterways, to the Black Sea on completion. The submarine was of conventional appearance, with a length of 86m, beam of 9.5m, and displaced 2,000 tonnes surfaced and 2,450 tonnes submerged. Performance was modest, only 17 knots surfaced and 14 knots submerged, and endurance only 10-12 days. Moreover, she was unarmed.   
 
@@ -28,8 +31,14 @@ The divers used a range of equipment including the SVG-200 deep sea diving suit.
 
 The boat was another victim of the 'peace dividend' and Russian economic woes after the collapse of the Soviet Union. She was decommissioned in 1994 and subsequently scrapped.   
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/pr09852_250.png)](http://www.hisutton.com{% post_url 2021-06-29-Belgorod-Class-Submarine %}) Project 09852 [Belgorod](http://www.hisutton.com{% post_url 2021-06-29-Belgorod-Class-Submarine %}) Special Mission submarine (spy sub). *w/Cutaway*   
+
 ![Flag](/images/flag_USA.jpg) [![](/images/NR1_250.png)]({% post_url 2017-03-11-NR-1 %}) [NR-1]({% post_url 2017-03-11-NR-1 %})   
+
 ![Flag](/images/flag_USA.jpg) [![](/images/Parche250.png)]({% post_url 2016-11-29-USS_Parche %}) [USS Parche]({% post_url 2016-11-29-USS_Parche %}) spy sub par-excellence. *w/Cutaway*  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/BS-64_250.png)]({% post_url 2021-11-19-Russian-Spy-Submarine-BS-64 %}) [BS-64 Podmoskovye]({% post_url 2021-11-19-Russian-Spy-Submarine-BS-64 %}) Special Mission (spy) Host Submarine *w/Cutaway*  

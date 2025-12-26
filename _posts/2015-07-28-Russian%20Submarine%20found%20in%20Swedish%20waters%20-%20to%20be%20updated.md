@@ -7,4 +7,5 @@ excerpt: |-
 ---
 
 ![](/images/flag_russia.jpg) ![](/images/flag_sweden.jpg) Update: It is 100% the Catfish (SOM) submarine from 1916. The wreck discovery is great and interesting, but the lack of professionalism surrounding the episode has created a farce. There can be no serious doubt that the finding organization did not know full well the identity of the boat before running to the press with sensationalist and misleading news articles. Or maybe they are just incompetent wreck hunters, if such a thing can exist. Note that the Russia alphabet letter shown was a) old fashioned, no longer commonly used and b) part of the boat's name. End of.   
+
 ![Russian piranha special forces submarine](/images/NewSub.jpg)  

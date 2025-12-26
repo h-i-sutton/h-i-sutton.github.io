@@ -11,4 +11,5 @@ excerpt: |-
  **Free for Special Boat Unit / Naval Special Warfare veterans**   
 
 *Original artwork - CLICK for HIGH-RESOLUTION (2000px) image.*   
+
 [![](/images/Seafox900_SBU20.jpg)](/images/Seafox2000_SBU20.jpg)   

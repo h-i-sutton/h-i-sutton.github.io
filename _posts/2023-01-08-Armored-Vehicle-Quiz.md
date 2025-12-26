@@ -12,12 +12,82 @@ Think you know your Tanks from your recce vehicles This quiz tests your knowledg
 
 This quiz needs Javacsript.
 
-↓ click here to start ↓![](images/Armored-Vehicle-Quiz-start.jpg)  
+
+
+↓ click here to start ↓
+
+![](images/Armored-Vehicle-Quiz-start.jpg)  
+
 ↑ click here to start ↑
 
-|  |  |  |
-| --- | --- | --- |
-| Which submarine is this? ||  |
+
+
 |  |
+| --- |
+| Which submarine is this? |
+
+|  |
+| --- |
+|  |
+
+|  |
+| --- |
+|  |
+
+
+
+
+
+document.getElementById("quiz_start").onclick = function() {
+
+document.getElementById("quiz_splash").style.display = "none";
+
+document.getElementById("quiz_table").style.display = "block";
+
+image_list_quiz([
+
+"images/Armored-Vehicle-Quiz-1.jpg",
+
+"images/Armored-Vehicle-Quiz-2.jpg",
+
+"images/Armored-Vehicle-Quiz-3.jpg",
+
+"images/Armored-Vehicle-Quiz-4.jpg",
+
+"images/Armored-Vehicle-Quiz-5.jpg",
+
+"images/Armored-Vehicle-Quiz-6.jpg",
+
+"images/Armored-Vehicle-Quiz-7.jpg",
+
+"images/Armored-Vehicle-Quiz-8.jpg",
+
+"images/Armored-Vehicle-Quiz-9.jpg",
+
+"images/Armored-Vehicle-Quiz-10.jpg"],[
+
+"Wheeled tank destroyer",
+
+"Towed artillery",
+
+"Multiple Launch Rocket System (MLRS)",
+
+"Self-propelled gun (SPG)",
+
+"'Technical'",
+
+"Armored Personnel Carrier (APC)",
+
+"Infantry Fighting Vehicle (IFV)",
+
+"Self-propelled anti-aircraft gun (SPAAG)",
+
+"Air-defense missile system",
+
+"Main battle tank (MBT)"]);
+
+}
+
+
 
 (You may also like the [Naval Special Forces insignia quiz](unit-insignia-quiz-1.html), but be warned: its hard!)

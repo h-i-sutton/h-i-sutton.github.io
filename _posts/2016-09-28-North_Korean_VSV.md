@@ -17,7 +17,19 @@ The smaller ones have not been seen on Google Earth since 2013 (?) but the large
 
 To date, VSV types observed are:   
 
-* 24m VSV first observed in Pyongyang spring 2012* 29m VSV first observed in Pyongyang fall 2013* 10m VSV first observed in Pyongyang fall 2013* 32m VSV first observed in Nampo start 2014* 32m VSV first observed in Chonjin spring 2015* 32m VSV first observed in Changion fall 2015* 21m VSV first observed in Wonsan spring 2016
+* 24m VSV first observed in Pyongyang spring 2012
+
+* 29m VSV first observed in Pyongyang fall 2013
+
+* 10m VSV first observed in Pyongyang fall 2013
+
+* 32m VSV first observed in Nampo start 2014
+
+* 32m VSV first observed in Chonjin spring 2015
+
+* 32m VSV first observed in Changion fall 2015
+
+* 21m VSV first observed in Wonsan spring 2016
 
 ![VSV](/images/DPRK_VSV_940.jpg)  
 
@@ -28,23 +40,32 @@ Despite so few images we can piece together the weapons fit for the largest VSV.
 The smaller types are quite possibly **Special Forces** and/or swarm/nuisance attack types.   
 
 **Specifications** (Largest VSV)  
+
 Length: 32-34m   
+
 Beam: ~5m   
+
 Speed: 50kt (reported)  
+
 Armament: 2 x torpedo tubes, 3 x 24 MLRS, 1 x 2 MANPADS   
 
 ![VSV](/images/DPRK_VSV_1.jpg)  
 *This smaller VSV is possible the 10m design. Note the larger VSV behind.*  
 
   
-[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)>>> **THE** book on Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**. A world history of naval Special Forces, their missions and their specialist vehicles. SEALs, SBS, COMSUBIN, Sh-13, Spetsnaz, Kampfschwimmers, Commando Hubert, 4RR and many more.  
+[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)
+
+>>> **THE** book on Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**. A world history of naval Special Forces, their missions and their specialist vehicles. SEALs, SBS, COMSUBIN, Sh-13, Spetsnaz, Kampfschwimmers, Commando Hubert, 4RR and many more.  
 [Check it out on Amazon](http://www.amazon.com/dp/1533114870/) [![](/images/Maiale_arrow.png)](http://www.amazon.com/dp/1533114870/)  
 
  **IMINT**    
+
 ![VSV](/images/DPRK_VSV_sat.jpg)  
+
 ![VSV](/images/DPRK_VSV_sat11.jpg)  
 
 **1. Pyongyang**  
+
 ![VSV](/images/DPRK_VSV_sat1.jpg)  
 
 ![VSV](/images/DPRK_VSV_sat2.jpg)  
@@ -56,46 +77,68 @@ Armament: 2 x torpedo tubes, 3 x 24 MLRS, 1 x 2 MANPADS
 ![VSV](/images/DPRK_VSV_sat5.jpg)  
 
 **2. Nampo**  
+
 ![VSV](/images/DPRK_VSV_sat6.jpg)  
 
 ![VSV](/images/DPRK_VSV_sat7.jpg)  
 
-.....![VSV](/images/DPRK_VSV_sat9.jpg)  
+.....
+
+![VSV](/images/DPRK_VSV_sat9.jpg)  
 
 ![VSV](/images/DPRK_VSV_sat8.jpg)  
 
 **3. Chonjin**  
+
 ![VSV](/images/DPRK_VSV_sat12.jpg)  
 
 **4. Changion**  
+
 ![VSV](/images/DPRK_VSV_sat13.jpg)  
 
 **5. Wonsan**  
+
 ![VSV](/images/DPRK_VSV_sat10.jpg)  
 
  **WARNING - not DPRK VSV   
+
 South Korean news agencies showed stock footage of the British *MarySlim* VSV from Multimarine during news segments on the North Korean craft. This is not a North Korean VSV.   
+
 ![VSV](/images/DPRK_VSV_vid.jpg)  
+
 ![VSV](/images/DPRK_VSV_vid1.jpg)  
+
 ![VSV](/images/DPRK_VSV_vid2.jpg)  
 
-______________________________________________________________ **Related Articles**    
+______________________________________________________________
+
+ **Related Articles**    
+
 ![Flag](/images/flag_italy.jpg) [![](/images/Nessie_250.png)]({% post_url 2016-10-14-Nessie %}) Cos.Mo.S [Nessie Fast SDV]({% post_url 2016-10-14-Nessie %}) submersible boat   
   
+
 ![Flag](/images/flag_RoK.jpg) [![](/images/Vogo_250.png)]({% post_url 2016-03-10-Vogo%20Chariot%20SDVs %}) [Vogo 'Chariot' SDVs (SDV-300, SDV-340...)]({% post_url 2016-03-10-Vogo%20Chariot%20SDVs %})  
   
+
 ![Flag](/images/flag_nork.jpg) ![Flag](/images/flag_iran.jpg) [![](/images/Taedong_C_250.png)]({% post_url 2015-10-08-Demystified%20-%20Taedong-B%20submersible%20infiltration%20craft %}) [Taedong-B 'Kajami' ('Zulfikar') submersible boat]({% post_url 2015-10-08-Demystified%20-%20Taedong-B%20submersible%20infiltration%20craft %})   
   
+
 ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_isreal.jpg) [![](/images/Sealion_250.png)]({% post_url 2017-02-13-SEALION%20and%20Alligator%20stealth%20boats %}) [*CCH* (Combat Craft Heavy) SEALION and Alligator]({% post_url 2017-02-13-SEALION%20and%20Alligator%20stealth%20boats %})  Semi-Submersible Boats   
   
+
 ![Flag](/images/Flag_Singapore.jpg) [![](/images/MSC_250.png)]({% post_url 2016-02-12-Special%20Operations%20Stealth%20Semi-Submarines%20demystified %}) [Specialized Marine Craft (MSC)]({% post_url 2016-02-12-Special%20Operations%20Stealth%20Semi-Submarines%20demystified %}) Sepcial Forces intercptor   
   
+
 ![Flag](/images/flag_USA.jpg)![Flag](/images/flag_UK.jpg)![Flag](/images/flag_isreal.jpg)![Flag](/images/flag_Turkey.jpg) [![](/images/Snunit_250.png)]({% post_url 2016-06-08-World%20survey%20of%20Special%20Operations%20Craft %}) [World survey of Special Operations Craft]({% post_url 2016-06-08-World%20survey%20of%20Special%20Operations%20Craft %})   
   
+
 ![Flag](/images/flag_UEA.jpg) [![](/images/WP-18_250.png)]({% post_url 2019-03-26-WP-18%20Tactical%20Strike%20Craft %}) [WP-18 Tactical Strike Craft]({% post_url 2019-03-26-WP-18%20Tactical%20Strike%20Craft %})  
   
-![Flag](/images/flag_nork.jpg) [![](/images/Sinpo_250.png) [North Korean SSBN program - Sinpo Class]({% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %})   
-  
+
+![Flag](/images/flag_nork.jpg) [![](/images/Sinpo_250.png) [North Korean SSBN program - Sinpo Class]({% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %})]({% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %})
+
 ![Flag](/images/flag_nork.jpg) [![](/images/YONO_250.png)]({% post_url 2016-03-15-Infographic%20-North%20Korean%20MS-29%20YONO%20midget%20sub %}) infographic of [North Korean MS-29 YONO Class midget sub]({% post_url 2016-03-15-Infographic%20-North%20Korean%20MS-29%20YONO%20midget%20sub %})   
   
-![Flag](/images/flag_RoK.jpg) ![Sub](/images/HDW500_250.png) [HDS-500 Midget Submarine]({% post_url 2015-09-27-News%20-%20Korea%20building%20new%20HDS-400%20midget%20submarine %})]({% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %})
+
+![Flag](/images/flag_RoK.jpg) ![Sub](/images/HDW500_250.png) [HDS-500 Midget Submarine]({% post_url 2015-09-27-News%20-%20Korea%20building%20new%20HDS-400%20midget%20submarine %})   
+  

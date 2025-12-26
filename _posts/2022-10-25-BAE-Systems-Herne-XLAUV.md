@@ -9,9 +9,12 @@ excerpt: |-
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 [![](/images/United-Kingdom-Herne-XLAUV-Cutaway-940.jpg)](/images/United-Kingdom-Herne-XLAUV-Cutaway.jpg)  
+
 *CLICK to Enlarge.*  
 
-#Britain's New Large Submarine Drone: Herne XLAUV Design![Flag UK](/images/flag_UK.jpg) Britain's largest defense company, BAE Systems, has entered the underwater drone space in a big way. The **Herne** design was revealed ahead of the [Euronaval 2022 defense expo](https://www.navalnews.com/event-news/euronaval-2022/2022/10/euronaval-2022-bae-systems-launches-herne-xlauv-concept-demonstrator/) in France.   
+# Britain's New Large Submarine Drone: Herne XLAUV Design
+
+![Flag UK](/images/flag_UK.jpg) Britain's largest defense company, BAE Systems, has entered the underwater drone space in a big way. The **Herne** design was revealed ahead of the [Euronaval 2022 defense expo](https://www.navalnews.com/event-news/euronaval-2022/2022/10/euronaval-2022-bae-systems-launches-herne-xlauv-concept-demonstrator/) in France.   
 
 Herne is branded as an XLAUV (extra-large autonomous underwater vehicle). This is synonymous with the wider XLUUV terminology.   
 
@@ -31,8 +34,14 @@ Herne is a modular system and can incorporate additional hull sections. Potentia
 
 BAE Systems suggests that the vehicle can be launched from the pier, or from surface ships. They also suggest submarine launch although any existing British submarines would need extensive modifications.   
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_USA.jpg) [![](/images/USN_XLUUV_25.png)]({% post_url 2019-10-20-USN_XLUUV %}) [XLUUV]({% post_url 2019-10-20-USN_XLUUV %}) armed extra-large UUV   
+
 ![Flag](/images/flag_USA.jpg) [![](/images/US-Navy-Snakehead-UUV-250.png)]({% post_url 2022-05-17-Snakehead-LDUUV %}) [Snakeead]({% post_url 2022-05-17-Snakehead-LDUUV %}) large-displacement UUV   
+
 ![Flag](/images/flag_france.jpg) [![](/images/France-NG-XLUUV-250.png)]({% post_url 2021-10-09-Naval-Group-XLUUV %}) Naval Group's [XLUUV Demonstrator]({% post_url 2021-10-09-Naval-Group-XLUUV %})  
+
 ![Flag](/images/flag_UK.jpg) ![Sub](/images/Royal-Navy-Manta-250.png) Royal Navy [Manta XLUUV]({% post_url 2021-05-22-Royal-Navy-Manta-XLUUV %}) extra-large UUV  

@@ -27,14 +27,42 @@ Vice Admiral Duncan Potts, Former Commander of UK Maritime Forces, will chair th
 
 Key highlights for this year’s event include:  
 
-* Submarines and Supporting Platforms* Combat Diving* Underwater Special Forces Operations* Unmanned Vehicles/Vessels* Port Security* Anti-Submarine Warfare* Mine Countermeasures* C4ISR* Autonomous Systems* Submarine Escape and Rescue* Infrastructure Protection* Maritime Patrol Aircraft* Rotary Wing Naval Aviation* Safety and Training
+* Submarines and Supporting Platforms
+
+* Combat Diving
+
+* Underwater Special Forces Operations
+
+* Unmanned Vehicles/Vessels
+
+* Port Security
+
+* Anti-Submarine Warfare
+
+* Mine Countermeasures
+
+* C4ISR
+
+* Autonomous Systems
+
+* Submarine Escape and Rescue
+
+* Infrastructure Protection
+
+* Maritime Patrol Aircraft
+
+* Rotary Wing Naval Aviation
+
+* Safety and Training
 
 Military, Navy and Government personnel receive free entry which includes access to all conference sessions, networking breaks and exhibition area.  
 
 [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
 
   
-[![](/images/Narco-Sub0book-cover.jpg)](https://www.amazon.com/dp/B086G11WMM)>>>The World's **ONLY** Guide to   
+[![](/images/Narco-Sub0book-cover.jpg)](https://www.amazon.com/dp/B086G11WMM)
+
+>>>The World's **ONLY** Guide to   
 **Narco Submarines**  
 10 years of research, analyzing over 160 incidents, condensed into a handy guide. This unique book systematically breaks down the types and families. With detailed taxonomy, recognition 3-views, profiles and photos. [Available on Amazon](https://www.amazon.com/dp/B086G11WMM)   
 [![](/images/Narco-Sub-book-profile.jpg)](https://www.amazon.com/dp/B086G11WMM)  

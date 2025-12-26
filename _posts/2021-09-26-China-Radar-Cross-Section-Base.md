@@ -7,18 +7,25 @@ excerpt: |-
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
+
 [![](/images/China-Radar-Cross-Section-Test-Site-940.jpg)](/images/China-Radar-Cross-Section-Test-Site.jpg)  
+
 *CLICK to enlarge*.  
 
-#OSINT: China's Radar Cross-Section Test Facility For Stealth Aircraft![Flag China](/images/flag_China.jpg) China is developing a large number of low-observable ('stealth') aircraft and uncrewed air vehicles. These include flying wing designs such as the GJ-11 and CH-7 designs. However in order to validate their stealth qualities, a large radar test facility has had to be built. The site is about 70km (44 miles) south west of Beijing, in the vicinity of 39°22'9.66"N, 115°56'23.90"E.   
+# OSINT: China's Radar Cross-Section Test Facility For Stealth Aircraft
+
+![Flag China](/images/flag_China.jpg) China is developing a large number of low-observable ('stealth') aircraft and uncrewed air vehicles. These include flying wing designs such as the GJ-11 and CH-7 designs. However in order to validate their stealth qualities, a large radar test facility has had to be built. The site is about 70km (44 miles) south west of Beijing, in the vicinity of 39°22'9.66"N, 115°56'23.90"E.   
 
 I do not normally do OSINT (open source intelligence) pieces on aviation topics but this one is interesting. So let's go a bit off-topic...   
 
 [![](/images/China-Radar-Cross-Section-Test-New-Aircraft-940.jpg)](/images/China-Radar-Cross-Section-Test-New-Aircraft.jpg)  
+
 *CLICK to enlarge*.  
 
   
-[![](/images/Book_WorldSubsCover175.jpg)](https://www.amazon.com/dp/1541392302)>>>Get *The* essential guide to  **[World Submarines](https://www.amazon.com/dp/1541392302)**  
+[![](/images/Book_WorldSubsCover175.jpg)](https://www.amazon.com/dp/1541392302)
+
+>>>Get *The* essential guide to  **[World Submarines](https://www.amazon.com/dp/1541392302)**  
 This **Covert Shores Recognition Guide**  Covers over 80 classes of submarines including all types currently in service with World Navies.  
 [![](/images/Book_Walrus400.png)](https://www.amazon.com/dp/1541392302)[Check it out on Amazon](https://www.amazon.com/dp/1541392302)  
 
@@ -32,13 +39,28 @@ The basic concept is to place an aircraft, or an appropriate model of one, on th
 Since 2013 the site has been successively improved. The apron at the western end has been enlarged and a large hangar was built in 2016. There appear to have been spikes in activity in 2016-17 and again in 2020-21. However imagery available on Google Earth is intermittent.   
 
 [![](/images/China-Radar-Cross-Section-Test-New-UCAV-940s.jpg)](/images/China-Radar-Cross-Section-Test-New-UCAVs.jpg)  
+
 *CLICK to enlarge*.  
 
 ![Radar Test Stealth UAVs, China](/images/China-Radar-Cross-Section-Test-New-UAV-940s.jpg)  
 
   
-[![](/images/Narco-Sub0book-cover.jpg)](https://www.amazon.com/dp/B086G11WMM)>>>The World's **ONLY** Guide to   
+[![](/images/Narco-Sub0book-cover.jpg)](https://www.amazon.com/dp/B086G11WMM)
+
+>>>The World's **ONLY** Guide to   
 **Narco Submarines**  
 10 years of research, analyzing over 160 incidents, condensed into a handy guide. This unique book systematically breaks down the types and families. With detailed taxonomy, recognition 3-views, profiles and photos. [Available on Amazon](https://www.amazon.com/dp/B086G11WMM)   
 [![](/images/Narco-Sub-book-profile.jpg)](https://www.amazon.com/dp/B086G11WMM)  
   
+
+________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
+![Flag](/images/flag_USA.jpg) [![](/images/US-Lockheed-Active-Sonar-Stealth-Sub-250.png)]({% post_url 2021-09-12-Lockheed-Stealth-Submarine-Design %}) F-117 of the Seas: Lockheed's [Stealth Submarine]({% post_url 2021-09-12-Lockheed-Stealth-Submarine-Design %}) design  
+
+![Flag](/images/flag_China.jpg) [![](/images/China-Type-039C-250.png)]({% post_url 2021-07-08-Chinese-Type-039C-Yuan-Class-Submarine %}) Chinese Navy's Advanced Submarine [Type-039C Yuan Class]({% post_url 2021-07-08-Chinese-Type-039C-Yuan-Class-Submarine %}). *w/Cutaway*   
+
+![Flag](/images/flag_China.jpg) [![](/images/CN_Sailless250.png)]({% post_url 2019-10-08-China_Sailless_Submarine %}) Chinese [Sailless Submarine]({% post_url 2019-10-08-China_Sailless_Submarine %})  
+
+![Flag](/images/flag_russia.jpg) [![](/images/Lun-Ekranoplan-250.png)]({% post_url 2020-08-16-Russian-Navy-Ekranoplan-WIG %}) [Lun Class Ekranoplan]({% post_url 2020-08-16-Russian-Navy-Ekranoplan-WIG %}) (Wings in Ground Effect) *w/Cutaway*  

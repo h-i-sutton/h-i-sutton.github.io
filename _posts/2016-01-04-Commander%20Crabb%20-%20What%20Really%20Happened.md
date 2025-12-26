@@ -16,27 +16,39 @@ excerpt: "![stars](/images/stars-five.png) The mysterious disappearance of Comma
 ---
 
 ![stars](/images/stars-five.png)  **Commander Crabb**   
+
  **What Really Happened**   
+
 By John Bevan   
 
 ![Commander Crabb What Really Happened by John Bevan](/images/CommanderCrabbBook.jpg)  
+
   
 [BUY from Historical Divining Society website](http://www.thehds.com/product/commander-crabb-really-happened-john-bevan/)   
    
+
 Hardcover: 102 pages - GBP 9.99  
+
 Publisher: Submex Ltd; 1 edition (November 1, 2014)  
+
 ISBN-10: 0950824275  
+
 ISBN-13: 978-0950824277  
+
 Product Dimensions: 6.2 x 0.6 x 8.5 inches  
 
 The mysterious disappearance of Commander Lionel Crabb while conducting a covert underwater examination of a Soviet cruiser has gripped the public’s imagination for years. And the diving community too. An eccentric character, the uncertain circumstances, a botched MI6 cover-up and political embarrassment on an international scale came together in the perfect Cold War mystery. Previous books and media have almost exclusively focused on the most sensationalist and farfetched versions of the tale, including Conspiracy Theories. So this book, researched and authored by the Chairman of the Historical Diving Society, is a breath of fresh air.   
 
 Crabb disappeared on 19 April 1956 in close proximity to the Soviet cruiser *Ordzhonikidze* which was visiting Portsmouth Harbour, England during a state visit of the Soviet First Secretary Nikita Khrushchev and Premier Nikolai Bulganin. Within days the story broke in the press and the British Secret Intelligence Service (MI6) was implicated. The Government was embarrassed by a poorly handled cover-up. Months later his body turned up a few miles down the coast.   
+
 ![Commander Crabb What Really Happened by John Bevan](/images/Crabb.jpg)  
 
 Every few years there have been new ‘revelations’ (to be generous) about Crabb’s disappearance.   
+
 “I killed Commander Crabb” says Russian Diver! – sorry but we don’t believe you.   
+
 “Crabb was a Soviet Spy, MI5 murdered him” says…. – please don’t.   
+
 “Wartime hero captured under Soviet warship – teaches Soviets to dive” – ok?   
 
 This book does not follow that pattern. Bevan lays out the facts as he has been able to piece them together, carefully picking the good info out from the rubbish. Laid out chronologically, Bevan finishes each section with a convincing ‘balance of probabilities’ assessment of the most likely scenario.   

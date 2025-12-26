@@ -7,7 +7,10 @@ excerpt: |-
 ---
 
 **UPDATED**  
-#Ukrainian Magura USV armed With R-73/AA-11 ARCHER FrankenSAM![Flag Ukraine](/images/flag_ukraine.jpg) Footage has emerged, taken from the Russian side, of a Ukrainian uncrewed surface vessel (USV) armed with an improvised air-defense system. This is the first time anything like this has been observed. (UPDATE: The vessel was subsequently confirmed to be a Magura design used by GUR).  
+
+# Ukrainian Magura USV armed With R-73/AA-11 ARCHER FrankenSAM
+
+![Flag Ukraine](/images/flag_ukraine.jpg) Footage has emerged, taken from the Russian side, of a Ukrainian uncrewed surface vessel (USV) armed with an improvised air-defense system. This is the first time anything like this has been observed. (UPDATE: The vessel was subsequently confirmed to be a Magura design used by GUR).  
 
 The system uses repurposed air-air missiles in an arrangement often termed a 'FrankenSAM'. The USV was engaged by Russian helicopters.  
 
@@ -23,9 +26,15 @@ Although the USV was successfully engaged by the helicopters, the underlying con
 *The USV was eventually destroyed with gunfire from a Russian Ka-29TB HELIX-B helicopter.*  
 
 ![Ukrainian USV armed With R-73 / AA-11 ARCHER FrankenSAM](/images/Ukraine-USV-Archer-wreck.jpg)  
+
 ![Ukrainian USV armed With R-73 / AA-11 ARCHER FrankenSAM](/images/Ukraine-USV-Archer-wreck1.jpg)  
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag Ukraine](/images/flag_ukraine.jpg) ![Flag Hamas](/images/Flag_Hamas.jpg) ![Flag Iran](/images/flag_iran.jpg) ![Flag](/images/flag_nork.jpg) ![Flag Russia](/images/flag_russia.jpg) [![](/images/World-OWA-AUVs-250.png)]({% post_url 2024-01-03-Guide-To-Underwater-Attack-Drones %}) World survey of [Underwater Attack Drones (OWA-AUVs)]({% post_url 2024-01-03-Guide-To-Underwater-Attack-Drones %})  
+
 ![Flag](/images/flag_ukraine.jpg) [![](/images/Ukraine-OWA-UAVs-250.png)]({% post_url 2025-07-06-Ukraine-OWA-UAVs %}) Ukraine's [long-ranged attack drones (OWA-UAVs)]({% post_url 2025-07-06-Ukraine-OWA-UAVs %})  
+
 ![Flag](/images/flag_ukraine.jpg) [![](/images/Ukraine-USV-250.png)]({% post_url 2022-11-11-Ukraine-Maritime-Drones %}) Ukraine's [Maritime Drones (USVs)]({% post_url 2022-11-11-Ukraine-Maritime-Drones %})  

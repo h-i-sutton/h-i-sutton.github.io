@@ -7,9 +7,12 @@ excerpt: |-
 ---
 
 [![](/images/North-Korea-Nuclear-Submarine-Size-940.jpg)](/images/North-Korea-Nuclear-Submarine-Size.jpg)  
+
 *Original Artwork. CLICK to Enlarge.*  
 
-#North Korea Reveals Nuclear Submarine, And It Is Ginormous![Flag DPRK](/images/flag_nork.jpg) North Korea revealed its first nuclear submarine, with reports of Kim Jung Un's visit to the shipyard appearing in North Korean state media and [reported in Western media](https://apnews.com/article/north-korea-nuclear-submarine-missiles-kim-us-183cde96a36844fdce559081551fc0a7). State media stated that Kim "learned about the building of a nuclear-powered strategic guided missile submarine, which is being pushed forward according to the decisions of the Eighth Congress of the WPK (Workers’ Party of Korea)." While only two images have emerged so far, and they only show a portion of the lower hull, it is clear that the submarine is much larger than earlier North Korean types.   
+# North Korea Reveals Nuclear Submarine, And It Is Ginormous
+
+![Flag DPRK](/images/flag_nork.jpg) North Korea revealed its first nuclear submarine, with reports of Kim Jung Un's visit to the shipyard appearing in North Korean state media and [reported in Western media](https://apnews.com/article/north-korea-nuclear-submarine-missiles-kim-us-183cde96a36844fdce559081551fc0a7). State media stated that Kim "learned about the building of a nuclear-powered strategic guided missile submarine, which is being pushed forward according to the decisions of the Eighth Congress of the WPK (Workers’ Party of Korea)." While only two images have emerged so far, and they only show a portion of the lower hull, it is clear that the submarine is much larger than earlier North Korean types.   
 
 Preliminary estimates, based on the known height of the North Korean leader (5' 7" / 1.71m), suggest that the hull is around 12.5 meters (41 ft) in diameter. Caution is needed with such estimates at this stage, but is is clearly a 'full sized' nuclear submarine. The size makes it similar to nuclear submarines in service with the United States, Britain and Russia.  
 
@@ -29,9 +32,16 @@ It can be speculated that Russia is assisting North Korea with the new submarine
 
 North Korean propaganda needs to be taken with a grain of salt, especially such grand projects. But the regime has a proven track record of building sophisticated weapons and is a nuclear power, and has talked about constructing a nuclear submarine before. So construction of a nuclear boat isn't entirely unexpected and should not be dismissed out of hand. However, completion of such a project appears an incredible challenge for the impoverish nation.  
 
-________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_nork.jpg) [![](/images/DPRK-Hero-Kim-Gun-ok-250.png)]({% post_url 2024-02-11-North-Korean-Submarine-Hero-Kim-Gun-Ok %}) North Korean  [Hero Kim Gun-Ok Class]({% post_url 2024-02-11-North-Korean-Submarine-Hero-Kim-Gun-Ok %}) ballistic missile submarine *w/Cutaway*  
+
 ![Flag](/images/flag_nork.jpg) [![](/images/DPRK-Haeil-UUV-250.png)]({% post_url 2023-07-29-North-Korea-Nuclear-Torpedo-Drone %}) North Korea's [Haeil]({% post_url 2023-07-29-North-Korea-Nuclear-Torpedo-Drone %}) and [Haeil-2]({% post_url 2023-04-08-North-Korea-Nuclear-Torpedo-Haeil-2 %}) nuclear armed UUVs   
-![Flag](/images/flag_nork.jpg) [![](/images/Sinpo_250.png) [North Korean Gorae Class SSB]({% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %})   
+
+![Flag](/images/flag_nork.jpg) [![](/images/Sinpo_250.png) [North Korean Gorae Class SSB]({% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %})]({% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %})
+
 ![Flag](/images/flag_nork.jpg) [![](/images/DPRK_VSV_250.png)]({% post_url 2016-09-28-North_Korean_VSV %}) North Korean [Very Slender Vessels (VSVs)]({% post_url 2016-09-28-North_Korean_VSV %})   
-![Flag](/images/flag_nork.jpg) [![](/images/DPRK-Hero-Kim-Gun-ok-250.png)]({% post_url 2024-02-11-North-Korean-Submarine-Hero-Kim-Gun-Ok %}) North Korean  [Hero Kim Gun-Ok Class]({% post_url 2024-02-11-North-Korean-Submarine-Hero-Kim-Gun-Ok %}) ballistic missile submarine *w/Cutaway*]({% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %})
+
+![Flag](/images/flag_nork.jpg) [![](/images/DPRK-Hero-Kim-Gun-ok-250.png)]({% post_url 2024-02-11-North-Korean-Submarine-Hero-Kim-Gun-Ok %}) North Korean  [Hero Kim Gun-Ok Class]({% post_url 2024-02-11-North-Korean-Submarine-Hero-Kim-Gun-Ok %}) ballistic missile submarine *w/Cutaway*  

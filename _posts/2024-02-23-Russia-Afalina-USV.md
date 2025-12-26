@@ -12,7 +12,9 @@ excerpt: "<br clear=\"right\"/><a href=\"/Russia-Afalina-USV.html\"><img align=\
   \ \"READ MORE\")<br clear=\"left\"/>"
 ---
 
-#Russia's New 'Afalina' Maritime Drone Is RC 'Bat Boat' Toy![Flag Russia](/images/flag_russia.jpg) Russian media has revealed the 'Afalina' uncrewed surface vessel (USV) to rival the Ukrainian Sea Baby and Magura types. The Russian version, actually a sub-scale prototype, is shown [(via Samuel Bendett, Twitter)](https://twitter.com/sambendett/status/1760754175938265292) being put through its paces on a calm lake.   
+# Russia's New 'Afalina' Maritime Drone Is RC 'Bat Boat' Toy
+
+![Flag Russia](/images/flag_russia.jpg) Russian media has revealed the 'Afalina' uncrewed surface vessel (USV) to rival the Ukrainian Sea Baby and Magura types. The Russian version, actually a sub-scale prototype, is shown [(via Samuel Bendett, Twitter)](https://twitter.com/sambendett/status/1760754175938265292) being put through its paces on a calm lake.   
 
 ![Russia's New 'Afalina' Maritime Drone](/images/Russia-USV-Afalina-profile.jpg)  
 
@@ -34,8 +36,14 @@ The 'prototype' does appear to be a modified remote control toy boat. Even the c
 
 Is it possible that someone is selling the Russian government a USV amounting to a scale model of a famous powerboat? For now caution is advised when considering this type, but stranger things have happened:   
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag Ukraine](/images/flag_ukraine.jpg) ![Flag Hamas](/images/Flag_Hamas.jpg) ![Flag Iran](/images/flag_iran.jpg) ![Flag](/images/flag_nork.jpg) ![Flag Russia](/images/flag_russia.jpg) [![](/images/World-OWA-AUVs-250.png)]({% post_url 2024-01-03-Guide-To-Underwater-Attack-Drones %}) World survey of [Underwater Attack Drones (OWA-AUVs)]({% post_url 2024-01-03-Guide-To-Underwater-Attack-Drones %})  
+
 ![Flag](/images/flag_ukraine.jpg) [![](/images/Ukraine-USV-250.png)]({% post_url 2022-11-11-Ukraine-Maritime-Drones %}) Ukraine's [Maritime Drones (USVs)]({% post_url 2022-11-11-Ukraine-Maritime-Drones %})  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Ru_Kanyon_250.png)]({% post_url 2019-02-22-Poseidon_Torpedo %}) [Poseidon]({% post_url 2019-02-22-Poseidon_Torpedo %}) Intercontinental Nuclear-Powered Nuclear-Armed Autonomous Torpedo, and [countering it]({% post_url 2018-08-15-Countering_Russian_Poseidon_Torpedo %})  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Ru_Beluga_whale250.png)]({% post_url 2019-04-29-Russia_Navy_Beluga_Whale %}) Russian Navy [Beluga whale]({% post_url 2019-04-29-Russia_Navy_Beluga_Whale %})   

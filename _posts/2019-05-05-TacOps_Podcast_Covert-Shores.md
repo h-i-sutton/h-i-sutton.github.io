@@ -14,7 +14,10 @@ excerpt: "<br clear=\"right\"/><font size=\"6\">**Tac Ops podcast with Covert Sh
 ---
 
 **Tac Ops podcast with Covert Shores**[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
-Submarine veteran and speaker, [Eric Moreno](https://twitter.com/KingNeptune767) has joined up with [Covert Cabal](https://twitter.com/CovertCabal) to produce a new pod cast.Was a pleasure to join Eric and Greg last week. The mammoth 1 hr 45 min session has been uploaded to youtube.   
+
+Submarine veteran and speaker, [Eric Moreno](https://twitter.com/KingNeptune767) has joined up with [Covert Cabal](https://twitter.com/CovertCabal) to produce a new pod cast.
+
+Was a pleasure to join Eric and Greg last week. The mammoth 1 hr 45 min session has been uploaded to youtube.   
 
 We discussed the recent launch of the new Russian ‘super submarine’ [Belgorod]({% post_url 2019-10-18-Spy%20Subs%20-Project%2009852%20Belgorod %}), and the [Poseidon]({% post_url 2019-02-22-Poseidon_Torpedo %}) Inter-continental autonomous torpedo it will carry. And the [Harpsichord (Klavesin) AUV]({% post_url 2019-03-30-Harpsichord_AUV %}) and [Losharik]({% post_url 2021-07-18-Spy%20Sub%20-%20Project%2010831%20Losharik %}) deep-sea station. Will the Poseidon role contradict and compromise the seabed warfare mission and vice-versa?   
 
@@ -27,14 +30,44 @@ Film references start with Hunter Killer (sorry!) but quickly the book [Arctic G
 We also touch on why I draw my illustrations in [MS Paint](https://www.youtube.com/watch?v=PdKkR_lbLN0).   
 
 Click to listen on Youtube:  
+
 [![](/images/Tac_Ops_Pod_CovertShores.jpg)](https://www.youtube.com/watch?v=FAXVJ-h48W0)   
 
 My books:  
+
   
-[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)>>>The ultimate book of Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**  is the ONLY world history of naval Special Forces, their missions and their specialist vehicles. **SEALs**, **SBS**, **COMSUBIN**, **Sh-13**, **Spetsnaz**, **Kampfschwimmers**, **Commando Hubert**, **4RR** and many more.  
+[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)
+
+>>>The ultimate book of Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**  is the ONLY world history of naval Special Forces, their missions and their specialist vehicles. **SEALs**, **SBS**, **COMSUBIN**, **Sh-13**, **Spetsnaz**, **Kampfschwimmers**, **Commando Hubert**, **4RR** and many more.  
 [![](/images/Maiale_arrow.png)](http://www.amazon.com/dp/1533114870/)[Check it out on Amazon](http://www.amazon.com/dp/1533114870/)  
 
   
-[![](/images/Book_WorldSubsCover175.jpg)](https://www.amazon.com/dp/1541392302)>>>Get *The* essential guide to  **[World Submarines](https://www.amazon.com/dp/1541392302)**  
+[![](/images/Book_WorldSubsCover175.jpg)](https://www.amazon.com/dp/1541392302)
+
+>>>Get *The* essential guide to  **[World Submarines](https://www.amazon.com/dp/1541392302)**  
 This **Covert Shores Recognition Guide**  Covers over 80 classes of submarines including all types currently in service with World Navies.  
 [![](/images/Book_Walrus400.png)](https://www.amazon.com/dp/1541392302)[Check it out on Amazon](https://www.amazon.com/dp/1541392302)  
+
+___________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
+![Flag](/images/flag_russia.jpg) [![](/images/pr09852_250.png)]({% post_url 2019-10-18-Spy%20Subs%20-Project%2009852%20Belgorod %}) Project 09852 [Belgorod]({% post_url 2019-10-18-Spy%20Subs%20-Project%2009852%20Belgorod %}) Special Mission submarine (spy sub). *w/Cutaway*   
+
+![Flag](/images/flag_russia.jpg) [![](/images/Ru_Kanyon_250.png)]({% post_url 2019-02-22-Poseidon_Torpedo %}) [Poseidon]({% post_url 2019-02-22-Poseidon_Torpedo %}) Intercontinental Nuclear-Powered Nuclear-Armed Autonomous Torpedo, and [countering it]({% post_url 2018-08-15-Countering_Russian_Poseidon_Torpedo %})  
+
+![Flag](/images/flag_USA.jpg) [![](/images/USN_XLUUV_25.png)]({% post_url 2019-10-20-USN_XLUUV %}) [XLUUV]({% post_url 2019-10-20-USN_XLUUV %}) armed extra-large UUV   
+
+![Flag](/images/flag_russia.jpg) [![](/images/Ru_Beluga_whale250.png)]({% post_url 2019-04-29-Russia_Navy_Beluga_Whale %}) Russian Navy [Beluga whale]({% post_url 2019-04-29-Russia_Navy_Beluga_Whale %})   
+
+![Flag](/images/flag_russia.jpg) [![](/images/Harpsichord_250.png)]({% post_url 2019-03-30-Harpsichord_AUV %}) [Harpsichord (Klavesin) AUV]({% post_url 2019-03-30-Harpsichord_AUV %})  
+
+![Flag](/images/flag_russia.jpg) [![](/images/Piranha250.png)]({% post_url 2017-11-24-Piranha%20Special%20Forces%20submarine %}) [Piranha Class (LOSOS) midget sub]({% post_url 2017-11-24-Piranha%20Special%20Forces%20submarine %}). *w/Cutaway*   
+
+![Flag](/images/flag_russia.jpg) [![](/images/Losharik250.png)]({% post_url 2021-07-18-Spy%20Sub%20-%20Project%2010831%20Losharik %}) [Russian Losharik spy sub]({% post_url 2021-07-18-Spy%20Sub%20-%20Project%2010831%20Losharik %})   
+
+![Flag](/images/flag_italy.jpg) [![](/images/it_Mignatta_250.png)]({% post_url 2018-11-08-Mignatta %}) [Mignatta]({% post_url 2018-11-08-Mignatta %}) first human torpedo  
+
+![Flag](/images/flag_USA.jpg) [![](/images/SDVmk9_250.png)]({% post_url 2016-08-21-SDV%20Mk9 %}) [SDV Mk.9]({% post_url 2016-08-21-SDV%20Mk9 %}) SEAL Delivery Vehicle. *w/Cutaway*   
+
+![Flag](/images/flag_russia.jpg) [![](/images/Piranha250.png)]({% post_url 2017-11-24-Piranha%20Special%20Forces%20submarine %}) [Piranha Class (LOSOS) midget sub]({% post_url 2017-11-24-Piranha%20Special%20Forces%20submarine %}). *w/Cutaway*   

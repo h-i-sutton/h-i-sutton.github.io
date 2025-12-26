@@ -8,7 +8,9 @@ excerpt: |-
 
 ![North Korea's Mini-Poseidon: Haeil-2](/images/North-Korea-Haeil-2-Profile.jpg)  
 
-#North Korea's Mini-Poseidon: Haeil-2![Flag DPRK](/images/flag_nork.jpg) The Pyongyang regime could be forgiven for lamenting that their expensive efforts to capture world attention by testing new wonder weapons has fallen flat. Firing ballistic missiles, even impressive ones, barely gets noticed these days. Yet of course defense analysts take these developments seriously. The latest wonder weapon, the Haeil-2, is basically North Korea's answer to Russia's Poseidon.   
+# North Korea's Mini-Poseidon: Haeil-2
+
+![Flag DPRK](/images/flag_nork.jpg) The Pyongyang regime could be forgiven for lamenting that their expensive efforts to capture world attention by testing new wonder weapons has fallen flat. Firing ballistic missiles, even impressive ones, barely gets noticed these days. Yet of course defense analysts take these developments seriously. The latest wonder weapon, the Haeil-2, is basically North Korea's answer to Russia's Poseidon.   
 
 ![North Korea's Mini-Poseidon: Haeil-2](/images/North-Korea-Nuclear-Torpedo.jpg)  
 
@@ -21,7 +23,12 @@ The weapon was revealed in late March and has now been tested again [from April 
 ![North Korea's Mini-Poseidon: Haeil-2](/images/North-Korea-Nuclear-Torpedo-Early-test.jpg)  
 *Images of earlier tests*  
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Ru_Kanyon_250.png)]({% post_url 2019-02-22-Poseidon_Torpedo %}) [Poseidon]({% post_url 2019-02-22-Poseidon_Torpedo %}) Intercontinental Nuclear-Powered Nuclear-Armed Autonomous Torpedo, and [countering it]({% post_url 2018-08-15-Countering_Russian_Poseidon_Torpedo %})  
-![Flag](/images/flag_nork.jpg) [![](/images/Sinpo_250.png) [North Korean Gorae Class SSB]({% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %})   
-![Flag](/images/flag_nork.jpg) [![](/images/YONO_250.png)]({% post_url 2016-03-15-Infographic%20-North%20Korean%20MS-29%20YONO%20midget%20sub %}) [North Korean MS-29 YONO Class midget sub]({% post_url 2016-03-15-Infographic%20-North%20Korean%20MS-29%20YONO%20midget%20sub %}). *w/Cutaway*]({% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %})
+
+![Flag](/images/flag_nork.jpg) [![](/images/Sinpo_250.png) [North Korean Gorae Class SSB]({% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %})]({% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %})
+
+![Flag](/images/flag_nork.jpg) [![](/images/YONO_250.png)]({% post_url 2016-03-15-Infographic%20-North%20Korean%20MS-29%20YONO%20midget%20sub %}) [North Korean MS-29 YONO Class midget sub]({% post_url 2016-03-15-Infographic%20-North%20Korean%20MS-29%20YONO%20midget%20sub %}). *w/Cutaway*   

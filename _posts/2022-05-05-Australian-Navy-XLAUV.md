@@ -8,7 +8,9 @@ excerpt: |-
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
-#Australian Navy To Build 3 Extra-Large Drone Submarines![Flag Australia](/images/flag_aus.jpg) The Royal Australian Navy (RAN) is going big in the uncrewed underwater vehicle (UUV) game. The Australian Department of Defence is joining with [American company Anduril](https://twitter.com/anduriltech/status/1521952333692764162) to develop an **XLAUV**.
+# Australian Navy To Build 3 Extra-Large Drone Submarines
+
+![Flag Australia](/images/flag_aus.jpg) The Royal Australian Navy (RAN) is going big in the uncrewed underwater vehicle (UUV) game. The Australian Department of Defence is joining with [American company Anduril](https://twitter.com/anduriltech/status/1521952333692764162) to develop an **XLAUV**.
 
 ![Australian Navy To Build 3 XLAUV](/images/Australia-Anduril-XLAUV.jpg)  
 *Anduril graphic of the XLAUV.*  
@@ -27,8 +29,14 @@ Anduril is a leader at the application of 3D printing. The Dive-LD uses 3D print
 ![Australian Navy To Build 3 XLAUV](/images/Anduril-DIVE-LD-3D-Printing.jpg)  
 *Anduril already use 3D printing in construction of the DIVE-LD underwater drone.*  
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_france.jpg) [![](/images/France-NG-XLUUV-250.png)]({% post_url 2021-10-09-Naval-Group-XLUUV %}) Naval Group's [XLUUV Demonstrator]({% post_url 2021-10-09-Naval-Group-XLUUV %})  
+
 ![Flag](/images/flag_UK.jpg) ![Sub](/images/Royal-Navy-Manta-250.png) Royal Navy [Manta XLUUV]({% post_url 2021-05-22-Royal-Navy-Manta-XLUUV %}) extra-large UUV  
+
 ![Flag](/images/flag_USA.jpg) [![](/images/USN_XLUUV_25.png)]({% post_url 2019-10-20-USN_XLUUV %}) [XLUUV]({% post_url 2019-10-20-USN_XLUUV %}) armed extra-large UUV   
+
 ![Flag](/images/flag_China.jpg) [![](/images/Cn_LDUUV-250.png)]({% post_url 2019-10-02-Chinese_LDUUV %}) Chinese [HSU-001 LDUUV]({% post_url 2019-10-02-Chinese_LDUUV %})  

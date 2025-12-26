@@ -6,22 +6,34 @@ excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/></br>
 ---
 
+**Regularly UPDATED**  
+
+# Timeline of Ukraine Invasion: War In The Black Sea
+
+![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This will not be exhaustive, but should provide a useful overview. Hopefully this will be of benefit to those interested in studying the war at a later date.  
+
 If I have missed anything significant please let me know. The usual caveats apply  
   
 
-##Build -up phaseJan-Feb 2022: Russia builds up a force in the Mediterranean. Under Russian doctrine this is to counter the NATO presence there and deter intervention.   
+## Build -up phase
+
+Jan-Feb 2022: Russia builds up a force in the Mediterranean. Under Russian doctrine this is to counter the NATO presence there and deter intervention.   
 
 Jan: Russia transports several Raptor assault boats from Baltic fleet to Black Sea via road. Candid video shared Jan 30.  
 
 Feb 8-9: Six Russian warships enter the Black Sea as part of build up, transiting the Bosporus. Mainly landing ships and an Improved KILO class submarine.  
+
 ![6 Russian warships enter the Black Sea as part of build up](/images/Russia-Ukraine-Ropucha-Bosporus-Feb-2022.jpg)  
+
 *A Russian Navy landing ship RFS Kaliningrad (102) seen passing through the Dardanelles on February 8th. One of 6 vessels which transited to Black Sea. Photograph copyright Yörük Işık, via [Naval News](https://www.navalnews.com/naval-news/2022/02/6-russian-warships-and-submarine-now-entering-black-sea-towards-ukraine/).*  
 
 Feb 15: Russia deploys Tu-22M3 BACKFIRE-C bombers and MiG-31K FOXHOUND fighter jets to Khmeimim in Syria. These are to threaten NATO warships in the Mediterranean. Russia reports that the Kinzhal hypersonic missile carried by the Mig-31K can attack aircraft carriers. The Tu-22M3s are observed with legacy AS-4 KITCHEN missiles.   
 
 Feb: Russian Navy moves trained dolphin pens deployed to Sevastopol harbour entrance.  
 
-##Early Invasion - The 3 Day WarFeb 24: Invasion begins.  
+## Early Invasion - The 3 Day War
+
+Feb 24: Invasion begins.  
 
 Feb 24. Russian Navy captures strategic island of Snake Island. The SLAVA Class cruiser Moskva plays a prominent role. Reputedly, the Ukrainian garrison replies to suggestions to surrender with “Russian Warship, go ?!?% yourself”.   
 
@@ -50,16 +62,21 @@ March: Subsequent reports that the Russian frigate Admiral Essen was hit by a Ne
 Mar 22: Russian Raptor class assault boat hit by Ukrainian anti-tank missile near Mariupol.   
 
 Mar 24: Russian Navy Alligator class landing ship Saratov hit while unloading at Berdyansk on Sea of Azov. Possibly hit by a Ukrainian ballistic missile. The ship explodes, damaging two Ropucha class landing ships which manage to escape. The ship sinks at the quay. Russia stops using the port for reinforcements.   
+
 [![](/images/Russia-Ukraine-Saratov-Explodes-940.jpg)](/images/Russia-Ukraine-Saratov-Explodes.jpg)  
+
 *CLICK to Enlarge. Russian Navy Alligator class landing ship Saratov on fire at Berdyansk*  
 
 Apr 7: Reported in Naval News that [SLAVA class cruiser Moskva is operating predictably](https://www.navalnews.com/naval-news/2022/04/russias-most-powerful-warship-in-the-black-sea-is-operating-in-a-pattern/). Precursor of things to come.  
 
 Apr 13. The SLAVA class cruiser Moskva, the flagship of the Black Sea Fleet and most powerful warship in the area, is hit by two Ukrainian Neptune anti-ship missiles. It sinks the next day.   
 [![](/images/Russia-Navy-Moskva-Damage-940.jpg)](/images/Russia-Navy-Moskva-Damage.jpg)  
+
 *CLICK to Enlarge.*  
 
-##Post Moskva SinkingApr 21: “Sapphire” Ukrainian search and rescue vessel was returned to Ukraine following its capture on Feb 26, as part of the first prisoner of war exchange.  
+## Post Moskva Sinking
+
+Apr 21: “Sapphire” Ukrainian search and rescue vessel was returned to Ukraine following its capture on Feb 26, as part of the first prisoner of war exchange.  
 
 May: Ukrainian engineers begin development of weaponized USVs (uncrewed surface vessels). The first type, the Magura V1, is tested over the summer.  
 
@@ -89,7 +106,9 @@ Jul 7: Ukrainian forces briefly land on Snake Island. Special Forces from 73rd N
 
 Jul 27: Black Sea Grain Initiative (BSGI) agreed, effectively breaking the blockage of Odesa.   
 
-##Ukraine Takes The Fight To CrimeaJul 31: Ukrainian uncrewed air vehicle (UAV) attacks Russian Navy headquarters in Sevastopol. Russia cancels planned Navy Day events in the port.   
+## Ukraine Takes The Fight To Crimea
+
+Jul 31: Ukrainian uncrewed air vehicle (UAV) attacks Russian Navy headquarters in Sevastopol. Russia cancels planned Navy Day events in the port.   
 
 Aug 17: Commander of Russia's Black Sea Fleet (BSF), Admiral Igor Osipov, is removed from his post. His deputy, Viktor Sokolov, takes command.  
 
@@ -106,6 +125,7 @@ Sep 21. Ukrainian 'Magura' explosive Uncrewed surface vessel (USV) washes up on 
 Sep 26: Nord Stream 1 & 2 pipelines sabotaged in Baltic. Attribution subject to debate.  
 
 October 29. Major combined Ukrainian maritime drone (USV) and UAV attack on Sevastopol. Several USVs penetrate the harbour and two warships, the minesweeper Ivan Golubets and frigate Admiral Makarov, are hit by 'Magura' USVs. Neither ship is sunk. However Russia withdraws fleet into bases and starts initiating increased defenses.   
+
 ![Major Ukrainian USV and UAV attack on Sevastopol](/images/Russia-Ukraine-Maritime-Drones-attack.jpg)  
 *Artist's impression of maritime drones attacking Sevastopol. H I Sutton.*  
 
@@ -119,7 +139,9 @@ Oct 26: Reports that Russia is attempting to reactivate legacy naval base at Bal
 
 Nov 18: Ukrainian USV attacks Novorossiysk. No significant damage but attack demonstrates range of vessels.   
 
-##2023Jan 2023: Small Russian naval base at Feodosiya becomes more important with Kalibr armed Buyan-M corvettes using it.   
+## 2023
+
+Jan 2023: Small Russian naval base at Feodosiya becomes more important with Kalibr armed Buyan-M corvettes using it.   
 
 Jan 11: Russian warships and submarines based at Novorossiysk temporarily evacuated in face of perceived Ukrainian threat. Vessels return.   
 
@@ -128,6 +150,7 @@ Jan: Russia sows naval mines in Dnieper River near Kherson, seemingly to defend 
 Early Feb: Space X, and its founder Elon Musk, say that they will stop Ukraine using their StarLink satellite communications system for long range drones. This may have prevented Ukraine using its explosive USVs near Crimea until an alternative can be found. Russian Navy increases activity of Crimea.   
 
 Feb 10: Russia deploys its own explosive USVs, with one targeting the bridge at Zatoka, south of Odesa.   
+
 ![Russian maritime drone attacks bridge at Zatoka](/images/Russia-maritime-drone-attacks-Zatoka.jpg)  
 
 Feb 28: Ukrainian UAV attack on oil facilities at port of Tuapse, north of Sochi. This is notable for its distance from Ukrainian controlled territory and strategic relevance. Russia deploys air defenses there, observed Mar 6.   
@@ -143,6 +166,7 @@ Mid-April: Russian forces remove privately owned boats in the occupied town of H
 Apr 26: Ukraine reveals 'Toloka' family of uncrewed underwater vehicles. Production status unclear.   
 
 May 24: Russian intelligence ship Ivan Khurs attacked by three Ukrainian maritime drones, in vicinity 41.883333°, 30.603611°. One almost makes contact but attack unsuccessful. Ship returns to Sevastopol.   
+
 ![Ukrainian maritime drone attack on Ivan Khurs](/images/Ukraine-attack-Ivan-Khurs.jpg)  
 
 Early Jun: Russia increases dolphin pens in Sevastopol Harbor.  
@@ -151,7 +175,9 @@ Jun 11: Reports from Russian sources claiming that the Black Sea Fleet Vishnya c
 
 Jun 18: Russian Sevastopol-designed 'Sargan' USV, which is similar to Ukraine's 'maritime drones', displayed at St. Petersburg International Economic Forum (SPIEF).  
 
-##Summer 2023 Counter-OffensivesMid-late June: Russian Navy applies deceptive camouflage to warships in Black Sea.  
+## Summer 2023 Counter-Offensives
+
+Mid-late June: Russian Navy applies deceptive camouflage to warships in Black Sea.  
 
 Jul 11: 2 Ropucha class landing ships used in a civilian role ferrying civilian traffic across the Kerch Strait. Continues after Kerch Bridge attack on July 17.  
 
@@ -164,7 +190,9 @@ Jul 18: Black Sea Grain Initiative (BSGI) expires without renewal when Russia wi
 ![Ukrainian SBU Sea Baby USV](/images/Ukraine-SBU-Sea-Baby-USV.jpg)  
 *Ukrainian SBU Sea Baby USV of the type involved in the Kerch Bridge attack.*  
 
-##Post-Black Sea Grain InitiativeLate-July: Repeated Russian missile and OWA-UAV attacks on Odesa and other Ukrainian controlled ports. High number of KITCHEN and STOOGE missiles noteworthy. Russia also suspected of sowing sea mines near shipping lanes to/from Odesa, possibly from fast jets using suitibly fused air-dropped bombs.  
+## Post-Black Sea Grain Initiative
+
+Late-July: Repeated Russian missile and OWA-UAV attacks on Odesa and other Ukrainian controlled ports. High number of KITCHEN and STOOGE missiles noteworthy. Russia also suspected of sowing sea mines near shipping lanes to/from Odesa, possibly from fast jets using suitibly fused air-dropped bombs.  
 
 Jul 25: Reportedly, Russian Navy Project 22160 patrol ship 'Sergey Kotov' is attacked by two Ukrainian USVs. Attack unsuccessful. Subsequently on July 26 the UK MoD update noted that the ship had been deployed to the southern Black Sea, patrolling the shipping lane between the Bosphorus and Odesa.  
 
@@ -207,6 +235,7 @@ Sep 13: Ukrainian strike on Sevastopol, reportedly with Storm Shadow / SCALP-EG 
 
 ![Major Ukrainian cruise missile attack on Sevastopol](/images/Russia-Ukraine-Attack-Sevastopol-Sep2023.jpg)  
 *Vessels in the dry dock in Sevastopol burning, September 13 2023.*  
+
 ![Major Ukrainian cruise missile attack on Sevastopol](/images/Russia-Ukraine-Attack-Sevastopol-Sep2023-Kilo.jpg)  
 *Damage to Improved-KILO Class submarine Rostov-on-Don.*  
 
@@ -271,7 +300,7 @@ Dec 28-30: Russian Navy Pr.205P STENKA Class patrol boat observed sunken at pier
 
 Dec 30: Russian appointed Governor of Sevastopol, Mikhail Razvozhayev, reported that Russian forces repelled a surface drone 3km from Sevastopol. The USV was apparently destroyed by helicopter. Possibly related to video released on Jan 1 2024 showing SBU 'Sea Baby' USVs firing rockets in Sevastopol Bay.  
 
-##2024
+## 2024
 
 Jan 19: Russia launches a P-35 (SS-N-3B SEPAL) supersonic anti-ship missile against Ukraine for the first time. Possibly launched from a legacy hardened site near Sevastopol.  
 
@@ -330,6 +359,7 @@ May 30: Ukrainian HUR used Magura USVs to attack Russian Navy vessels in Chornom
 
 ![Ukrainian Magura V5 USV being hit by an FPV drone](/images/Ukraine-USV-Magura-20240529.jpg)  
 *Ukrainian Magura V5 USV being hit by an FPV drone shared on Russian social media*  
+
 ![Ukrainian attacks sink Russian boats in Crimea](/images/Ukraine-USV-Magura-20240530.jpg)  
 *Magura V5 USVs attack Russian vessels at Chornomors'ke. Engaged by a Russian Mi-24 HIND (left), approaching a KS-701 Tunets boat (center), and impact (right).*  
 
@@ -349,9 +379,13 @@ July 17: Ukrainian SBU attack Russian base at Lake Donuzlav with Mamai USVs. One
 
 July 23: Attack on Kerch strait ferries by Ukrainian UAVs. The rail ferry "Slavyanin" hit in the port Kavkaz.  
 
-July 25: Ukrainian weaponized Yamaha Waverunner FX jet ski found on Turkish beach near Istanbul.  
+July 25: Ukrainian weaponized Yamaha Waverunner FX jet ski found on Turkish beach near Istanbul.
 
-##Kursk PhaseJul - Aug: Russia continues to repeatedly target Ukrainian ports and naval bases, scoring some hits.  
+  
+
+## Kursk Phase
+
+Jul - Aug: Russia continues to repeatedly target Ukrainian ports and naval bases, scoring some hits.  
 
 Aug 3: Ukraine hits already damaged Russian Navy Pr.636.3 Improved KILO Class submarine *Rostov-on-Don* (B-237) with an ATACMS in Sevastopol. In days after, a decoy submarine is added to the location. *Rostov-on-Don* likely still afloat but seriously damaged.  
 
@@ -390,9 +424,12 @@ Oct 16: Russian MoD releases video showing captured Ukrainian HUR Magura USV bei
 Mid Oct: Russia reportedly using Pacific Fleet LSTs to transport North Korean troops, destined for the war in Ukraine, from North Korea to Russian far east.  
 
 Oct 21 or 22: Another gas platform in Black Sea (vicinity 45.34505, 31.86367) observed burning. Rig continues to burn afterwards.  
+
   
 
-##Winter Of DiscomfortNov 6: Ukrainian 'Foxbat' OWA-UAVs attack Russian naval base at Kaspiysk in Black Sea. One impact on the pier observed. 2 x GEPARD Class frigates reportedly lightly damaged in raid . Naval vessels dispersed to open water.  
+## Winter Of Discomfort
+
+Nov 6: Ukrainian 'Foxbat' OWA-UAVs attack Russian naval base at Kaspiysk in Black Sea. One impact on the pier observed. 2 x GEPARD Class frigates reportedly lightly damaged in raid . Naval vessels dispersed to open water.  
 
 ![At least two Ukrainian 'Foxbat' OWA-UAVs attack Russian naval base in Caspian](/images/Ukraine-Russia-Strike-Kaspiysk-20241106.jpg)  
 *2 screenshots of the same attack from different angles, showing a Ukrainian 'Foxbat' OWA-UAV appearing to narrowly miss the TARANTAL Class corvette R-101 Stupinets at Kaspiysk on Nov 6 2024.*  
@@ -426,7 +463,7 @@ Dec 26: Finnish authorities board Cook Island flagged tanker Eagle S (IMO: 93297
 
 Dec 31: Ukrainian HUR Magura uncrewed surface vessels (USVs) down two helicopter with an AA-11 ARCHER 'Sea Dragon' missiles and damage a third. This is the first time in history that a USV has shot down an aircraft in combat.  
 
-##2025
+## 2025
 
 Early Jan: Following the loss of Tartus naval base in Syria, Russia withdraws its KILO Class submarine from the Mediterrean. Some warships still present outside Tartus. Sealift ship *Sparta* waiting outside port to pick up military equipment. By late January the equipment has largely been retrieved and the entire fleet vacates the Mediterrean.   
 
@@ -448,7 +485,9 @@ Mar 8: Ukrainian strikes on coastal targets continue. Ukrainian 'Seawolf' uncrew
 
 Mar 18: Ukraine's HUR released compiled imagery of strikes coastal targets on Crimea with FPV drones launched from uncrewed surface vessels (USVs).   
 
-##The insincere peace talks phaseMar: Attempts by United States to broker a ceasefire, including one in the Black Sea, falter. No change. Russia increases intensity of attacks on Ukraine including Kalibr cruise missile launches, possibly from submarines (which are observed deployed more than warships).  
+## The insincere peace talks phase
+
+Mar: Attempts by United States to broker a ceasefire, including one in the Black Sea, falter. No change. Russia increases intensity of attacks on Ukraine including Kalibr cruise missile launches, possibly from submarines (which are observed deployed more than warships).  
 
 Late Mar: Russia increases anti-USV defenses at shipyard in Kerch where an Pr.23900 IVAN ROGOV class amphibious carrier (LHD) is under construction.  
 
@@ -497,6 +536,7 @@ Aug 28: Ukraine's HUR strike a Russian Navy Pr.21631 Buyan-M missile corvette in
 *UAV camera view of approach on Russian Buyan-M in Sea of Azov, Aug 28 2025*  
 
 Aug 28: Russian surface drone (USV) strikes and sinks Ukrainian Pr.502EM Laguna Class Intelligence ship (AGI) *Simferopol* on Danube River.  
+
 ![Russian surface drone (USV) strikes and sinks Ukrainian Pr.502EM Laguna Class Intelligence ship (AGI) Simferopol](/images/Russia-USV-hits-Simferopol.jpg)  
 *USV camera view of approach on Ukrainian Intelligence ship Simferopol, Aug 28 2025*  
 
@@ -524,13 +564,18 @@ Oct: Ukrainian EOD divers neutralise a Russian KAB-500 glide-bomb bottom mine.
 
 Oct 24: Video released by Ukraine shows a Russian Project 02510 ('BK-16;) assault boat being hit by a drone, likely in Crimea.   
 
-##Tanker WarsEarly Nov: Ukraine increases strikes on oil export infrastructure in Tuapse and Novorossiysk.  
+## Tanker Wars
+
+Early Nov: Ukraine increases strikes on oil export infrastructure in Tuapse and Novorossiysk.  
 
 Nov 17: Russian drone strikes a Turkish LPG tanker, Orinda (IMO 9240122) in Izmail, Ukraine.   
 
 ![Russian shadow fleet tanker Kairos](/images/Russia-Shadow-Fleet-Kairos-Attack.jpg)  
+
 *The attack on the Kairos and Virat, conducted by USVs from the SBU.*  
+
 ![Russian shadow fleet tanker Mersin](/images/Russia-Shadow-Fleet-Mersin-Attack.jpg)  
+
 *The stricken shadow fleet tanker Mersin, off Western Africa.*  
 
 Nov 28: Two Russian shadow fleet tankers, Kairos (IMO 9819882) and Virat (IMO 9832559) struck by Ukrainian SBU 'Sea Baby' USVs in southern Black Sea. The vessels wee unloaded and heading towards Novorsyssk. Both vessels seriously damaged, particularly Kairos. Kairos later washes up on Bulgarian shore.  
@@ -564,8 +609,14 @@ Dec 19: Russian FSB border guard Pr.22460 Rubin-class patrol boat *Rasul Gamzato
 
 ...To be continued.  
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_ukraine.jpg) [![](/images/Ukraine-USVs-250.png)]({% post_url 2025-09-30-Ukrainian-USVs-Russo-Ukraine-War %}) Guide to Ukraine's [naval drones (USVs)]({% post_url 2025-09-30-Ukrainian-USVs-Russo-Ukraine-War %})  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Russia-USV-250.png)]({% post_url 2025-08-03-Russian-USVs-Russo-Ukraine-War %}) Guide to Russia's [naval drones (USVs)]({% post_url 2025-08-03-Russian-USVs-Russo-Ukraine-War %})  
+
 ![Flag](/images/flag_ukraine.jpg) [![](/images/Ukraine-OWA-UAVs-250.png)]({% post_url 2025-07-06-Ukraine-OWA-UAVs %}) Ukraine's [long-ranged attack drones (OWA-UAVs)]({% post_url 2025-07-06-Ukraine-OWA-UAVs %})  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Russia-Kommuna-250.png)]({% post_url 2022-04-26-Russian-Navy-Kommuna %}) Russia's Unique 110-Year-Old Ship, [Kommuna]({% post_url 2022-04-26-Russian-Navy-Kommuna %}) *w/Cutaway*  

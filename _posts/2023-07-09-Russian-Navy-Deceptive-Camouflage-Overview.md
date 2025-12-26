@@ -7,22 +7,30 @@ excerpt: |-
 ---
 
 **UPDATED - scroll down for latest list of warships with this camo**  
-#Russian Navy's New Deceptive Camouflage To Protect Kalibr-Armed Warships![Flag Russia](/images/flag_russia.jpg) The Russian Navy has continued to apply deceptive camouflage to key ships in the Black Sea. The new camo was [first reported](https://www.navalnews.com/naval-news/2023/06/russian-navy-attempts-to-disguise-its-most-powerful-warship-in-black-sea/) on June 22 when the frigate Admiral Essen was observed in Sevastopol. Since then at least **6** (scroll down for latest list) more warships have been painted in a similar way.   
+
+# Russian Navy's New Deceptive Camouflage To Protect Kalibr-Armed Warships
+
+![Flag Russia](/images/flag_russia.jpg) The Russian Navy has continued to apply deceptive camouflage to key ships in the Black Sea. The new camo was [first reported](https://www.navalnews.com/naval-news/2023/06/russian-navy-attempts-to-disguise-its-most-powerful-warship-in-black-sea/) on June 22 when the frigate Admiral Essen was observed in Sevastopol. Since then at least **6** (scroll down for latest list) more warships have been painted in a similar way.   
 
 The two Pr.11356R Admiral Grigorovich class frigates and two (update: 3) Pr.21631 Buyan-M class corvettes, are Kalibr carriers. This is unlikely to be a coincidence.   
 
 The camouflage involves black (or very dark) paint applied to bow sand stern of the ship. This makes the ship appear shorter in some conditions. It can be considered a deceptive camouflage scheme because it doesn't try to hide the ship completely, instead it tries to deceive the viewer into misidentifying it.   
 
 [![](/images/Russia-Deceptive-Camo-940.jpg)](/images/Russia-Deceptive-Camo.jpg)  
+
 *CLICK to Enlarge.*  
 
-##Defense Against Maritime DronesThe context which appears the main factor in the case of Admiral Essen, is to confuse maritime drone (USV) pilots. Admiral Essen has the dark paint applied to the sides at the bow and stern, plus the deck above the bow. The helipad at the stern however is left unpainted. This shows that the camouflage is intended to work from the side.   
+## Defense Against Maritime Drones
+
+The context which appears the main factor in the case of Admiral Essen, is to confuse maritime drone (USV) pilots. Admiral Essen has the dark paint applied to the sides at the bow and stern, plus the deck above the bow. The helipad at the stern however is left unpainted. This shows that the camouflage is intended to work from the side.   
 
 During Ukrainian USV attacks a human operator uses the camera to discern targets. Any trick therefore, which inhibits their ability to identify the most valuable target, would be seen as worth it to the Russians.   
 
 If the Ukrainians use artificial intelligence (AI) to assist targeting this camouflage scheme could be even more effective.  
 
-##Camouflage Against SatellitesAside from Admiral Essen, the other ships have substantial dark paint areas on the decks at the bow and stern. This is likely to be intended to work against some satellite reconnaissance.   
+## Camouflage Against Satellites
+
+Aside from Admiral Essen, the other ships have substantial dark paint areas on the decks at the bow and stern. This is likely to be intended to work against some satellite reconnaissance.   
 
 This camouflage is evident from a close examination of commercial satellite imagery shared on [Twitter by MT Anderson](https://twitter.com/MT_Anderson). This imagery shows just how effective it can be, but equally shows that, with experience, it can be 'seen through'.   
 
@@ -38,36 +46,71 @@ Another important consideration is that many observers, both amateur and profess
 
 It is a fascinating move. It is still early days and we may see more variations over time. And there may be more hints which allow us to narrow down what this is really about.   
 
-##Update June 29, 2023The first public photos shows another warship, the Project 266M NATYA Class minesweeper *Ivan Golubets* apparently photographed on May 26 2023:  
+## Update June 29, 2023
+
+The first public photos shows another warship, the Project 266M NATYA Class minesweeper *Ivan Golubets* apparently photographed on May 26 2023:  
+
 ![Russian Navy's New Deceptive Camouflage To Protect Kalibr-Armed Warships](/images/Russia-Deceptive-Camo-Ivan-Golubets.jpg)  
 
 Subsequently, a Sentinel-2 satellite overpass of Novorossiysk allows us to glimpse the impact on analysis of low-resolution satellite imagery. The new camouflage is moderately effective and may lead to misidentification of ships:  
+
 [![](/images/Russia-Deceptive-Camo-Sent-940.jpg)](/images/Russia-Deceptive-Camo-Sent.jpg)  
+
 *CLICK to Enlarge.*  
 
-##Update July 9, 2023Photos shared on Russian social media show Pr.1124M GRISHA-III Class ASW corvette *Muromets* (064) with false bow. Photo reportedly dated June 16:  
+## Update July 9, 2023
+
+Photos shared on Russian social media show Pr.1124M GRISHA-III Class ASW corvette *Muromets* (064) with false bow. Photo reportedly dated June 16:  
+
 ![Russian Navy's New Deceptive Camouflage On Grisha](/images/Russia-Deceptive-Camo-GRISHA-V.jpg)  
 
 Currently observed Russian Warships with the deceptive (or 'Breaking' (ломающей) in Russian social media) camouflage:  
 
-* Pr.11356R Admiral Grigorovich Class frigate Admiral Essen (751) - Kalibr carrier* Pr.11356R Admiral Grigorovich Class frigate Admiral Makarov (799) - Kalibr carrier* Pr.21631 Buyan-M Class missile corvette Grayvoron(600) - Kalibr carrier* Pr.21631 Buyan-M Class missile corvette Vyshniy Volochyok (609) - Kalibr carrier* Pr.21631 Buyan-M Class missile corvette Ingushetia (630) - Kalibr carrier* Pr.1124M GRISHA-III Class anti-submarine corvette Muromets (064)* Pr.266M NATYA Class minesweeper Ivan Golubets (911)
+* Pr.11356R Admiral Grigorovich Class frigate Admiral Essen (751) - Kalibr carrier
 
-##Update July 19, 2023Since previous update (July 9), two changes:
+* Pr.11356R Admiral Grigorovich Class frigate Admiral Makarov (799) - Kalibr carrier
 
-* Pr.11356R Admiral Grigorovich Class frigate Admiral Essen (751) - Camouflage **appears to have been removed*** Pr.527 PRUT Class rescue ship Epron. Possibly only applied to upper surfaces
+* Pr.21631 Buyan-M Class missile corvette Grayvoron(600) - Kalibr carrier
 
-##Update July 27, 2023Since previous update (July 19):
+* Pr.21631 Buyan-M Class missile corvette Vyshniy Volochyok (609) - Kalibr carrier
 
-* Pr.22160 Patrol Ship, possibly Pavel Derzhavin (tbc). Paint on stern sides/back only* Pr.22160 Patrol Ship, possibly Sergey Kotov (tbc). Paint on stern sides/back only
+* Pr.21631 Buyan-M Class missile corvette Ingushetia (630) - Kalibr carrier
+
+* Pr.1124M GRISHA-III Class anti-submarine corvette Muromets (064)
+
+* Pr.266M NATYA Class minesweeper Ivan Golubets (911)
+
+## Update July 19, 2023
+
+Since previous update (July 9), two changes:
+
+* Pr.11356R Admiral Grigorovich Class frigate Admiral Essen (751) - Camouflage **appears to have been removed**
+
+* Pr.527 PRUT Class rescue ship Epron. Possibly only applied to upper surfaces
+
+## Update July 27, 2023
+
+Since previous update (July 19):
+
+* Pr.22160 Patrol Ship, possibly Pavel Derzhavin (tbc). Paint on stern sides/back only
+
+* Pr.22160 Patrol Ship, possibly Sergey Kotov (tbc). Paint on stern sides/back only
 
 ![Russian Navy's New Deceptive Camouflage On Pr.22160 Patrol Ship](/images/Russia-Deceptive-Camo-Patrol-Ships.jpg)  
 *Novorossiysk, July 17 2023*  
 
-##Update August 6, 2023Since previous update (July 27):
+## Update August 6, 2023
+
+Since previous update (July 27):
 
 * Pr.12700 Alexandrit-class minesweeper 'Georgy Kurbatov' (631) observed with rear-quarter painted black in Deceptive camouflage.
 
-______________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+______________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_ukraine.jpg) [![](/images/Ukraine-USV-250.png)]({% post_url 2022-11-11-Ukraine-Maritime-Drones %}) Ukraine's [Maritime Drones (USVs)]({% post_url 2022-11-11-Ukraine-Maritime-Drones %})  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Russia-Kommuna-250.png)]({% post_url 2022-04-26-Russian-Navy-Kommuna %}) Russia's Unique 110-Year-Old Ship, [Kommuna]({% post_url 2022-04-26-Russian-Navy-Kommuna %}) *w/Cutaway*  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/pr09852_250.png)](http://www.hisutton.com{% post_url 2021-06-29-Belgorod-Class-Submarine %}) Project 09852 [Belgorod](http://www.hisutton.com{% post_url 2021-06-29-Belgorod-Class-Submarine %}) Special Mission submarine (spy sub). *w/Cutaway*   

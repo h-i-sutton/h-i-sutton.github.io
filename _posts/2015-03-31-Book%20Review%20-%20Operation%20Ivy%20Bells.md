@@ -7,9 +7,11 @@ excerpt: |-
 ---
 
 ![stars](/images/stars-five.png) **Operation Ivy Bells** By Robert G. Williscroft   
+
 Buy it on [Amazon](http://www.amazon.com/Operation-Ivy-Bells-Robert-Williscroft/dp/0982166265/) , Website: [Here](http://www.ivy-bells.com/)   
 
 Historical 'fiction' allows the author, former US Master Diver Robert G. Williscroft, to share the story of the most famous spy submarine mission of the Cold War. Williscroft's first hand experience as a Saturation Diver on USS Halibut during the Operations makes this work of *fiction* stand out as a historical source. Although the plot has elements of dramatisation, the historical and technical details are unparalleled, particularly in respect of the role divers played in these missions.   
+
 ![Ivy Bells Williscroft book](/images/ivybells.jpg)  
   
 

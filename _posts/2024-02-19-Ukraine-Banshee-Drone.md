@@ -8,9 +8,12 @@ excerpt: |-
 
 ![Banshee drone](/images/Ukraine-OWA-UAVs-banshee-profile.jpg)  
 
-#First Sighting Of British Banshee Jet-Powered Drone In Ukraine![Flag Ukraine](/images/flag_ukraine.jpg) ![Flag UK](/images/flag_UK.jpg) At least one British-made Banshee target drone has been reported crashed behind Russian lines. The Banshee Jet 80 is a high-performance twin jet drone used by the Royal Navy and others. In Ukrainian service it is likely being used as a one-way attack drone (OWA-UAV) to strike high value targets deep behind the front line.  
+# First Sighting Of British Banshee Jet-Powered Drone In Ukraine
+
+![Flag Ukraine](/images/flag_ukraine.jpg) ![Flag UK](/images/flag_UK.jpg) At least one British-made Banshee target drone has been reported crashed behind Russian lines. The Banshee Jet 80 is a high-performance twin jet drone used by the Royal Navy and others. In Ukrainian service it is likely being used as a one-way attack drone (OWA-UAV) to strike high value targets deep behind the front line.  
 
 ![Banshee drone](/images/Ukraine-OWA-UAVs-banshee.jpg)  
+
 *The crashed example reportedly at Novoazovs'k, Donetsk, around 100km behind the front line.*  
 
 The crashed example has minor differences to observed target drones, most notably some type of rail under the belly. This is likely part of the launch system and not part of the drone. Further details of weaponization unclear.  
@@ -21,7 +24,12 @@ The Jet 80 model, which appears to be the type observed in Ukraine, is fitted wi
 
 ![Banshee drone](/images/UK-UAVs-banshee.jpg)  
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_ukraine.jpg) [![](/images/Ukraine-OWA-UAVs-250.png)]({% post_url 2025-07-06-Ukraine-OWA-UAVs %}) Ukraine's [long-ranged attack drones (OWA-UAVs)]({% post_url 2025-07-06-Ukraine-OWA-UAVs %})  
+
 ![Flag Ukraine](/images/flag_ukraine.jpg) ![Flag Hamas](/images/Flag_Hamas.jpg) ![Flag Iran](/images/flag_iran.jpg) ![Flag](/images/flag_nork.jpg) ![Flag Russia](/images/flag_russia.jpg) [![](/images/World-OWA-AUVs-250.png)]({% post_url 2024-01-03-Guide-To-Underwater-Attack-Drones %}) World survey of [Underwater Attack Drones (OWA-AUVs)]({% post_url 2024-01-03-Guide-To-Underwater-Attack-Drones %})  
+
 ![Flag](/images/flag_USA.jpg) [![](/images/USN_XLUUV_25.png)]({% post_url 2019-10-20-USN_XLUUV %}) [XLUUV]({% post_url 2019-10-20-USN_XLUUV %}) armed extra-large UUV   

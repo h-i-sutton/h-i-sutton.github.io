@@ -12,7 +12,9 @@ excerpt: "<br clear=\"right\"/><a href=\"/Ukraine-Marichka-AUV.html\"><img align
 
 ![Marichka Марічка Underwater Drone](/images/Ukraine-Marichka-AUV.jpg)  
 
-#Ukraine's Marichka Underwater Drone (AUV)![Flag Ukraine](/images/flag_ukraine.jpg) The Marichka (МАРІЧКА) is a new large autonomous underwater vehicle (AUV) developed by [AMMO Ukraine](https://ammo.army/). Among the many large AUV projects around the world, it is probably the first born directly from wartime needs. The project is seperate to the [Toloka family of AUVs](http://www.hisutton.com{% post_url 2023-04-26-New-Ukraine-Underwater-Maritime-Drone %}) which are also being developed in Ukraine.   
+# Ukraine's Marichka Underwater Drone (AUV)
+
+![Flag Ukraine](/images/flag_ukraine.jpg) The Marichka (МАРІЧКА) is a new large autonomous underwater vehicle (AUV) developed by [AMMO Ukraine](https://ammo.army/). Among the many large AUV projects around the world, it is probably the first born directly from wartime needs. The project is seperate to the [Toloka family of AUVs](http://www.hisutton.com{% post_url 2023-04-26-New-Ukraine-Underwater-Maritime-Drone %}) which are also being developed in Ukraine.   
 
 The basic vehicle is 6 meters long and 1 meter in dimeter. Construction is metal with all or most of the hull being a pressure vessel. A keel appears to run along the bottom, and there are the expected towing loops.   
 
@@ -26,6 +28,10 @@ Ammo Ukraine have advertised the system as being for anti-ship, anti-bridge, int
 
 The project appears to be in the prototype phase and is looking for funding.   
 
-________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_ukraine.jpg) [![](/images/Ukraine-USV-250.png)]({% post_url 2022-11-11-Ukraine-Maritime-Drones %}) Ukraine's [Maritime Drones (USVs)]({% post_url 2022-11-11-Ukraine-Maritime-Drones %})  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Harpsichord_250.png)]({% post_url 2019-03-30-Harpsichord_AUV %}) [Harpsichord (Klavesin) AUV]({% post_url 2019-03-30-Harpsichord_AUV %})  

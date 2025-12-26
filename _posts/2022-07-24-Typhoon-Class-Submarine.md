@@ -7,19 +7,29 @@ excerpt: |-
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
+
 [![](/images/Typhoon_SSBN940.jpg)](/images/Typhoon_SSBN2200.jpg)  
+
 *CLICK to Enlarge*.  
-#End Of The TYPHOON Era: World's Largest Submarine Retires![Flag Russia](/images/flag_russia.jpg) It's time, Captain... Time indeed. The last Pr.941 TYPHOON Class boat, Dmitriy Donskoy (TK-208), is reportedly no longer in active service. The world's largest submarine, the undisputed king of submarines, is [finally being decommissioned](https://ria.ru/20220720/apl-1803603901.html).   
+
+# End Of The TYPHOON Era: World's Largest Submarine Retires
+
+![Flag Russia](/images/flag_russia.jpg) It's time, Captain... Time indeed. The last Pr.941 TYPHOON Class boat, Dmitriy Donskoy (TK-208), is reportedly no longer in active service. The world's largest submarine, the undisputed king of submarines, is [finally being decommissioned](https://ria.ru/20220720/apl-1803603901.html).   
 
 Regardless of your politics, there has always been a air of respect for the gigantic Russian submarine in defense circles. It is probably the most recognized boat. Its distinctive silhouette has adorned many western posters and website headers. It will be missed.   
 
 The exact details, whether it is already decommissioned, or will be later this year, are unclear. As we have come to expect for these reports from Russia. But the overall story is clear, it is the end of the era.   
+
 ![The world's largest submarine](/images/Russia-Typhoon-sat-2022-07-17.jpg)  
+
 *Reports of the last Typhoon being out of service may be slightly premature, but the bigger picture rings true. Despite being reported as no longer in service, TK-208 Dmitriy Donskoy was observed on the surface in the White Sea on July 17 2022. Sentinel 2 satellite image.*  
 
-##Why TYPHOONIn its day, the significance of the submarine wasn't only its size. The appearance of the Typhoon captured the West’s imagination. And understandably so. Even in defence circles ot was a subject of research, speculation and wonder. There was concern that regular torpedoes couldn’t sunk it.   
+## Why TYPHOON
+
+In its day, the significance of the submarine wasn't only its size. The appearance of the Typhoon captured the West’s imagination. And understandably so. Even in defence circles ot was a subject of research, speculation and wonder. There was concern that regular torpedoes couldn’t sunk it.   
 
 [![](/images/Russia-Typhoon-Submarine-Then-Now-940.jpg)](/images/Russia-Typhoon-Submarine-Then-Now.jpg)  
+
 *CLICK to Enlarge*.  
 
 The 'Typhoon' class got it's NATO reporting name (TYPHOON) before it even hit the water, using the [name used](http://www.hisutton.com{% post_url 2020-02-04-The%20REAL%20Red%20October%20-%20Typhoon%20SSBN %}) in US-Russian arms control discussions.
@@ -36,7 +46,17 @@ The crew enjoyed relative luxury, including of course an internal swimming pool(
 
 #### 
 
-##Not All Plain SailingUnfortunately for Russia each submarine cost a fortune to build. Even for the Soviet economy. I don’t fully trust quotes numbers, but logically each submarine would cost more than twice a regular ballistic missile submarine. It had 2 of everything and was more than twice as large. And the outer hull was heavily built, adding yet more time and money.   
+[![](/images/Typhoon-submarine-recreation_h150.jpg)](/images/Typhoon-submarine-recreation.jpg)
+
+[![](/images/Typhoon-submarine-pool_h150.jpg)](/images/Typhoon-submarine-pool.jpg)
+
+[![](/images/Typhoon_Pool_h150.jpg)](/images/Typhoon_Pool.jpg)
+
+  
+
+## Not All Plain Sailing
+
+Unfortunately for Russia each submarine cost a fortune to build. Even for the Soviet economy. I don’t fully trust quotes numbers, but logically each submarine would cost more than twice a regular ballistic missile submarine. It had 2 of everything and was more than twice as large. And the outer hull was heavily built, adding yet more time and money.   
 
 With the end of the Cold War the last boat we cancelled sand the six in service were steadily withdrawn from service from the mid-1990s, well before their prime. Only one, the oldest boat TK-208, was still active service by 2010.   
 
@@ -46,7 +66,12 @@ In naval terms these Cold War monsters have suffered a slow and painful to watch
 
 Now, 42 years after the first boat slipped into the water, the world will tremble again, at the sound of their silence. The TYPHOON has finally engaged the silent drive.   
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/pr09852_250.png)](http://www.hisutton.com{% post_url 2021-06-29-Belgorod-Class-Submarine %}) Project 09852 [Belgorod](http://www.hisutton.com{% post_url 2021-06-29-Belgorod-Class-Submarine %}) Special Mission submarine (spy sub). *w/Cutaway*   
+
 ![Flag](/images/flag_russia.jpg) [![](/images/TYPHOON_250.png)]({% post_url 2020-02-04-The%20REAL%20Red%20October%20-%20Typhoon%20SSBN %}) [TYPHOON Class SSBN]({% post_url 2020-02-04-The%20REAL%20Red%20October%20-%20Typhoon%20SSBN %}). *w/Cutaway*   
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Borei-A_250.png)]({% post_url 2020-11-18-Borei-A %}) [Project 955A 'BOREI-A']({% post_url 2020-11-18-Borei-A %}) Ballistic Missile Submarine. *w/Cutaway*  

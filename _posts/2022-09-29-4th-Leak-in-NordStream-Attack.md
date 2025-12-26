@@ -9,9 +9,10 @@ excerpt: |-
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 [![](/images/Nordstream-Swedish-Coast-Guard-AIS-940.jpg)](/images/Nordstream-Swedish-Coast-Guard-AIS.jpg)  
+
 *CLICK to Enlarge*.  
 
-##Location Of 4th Leak On Russia's NordStream Gas Pipeline In Baltic
+## Location Of 4th Leak On Russia's NordStream Gas Pipeline In Baltic
 
 The September 27 attacks on the Nordstream gas pipelines near the Danish island of Bornholm is a serious international incident. There is now little doubt that it was sabotage. The explosions causing leaks in at least four places and affect both Nordstream 1 & Nordstream 2.   
 
@@ -24,7 +25,9 @@ The Coast Guard ship *Amfitrite* has been surveying the area. It's AIS (automate
 ![Amfitrite](/images/Nordstream-Swedish-Coast-Guard-ship.jpg)  
 *Serien class coast guard ship Triton (KBV 002), sister ship of Amfitrite. These vessels serve both in environmental protection and surveillance roles. Photo Kustbevakningen*  
 
-##Who Done It?The attacks are likely to be the material of conspiracy theories forever. The allure of these theories will no doubt keep them popular despite their lack of credibility.   
+## Who Done It?
+
+The attacks are likely to be the material of conspiracy theories forever. The allure of these theories will no doubt keep them popular despite their lack of credibility.   
 
 The strong suspicion is that Russia themselves are the most likely actor.   
 
@@ -39,7 +42,15 @@ There have been multiple Russian exercises in the Baltic including increased [wa
 
 There are several theories which, at this stage, cannot be ruled out:  
 
-* Explosives positioned over the pipes using underwater vehicles, possibly well in advance* Explosives placed during construction phase* Explosives placed inside the pipes, possibly using Pigs (pipeline inspection gadgets). These normally require flow and would narrow down suspects if used* Explosives laid by surface vessel* Torpedoes - seems least likely
+* Explosives positioned over the pipes using underwater vehicles, possibly well in advance
+
+* Explosives placed during construction phase
+
+* Explosives placed inside the pipes, possibly using Pigs (pipeline inspection gadgets). These normally require flow and would narrow down suspects if used
+
+* Explosives laid by surface vessel
+
+* Torpedoes - seems least likely
 
 I am awaiting further information about the investigations to learn how it was done.   
 
@@ -48,11 +59,18 @@ There is one major take-away however. Regardless of who is responsible, the atta
 ![Autonomous Underwater Vehicles development in Russia](/images/Russia-Rubin-Centre-for-Marine-Robotics-in-Kronstadt.jpg)  
 *Russian design bureau Rubin has recently opened a new center for Autonomous Underwater Vehicles development in St. Petersburg.*  
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Ru_Garmoniya-GUIDE_250.png)]({% post_url 2019-09-12-Ru_Garmoniya-GID_AUV %}) [Garmoniya-GUIDE]({% post_url 2019-09-12-Ru_Garmoniya-GID_AUV %}) AUV   
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Ru_Beluga_whale250.png)]({% post_url 2019-04-29-Russia_Navy_Beluga_Whale %}) Russian Navy [Beluga whale]({% post_url 2019-04-29-Russia_Navy_Beluga_Whale %})   
 
 ![Flag](/images/flag_russia.jpg) [![](/images/pr09852_250.png)](http://www.hisutton.com{% post_url 2021-06-29-Belgorod-Class-Submarine %}) Project 09852 [Belgorod](http://www.hisutton.com{% post_url 2021-06-29-Belgorod-Class-Submarine %}) Special Mission submarine (spy sub). *w/Cutaway*   
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Losharik250.png)]({% post_url 2021-07-18-Spy%20Sub%20-%20Project%2010831%20Losharik %}) [Russian Losharik spy sub]({% post_url 2021-07-18-Spy%20Sub%20-%20Project%2010831%20Losharik %})   
+
 ![Flag](/images/flag_russia.jpg) [Russia seeks submarine advantage in Arctic]({% post_url 2016-09-20-Analysis%20-Russia%20seeks%20submarine%20advantage%20in%20Arctic %}) (HARMONY system, GUGI special mission subs)   
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Yantar_250.png)]({% post_url 2017-09-13-Yantar %}) [Yantar]({% post_url 2017-09-13-Yantar %}) spy ship loitering over undersea cables   

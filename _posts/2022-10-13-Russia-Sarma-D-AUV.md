@@ -9,9 +9,12 @@ excerpt: |-
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 [![](/images/Russia-Drone-sarma-D-Cutaway-940.jpg)](/images/Russia-Drone-sarma-D-Cutaway.jpg)  
+
 *CLICK to Enlarge.*  
 
-#Russia's answer to the U.S. Navy's Orca XLUUV: Sarma-D![Flag Russia](/images/flag_russia.jpg) The Sarma-D is Russia's answer to the U.S. Navy's Orca XLUUV (extra-large uncrewed underwater vehicle). This massive robot submarine promises an incredible 8-10,000 km range, and many of the trappings of full-size submarines, including a large sonar.   
+# Russia's answer to the U.S. Navy's Orca XLUUV: Sarma-D
+
+![Flag Russia](/images/flag_russia.jpg) The Sarma-D is Russia's answer to the U.S. Navy's Orca XLUUV (extra-large uncrewed underwater vehicle). This massive robot submarine promises an incredible 8-10,000 km range, and many of the trappings of full-size submarines, including a large sonar.   
 
 Typically, it has been promoted for civilian tasks. These include repairing undersea cables, prospecting work for oil/gas, tracking oil leaks in underwater pipelines, transporting cargo, survey and operating undersea equipment. Its naval potential is clear however.   
 
@@ -35,8 +38,14 @@ Despite this Russian sources have variously claimed that a vehicle demonstrator 
 
 But it is undoubtedly a project to keep an eye on.  
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_USA.jpg) [![](/images/USN_XLUUV_25.png)]({% post_url 2019-10-20-USN_XLUUV %}) [XLUUV]({% post_url 2019-10-20-USN_XLUUV %}) armed extra-large UUV   
+
 ![Flag](/images/flag_USA.jpg) [![](/images/US-Navy-Snakehead-UUV-250.png)]({% post_url 2022-05-17-Snakehead-LDUUV %}) [Snakeead]({% post_url 2022-05-17-Snakehead-LDUUV %}) large-displacement UUV   
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Harpsichord_250.png)]({% post_url 2019-03-30-Harpsichord_AUV %}) [Harpsichord (Klavesin) AUV]({% post_url 2019-03-30-Harpsichord_AUV %})  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Ru_Cephalopod250.png)]({% post_url 2018-07-27-Cephalopod %}) [Cephalopod]({% post_url 2018-07-27-Cephalopod %}) armed extra-large UUV   

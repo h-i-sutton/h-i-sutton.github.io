@@ -7,13 +7,17 @@ excerpt: |-
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
+
 ![Flag](/images/flag_USA.jpg) Developed for the US and British military diver communities, the CDNM (Combat Diver Navigation Module) is basically the Google Glasses for naval Special Forces.   
 
 The concept is essentially similar to the Helmet Mounted Displays (HMDs) worn by fighter pilots and racing car drivers. But it has to be designed to be waterproof, pressure resistant, neutrally buoyant, robust, lightweight out of the water, reliable under extreme temperate changes, low drag, and SEAL proof. No short order. The US government project was developed over several years with feedback from relevant US and British diver communities (read SEALs and SBS) so it probably fits the bill.   
+
 ![Combat Diver Navigation Module](/images/CombatDiver_NavModule1.jpg)  
 
 CTTSO (Combating Terrorism Technical Support Office) started working on the project around 2011, with the initial focus to improve upon the existing **Diver mask-mounted display ** (MMD) system (also *Advanced* Diver Mask Mounted Display). It was originally known as the **Combat Diver Navigation Mask** (CDNM) but since then ‘mask’ has been updated to ‘module’ but the idea is the same.   
+
 ![Combat Diver Navigation Module](/images/CombatDiver_NavModule2.jpg)  
+
 Until now Combat Divers had to watch wrist mounted depth gauges and compasses. Plus a diving watch and other gauges. Often a swim pair would separate tasks with one wearing the compass and one watching the depth. *Attack boards* (aka Navigation boards) partly replaced this but the task of watching a display at arm’s length in the dark remained challenging. And lit displays could give the diver’s position away. The insides of Swimmer Delivery Vehicles (SDVs) were not much better with divers often having to hold a flashlight to the displays, and/or press their mask right up against it to read it. Again modern technology provides for back-lit multifunction displays (MFDs) which can be read from a short distance underwater.   
 
 The CDNM brings the display right inside the mask, allowing the diver to navigate and operate a Diver Propulsion Device (DPD) or SDV without even facing the dashboard. And they can conceptually swim face down in the optimum hydrodynamic form. It’s basically more versatile and less strain on the diver, making long journeys more manageable.   
@@ -22,7 +26,9 @@ The CDNM brings the display right inside the mask, allowing the diver to navigat
 One version was of the system has been integrated into the M48 dive mask used by US Navy EOD divers with the low magnetic MK16 Mod 1 UBA (Underwater Breathing Apparatus).   
 
   
-[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)>>>The ultimate book of Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**  is the ONLY world history of naval Special Forces, their missions and their specialist vehicles. **SEALs**, **SBS**, **COMSUBIN**, **Sh-13**, **Spetsnaz**, **Kampfschwimmers**, **Commando Hubert**, **4RR** and many more.  
+[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)
+
+>>>The ultimate book of Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**  is the ONLY world history of naval Special Forces, their missions and their specialist vehicles. **SEALs**, **SBS**, **COMSUBIN**, **Sh-13**, **Spetsnaz**, **Kampfschwimmers**, **Commando Hubert**, **4RR** and many more.  
 [![](/images/Maiale_arrow.png)](http://www.amazon.com/dp/1533114870/)[Check it out on Amazon](http://www.amazon.com/dp/1533114870/)  
 
 **We can imagine a time in the very near future when SDV’s dashboards are only a backup, with the crew alternating any navigation or driving tasks (when it’s not on auto-pilot!) from any position in the craft. Tactical information will be shared between the men before and after they leave the craft.**   
@@ -36,4 +42,5 @@ One version was of the system has been integrated into the M48 dive mask used by
 Quoted text from CTTSO (www.cttso.gov/sites/default/files/reviewbook/2015ReviewBook_WEB.pdf)  
 
 Another CTTSO project is the *Underwater Vision Enhancement* (UVE) device designed to provide EOD divers and combat divers with the ability to perform hands-free and render-safe procedures on enemy mines at night or in reduced visibility.   
+
 ![Combat Diver Navigation Module](/images/CombatDiver_NavModule4.jpg)  

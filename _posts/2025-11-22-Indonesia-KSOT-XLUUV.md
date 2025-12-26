@@ -6,7 +6,9 @@ excerpt: |-
   <br clear="right"/><a href="/Indonesia-KSOT-XLUUV.html"><img align="left" src="/images/Indonesia-KSOT-XLUUV-317.jpg"/></a> ![Flag](/images/flag_indo.jpg) Indonesia has a patchy record of naval acquisitions, but there are signs that this is changing.<br/><br/>Indonesia has done something which puts it ahead of Western navies in the weaponisation of emerging technologies...<br/>[Read More &gt;....](/Indonesia-KSOT-XLUUV.html "READ MORE")<br clear="left"/>
 ---
 
-#Indonesia Gets Ahead Of Western Navies In Weaponising Underwater Drones![Flag](/images/flag_indo.jpg) Indonesia has a patchy record of naval acquisitions. It is, sadly, known for accidents and tragedy rather than might. The stealth trimaran missile boat KRI Klewang was destroyed by fire in 2012, and the Type-209 submarine KRI Nanggala was lost with all hands in 2021. Meanwhile its homegrown efforts at self-sufficiency have been mired by [Heath Robinson amateurism](http://www.hisutton.com{% post_url 2018-11-06-Indonesian_KTBA_chariots %}) (admirable in its own right but not serious military capabilities) and blatant knockoffs of imported designs. But there are signs that this is changing.  
+# Indonesia Gets Ahead Of Western Navies In Weaponising Underwater Drones
+
+![Flag](/images/flag_indo.jpg) Indonesia has a patchy record of naval acquisitions. It is, sadly, known for accidents and tragedy rather than might. The stealth trimaran missile boat KRI Klewang was destroyed by fire in 2012, and the Type-209 submarine KRI Nanggala was lost with all hands in 2021. Meanwhile its homegrown efforts at self-sufficiency have been mired by [Heath Robinson amateurism](http://www.hisutton.com{% post_url 2018-11-06-Indonesian_KTBA_chariots %}) (admirable in its own right but not serious military capabilities) and blatant knockoffs of imported designs. But there are signs that this is changing.  
 
 ![KSOT (Kapal Selam Otonom) underwater drone](/images/Indonesia-KSOT-XLUUV-Profile.jpg)  
 
@@ -28,6 +30,7 @@ The carriage of standoff weapons transforms the KSOT XLUUV into a potent anti-sh
 The test launch involved the indigenous 324 mm ‘Piranha’ torpedo. Lightweight torpedoes are normally associated with anti-submarine use but can be effective against ships provided they have suitable guidance and fusing. North Korean and Swedish lightweight torpedoes bear testament to this. The XLUUV could logically carry heavyweight torpedoes too which can pack a much larger punch, threatening to sink even larger vessels. There is an obvious market opportunity for relatively cheap, short ranged but large warhead anti-ship torpedoes.   
 
 ![KSOT (Kapal Selam Otonom) underwater drone](/images/Indonesia-KSOT-torpedo-loading.jpg)  
+
 ![KSOT (Kapal Selam Otonom) underwater drone](/images/Indonesia-KSOT-torpedo-launch.jpg)  
 *First torpedo launch. Conducting the trial from semi-submerged is not unusual.*  
 
@@ -35,8 +38,14 @@ The mast of the KSOT is fitted with a square antenna, possibly for Starlink. Thi
 
 It remains to be seen whether Indonesia can translate this groundbreaking test into an operational capability. But the common sense of this approach is clear.  
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_indo.jpg) [![](/images/Indonesia-KSM-32-250.png)]({% post_url 2021-05-07-Indonesia-KSM-32-Submarine %}) Indonesia's [KSM-32 Midget Submarine]({% post_url 2021-05-07-Indonesia-KSM-32-Submarine %})  
+
 ![Flag](/images/flag_China.jpg) [![](/images/Cn_sea-wing-250.png)]({% post_url 2021-01-12-Chinese-Sea-Wing-Submarine-Drone %}) Chinese [Sea Wing UUV (Glider)]({% post_url 2021-01-12-Chinese-Sea-Wing-Submarine-Drone %})  
+
 ![Flag](/images/flag_iran.jpg) [![](/images/Iran-XLUUV-250.png)]({% post_url 2020-07-11-Iranian-XLUUV-submarine-drone %}) [Iranian XLUUV]({% post_url 2020-07-11-Iranian-XLUUV-submarine-drone %})  
+
 ![Flag](/images/flag_france.jpg) [![](/images/France-NG-XLUUV-250.png)]({% post_url 2021-10-09-Naval-Group-XLUUV %}) Naval Group's [XLUUV Demonstrator]({% post_url 2021-10-09-Naval-Group-XLUUV %})  

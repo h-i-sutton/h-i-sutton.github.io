@@ -7,14 +7,18 @@ excerpt: |-
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
+
 ![Wreck found of submarine HMS P311 after 73 years](/images/p311.jpg)  
+
 ![Flag](/images/flag_UK.jpg) The wreck of wartime British submarine HMS P311 has finally been found by Italian divers near the island of Tavolora in Sardinia. She was lost with all hands between 30th December 1942 and 8th January 1943 while undertaking Operation PRINCIPLE. Her targets were two Italian Navy cruisers based at La Maddalena in Sardinia. For the mission she was carrying two Chariot Mk.1 human torpedoes in sealed containers mounted behind the sail.   
 
 Had she returned from the mission, she was due to be officially named HMS Tutankhamen. But because the naming ceremony never took place she is remembered in history as HMS P311, the only T-Class submarine not to bar a name.   
 
 ![Wreck found of submarine HMS P311 after 73 years](/images/p311_1.jpg)  
+
 ![Wreck found of submarine HMS P311 after 73 years](/images/p311_3.jpg)  
 *Probably from near the conning tower, looking aft over the twin Chariot cyclinders.*  
+
 ![Wreck found of submarine HMS P311 after 73 years](/images/p311_Trooper.jpg)  
 *P311's sster boat HMS Trooper with twin Chariot cylinders in the same configuration as P311. Trooper was involved in the same mission but enjoyed better success.*  
 

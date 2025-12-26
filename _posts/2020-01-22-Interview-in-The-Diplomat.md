@@ -9,14 +9,17 @@ excerpt: |-
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 **Interview in The Diplomat**  
+
 [Read full interview here](https://thediplomat.com/2020/01/h-i-sutton-on-the-future-of-underwater-warfare-in-the-indo-pacific-region/).  
 
 **H.I. Sutton on the Future of Underwater Warfare in the Indo-Pacific Region**.   
+
 What are some of the future strategic and technological challenges to submarine forces in the region?   
 
 ![pic](/images/theDiplomat_202001.jpg)  
 
 *The Diplomat: First off, why are most navies in the Indo-Pacific region pursuing large-scale submarine procurement programs? Why invest in a powerful submarine force?*   
+
 Sutton: Submarines are the unsaid capital ships of today, only competing with aircraft carriers for the top slot. And while the carriers (and there is also a carrier arms race going on in the region) are more visible in terms of power projection, submarines happen to be their natural predator. So nearly all regional players have submarines near the top of their priorities.  
 
 The larger navies’ programs are interesting, but generally well covered. But smaller regional navies such as Bangladesh, Myanmar, Thailand, and the Philippines are also embarking on this journey. For me that’s a largely untold story that is part of a bigger trend, which is seeing submarines proliferate.  
@@ -28,7 +31,9 @@ Even the least sophisticated submarines are apex predators in the naval environm
 Only the best submarines are likely to be useful in countering other submarines, however, so there is still an advantage to being a bigger player.  
 
   
-[![](/images/Book_WorldSubsCover175.jpg)](https://www.amazon.com/dp/1541392302)>>>Get *The* essential guide to  **[World Submarines](https://www.amazon.com/dp/1541392302)**  
+[![](/images/Book_WorldSubsCover175.jpg)](https://www.amazon.com/dp/1541392302)
+
+>>>Get *The* essential guide to  **[World Submarines](https://www.amazon.com/dp/1541392302)**  
 This **Covert Shores Recognition Guide**  Covers over 80 classes of submarines including all types currently in service with World Navies.  
 [![](/images/Book_Walrus400.png)](https://www.amazon.com/dp/1541392302)[Check it out on Amazon](https://www.amazon.com/dp/1541392302)  
 
@@ -45,7 +50,9 @@ Navies which are relatively new to the submarine game will have to build the hum
 Vietnam is an interesting example. They have just commissioned a specialized submarine rescue ship, and also announced an indigenous submarine program. They will build a small 100-ton submarine, which I think is a pragmatic approach.  
 
   
-[![](/images/Narco-Sub0book-cover.jpg)](https://www.amazon.com/dp/B086G11WMM)>>>The World's **ONLY** Guide to   
+[![](/images/Narco-Sub0book-cover.jpg)](https://www.amazon.com/dp/B086G11WMM)
+
+>>>The World's **ONLY** Guide to   
 **Narco Submarines**  
 10 years of research, analyzing over 160 incidents, condensed into a handy guide. This unique book systematically breaks down the types and families. With detailed taxonomy, recognition 3-views, profiles and photos. [Available on Amazon](https://www.amazon.com/dp/B086G11WMM)   
 [![](/images/Narco-Sub-book-profile.jpg)](https://www.amazon.com/dp/B086G11WMM)  
@@ -91,12 +98,22 @@ AI is already leading to a revolution in undersea warfare. Most visibly in auton
 
 Good question. For the conventional submarines operated by most countries in the region, people forget that they spend most of their time tied up in port. Their endurance is limited and longer patrols take a lot of preparation. This is a major factor in submarine operations which rarely (if ever) crops up in internet discussions on submarine capabilities.  
 
-___________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+___________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_aus.jpg) [![](/images/Aus_Attack_250.png)]({% post_url 2018-12-14-Attack_Class_Submarine %}) [Attack Class]({% post_url 2018-12-14-Attack_Class_Submarine %})  
+
 ![Flag](/images/flag_nork.jpg) [![](/images/DPRK_Romeo-Mod_250.png)]({% post_url 2019-07-23-ROMEO-Mod_Submarine %}) North Korean  [Modified-Romeo Class]({% post_url 2019-07-23-ROMEO-Mod_Submarine %}) ballistic missile submarine   
+
 ![Flag](/images/flag_india.jpg) [![](/images/In_S-5_250.png)]({% post_url 2019-09-02-S-5_SSBN %})Indian next-generation [S-5 Class SSBN]({% post_url 2019-09-02-S-5_SSBN %})   
+
 ![Flag](/images/flag_China.jpg) [![](/images/CN_Sailless250.png)]({% post_url 2019-10-08-China_Sailless_Submarine %}) Chinese [Sailless Submarine]({% post_url 2019-10-08-China_Sailless_Submarine %})  
+
 ![Flag](/images/flag_aus.jpg) [![](/images/Aus_Attack_250.png)]({% post_url 2018-12-14-Attack_Class_Submarine %}) [Attack Class]({% post_url 2018-12-14-Attack_Class_Submarine %})  
+
 ![Flag](/images/flag_japan.jpg) [![](/images/Ko-Hyoteki250.png)]({% post_url 2018-12-06-Ko-Hyoteki %}) Japanese [Ko-Hyoteki]({% post_url 2018-12-06-Ko-Hyoteki %}) midget submarine of WW2 - Pearl Harbor attack  
+
 ![Flag](/images/flag_japan.jpg) [![](/images/Ha201_250.png)]({% post_url 2016-03-29-Ha201%20Sen-Taka-Sho%20fast%20attack%20submarine %}) Japanese [Ha201 Sen-Taka-Sho]({% post_url 2016-03-29-Ha201%20Sen-Taka-Sho%20fast%20attack%20submarine %}) fast attack submarine of WW2  
+
 ![Flag](/images/flag_China.jpg) [![](/images/CSIC_MS200_250.png)]({% post_url 2017-11-16-CSIC_MS200 %}) Chinese [MS200 midget submarine]({% post_url 2017-11-16-CSIC_MS200 %})  

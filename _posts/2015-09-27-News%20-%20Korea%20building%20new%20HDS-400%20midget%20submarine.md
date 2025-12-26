@@ -21,35 +21,59 @@ _____________________
 The HDS-500 design features a distinct streamlines sail and 'X' form tail mounted *behind* an integrated pumpjet. Less obvious innovations include a mini wet-dry hangar in the tail.   
 
 *Original artwork - CLICK for HIGH-RESOLUTION (3500px) image.*   
+
 [![](/images/KSS500_900.jpg)](/images/KSS500_1800.jpg)   
+
 *Key:*   
+
 a) Flexible Payoad Module (FPM)   
+
 b) Integrated sail   
+
 c) Intercept sonar   
+
 d) Hatches for Payload Modules   
+
 e) 533mm (21") torpedo tube (x2)   
+
 f) Conformal sonar array   
+
 g) 324mm (12.75") torpedo tubes (x4)   
 
 ![HDS-500RTN midget submarine](/images/KSS500A_1.jpg)   
+
 ![HDS-500RTN midget submarine](/images/KSS500A_2.jpg)   
 
  **Specification**   
+
 Length: 37 meters   
+
 Beam: 4.5 meter  
+
 Displacement: 510 tons surfaced   
+
 Speed: Maximum 20 kt submerged, 7 kt cruising  
+
 Operating depth: 250 meters  
+
 Endurance : 21 days, 2,000 nautical miles   
+
 Armament: 2 x 533mm (21") heavyweight torpedoes and 4 x 324mm (12.75") lightweight torpedoes.   
+
 Crew: 10 plus 4 combat swimmers   
 
-___________________________ **Related artcles**   
+___________________________
+
+ **Related artcles**   
+
 ![Flag](/images/flag_iran.jpg) ![Sub](/images/Fateh250.png) [Iranian Fateh Class SSK]({% post_url 2020-09-16-Fateh-Class_Submarine %})   
   
+
 ![Flag](/images/flag_italy.jpg) ![Sub](/images/Maritalia250.png)  [Maritalia GST-23+ Midget Submarine]({% post_url 2015-09-26-Forgotten%20Super%20Subs%20of%20the%20Cold%20War%20-%20Italian%20GST-23+ %})   
   
+
 ![Flag](/images/flag_germany.jpg) ![Sub](/images/MSV_250.png) [MSV-75 midget sub design]({% post_url 2016-01-11-Unbuilt%20project%20MSV-75%20Special%20Forces%20submarine %})   
   
+
 ![Flag](/images/flag_nork.jpg) ![Sub](/images/Sinpo_250.png) [North Korean SSBN program - Sinpo Class]({% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %})   
   

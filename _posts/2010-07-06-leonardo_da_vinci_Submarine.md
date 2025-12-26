@@ -7,6 +7,7 @@ excerpt: |2-
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Leonardo da Vinci's submarine designs**   
+
 ![Flag](/images/flag_italy.jpg)
 
 ![Leonardo_da_Vinci_Submarine](/images/It_Leonardo2.jpg)   
@@ -19,4 +20,15 @@ excerpt: |2-
 
 #### 
 
+[![](/images/It_Leonardo_glove_h200.jpg)](/images/It_Leonardo_glove.jpg)
+
+[![](/images/It_Leonardo_LifeRing_h200.jpg)](/images/It_Leonardo_LifeRing.jpg)
+
+[![](/images/It_Leonardo_Breathing_h200.jpg)](/images/It_Leonardo_Breathing.jpg)
+
+[![](/images/It_Leonardo_Breathing_pic1_h200.jpg)](/images/It_Leonardo_Breathing_pic1.jpg)
+
+[![](/images/It_Leonardo_Breathing_pic_h200.jpg)](/images/It_Leonardo_Breathing_pic.jpg)
+
+  
 *Webbed glove, life ring and breathing apparatus.*  

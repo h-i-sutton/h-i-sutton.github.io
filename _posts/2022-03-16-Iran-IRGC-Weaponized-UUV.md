@@ -12,7 +12,9 @@ excerpt: "<br clear=\"right\"/><a href=\"/Iran-IRGC-Weaponized-UUV.html\"><img a
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
-#New Iranian Weaponized Underwater Drone![Flag Iran](/images/flag_iran.jpg) Iran’s IRGC (Islamic Revolutionary Guard Corps) has unveiled yet another new weapon. This one appears more useful than many previous grand unveilings, and is also being produced in quantity. It is essentially a blending of uncrewed underwater vehicle (UUV) technology and a torpedo.   
+# New Iranian Weaponized Underwater Drone
+
+![Flag Iran](/images/flag_iran.jpg) Iran’s IRGC (Islamic Revolutionary Guard Corps) has unveiled yet another new weapon. This one appears more useful than many previous grand unveilings, and is also being produced in quantity. It is essentially a blending of uncrewed underwater vehicle (UUV) technology and a torpedo.   
 
 The weapon was revealed at a ceremony showcasing newly acquired boats for the IRGC-N (-Navy). It was attended by Major General Salami, Commander-in-Chief of the IRGC, and Sardar Tangsiri, Commander of the IRGC-N. These parades have become a frequent occurrence, and usually have one or two new systems. Often these are ‘toys’. But sometimes, like now, they appear very credible.   
 
@@ -27,7 +29,9 @@ There have been attacks on merchant ships in the Persian Gulf in the past few ye
 ![Iranian Weaponized Underwater Drone UUV](/images/Iran-IRGC-Torpedo-UUV.jpg)  
 
   
-[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)>>> **THE** book on Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**. A world history of naval Special Forces, their missions and their specialist vehicles. SEALs, SBS, COMSUBIN, Sh-13, Spetsnaz, Kampfschwimmers, Commando Hubert, 4RR and many more.  
+[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)
+
+>>> **THE** book on Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**. A world history of naval Special Forces, their missions and their specialist vehicles. SEALs, SBS, COMSUBIN, Sh-13, Spetsnaz, Kampfschwimmers, Commando Hubert, 4RR and many more.  
 [Check it out on Amazon](http://www.amazon.com/dp/1533114870/) [![](/images/Maiale_arrow.png)](http://www.amazon.com/dp/1533114870/)  
 
 So the new weapon may have already been used in real attacks. Or at least will have benefited from the lessons learned.   
@@ -40,8 +44,14 @@ The IRGC went to lengths to prevent the cameras from revealing the new drone's p
 
 The weapon is possibly compatible with the IRGC-N’s midget submarines. Or it could be launched from a boat or merchant ship.   
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_iran.jpg) ![Sub](/images/Fateh250.png) [Iranian Fateh Class]({% post_url 2020-09-16-Fateh-Class_Submarine %}) submarine *w/Cutaway*   
+
 ![Flag](/images/flag_iran.jpg) ![Sub](/images/Nahang250.png) [Iranian Nahang Class]({% post_url 2016-08-28-Nahang%20Class %}) midget sub  
+
 ![Flag](/images/flag_iran.jpg) [![](/images/Iran-XLUUV-250.png)]({% post_url 2020-07-11-Iranian-XLUUV-submarine-drone %}) [Iranian XLUUV]({% post_url 2020-07-11-Iranian-XLUUV-submarine-drone %})  
+
 ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_russia.jpg) ![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_germany.jpg) ![Flag](/images/flag_italy.jpg) ![Flag](/images/flag_france.jpg) ![Flag](/images/flag_japan.jpg) ![Flag](/images/flag_RoK.jpg) ![Flag](/images/flag_india.jpg) ![Flag](/images/flag_China.jpg) ![Flag](/images/flag_iran.jpg) ![Flag](/images/flag_nork.jpg) [![](/images/Torpedoes-250.jpg)]({% post_url 2020-03-20-Guide-to-heavyweight-533mm-torpedoes %}) World guide to [Heavyweight Torpedoes]({% post_url 2020-03-20-Guide-to-heavyweight-533mm-torpedoes %})  

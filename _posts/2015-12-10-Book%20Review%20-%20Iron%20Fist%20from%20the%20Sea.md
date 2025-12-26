@@ -13,13 +13,18 @@ excerpt: "![stars](/images/stars-five.png) South Africa's Seaborne Raiders 1978-
 ---
 
 ![stars](/images/stars-five.png)  **Iron Fist from the Sea**   
+
  **South Africa's Seaborne Raiders 1978-1988**   
 
 ![status6](/images/IronFistFromTheSea.jpg)  
+
   
  By:   
+
 - Col Douw Steyn, 4RR (Ret.)  
+
 - R.Adml Arnè Söderlund (Ret.)  
+
   
 [BUY ON AMAZON](http://www.amazon.com/Iron-Fist-From-The-Sea/dp/1909982288)   
    

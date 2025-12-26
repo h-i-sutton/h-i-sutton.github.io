@@ -9,9 +9,12 @@ excerpt: |-
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
 
 [![](/images/Iran-IRGC-Catamaran-Construction-940.jpg)](/images/Iran-IRGC-Catamaran-Construction.jpg)  
+
 *CLICK to Enlarge.*.  
 
-#Iran Building 4th Missile Catamaran, And New Stealth Version Launched![Flag Iran](/images/flag_iran.jpg) Double OSINT (open source intelligence) news on the IRGC's (Islamic Revolutionary Guard Corp). Analysis of satellite imagery of the Qeshm Madkandaloo Shipbuilding Cooperative Co. shipyard, on the island of Qeshm, suggests that a new Shahid Soleimani class missile corvette is under construction there. This should be the [4th hull of the class](https://www.navalnews.com/naval-news/2021/03/mysterious-ship-in-iranian-shipyard-is-likely-irgcs-new-flagship/). At the same time, the first of [another new class](https://news.usni.org/2022/06/30/potential-new-stealth-missile-boat-under-construction-in-iran) seen there appears to have been launched. This analysis is based on the relative sizes of the two types.   
+# Iran Building 4th Missile Catamaran, And New Stealth Version Launched
+
+![Flag Iran](/images/flag_iran.jpg) Double OSINT (open source intelligence) news on the IRGC's (Islamic Revolutionary Guard Corp). Analysis of satellite imagery of the Qeshm Madkandaloo Shipbuilding Cooperative Co. shipyard, on the island of Qeshm, suggests that a new Shahid Soleimani class missile corvette is under construction there. This should be the [4th hull of the class](https://www.navalnews.com/naval-news/2021/03/mysterious-ship-in-iranian-shipyard-is-likely-irgcs-new-flagship/). At the same time, the first of [another new class](https://news.usni.org/2022/06/30/potential-new-stealth-missile-boat-under-construction-in-iran) seen there appears to have been launched. This analysis is based on the relative sizes of the two types.   
 
 ![Shahid Soleimani class](/images/Iran-Shahid-Soleimani-Catamaran-Torpedo.jpg)  
 
@@ -21,7 +24,12 @@ The design also has two types of VLS (vertical launch system) behind the bridge.
 
 ![Shahid Soleimani class](/images/Iran-IRGC-Shahid-Soleimani-Catamaran-VLS.jpg)  
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_iran.jpg) ![Sub](/images/Fateh250.png) [Iranian Fateh Class]({% post_url 2020-09-16-Fateh-Class_Submarine %}) submarine *w/Cutaway*   
+
 ![Flag](/images/flag_iran.jpg) ![Sub](/images/Nahang250.png) [Iranian Nahang Class]({% post_url 2016-08-28-Nahang%20Class %}) midget sub  
+
 ![Flag](/images/flag_iran.jpg) [![](/images/Iran-XLUUV-250.png)]({% post_url 2020-07-11-Iranian-XLUUV-submarine-drone %}) [Iranian XLUUV]({% post_url 2020-07-11-Iranian-XLUUV-submarine-drone %})  

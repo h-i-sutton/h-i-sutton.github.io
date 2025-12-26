@@ -14,13 +14,87 @@ How well can you tell you the Ukrainian and Russian drones (UAVs) apart? This qu
 
 This quiz needs Javacsript.
 
-↓ click here to start ↓![](images/Russo-Ukraine-War-UAV-Quiz-Header.jpg)  
+
+
+↓ click here to start ↓
+
+![](images/Russo-Ukraine-War-UAV-Quiz-Header.jpg)  
+
 ↑ click here to start ↑
 
-|  |  |  |
-| --- | --- | --- |
-| Which Type of Drone is this? ||  |
+
+
 |  |
+| --- |
+| Which Type of Drone is this? |
+
+|  |
+| --- |
+|  |
+
+|  |
+| --- |
+|  |
+
+
+
+
+
+document.getElementById("quiz_start").onclick = function() {
+
+document.getElementById("quiz_splash").style.display = "none";
+
+document.getElementById("quiz_table").style.display = "block";
+
+image_list_quiz([
+
+"images/Russo-Ukraine-War-UAV-Quiz-1.jpg",
+
+"images/Russo-Ukraine-War-UAV-Quiz-2.jpg",
+
+"images/Russo-Ukraine-War-UAV-Quiz-3.jpg",
+
+"images/Russo-Ukraine-War-UAV-Quiz-4.jpg",
+
+"images/Russo-Ukraine-War-UAV-Quiz-5.jpg",
+
+"images/Russo-Ukraine-War-UAV-Quiz-6.jpg",
+
+"images/Russo-Ukraine-War-UAV-Quiz-7.jpg",
+
+"images/Russo-Ukraine-War-UAV-Quiz-8.jpg",
+
+"images/Russo-Ukraine-War-UAV-Quiz-9.jpg",
+
+"images/Russo-Ukraine-War-UAV-Quiz-10.jpg",
+
+"images/Russo-Ukraine-War-UAV-Quiz-11.jpg"],[
+
+"Bober (Beaver), Ukraine",
+
+"Orlan-10, Russia",
+
+"Shahed-136, Russia (/Iran)",
+
+"Orion, Russia",
+
+"Bayraktar TB2, Ukraine (/Turkey)",
+
+"AQ 400 'Scythe', Ukraine",
+
+"UJ-22 'Airborne', Ukraine",
+
+"UJ-25 'Skyline', Ukraine",
+
+"Lancet, Russia",
+
+"Mohajer-6, Russia (/Iran)",
+
+"A1-CM 'Furia', Ukraine"]);
+
+}
+
+
 
 (You may also like the [Naval Special Forces insignia quiz](unit-insignia-quiz-1.html), but be warned: its hard!)
 

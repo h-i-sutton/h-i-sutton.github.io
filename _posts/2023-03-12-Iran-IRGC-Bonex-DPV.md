@@ -12,7 +12,9 @@ excerpt: "<br clear=\"right\"/><a href=\"/Iran-IRGC-Bonex-DPV.html\"><img align=
   left\"/>"
 ---
 
-#Iran's IRGC Special Forces Using Modern German Underwater Vehicles![Flag Iran](/images/flag_iran.jpg) A recent parade of IRGC (Islamic Revolutionary Guards Corps) equipment in Bandar Abbas revealed some interesting gear. Mostly the parade showed of newly constructed boats including the [unique Zulfiqar class]({% post_url 2023-03-09-Iran-IRGC-Air-Defense-Fast-Boat %}) air defense fast boat. But hiding among some underwater vehicles, next to the [XLUUV demonstrator]({% post_url 2020-07-11-Iranian-XLUUV-submarine-drone %}), was something surprising. A small diver propulsion vehicle (DPV).   
+# Iran's IRGC Special Forces Using Modern German Underwater Vehicles
+
+![Flag Iran](/images/flag_iran.jpg) A recent parade of IRGC (Islamic Revolutionary Guards Corps) equipment in Bandar Abbas revealed some interesting gear. Mostly the parade showed of newly constructed boats including the [unique Zulfiqar class]({% post_url 2023-03-09-Iran-IRGC-Air-Defense-Fast-Boat %}) air defense fast boat. But hiding among some underwater vehicles, next to the [XLUUV demonstrator]({% post_url 2020-07-11-Iranian-XLUUV-submarine-drone %}), was something surprising. A small diver propulsion vehicle (DPV).   
 
 ![IRGC German Bonex DPV](/images/Iran-IRGC-Bonex-DPV.jpg)  
 
@@ -23,8 +25,14 @@ How Iran acquired modern western special forces gear is unclear. The same family
 ![German Bonex DPV](/images/Bonex2.jpg)  
 *Reference images of the same type of DPV in service with German KSK (Kampfschwimmers) special forces.*  
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_germany.jpg) [![](/images/bonex_250.png)]({% post_url 2016-01-29-Bonex%20DPVs%20as%20used%20by%20Kampfschwimmers %}) Bonex [HP and HP Shuttle]({% post_url 2016-01-29-Bonex%20DPVs%20as%20used%20by%20Kampfschwimmers %}) Diver Propulsion Vehicles   
+
 ![Flag](/images/flag_iran.jpg) ![Sub](/images/Nahang250.png) [Iranian Nahang Class]({% post_url 2016-08-28-Nahang%20Class %}) midget sub  
+
 ![Flag](/images/flag_iran.jpg) [![](/images/Iran-XLUUV-250.png)]({% post_url 2020-07-11-Iranian-XLUUV-submarine-drone %}) [Iranian XLUUV]({% post_url 2020-07-11-Iranian-XLUUV-submarine-drone %})  
+
 ![Flag](/images/flag_iran.jpg) ![Sub](/images/Fateh250.png) [Iranian Fateh Class]({% post_url 2020-09-16-Fateh-Class_Submarine %}) submarine *w/Cutaway*   

@@ -15,8 +15,11 @@ Historically underwater weapons have been cumbersome, expensive and rarely neede
 ![DSG technolgy Special Forces diver technoloy - DSG Supercavitating Ammunition](/images/dsgcover.jpg)   
 
 Multi-Environment Ammunition (MEA) is effective as a standard round but can be fired into or out of water, even at a low trajectory of just 2 degrees. As the round moves through the water at over 100 meters per second the shape creates an air bubble (supercavitation) allowing it to move with minimum drag.   
+
 ![DSG technolgy Special Forces diver technoloy - DSG Supercavitating Ammunition](/images/dsg1.jpg)   
+
 ![DSG technolgy Special Forces diver technoloy - DSG Supercavitating Ammunition](/images/dsg2.jpg)   
 
 Underwater range for rifle ammunition is up to 11m for 5.56mm and 22m for 7.62mm rounds which compares to dedicated underwater weapons and fits with the poor viibility experienced in covert ops.  
+
 ![DSG technolgy Special Forces diver technoloy - DSG Supercavitating Ammunition](/images/dsg3.jpg)   

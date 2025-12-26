@@ -7,10 +7,14 @@ excerpt: |-
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
+
 [![](/images/Russia-Crimea-Patrol-Navy-940.jpg)](/images/Russia-Crimea-Patrol-Navy.jpg)  
+
 *CLICK to Enlarge*.  
 
-#OSINT: Indications That Russian Navy Has Shifted Focus In Black Sea![Flag Russia](/images/flag_russia.jpg) Open Source Intelligence (OSINT) increasingly suggests that key elements of the Russian Navy have changed their patrol areas. Remaining warships, notably the Project 11356R Admiral Grigorovich-class frigates, are patrolling off the southern tip of Crimea.   
+# OSINT: Indications That Russian Navy Has Shifted Focus In Black Sea
+
+![Flag Russia](/images/flag_russia.jpg) Open Source Intelligence (OSINT) increasingly suggests that key elements of the Russian Navy have changed their patrol areas. Remaining warships, notably the Project 11356R Admiral Grigorovich-class frigates, are patrolling off the southern tip of Crimea.   
 
 One theory is that this is to protect the Kerch Bridge.  
 
@@ -28,7 +32,12 @@ Russia grain ships are also passing that way, with their controversial cargoes, 
 
 The change also keeps the ships at sea, where they are less of a sitting duck than in Sevastopol. And maybe also the element of looking busy to higher-ups without having to go near Harpoons.   
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/pr09852_250.png)](http://www.hisutton.com{% post_url 2021-06-29-Belgorod-Class-Submarine %}) Project 09852 [Belgorod](http://www.hisutton.com{% post_url 2021-06-29-Belgorod-Class-Submarine %}) Special Mission submarine (spy sub). *w/Cutaway*   
+
 ![Flag](/images/flag_russia.jpg) [![](/images/TYPHOON_250.png)]({% post_url 2020-02-04-The%20REAL%20Red%20October%20-%20Typhoon%20SSBN %}) [TYPHOON Class SSBN]({% post_url 2020-02-04-The%20REAL%20Red%20October%20-%20Typhoon%20SSBN %}). *w/Cutaway*   
+
 ![Flag](/images/flag_russia.jpg) [![](/images/Russia-Oscar-II-250.png)]({% post_url 2019-06-29-OSCAR-II_SSGN %}) Project 949A/AM [OSCAR-II Class]({% post_url 2019-06-29-OSCAR-II_SSGN %}) Cruise Missile Submarine. *w/Cutaway*   

@@ -8,8 +8,12 @@ excerpt: |-
 
 ![Chinese Navy (PLAN) Has Modified Two Type-022 FAC For Special Purpose](/images/China-Type022FAC-pic.jpg)  
 
-#Chinese Navy (PLAN) Has Modified Two Type-022 FAC For Special Purpose![Flag China](/images/flag_China.jpg) Over the past few months two Type-022 missile boats have been converted to a new configuration at the People's Liberation Army Navy's (PLAN) Liaonan Shipyard in Lushun (formerly Port Arthur) in northern China. The vessels have had their distinctive missile bins removed and replaced by a larger box-like structure. This extends further aft than the previous superstructure.   
+# Chinese Navy (PLAN) Has Modified Two Type-022 FAC For Special Purpose
+
+![Flag China](/images/flag_China.jpg) Over the past few months two Type-022 missile boats have been converted to a new configuration at the People's Liberation Army Navy's (PLAN) Liaonan Shipyard in Lushun (formerly Port Arthur) in northern China. The vessels have had their distinctive missile bins removed and replaced by a larger box-like structure. This extends further aft than the previous superstructure.   
+
 ![Chinese Navy (PLAN) Has Modified Two Type-022 FAC For Special Purpose](/images/China-Type-022-FAC-mod-line.jpg)  
+
 *Sketch highlighting visible modifications (orange). Based on original Type-022 profile sketch by Manfred Meyer, [Modern Chinese Maritime Forces Second Edition](https://www.admiraltytrilogy.com/twochina.php).*  
 
 The vessels have been visible in satellite imagery (vicinity 38.80230°, 121.26011°) and earlier leaked photos, but now a clearer photo is available via Chinese social media. This confirms much of the initial analysis based on the satellite imagery.   
@@ -26,8 +30,14 @@ The role of these vessels, and whether more will be converted, remains to be see
 ![Chinese Navy (PLAN) Has Modified Two Type-022 FAC For Special Purpose](/images/China-Type-022-FAC-mod-leak.jpg)  
 *Another image circulated on Chinese social media in early December 2025.*  
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_China.jpg) [![](/images/China-Semi-Sub-250.png)]({% post_url 2025-12-05-Chinese-Semi-Sub %}) China's [semi-submersible trimaran]({% post_url 2025-12-05-Chinese-Semi-Sub %}) possible arsenal ship.   
+
 ![Flag](/images/flag_China.jpg) [![](/images/China-Type-039C-250.png)]({% post_url 2021-07-08-Chinese-Type-039C-Yuan-Class-Submarine %}) Chinese Navy's Advanced Submarine [Type-039C Yuan Class]({% post_url 2021-07-08-Chinese-Type-039C-Yuan-Class-Submarine %}). *w/Cutaway*   
+
 ![Flag](/images/flag_USA.jpg) [![](/images/USN-Semi-Submersible-Torpedo-Boat-250.png)]({% post_url 2025-08-09-USN-Semi-Submerged-Torpedo-Boat %}) U.S. Navy [Semi-Submersible Torpedo Craft]({% post_url 2025-08-09-USN-Semi-Submerged-Torpedo-Boat %})  of World War Two  
+
 [![](/images/ASB_250.png)]({% post_url 2016-09-01-Armored%20Stealth%20Boat %}) [Armored Stealth Boat]({% post_url 2016-09-01-Armored%20Stealth%20Boat %}) used for car smuggling by Chinese organized crime. *w/Cutaway*  

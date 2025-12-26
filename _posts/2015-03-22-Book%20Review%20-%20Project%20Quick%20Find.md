@@ -7,8 +7,11 @@ excerpt: |-
 ---
 
 ![stars](/images/stars-five.png) **Project Quick Find** By Michael P. Wood   
+
 Buy it on [Lulu](http://www.lulu.com/shop/michael-p-wood/project-quick-findmemoirs-of-a-us-navy-seal-training-sea-lions/paperback/product-21984491.html)   
+
 ![Project Quick Find](/images/project_quickFind.jpg)  
+
 Project quick find by Michael Wood is a first-hand account of the US Navy's marine mammal program in the early to mid 1970s. Recruited from his SEAL platoon just as Vietnam was wrapping up, the author was among the first sea lion trainers in the unit (known as 'plank holders'). Most of the trainers were SEALs although the project was more akin to the work done by EOD divers. Obviously all were highly qualified military divers. The sea lions were being trained to retrieve objects from the sea floor at depths that regular divers could not, and more efficiently too. Whatever the newspapers said this was not super secret spy craft and the feat to training animals to perform such challenging tasks should not be diminished in any way. In fact the true story is much more interesting than the myth.  
 
 Memoirs of those who served are an invaluable source of primary historical evidence, generally overcoming the hyperbole and misunderstandings of popular reporting. Wood does a great job of describing some of the technicalities involved to a much greater extent than you'd find in other types of book, and there are some suitably humorous tales along the way.  

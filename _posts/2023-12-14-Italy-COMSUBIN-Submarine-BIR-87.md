@@ -10,7 +10,10 @@ excerpt: |-
 
 ![Italy COMSUBIN Submarine](/images/Italy-COMSUBIN-BIR-87_1.JPG)  
 *Photo via Luca Peruzzi ([Twitter](https://twitter.com/LucaMPeruzzi))*  
-#Previously Unreported Italian Special Forces BIR-87 SDV Seen For First Time![Flag Italy](/images/flag_italy.jpg) Italy's elite naval special forces, COMSUBIN (aka Incursori / GOI), is extremely secretive. And their swimmer delivery vehicles (SDVs) and submarines are among their best kept secrets. Only now, after it has been retired, has the BIR-87 been displayed to the public.   
+
+# Previously Unreported Italian Special Forces BIR-87 SDV Seen For First Time
+
+![Flag Italy](/images/flag_italy.jpg) Italy's elite naval special forces, COMSUBIN (aka Incursori / GOI), is extremely secretive. And their swimmer delivery vehicles (SDVs) and submarines are among their best kept secrets. Only now, after it has been retired, has the BIR-87 been displayed to the public.   
 
 It has been a good year for special forces underwater transport watchers. In June 2023 the Incursori revealed the [AE-90 submarine](http://www.hisutton.com{% post_url 2023-06-02-Italy-COMSUBIN-Submarine %}). Now, on December 12, the **BIR-87** has been revealed.  
 
@@ -29,8 +32,14 @@ The craft can likely be carried in the cradle on Italy's submarines. For this is
 
 This 'new' vehicle has likely been out of service over 10 years, what has replaced it is open to speculation.   
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_italy.jpg) [![](/images/It_DeepShadow_250.png)]({% post_url 2018-11-18-Deep_Shadow_SDV %}) [Deep Shadow SDV]({% post_url 2018-11-18-Deep_Shadow_SDV %})   
+
 ![Flag](/images/flag_italy.jpg) ![Sub](/images/3GST9-250.png) [Maritalia 3GST9 Submarine]({% post_url 2018-05-05-3GST9 %})   
+
 ![Flag](/images/flag_italy.jpg) [![](/images/It_CA-Class_250.png)]({% post_url 2018-11-13-Decima-MAS_attack_on_New-York %}) [Decima MAS attack on New York]({% post_url 2018-11-13-Decima-MAS_attack_on_New-York %}) 1943 (CA Class)  
+
 ![Flag](/images/flag_USA.jpg) [![](/images/SDVmk9_250.png)]({% post_url 2016-08-21-SDV%20Mk9 %}) [SDV Mk.9]({% post_url 2016-08-21-SDV%20Mk9 %}) SEAL Delivery Vehicle. *w/Cutaway*   

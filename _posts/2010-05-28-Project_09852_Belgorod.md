@@ -10,4 +10,5 @@ excerpt: "<font size=\"6\">**Pending: Covert Shores update on Belgorod and Posei
 ---
 
 **Pending: Covert Shores update on Belgorod and Poseidon**  
+
 ![Flag](/images/flag_russia.jpg) Placeholder – expect major updates and fresh analysis in next days or weeks.  

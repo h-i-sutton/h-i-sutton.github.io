@@ -6,9 +6,12 @@ excerpt: |-
   <br clear="right"/><a href="/North-Korean-Submarine-Hero-Kim-Gun-Ok.html"><img align="left" src="/images/DPRK-ROMEO-MOD-Hero-Kim-Gun-ok-317.jpg"/></a> ![Flag DPRK](/images/flag_nork.jpg) North Korea is known for its large fleet of outdated submarines. The backbone of its patrol submarine force are approximately 15-20 ROMEO class boats. They have poor stealth, weak sensors and limited endurance. Yet when competently commanded they still represent a serious threat to shipping.<br/><br/>What is more, North Korea has begun re building them into more more dangerous submarines...<br/>[Read More &gt;....](/North-Korean-Submarine-Hero-Kim-Gun-Ok.html "READ MORE")<br clear="left"/>
 ---
 
-#North Korea's New Missile Submarine: Hero Kim Gun-Ok![Flag DPRK](/images/flag_nork.jpg) North Korea is known for its large fleet of outdated submarines. The backbone of its patrol submarine force are approximately 15-20 ROMEO class boats. They have poor stealth, weak sensors and limited endurance. Yet when competently commanded they still represent a serious threat to shipping. What is more, North Korea has begun re building them into more more dangerous submarines.   
+# North Korea's New Missile Submarine: Hero Kim Gun-Ok
+
+![Flag DPRK](/images/flag_nork.jpg) North Korea is known for its large fleet of outdated submarines. The backbone of its patrol submarine force are approximately 15-20 ROMEO class boats. They have poor stealth, weak sensors and limited endurance. Yet when competently commanded they still represent a serious threat to shipping. What is more, North Korea has begun re building them into more more dangerous submarines.   
 
 [![](/images/DPRK-ROMEO-MOD-Hero-Kim-Gun-ok-Submarine-Cutaway-940.jpg)](/images/DPRK-ROMEO-MOD-Hero-Kim-Gun-ok-Submarine-Cutaway.jpg)  
+
 *Original artwork. CLICK to Enlarge.*  
 
 North Korea launched its first rebuilt ROMEO-Mod submarine, Hero Kim Gun-Ok, on [September 8, 2023](https://www.navalnews.com/naval-news/2023/09/north-koreas-new-submarine-carries-10-nuclear-missiles/). The boat is armed with ten missiles in vertical launch tubes, likely four ballistic and six cruise. These are carried under a distinctive turtle-back extending out behind the sail. The missiles themselves can be considered modern and generally reliable. And they can potentially carry nuclear warheads.  
@@ -25,11 +28,17 @@ In order to add the missiles, an extra hull section has been inserted behind the
 The removed part includes most of the length of the torpedo tubes. So the torpedo tubes are either shorter now, or the torpedo room has been reworked to accommodate the tubes. Maybe the forward torpedoes have been done away with, relying on the aft torpedo room only. One suggestion would be that the heavyweight 533mm (21”) tubes have been replaced by lightweight torpedoes. These could be carried within the shortened tubes. North Korea already uses lightweight torpedoes in the anti-ship role. Whatever the case, the torpedo room is a compromise.  
 
 [![](/images/DPRK-North-Korea-Submarine-Hero-Kim-Gun-ok-launch-940.jpg)](/images/DPRK-North-Korea-Submarine-Hero-Kim-Gun-ok-launch.jpg)  
+
 *CLICK to Enlarge.*  
 
 Hero Kim Gun-Ok is [almost certainly a different submarine](http://www.hisutton.com{% post_url 2023-09-17-North-Korea-Submarines-Compared %}) to the modified Romeo Class boat, Sinpo-C, reported in 2019. That submarine appears to have been modified to carry two or three larger SLBMs. The existence of both modifications suggests a mixed fleet of missile submarines going forward. Some, the Sinpo-C class, would carry the Pukguksong family of strategic missiles, and the Hero Kim Gun-Ok class would be the 'tactical' type.   
 
-________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_nork.jpg) [![](/images/DPRK_Romeo-Mod_250.png)]({% post_url 2019-07-23-ROMEO-Mod_Submarine %}) North Korean  [Modified-Romeo Class]({% post_url 2019-07-23-ROMEO-Mod_Submarine %}) ballistic missile submarine *w/Cutaway*  
+
 ![Flag](/images/flag_nork.jpg) [![](/images/DPRK-Haeil-UUV-250.png)]({% post_url 2023-07-29-North-Korea-Nuclear-Torpedo-Drone %}) North Korea's [Haeil]({% post_url 2023-07-29-North-Korea-Nuclear-Torpedo-Drone %}) and [Haeil-2]({% post_url 2023-04-08-North-Korea-Nuclear-Torpedo-Haeil-2 %}) nuclear armed UUVs   
+
 ![Flag](/images/flag_nork.jpg) [![](/images/Sinpo_250.png) [North Korean Gorae Class SSB]({% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %})]({% post_url 2016-08-27-Analysis%20-%20Sinpo%20Class%20Ballistic%20Missile%20Sub %})

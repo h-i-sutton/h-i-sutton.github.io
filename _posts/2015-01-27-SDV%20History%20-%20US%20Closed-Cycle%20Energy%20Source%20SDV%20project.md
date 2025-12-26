@@ -11,7 +11,9 @@ excerpt: |-
 SEAL Delivery Vehicles (SDVs, aka Swimmer Delivery Vehicles) were ordinarily wet submarines, that is to say that the crew compartment was full of water so the occupants have to wear diving gear at all times. The SEALs were looking for a dry-submersible with diver lock-out capability because it would keep the men warmer and allow much longer missions. This requirement ultimately led to the Advanced SEAL Delivery System (ASDS).   
 
 Perry happened to have just such a design, and it had an advanced propulsion system to boot!  
+
 [![](/images/Perry_art940.jpg)](/images/Perry_art1200.jpg)   
+
 *Orignal Artwork - CLICK for Higher-Resolution*   
   
 
@@ -21,23 +23,35 @@ The Closed-Cycle Energy Source (CCES) was one of two Perry designs which were ro
 The CCES version, as the name implies, would have a motor running on high-pressure propane fueled motor using liquid oxygen as an oxidizer and helium as a diluent. That is all very high tech but it would allow an incredible 300 nautical mile range. The down side to such new technology was that it was unproven, noisy (like a diesel engine in a submarine it needed rubber dampeners) and needed a cryostat plant to keep the gases liquid.   
 
  **Specification**   
+
 Length: 35ft (10.6m) (half the length of the ASDS!!!!)   
+
 Beam: 6ft (1.8m)  
+
 Speed: 10kts (incredibly fast or an SDV)  
+
 Operating depth: 500ft (150m)   
+
 Transit depth (uncrewed, i.e.on a mother submarine)1,300ft (390m)  
+
 Displacement: 17 tons   
+
 Range: 300nm  
+
 Team: 2 crew and 8 SEALs   
+
 Payload: 200lb (900kg)  
   
 
 [![](/images/Perry940.jpg)](/images/Perry1600.jpg)   
+
 *CLICK for Higher-Resolution*   
   
 
 The second version was a lower risk / lower cost proposal with a deep-discharge Lead-Acid battery powerplant. This was similar except that the aft section would be longer making it 43ft (13m) long. Speed was still 10kts but endurance was 'just' 100nm. The electric motor also meant that it was quieter than the propane-powered CCES.   
 
 The DV replacement project dragged on into the post-Cold War era and eventually led to the building of a single Advanced SEAL Delivery System (ASDS). This was much larger and ultimately too adventurous. When it was damaged bvy fire in the 2008 it was written off. It's place has since been taken by much smaller dry SDVs designed by British and Italian experts.   
+
 ![image](/images/PerryASDS.jpg)   
+
 *ASDS mated with USS Greenville (SSN 772). The CCES-SDV would attach in the same way but be much smaller  

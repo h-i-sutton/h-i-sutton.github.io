@@ -11,22 +11,33 @@ excerpt: "<br clear=\"right\"/><a href=\"/Narco-Submarine-Spain-2023-Update.html
 ---
 
 [![](/images/Narco-Submarine-LPV-2023-03-Spain-Compared-940.jpg)](/images/Narco-Submarine-LPV-2023-03-Spain-Compared.jpg)  
+
 *CLICK to Enlarge.*  
 
-#Confirmed: Narco Submarine Discovered In Spain Is Directly Related To 2019 IncidentImages of the narco submarine found in Vilaxoán, Galicia, Spain being lifted [confirm yesterday's analysis](http://www.hisutton.com{% post_url 2023-03-13-Narco-Submarine-Spain-2023 %}). The vessel is directly related to the 2019 incident.   
+# Confirmed: Narco Submarine Discovered In Spain Is Directly Related To 2019 Incident
+
+Images of the narco submarine found in Vilaxoán, Galicia, Spain being lifted [confirm yesterday's analysis](http://www.hisutton.com{% post_url 2023-03-13-Narco-Submarine-Spain-2023 %}). The vessel is directly related to the 2019 incident.   
 
 It is very similar to the one captured in November 2019 in almost every respect. Its distinctive hull shape, stern, cockpit and tow loop are all giveaways to identify the design lineage. This one however has a very slender vessel (VSV) hull however so falls within the LPV-IM-VSV-1 family instead of LPV-IM-14 per the previous one in Galicia.   
 
 ![Narco Submarines](/images/Narco-Submarine-LPV-2023-03-Spain-Update-4.jpg)  
+
 ![Narco Submarines](/images/Narco-Submarine-LPV-2023-03-Spain-Update1.jpg)  
 
 The master boat builder behind these specific designs is one of the leading narco submarine architects. Their designs are noteworthy for their scale and ambition. They are responsible for both of the proven transatlantic narco-submarines, the only VSVs with inboard motors, and the largest narco sub found by the Colombian military.   
 
 ![Narco Submarines](/images/Narco-Submarine-LPV-2023-03-Spain-Update2.jpg)  
+
 ![Narco Submarines](/images/Narco-Submarine-LPV-2023-03-Spain-Update3.jpg)  
 
-____________________________________________________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 [![](/images/NacroSub_250.png)]({% post_url 2020-03-29-Narco%20Subs%20101 %}) [Narco Subs 101]({% post_url 2020-03-29-Narco%20Subs%20101 %}). *w/Cutaway*  
+
 ![Flag](/images/flag_Swiss.jpg) [![](/images/Swiss-Smuggling-sub-250.png)]({% post_url 2021-05-25-Swiss-Pedal-Powered-Smuggling-Submarine %}) The unique [Pedal-powered smuggling submarine]({% post_url 2021-05-25-Swiss-Pedal-Powered-Smuggling-Submarine %}) and other Swiss smuggling subs  
+
 ![Flag](/images/flag_USA.jpg) [![](/images/Moonshine_Sub_250.png)]({% post_url 2019-10-04-Prohibition_Smugglers_Sub %}) Prohibition era [Moonshine smuggler's sub]({% post_url 2019-10-04-Prohibition_Smugglers_Sub %}). *w/Cutaway*  
+
 [![](/images/ASB_250.png)]({% post_url 2016-09-01-Armored%20Stealth%20Boat %}) [Armored Stealth Boat]({% post_url 2016-09-01-Armored%20Stealth%20Boat %}) used for car smuggling by Chinese organized crime. *w/Cutaway*  

@@ -14,11 +14,90 @@ If you like testing yourself with firearms quizzes try these: [Assault Rifle Qui
 
 This quiz needs Javacsript.
 
-↓ click here to start ↓![](images/quiz_UW_start.jpg)  
+
+
+↓ click here to start ↓
+
+![](images/quiz_UW_start.jpg)  
+
 ↑ click here to start ↑
+
+
 
 |  |  |  |
 | --- | --- | --- |
 | Which weapon is this? ||  |  |
+
+
+
+
+
+document.getElementById("quiz_start").onclick = function() {
+
+document.getElementById("quiz_splash").style.display = "none";
+
+document.getElementById("quiz_table").style.display = "block";
+
+image_list_quiz([
+
+"images/guns2-1.png",
+
+"images/guns2-2.png",
+
+"images/guns2-3.png",
+
+"images/guns2-4.png",
+
+"images/guns2-5.png",
+
+"images/guns2-6.png",
+
+"images/guns2-7.png",
+
+"images/guns2-8.png",
+
+"images/guns2-9.png",
+
+"images/guns2-10.png",
+
+"images/guns2-11.png",
+
+"images/guns2-12.png",
+
+"images/guns2-13.png",
+
+"images/guns2-14.png"],[
+
+"Sterling Mk5 (L34A1) suppressed SMG, United Kingdom",
+
+"SPP-1 underwater pistol, Russia",
+
+"Heckler & Koch P11 underwater pistol, Germany",
+
+"Welrod Suppressed pistol, United Kingdom",
+
+"Carl Gustav m/45 ('Swedish-K') SMG, Sweden",
+
+"Stoner-63 LMG, United States",
+
+"Self-Suppressed Unit (SSU) underwater gun, Yugoslavia",
+
+"APS underwater rifle, Russia",
+
+"DP-64 anti-saboteur grenade launcher, Russia",
+
+"FN SCAR-H assault rifle, Belgium",
+
+"Mk1 Underwater Defense Gun, United States",
+
+"ASM-DT amphibious rifle, Russia",
+
+"Heckler & Koch MP5-SD suppressed SMG, Germany",
+
+"Heckler & Koch MP7 SMG,Germany"]);
+
+}
+
+
 
 ([all corrections welcome](pages/about.html))   

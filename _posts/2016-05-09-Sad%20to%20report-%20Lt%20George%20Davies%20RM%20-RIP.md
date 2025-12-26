@@ -29,6 +29,7 @@ Davies took part in Operation DEFRAUD launched on 18th April 1945. The mission w
 At 2300Hrs on 18th April 1945 the canoes and intruder were launched from the submarine 4 miles west of Mt. Edgecombe. Ropes were thrown between the boats and they were taken in tow by the submarine’s periscope, to a point approximately 2000 yards offshore. The canoes slipped stealthily towards the shore but the spare Intruder, intended as a decoy, inextricably inflated as they paddled towards the shore, creating a racket.   
 
 At about 110 yards offshore the leader and another swimmer (Cpl Edge) left one of the canoes and conducted a recce. They found footprints and signs of recent activity. When the full party landed they scoured the beach, stalked a tree they thought was a sentry and generally looked for mischief. With none being found they reluctantly made an exit, with Major Breen remaining longer and firing shots in an attempt to draw a Japanese patrol, They were out of luck. They left without major incident. The mission did not achieve its fighting patrol aim, but it did likely succeed in the Intelligence gathering and deception objectives.   
+
   
 
 A couple of months later Davies was again operating behind enemy lines, being a member of Operations DECLARE and SUBTRACT. These involved the planting of supply caches on deserted islands in the Malacca Strait for the future use of down allied airmen. For these operations teams from Det 385 were inserted by Catalina flying boats.   

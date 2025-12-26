@@ -28,7 +28,29 @@ excerpt: "<font size=\"6\">**Recent articles for Naval News**</font> <br/><a hre
 
 **Recent articles for Naval News**   
 
-[![](/images/Naval-News-Oct2020-1.jpg)](https://www.navalnews.com/naval-news/2020/10/pakistans-new-chinese-aip-submarines-image-shows-karachi-site/)**Pakistan’s New Type-039B AIP Submarines: Image Shows Shipyard Expansion**  
+[![](/images/Naval-News-Oct2020-1.jpg)](https://www.navalnews.com/naval-news/2020/10/pakistans-new-chinese-aip-submarines-image-shows-karachi-site/)
+
+**Pakistan’s New Type-039B AIP Submarines: Image Shows Shipyard Expansion**  
   
+
 New construction halls and dry dock in Karachi are taking shape. Although official details are scarce, we understand that the new site will be for the local construction of Type-039B AIP submarines for the Pakistan Navy.  
+
 [READ MORE](https://www.navalnews.com/naval-news/2020/10/pakistans-new-chinese-aip-submarines-image-shows-karachi-site/)  
+
+  
+
+[![](/images/Naval-News-Oct2020-2.jpg)](https://www.navalnews.com/naval-news/2020/10/unusual-submarine-likely-to-increase-threat-from-north-korea/)**Unusual Submarine Likely To Increase Threat From North Korea**  
+  
+
+The World’s only operational conventionally powered ballistic missile submarine (SSB) may soon emerge in North Korea...  
+
+[READ MORE](https://www.navalnews.com/naval-news/2020/10/unusual-submarine-likely-to-increase-threat-from-north-korea/)  
+
+  
+
+[![](/images/Naval-News-Oct2020-3.jpg)](https://www.navalnews.com/naval-news/2020/09/new-intelligence-chinese-copy-of-us-navys-sea-hunter-usv/)**New Intelligence: Chinese Copy Of US Navy’s Sea Hunter USV**  
+  
+
+A candid photograph posted on Chinese social media sheds light on a Chinese project to develop a drone-ship similar to the U.S. Navy’s Sea Hunter. The trimaran is remarkably similar to the Sea Hunter in almost every respect...  
+
+[READ MORE](https://www.navalnews.com/naval-news/2020/09/new-intelligence-chinese-copy-of-us-navys-sea-hunter-usv/)  

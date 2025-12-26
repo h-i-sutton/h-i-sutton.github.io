@@ -7,18 +7,35 @@ excerpt: |-
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  
+
 ![Navy Myanmar](/images/Myanmar-Navy-Inlay-Class.jpg)  
 
-#OSINT: First Images Of New Inlay Class Warship For Myanmar NavyThe arrival of a Chinese [Type-035 Ming Class submarine in Myanmar](http://www.hisutton.com{% post_url 2021-12-24-Chinese-Submarine-In-Myanmar %}) has brought a brief moment of renewed interest in the country's navy. I have been meaning to do a Covert Shores guide of the fascinating and largely home-grown navy, but it will take time. Images of the new submarine, now UMS Minye Kyaw Htin, show another new warship.   
+# OSINT: First Images Of New Inlay Class Warship For Myanmar Navy
+
+The arrival of a Chinese [Type-035 Ming Class submarine in Myanmar](http://www.hisutton.com{% post_url 2021-12-24-Chinese-Submarine-In-Myanmar %}) has brought a brief moment of renewed interest in the country's navy. I have been meaning to do a Covert Shores guide of the fascinating and largely home-grown navy, but it will take time. Images of the new submarine, now UMS Minye Kyaw Htin, show another new warship.   
 
 This one, with the number 53, is locally built. The vessel is smaller than the expect Project FF-135 frigate. Additionally the number on the side lacks the F prefix Myanmar normally paints on frigates.   
 
 Analysis confirms that it is the second Inlay-class offshore patrol vessel. Confusingly its hull number, 53, is lower than the lead boat, 54. This matches two ships observed under construction in 2020.  
+
 [![](/images/Myanmar-Navy-Inlay-Class-Sat-940.jpg)](/images/Myanmar-Navy-Inlay-Class-Sat.jpg)  
+
 *CLICK to enlarge*.  
 
 **IMPORTANT CAVEAT**: I have not been able to confirm that the vessel '53' is specifically the one highlighted. But circumstantial evidence, at this stage, is strong.   
 
   
-[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)>>> **THE** book on Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**. A world history of naval Special Forces, their missions and their specialist vehicles. SEALs, SBS, COMSUBIN, Sh-13, Spetsnaz, Kampfschwimmers, Commando Hubert, 4RR and many more.  
+[![](/images/Book_cover_150.jpg)](http://www.amazon.com/dp/1533114870/)
+
+>>> **THE** book on Special Forces subs **[Covert Shores](http://www.amazon.com/dp/1533114870/)** **2nd Edition**. A world history of naval Special Forces, their missions and their specialist vehicles. SEALs, SBS, COMSUBIN, Sh-13, Spetsnaz, Kampfschwimmers, Commando Hubert, 4RR and many more.  
 [Check it out on Amazon](http://www.amazon.com/dp/1533114870/) [![](/images/Maiale_arrow.png)](http://www.amazon.com/dp/1533114870/)  
+
+________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
+![Flag](/images/flag_China.jpg) [![](/images/China-Type-039C-250.png)]({% post_url 2021-07-08-Chinese-Type-039C-Yuan-Class-Submarine %}) Chinese Navy's Advanced Submarine [Type-039C Yuan Class]({% post_url 2021-07-08-Chinese-Type-039C-Yuan-Class-Submarine %}). *w/Cutaway*   
+
+![Flag](/images/flag_China.jpg) [![](/images/CN_Sailless250.png)]({% post_url 2019-10-08-China_Sailless_Submarine %}) Chinese [Sailless Submarine]({% post_url 2019-10-08-China_Sailless_Submarine %})  
+
+![Flag](/images/flag_China.jpg) [![](/images/Cn_sea-wing-250.png)]({% post_url 2021-01-12-Chinese-Sea-Wing-Submarine-Drone %}) Chinese [Sea Wing UUV (Glider)]({% post_url 2021-01-12-Chinese-Sea-Wing-Submarine-Drone %})  

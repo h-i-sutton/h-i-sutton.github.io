@@ -13,11 +13,13 @@ excerpt: "<font size=\"6\">**What a submarine might look like in 20 years time**
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  
 
 **What a submarine might look like in 20 years time**   
+
 *Originally posted on [Forbes](https://www.forbes.com/sites/hisutton/2020/08/14/what-the-ultimate-submarine-could-look-like-in-20-years/), here with full-size cutaway.*  
 
 The U.S. Navy’s Virginia Class fast attack submarines are ruthlessly efficient war machines, the apex predators of the deep. Yet their general appearance and many aspects of their design have a direct lineage back to the 1950s. The same can be said of British and Russian subs. However, a range of new technologies could allow radically different submarines in the future.  
 
 *Original illustration. CLICK for high-resolution image.*  
+
 [![](/images/FutureSub-2040-Cutaway-940.jpg)](/images/FutureSub-2040-Cutaway.jpg)   
 
 The U.S. Navy wants its next submarine, the SSN(X), to be bigger and faster than the current Virginia Class boats. The Royal Navy’s SSN(R) and Chinese Navy’s Type-095 Class boats will likely follow generally similar thinking. So what are the trends and technologies which could revolutionize the next generation of submarine?   
@@ -29,7 +31,9 @@ Another way that it will carry more weapons is because some of them will be smal
 The small AUVs carried aboard will be used to extend the sensor reach of the submarine. Steve Hall, CEO of Society for Underwater Technology (SUT), told me that he "can easily see that expensive submarines with a human crew on board may stay silent and deep, deploying or remote-controlling a variety of air, surface and submerged autonomous or semi-autonomous systems.”   
 
   
-[![](/images/Book_WorldSubsCover175.jpg)](https://www.amazon.com/dp/1541392302)>>>Get *The* essential guide to  **[World Submarines](https://www.amazon.com/dp/1541392302)**  
+[![](/images/Book_WorldSubsCover175.jpg)](https://www.amazon.com/dp/1541392302)
+
+>>>Get *The* essential guide to  **[World Submarines](https://www.amazon.com/dp/1541392302)**  
 This **Covert Shores Recognition Guide**  Covers over 80 classes of submarines including all types currently in service with World Navies.  
 [![](/images/Book_Walrus400.png)](https://www.amazon.com/dp/1541392302)[Check it out on Amazon](https://www.amazon.com/dp/1541392302)  
 
@@ -48,7 +52,9 @@ They will also benefit from Virtual Reality or holographic displays of the 3D ba
 These technologies will also change how a submarine ‘sees’ in the dark of the ocean. Aaron Amick who runs the Sub Brief channel told me that sonar is undergoing a dramatic evolution at the moment. He believes three significant changes are coming to sonar in the next 20 years: “Better materials, mobile drone arrays, and artificial intelligent operators.” For materials, “thousands of synthetic acoustic sensors will create an acoustic advantage, unlike anything we have seen before.”   
 
   
-[![](/images/Narco-Sub0book-cover.jpg)](https://www.amazon.com/dp/B086G11WMM)>>>The World's **ONLY** Guide to   
+[![](/images/Narco-Sub0book-cover.jpg)](https://www.amazon.com/dp/B086G11WMM)
+
+>>>The World's **ONLY** Guide to   
 **Narco Submarines**  
 10 years of research, analyzing over 160 incidents, condensed into a handy guide. This unique book systematically breaks down the types and families. With detailed taxonomy, recognition 3-views, profiles and photos. [Available on Amazon](https://www.amazon.com/dp/B086G11WMM)   
 [![](/images/Narco-Sub-book-profile.jpg)](https://www.amazon.com/dp/B086G11WMM)  
@@ -62,16 +68,30 @@ How the submarines of the future will be powered is harder to speculate about. L
 
 But the power potential of nuclear propulsion will remain attractive to those countries which have it. Especially if you want to have a high-power laser firing out of the periscope. If you want to make a long bet on the ultimate submarine of 2040, maybe it will have new nuclear fusion power plants like those proposed by Lockheed Martin.   
 
-______________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+______________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_france.jpg) [![](/images/Fr_SMX31_250.png)]({% post_url 2018-11-13-SMX-31 %}) [SMX-31]({% post_url 2018-11-13-SMX-31 %}) future submarine concept ('The Electric') *w/Cutaway*  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/HUSKY_250.png)]({% post_url 2019-12-30-Husky_SSN %}) [HUSKY Class]({% post_url 2019-12-30-Husky_SSN %}) future attack submarine   
+
 ![Flag](/images/flag_UK.jpg) [![](/images/SSNR_250.png)]({% post_url 2018-12-29-Royal_Navy_Submarine_SSN-R %}) British [SSN(R)]({% post_url 2018-12-29-Royal_Navy_Submarine_SSN-R %}) next generation Royal Navy SSN  
+
 ![Flag](/images/flag_China.jpg) [![](/images/CN_Sailless250.png)]({% post_url 2019-10-08-China_Sailless_Submarine %}) Chinese [Sailless Submarine]({% post_url 2019-10-08-China_Sailless_Submarine %})  
+
 ![Flag](/images/flag_russia.jpg) [![](/images/pr09852_250.png)]({% post_url 2019-10-18-Spy%20Subs%20-Project%2009852%20Belgorod %}) Project 09852 [Belgorod]({% post_url 2019-10-18-Spy%20Subs%20-Project%2009852%20Belgorod %}) Special Mission submarine (spy sub). *w/Cutaway*   
+
 ![Flag](/images/flag_russia.jpg) [![](/images/TYPHOON_250.png)]({% post_url 2020-02-04-The%20REAL%20Red%20October%20-%20Typhoon%20SSBN %}) [TYPHOON Class SSBN]({% post_url 2020-02-04-The%20REAL%20Red%20October%20-%20Typhoon%20SSBN %}). *w/Cutaway*   
+
 ![Flag](/images/flag_sweden.jpg) [![](/images/Swe_A26_250.png)]({% post_url 2018-04-11-A26 %}) [A-26 Blekinge Class]({% post_url 2018-04-11-A26 %}) attack submarine. *w/Cutaway*  
+
 ![Flag](/images/flag_sweden.jpg) [![](/images/Swe_Ub2000_250.png)]({% post_url 2019-01-03-Sweden_A21_Flundran_submarine %}) Swedish [A21 Flundran]({% post_url 2019-01-03-Sweden_A21_Flundran_submarine %}) AIP attack submarine  
+
 ![Flag](/images/flag_USA.jpg) [![](/images/USN_XLUUV_25.png)]({% post_url 2019-10-20-USN_XLUUV %}) [XLUUV]({% post_url 2019-10-20-USN_XLUUV %}) armed extra-large UUV   
+
 ![Flag](/images/flag_sweden.jpg) [![](/images/Swe_Porpoise_250.png)]({% post_url 2017-05-14-Porpoise_1000 %}) [Porpoise]({% post_url 2017-05-14-Porpoise_1000 %}) submarine concept (*/Fredrik Granholm*)   
+
 ![Flag](/images/flag_USA.jpg) [![](/images/USN-SS_250.png)]({% post_url 2017-03-27-USN_Diesel-Sub %}) [Unofficial USN Diesel Submarine concept]({% post_url 2017-03-27-USN_Diesel-Sub %}). *w/Cutaway*  
+
 [![](/images/FutureSubConcept_250.png)]({% post_url 2018-12-03-Concept_Submarine2 %}) [Future Submarine Concept]({% post_url 2018-12-03-Concept_Submarine2 %})  

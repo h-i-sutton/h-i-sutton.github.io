@@ -6,9 +6,12 @@ excerpt: |-
   <br clear="right"/><a href="/Russian-Sargan-Maritime-Drone.html"><img align="left" src="/images/Russia-USV-Sargan-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) A group from Sevastopol has displayed a new uncrewed surface vessel, the Sargan, at the St. Petersburg International Economic Forum (SPIEF).<br/><br/>The 'Sargan' vehicle has clear influences from Ukraine's 'maritime drones'. These have been attacking the Russian Navy in Sevastopol since October 2022...<br/>[Read More &gt;....](/Russian-Sargan-Maritime-Drone.html "READ MORE")<br clear="left"/>
 ---
 
-#Russia's Copy Of Ukraine's Maritime Drones: Sargan USV![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) They say that imitation is the sincerest form of flattery. A group from Sevastopol has displayed a new uncrewed surface vessel, the Sargan, at the St. Petersburg International Economic Forum (SPIEF), as noticed by uncrewed systems expert at CNA (Center for Naval Analyses), Samuel Bendett ([Twitter](https://twitter.com/sambendett/status/1670514152010403842)). The 'Sargan' vehicle has clear influences from Ukraine's 'maritime drones'. These have been attacking the Russian Navy in Sevastopol since October 2022. Sargan (Сарган) means Garfish, a long and slender predatory fish with an extremely pointed snout.   
+# Russia's Copy Of Ukraine's Maritime Drones: Sargan USV
+
+![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) They say that imitation is the sincerest form of flattery. A group from Sevastopol has displayed a new uncrewed surface vessel, the Sargan, at the St. Petersburg International Economic Forum (SPIEF), as noticed by uncrewed systems expert at CNA (Center for Naval Analyses), Samuel Bendett ([Twitter](https://twitter.com/sambendett/status/1670514152010403842)). The 'Sargan' vehicle has clear influences from Ukraine's 'maritime drones'. These have been attacking the Russian Navy in Sevastopol since October 2022. Sargan (Сарган) means Garfish, a long and slender predatory fish with an extremely pointed snout.   
 
 It has high level of maneuverability with a turning radius of just 4-5 meters, and is self-righting if it capsizes.  
+
 ![Russian maritime drone USV Sargan](/images/Russia-USV-Sargan-model.jpg)  
 *Model on display.*  
 
@@ -29,8 +32,14 @@ Although its intend role is vague, its small size and lack of satellite communic
 
 This is likely not an operational type, rather a patriotic project hoping for government funding. The biggest take-away at this point is that, despite their limited impact in the kinetic sense, Ukraine's maritime drones are having an impact on Russian thinking.   
 
-______________**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+______________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
 ![Flag](/images/flag_ukraine.jpg) [![](/images/Ukraine-USV-250.png)]({% post_url 2022-11-11-Ukraine-Maritime-Drones %}) Ukraine's [Maritime Drones (USVs)]({% post_url 2022-11-11-Ukraine-Maritime-Drones %})  
+
 ![Flag](/images/flag_UK.jpg) ![Sub](/images/Royal-Navy-Manta-250.png) Royal Navy [Manta XLUUV]({% post_url 2021-05-22-Royal-Navy-Manta-XLUUV %}) extra-large UUV  
+
 ![Flag](/images/flag_USA.jpg) [![](/images/USN_XLUUV_25.png)]({% post_url 2019-10-20-USN_XLUUV %}) [XLUUV]({% post_url 2019-10-20-USN_XLUUV %}) armed extra-large UUV   
+
 ![Flag](/images/flag_nork.jpg) [![](/images/North-Korea-Haeil-2-250.png)]({% post_url 2023-04-08-North-Korea-Nuclear-Torpedo-Haeil-2 %}) North Korea's [Haeil-2]({% post_url 2023-04-08-North-Korea-Nuclear-Torpedo-Haeil-2 %}) nuclear armed UUV   
