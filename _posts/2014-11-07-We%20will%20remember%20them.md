@@ -1,0 +1,46 @@
+---
+layout: post
+title: "We will remember them"
+date: "2014-11-07 10:00:00"
+excerpt: .<a href="/We will remember them.html"><img src="/images/poppiestower.jpg"/></a>
+...
+
+---
+![Poppy](/images/poppyfield.jpg)
+
+
+
+ *In Flanders fields the poppies blow*
+
+Between the crosses, row on row,  
+
+That mark our place; and in the sky   
+
+The larks, still bravely singing, fly   
+
+Scarce heard amid the guns below.   
+   
+
+We are the Dead. Short days ago   
+
+We lived, felt dawn, saw sunset glow,   
+
+Loved and were loved, and now we lie,   
+
+In Flanders fields.   
+   
+
+Take up our quarrel with the foe:   
+
+To you from failing hands we throw   
+
+The torch; be yours to hold it high.   
+
+If ye break faith with us who die   
+
+We shall not sleep, though poppies grow   
+
+In Flanders fields. 
+
+**In Flanders Fields**    
+John McCrea, 1917
