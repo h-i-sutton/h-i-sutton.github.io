@@ -13,7 +13,7 @@ excerpt: "<font size=\"6\">**Appeal**</font><br clear=\"right\"/>The sense of lo
   \ target=\"blank\">WORLD SUBMARINES: Covert Shores Recognition Guide</a> for larger\
   \ donations \u2013 see above links for details of this and other offers....  [Read\
   \ More &gt;....](/ARA_San_Juan.html \"READ MORE\")<br/><a href=\"/ARA_San_Juan.html\"\
-  ><img src=\"/images/SanJuan.jpg\"/></a>"
+  ><img loading=\"lazy\" src=\"/images/SanJuan.jpg\"/></a>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Appeal**    

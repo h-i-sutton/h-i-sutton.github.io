@@ -3,7 +3,7 @@ layout: post
 title: "Book review - Americas Hidden Heroes"
 date: "2015-08-23 11:00:00"
 excerpt: |-
-  ![stars](/images/stars-five.png) Refreshingly not another populist SEAL worship book but a serious history written by a real SEAL officer. [Read More &gt;....](/Book review - Americas Hidden Heroes.html "READ MORE")<br/><a href="/Book review - Americas Hidden Heroes.html"><img src="/images/AmericasHiddenheroes.jpg"/></a>
+  ![stars](/images/stars-five.png) Refreshingly not another populist SEAL worship book but a serious history written by a real SEAL officer. [Read More &gt;....](/Book review - Americas Hidden Heroes.html "READ MORE")<br/><a href="/Book review - Americas Hidden Heroes.html"><img loading="lazy" src="/images/AmericasHiddenheroes.jpg"/></a>
 ---
 
 ![stars](/images/stars-five.png)   

@@ -3,7 +3,7 @@ layout: post
 title: "Underwater-Defence-Security-UDS-2020"
 date: "2020-01-19 23:00:00"
 excerpt: |-
-  <font size="5">**UNDERWATER DEFENCE &amp; SECURITY (UDS) 2020**</font> <br/> 3 - 5 MARCH 2020, SOUTHAMPTON, UK... [Read More &gt;....](/Underwater-Defence-Security-UDS-2020.html "READ MORE")<br/><a href="/Underwater-Defence-Security-UDS-2020.html"><img src="/images/UDS2020-900.jpg"/></a><br clear="right"/>
+  <font size="5">**UNDERWATER DEFENCE &amp; SECURITY (UDS) 2020**</font> <br/> 3 - 5 MARCH 2020, SOUTHAMPTON, UK... [Read More &gt;....](/Underwater-Defence-Security-UDS-2020.html "READ MORE")<br/><a href="/Underwater-Defence-Security-UDS-2020.html"><img loading="lazy" src="/images/UDS2020-900.jpg"/></a><br clear="right"/>
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

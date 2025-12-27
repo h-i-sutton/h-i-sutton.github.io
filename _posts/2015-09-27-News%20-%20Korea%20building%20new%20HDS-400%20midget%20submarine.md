@@ -3,7 +3,7 @@ layout: post
 title: "News - Korea building new HDS-400 midget submarine"
 date: "2015-09-27 11:00:00"
 excerpt: |-
-  ![Flag](/images/flag_RoK.jpg) A few years ago South Korean submarine builder Hyundai unveiled the stunning HDS-500 midget submarine design. This week Janes' reported that Hyundai had begun constructon of a 40m long midget submarine for an undisclosed customer. [Read More &gt;....](/News - Korea building new HDS-400 midget submarine.html "READ MORE")<br/><a href="/News - Korea building new HDS-400 midget submarine.html"><img src="/images/KSS500_900.jpg"/></a>
+  ![Flag](/images/flag_RoK.jpg) A few years ago South Korean submarine builder Hyundai unveiled the stunning HDS-500 midget submarine design. This week Janes' reported that Hyundai had begun constructon of a 40m long midget submarine for an undisclosed customer. [Read More &gt;....](/News - Korea building new HDS-400 midget submarine.html "READ MORE")<br/><a href="/News - Korea building new HDS-400 midget submarine.html"><img loading="lazy" src="/images/KSS500_900.jpg"/></a>
 ---
 
 Updated article from September 2019 [Updated article >....]({% post_url 2019-09-14-HDS-400_Midget-Submarine %} "HERE")  

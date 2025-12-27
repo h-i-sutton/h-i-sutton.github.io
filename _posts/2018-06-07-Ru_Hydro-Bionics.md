@@ -6,8 +6,8 @@ excerpt: " <font size=\"6\">**Soviet Hydro-Bionics**</font><br/> ![Flag](/images
   \ Bio-mimic submarine technology, when underwater vehicles use propulsion mechanisms\
   \ inspired by marine wildlife instead of the propellers (\u2018screws\u2019) is\
   \ a hot topic. But it is not as new as you might think...  [Read More &gt;....](/Ru_Hydro-Bionics.html\
-  \ \"READ MORE\")<br/><a href=\"/Ru_Hydro-Bionics.html\"><img src=\"/images/Ru_hydrobionics_torp900.jpg\"\
-  /></a><br/>"
+  \ \"READ MORE\")<br/><a href=\"/Ru_Hydro-Bionics.html\"><img loading=\"lazy\" src=\"\
+  /images/Ru_hydrobionics_torp900.jpg\"/></a><br/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Soviet Hydro-Bionics**   

@@ -3,7 +3,7 @@ layout: post
 title: "The World's First Nuclear Submarine: USS Nautilus (SSN-571)"
 date: "2021-08-12 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/USS-Naultius-First-Nuclear-Submarine.html"><img align="left" src="/images/US-Navy-USS-Nautilus-317.jpg"/></a>![Flag](/images/flag_USA.jpg) The USS Nautilus ushered in the age of the nuclear submarine, and overnight transformed naval warfare. It is undeniably one of the most influential submarines ever.<br/>[Read More &gt;....](/USS-Naultius-First-Nuclear-Submarine.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/USS-Naultius-First-Nuclear-Submarine.html"><img align="left" loading="lazy" src="/images/US-Navy-USS-Nautilus-317.jpg"/></a>![Flag](/images/flag_USA.jpg) The USS Nautilus ushered in the age of the nuclear submarine, and overnight transformed naval warfare. It is undeniably one of the most influential submarines ever.<br/>[Read More &gt;....](/USS-Naultius-First-Nuclear-Submarine.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

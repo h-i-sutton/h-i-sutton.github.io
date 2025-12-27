@@ -3,14 +3,15 @@ layout: post
 title: "Bad Jizz: New Generation Of Narco Submarine Builders Present A Problem"
 date: "2021-11-01 11:00:00"
 excerpt: "<br clear=\"right\"/><a href=\"/New-Generation-Of-Narco-Submarines.html\"><img align=\"\
-  left\" src=\"/images/Narco-Sub-US-Court-Case-317.jpg\"/></a>In popular imagination\
-  \ the story of narco submarines is largely shaped by the exceptions, the unusual\
-  \ vessels and unique circumstances which make headlines. The ones that are the biggest,\
-  \ most sophisticated, which turn up in unlikely places, use disguises or are chased\
-  \ down by sailing ships. Yet the real story, from the analyst\u2019s perspective,\
-  \ is one of trends. <br/><br/>We are seeing a shift in narco submarine production,\
-  \ a new epoch. It\u2019s getting harder to classify them.<br/>[Read More &gt;....](/New-Generation-Of-Narco-Submarines.html\
-  \ \"READ MORE\")<br clear=\"left\"/>"
+  left\" loading=\"lazy\" src=\"/images/Narco-Sub-US-Court-Case-317.jpg\"/></a>In\
+  \ popular imagination the story of narco submarines is largely shaped by the exceptions,\
+  \ the unusual vessels and unique circumstances which make headlines. The ones that\
+  \ are the biggest, most sophisticated, which turn up in unlikely places, use disguises\
+  \ or are chased down by sailing ships. Yet the real story, from the analyst\u2019\
+  s perspective, is one of trends. <br/><br/>We are seeing a shift in narco submarine\
+  \ production, a new epoch. It\u2019s getting harder to classify them.<br/>[Read\
+  \ More &gt;....](/New-Generation-Of-Narco-Submarines.html \"READ MORE\")<br clear=\"\
+  left\"/>"
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

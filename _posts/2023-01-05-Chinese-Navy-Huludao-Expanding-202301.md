@@ -3,7 +3,7 @@ layout: post
 title: "Further Expansion Of China's Nuclear Submarine Shipyard"
 date: "2023-01-05 10:00:00"
 excerpt: |-
-  <br/><br clear="right"><a href="/Chinese-Navy-Huludao-Expanding-202301.html"><img align="left" src="/images/China-Huludao-New-Harbor-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) In recent years China has been rapidly increasing its warship building capacity. This includes a major expansion of the Huludao (Bohai) shipyard on the Bohai Sea in northern China.<br/><br/>Now a new harbor is being added, possibly to accommodate the increased production of nuclear submarines...<br/>[Read More &gt;....](/Chinese-Navy-Huludao-Expanding-202301.html "READ MORE")<br clear="left"/></br>
+  <br/><br clear="right"><a href="/Chinese-Navy-Huludao-Expanding-202301.html"><img align="left" loading="lazy" src="/images/China-Huludao-New-Harbor-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) In recent years China has been rapidly increasing its warship building capacity. This includes a major expansion of the Huludao (Bohai) shipyard on the Bohai Sea in northern China.<br/><br/>Now a new harbor is being added, possibly to accommodate the increased production of nuclear submarines...<br/>[Read More &gt;....](/Chinese-Navy-Huludao-Expanding-202301.html "READ MORE")<br clear="left"/><br/>
 ---
 
 [![](/images/China-Huludao-New-Harbor-940.jpg)](/images/China-Huludao-New-Harbor.jpg)  

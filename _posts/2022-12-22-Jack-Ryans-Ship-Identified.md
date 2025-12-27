@@ -3,7 +3,7 @@ layout: post
 title: "OSINT-Versus-Fiction: Jack Ryan's Ship Identified"
 date: "2022-12-22 09:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Jack-Ryans-Ship-Identified.html"><img align="left" src="/images/Jack-Ryan-Sevastopol-Ship_identified-317.jpg"/></a> Tom Clancy's Jack Ryan is now in series 3 on Amazon Prime. Twitter user @legitloginname noticed that the show used satellite imagery of Sevastopol in one of its episodes. It is supposed to show a  cargo ship. Of course, many in the defense and OSINT communities will instantly recognize which class of ship it actually is...<br/>[Read More &gt;....](/Jack-Ryans-Ship-Identified.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Jack-Ryans-Ship-Identified.html"><img align="left" loading="lazy" src="/images/Jack-Ryan-Sevastopol-Ship_identified-317.jpg"/></a> Tom Clancy's Jack Ryan is now in series 3 on Amazon Prime. Twitter user @legitloginname noticed that the show used satellite imagery of Sevastopol in one of its episodes. It is supposed to show a  cargo ship. Of course, many in the defense and OSINT communities will instantly recognize which class of ship it actually is...<br/>[Read More &gt;....](/Jack-Ryans-Ship-Identified.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

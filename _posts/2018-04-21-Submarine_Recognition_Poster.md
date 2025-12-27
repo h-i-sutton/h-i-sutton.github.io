@@ -3,7 +3,7 @@ layout: post
 title: "Submarine_Recognition_Poster"
 date: "2018-04-21 12:00:00"
 excerpt: |-
-  <font size="6">**Submarine Recognition poster**</font><br/> Essential reference for Journalists and surface navy alike.... <br/><a href="/Submarine_Recognition_Poster.html"><img src="/images/SM_recognition_v2_250.jpg"/></a><br clear="right"/>
+  <font size="6">**Submarine Recognition poster**</font><br/> Essential reference for Journalists and surface navy alike.... <br/><a href="/Submarine_Recognition_Poster.html"><img loading="lazy" src="/images/SM_recognition_v2_250.jpg"/></a><br clear="right"/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)

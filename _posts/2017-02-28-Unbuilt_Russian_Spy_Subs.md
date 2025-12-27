@@ -12,8 +12,8 @@ excerpt: "<font size=\"6\">**Multifunctional underwater station (MPS)**</font> <
   \ presented as a civilian platform the design gives us good insight into the Russian\
   \ \u2018deep station\u2019 spy submarines operated by GUGI (Main Directorate of\
   \ Deep-Sea Research, Military Unit 40056)... [Read More &gt;....](/Unbuilt_Russian_Spy_Subs.html\
-  \ \"READ MORE\")<br/><a href=\"/Unbuilt_Russian_Spy_Subs.html\"><img src=\"/images/Ru_GUGI_900.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><a href=\"/Unbuilt_Russian_Spy_Subs.html\"><img loading=\"\
+  lazy\" src=\"/images/Ru_GUGI_900.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 **Multifunctional underwater station (MPS)**   

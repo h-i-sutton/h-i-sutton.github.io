@@ -3,7 +3,7 @@ layout: post
 title: "Large_AUVs_Poster"
 date: "2019-10-25 11:00:00"
 excerpt: |-
-  *Updated: originally posted 2nd Dec 2018*<br/><font size="6">**Poster of World's Large Autonomous Underwater Vehicles**</font><br/>The US Navy is progressing towards the aim of having extra-large unmanned underwater vehicles (XLUUVs) armed with cruise missiles, torpedoes, mines and smaller UUVs...   [Read More &gt;....](/Large_AUVs_Poster.html "READ MORE")<br/><a href="/Large_AUVs_Poster.html"><img src="/images/UUVs_poster900.jpg"/></a><br clear="right"/>
+  *Updated: originally posted 2nd Dec 2018*<br/><font size="6">**Poster of World's Large Autonomous Underwater Vehicles**</font><br/>The US Navy is progressing towards the aim of having extra-large unmanned underwater vehicles (XLUUVs) armed with cruise missiles, torpedoes, mines and smaller UUVs...   [Read More &gt;....](/Large_AUVs_Poster.html "READ MORE")<br/><a href="/Large_AUVs_Poster.html"><img loading="lazy" src="/images/UUVs_poster900.jpg"/></a><br clear="right"/>
 ---
 
 *Updated: originally posted 2nd Dec 2018*  

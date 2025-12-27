@@ -3,7 +3,7 @@ layout: post
 title: "New-photos-of-DPRK-subs-in-Vietnam"
 date: "2019-11-03 00:01:00"
 excerpt: |2-
-   <font size="6">**New rare images show DPRK subs (in Vietnam)**</font><br/> ![Flag](/images/flag_nork.jpg) Stills of a Vietnamese television show have recently surfaced on  Vietnamese language social media showing the country's imported North Korean submersibles. These images are of interest in themselves, but also show further details which apply to the types in North Korean service...  [Read More &gt;....](/New-photos-of-DPRK-subs-in-Vietnam.html "READ MORE")<br/><a href="/New-photos-of-DPRK-subs-in-Vietnam.html"><img src="/images/DPRK_ISILC_Vietnam900.jpg"/></a><br/>
+   <font size="6">**New rare images show DPRK subs (in Vietnam)**</font><br/> ![Flag](/images/flag_nork.jpg) Stills of a Vietnamese television show have recently surfaced on  Vietnamese language social media showing the country's imported North Korean submersibles. These images are of interest in themselves, but also show further details which apply to the types in North Korean service...  [Read More &gt;....](/New-photos-of-DPRK-subs-in-Vietnam.html "READ MORE")<br/><a href="/New-photos-of-DPRK-subs-in-Vietnam.html"><img loading="lazy" src="/images/DPRK_ISILC_Vietnam900.jpg"/></a><br/>
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

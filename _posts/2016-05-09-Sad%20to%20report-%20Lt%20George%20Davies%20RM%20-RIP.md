@@ -2,14 +2,15 @@
 layout: post
 title: "Sad to report- Lt George Davies RM -RIP"
 date: "2016-05-09 02:00:00"
-excerpt: "<a href=\"Sad to report- Lt George Davies RM -RIP.html\"><img align=\"left\" src=\"\
-  /images/GADavis.jpg\"/></a> ![Flag](/images/flag_UK.jpg) After Operation DEFRAUD\
-  \ in the Burmese jungle in 1945 the patrol leader, Major ER Breen, wrote in the\
-  \ debrief <br/><br/>*\u201CI managed to collect a positively revolting gang of thugs\
-  \ from No.3 Troop whose sole object in life appeared to be the desire to put into\
-  \ practice all the non-British tricks learnt in unarmed combat, weapon firing...\
-  \ \u201C* <br/><br/> G A Davies was among those men. <br/><br/> [Read More &gt;....](/Sad\
-  \ to report- Lt George Davies RM -RIP.html \"READ MORE\")<br clear=\"left\"/>"
+excerpt: "<a href=\"Sad to report- Lt George Davies RM -RIP.html\"><img align=\"left\" loading=\"\
+  lazy\" src=\"/images/GADavis.jpg\"/></a> ![Flag](/images/flag_UK.jpg) After Operation\
+  \ DEFRAUD in the Burmese jungle in 1945 the patrol leader, Major ER Breen, wrote\
+  \ in the debrief <br/><br/>*\u201CI managed to collect a positively revolting gang\
+  \ of thugs from No.3 Troop whose sole object in life appeared to be the desire to\
+  \ put into practice all the non-British tricks learnt in unarmed combat, weapon\
+  \ firing... \u201C* <br/><br/> G A Davies was among those men. <br/><br/> [Read\
+  \ More &gt;....](/Sad to report- Lt George Davies RM -RIP.html \"READ MORE\")<br\
+  \ clear=\"left\"/>"
 ---
 
 ![Flag](/images/flag_UK.jpg) After Operation DEFRAUD in the Burmese jungle in 1945 the patrol leader, Major ER Breen, wrote in the debrief

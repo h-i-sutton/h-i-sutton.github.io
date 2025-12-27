@@ -4,11 +4,11 @@ title: "Manta-U-Boat-of-World-War-Two"
 date: "2020-11-16 01:01:00"
 excerpt: "*Updated, Originally published Jan 28, 2020* <br/><font size=\"6\">**Manta** Untersee-Gleitfl\xE4\
   chen-Schnellboot</font><br clear=\"right\"><a href=\"/Manta-U-Boat-of-World-War-Two.html\"\
-  ><img align=\"left\" src=\"/images/WW2-Manta-midget-submarine-cutaway-900.jpg\"\
+  ><img align=\"left\" loading=\"lazy\" src=\"/images/WW2-Manta-midget-submarine-cutaway-900.jpg\"\
   /></a>As the situation in Europe worsened for Nazi Germany during World War Two,\
   \ the  Kriegsmarine turned to ever more desperate ideas.<br/><br/>Possibly the most\
   \ ambitious was the Manta...<br/><br/>[Read More &gt;....](/Manta-U-Boat-of-World-War-Two.html\
-  \ \"READ MORE\")<br clear=\"left\"/></br>"
+  \ \"READ MORE\")<br clear=\"left\"/><br/>"
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

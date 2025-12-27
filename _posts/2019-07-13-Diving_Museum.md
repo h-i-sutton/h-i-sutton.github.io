@@ -3,7 +3,7 @@ layout: post
 title: "Diving_Museum"
 date: "2019-07-13 02:00:00"
 excerpt: |-
-  <font size="6">**Diving Museum** near Portsmouth, UK</font><br/>A unique museum of national/international significance.... <br/><a href="/Diving_Museum.html"><img src="/images/HDS_900.jpg"/></a><br/>[Read More &gt;....](/Diving_Museum.html "READ MORE")<br/><br clear="right"/>
+  <font size="6">**Diving Museum** near Portsmouth, UK</font><br/>A unique museum of national/international significance.... <br/><a href="/Diving_Museum.html"><img loading="lazy" src="/images/HDS_900.jpg"/></a><br/>[Read More &gt;....](/Diving_Museum.html "READ MORE")<br/><br clear="right"/>
 ---
 
 ##### 

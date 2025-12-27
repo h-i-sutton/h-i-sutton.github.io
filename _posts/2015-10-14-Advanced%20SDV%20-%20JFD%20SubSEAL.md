@@ -3,7 +3,7 @@ layout: post
 title: "Advanced SDV - JFD SubSEAL"
 date: "2015-10-14 11:00:00"
 excerpt: |-
-  <img src="/images/flag_UK.jpg"/> Dry Deck Shelters (DDS) operators are an elite club and only a handful of top-tier *Blue Water* Navies have this capability. Despite this the popular image of a **SEAL Delivery Vehicle** (SDV), made popular by the US Navy's SDV Mk.VIII, is a small midget sub which specifically operates from a DDS. Therefore there are relatively few types designed from the outset for be carried into war in a DDS. The SubSEAL produced by Britain's James Fisher Defense (JFD) is one of these SDVs....  [Read More &gt;....](/Advanced SDV - JFD SubSEAL.html "READ MORE")<br/><a href="/Advanced SDV - JFD SubSEAL.html"><img src="/images/SubSEAL900.jpg"/></a>
+  <img src="/images/flag_UK.jpg"/> Dry Deck Shelters (DDS) operators are an elite club and only a handful of top-tier *Blue Water* Navies have this capability. Despite this the popular image of a **SEAL Delivery Vehicle** (SDV), made popular by the US Navy's SDV Mk.VIII, is a small midget sub which specifically operates from a DDS. Therefore there are relatively few types designed from the outset for be carried into war in a DDS. The SubSEAL produced by Britain's James Fisher Defense (JFD) is one of these SDVs....  [Read More &gt;....](/Advanced SDV - JFD SubSEAL.html "READ MORE")<br/><a href="/Advanced SDV - JFD SubSEAL.html"><img loading="lazy" src="/images/SubSEAL900.jpg"/></a>
 ---
 
 ![James Fisher Defense JFD DCE SubSEAL SDV](/images/SubSEAL3.jpg)  

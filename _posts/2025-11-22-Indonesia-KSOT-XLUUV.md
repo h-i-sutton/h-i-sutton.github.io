@@ -3,7 +3,7 @@ layout: post
 title: "Indonesia Gets Ahead Of Western Navies In Weaponising Underwater Drones"
 date: "2025-11-22 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Indonesia-KSOT-XLUUV.html"><img align="left" src="/images/Indonesia-KSOT-XLUUV-317.jpg"/></a> ![Flag](/images/flag_indo.jpg) Indonesia has a patchy record of naval acquisitions, but there are signs that this is changing.<br/><br/>Indonesia has done something which puts it ahead of Western navies in the weaponisation of emerging technologies...<br/>[Read More &gt;....](/Indonesia-KSOT-XLUUV.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Indonesia-KSOT-XLUUV.html"><img align="left" loading="lazy" src="/images/Indonesia-KSOT-XLUUV-317.jpg"/></a> ![Flag](/images/flag_indo.jpg) Indonesia has a patchy record of naval acquisitions, but there are signs that this is changing.<br/><br/>Indonesia has done something which puts it ahead of Western navies in the weaponisation of emerging technologies...<br/>[Read More &gt;....](/Indonesia-KSOT-XLUUV.html "READ MORE")<br clear="left"/>
 ---
 
 # Indonesia Gets Ahead Of Western Navies In Weaponising Underwater Drones

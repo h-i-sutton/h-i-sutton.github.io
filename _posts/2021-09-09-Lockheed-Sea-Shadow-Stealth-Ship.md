@@ -3,7 +3,7 @@ layout: post
 title: "Lockheed's Incredible Stealth Ship: Sea Shadow"
 date: "2021-09-09 22:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Lockheed-Sea-Shadow-Stealth-Ship.html"><img align="left" src="/images/US-Sea-Shadow-Cutaway-317.jpg"/></a>![Flag](/images/flag_USA.jpg) Imagine if a plane manufacturer, renowned for the F-117A 'Stealth Fighter', were to build a ship. That's exactly what happened during the Cold War. Lockheed's famous secret projects outfit, the Skunk Works, built a ship designed to be invisible to radar. <br/><br/>That unique vessel was the Sea Shadow (IX-529).<br/>[Read More &gt;....](/Lockheed-Sea-Shadow-Stealth-Ship.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Lockheed-Sea-Shadow-Stealth-Ship.html"><img align="left" loading="lazy" src="/images/US-Sea-Shadow-Cutaway-317.jpg"/></a>![Flag](/images/flag_USA.jpg) Imagine if a plane manufacturer, renowned for the F-117A 'Stealth Fighter', were to build a ship. That's exactly what happened during the Cold War. Lockheed's famous secret projects outfit, the Skunk Works, built a ship designed to be invisible to radar. <br/><br/>That unique vessel was the Sea Shadow (IX-529).<br/>[Read More &gt;....](/Lockheed-Sea-Shadow-Stealth-Ship.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

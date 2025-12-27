@@ -3,7 +3,7 @@ layout: post
 title: "Taiwan's Black Whale XLUUV"
 date: "2025-09-19 22:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Taiwan-Black-Whale-XLUUV.html"><img align="left" src="/images/Taiwan-XLUUV-317.jpg"/></a> ![Flag](/images/flag_taiwan.jpg) Taiwan is rapidly trying to create asymmetrical ways to counter the invasion threat. Principly these include uncrewed systems, many inspired by Ukraine's defence against Russia. <br/><br/>Taiwanese shipbuilder Longteh Shipbuilding has revealed the 'Black Whale' XLUUV...<br/>[Read More &gt;....](/Taiwan-Black-Whale-XLUUV.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Taiwan-Black-Whale-XLUUV.html"><img align="left" loading="lazy" src="/images/Taiwan-XLUUV-317.jpg"/></a> ![Flag](/images/flag_taiwan.jpg) Taiwan is rapidly trying to create asymmetrical ways to counter the invasion threat. Principly these include uncrewed systems, many inspired by Ukraine's defence against Russia. <br/><br/>Taiwanese shipbuilder Longteh Shipbuilding has revealed the 'Black Whale' XLUUV...<br/>[Read More &gt;....](/Taiwan-Black-Whale-XLUUV.html "READ MORE")<br clear="left"/>
 ---
 
 ![Black Whale XLUUV, Republic of China, Taiwan](/images/Taiwan-XLUUV-Display-1.jpg)  

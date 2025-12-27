@@ -11,9 +11,10 @@ excerpt: "<font size=\"6\">**Russian shipbuilder proposes range of arctic projec
   \ USC and famous design bureau **Rubin** showed models of a nuclear-powered under-ice\
   \ oil or gas drilling platform called *Iceberg*. The submarines are of special interest,\
   \ and the topic is related to naval projects under the icecap... [Read More &gt;....](/Russian_Arctic_Update.html\
-  \ \"READ MORE\")<br/><a href=\"/Russian_Arctic_Update.html\"><img src=\"/images/RuArctic_art900.jpg\"\
-  /></a><br/><a href=\"/Russian_Arctic_Update.html\"><img src=\"/images/RuArctic_guide900.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><a href=\"/Russian_Arctic_Update.html\"><img loading=\"lazy\"\
+  \ src=\"/images/RuArctic_art900.jpg\"/></a><br/><a href=\"/Russian_Arctic_Update.html\"\
+  ><img loading=\"lazy\" src=\"/images/RuArctic_guide900.jpg\"/></a><br clear=\"right\"\
+  />"
 ---
 
 **Russian shipbuilder proposes range of arctic projects**   

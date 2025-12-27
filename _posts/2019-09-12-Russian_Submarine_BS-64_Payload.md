@@ -3,7 +3,7 @@ layout: post
 title: "Russian_Submarine_BS-64_Payload"
 date: "2019-09-12 11:00:00"
 excerpt: |-
-  Updated. Originally posted 29th May 2018<br/><font size="5">**Russian 'Special Mission' submarine BS-64 carries payloads on back**</font><br/><img src="/images/flag_russia.jpg"/> Photos continue to emerge on Russian internet sources showing Russian Navy / GUGI special mission host submarine BS-64 with payload cradle for Pr.18270 BESTER Deep Sea Rescue Vehicle (DSRV) on deck. This confirms the configuration shown on Covert Shores since 2016... <br/><a href="/Russian_Submarine_BS-64_Payload.html"><img src="/images/Ru_BS64_Payloadcover900.jpg"/></a><br clear="right"/>
+  Updated. Originally posted 29th May 2018<br/><font size="5">**Russian 'Special Mission' submarine BS-64 carries payloads on back**</font><br/><img src="/images/flag_russia.jpg"/> Photos continue to emerge on Russian internet sources showing Russian Navy / GUGI special mission host submarine BS-64 with payload cradle for Pr.18270 BESTER Deep Sea Rescue Vehicle (DSRV) on deck. This confirms the configuration shown on Covert Shores since 2016... <br/><a href="/Russian_Submarine_BS-64_Payload.html"><img loading="lazy" src="/images/Ru_BS64_Payloadcover900.jpg"/></a><br clear="right"/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)

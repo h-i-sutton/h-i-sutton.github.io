@@ -3,7 +3,7 @@ layout: post
 title: "OSINT: Russian Navy Base At Sevastopol Defended By Inflatable S-400 Missiles"
 date: "2022-08-14 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Sevastopol-Defended-By-Inflatable-S400.html"><img align="left" src="/images/Russia-Sevastopol-Fake-S400-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Russia's main naval base in the Black Sea, Sevastopol, is guarded by the latest S-400 air-defense system.<br/><br/>The real S-400 missiles have recently been moved from their permanent launch site however. Russian TV has shown inflatable replacements at the site. <br/>[Read More &gt;....](/Sevastopol-Defended-By-Inflatable-S400.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Sevastopol-Defended-By-Inflatable-S400.html"><img align="left" loading="lazy" src="/images/Russia-Sevastopol-Fake-S400-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Russia's main naval base in the Black Sea, Sevastopol, is guarded by the latest S-400 air-defense system.<br/><br/>The real S-400 missiles have recently been moved from their permanent launch site however. Russian TV has shown inflatable replacements at the site. <br/>[Read More &gt;....](/Sevastopol-Defended-By-Inflatable-S400.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

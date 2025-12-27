@@ -3,7 +3,7 @@ layout: post
 title: "Naval Special Forces weapons quiz"
 date: "2015-01-02 10:00:00"
 excerpt: |-
-  A quiz which is much closer to the core of this website, the often exotic weapons associated with Naval Special Forces <br/><a href="naval-special-forces-weapons-quiz.html"><img src="images/quiz_UW_header.jpg"/></a><br/>
+  A quiz which is much closer to the core of this website, the often exotic weapons associated with Naval Special Forces <br/><a href="naval-special-forces-weapons-quiz.html"><img loading="lazy" src="images/quiz_UW_header.jpg"/></a><br/>
 ---
 
 Here is a challenging little quiz for those who really know their stuff. All these weapons are closely related to Naval Special Forces of one form or another; some are underwater weapons, some are for self defense. And there's an interesting history to every one of them.   

@@ -7,7 +7,7 @@ excerpt: "<font size=\"5\">**Pr.20183 Akademik Aleksandrov connected to Poseidon
   \ is hiding in plain sight. A Russian media report shared to YouTube in June 2019\
   \ (now removed) appears to have shown 2\u041C39 Poseidon aboard Akademik Aleksandrov...\
   \ [Read More &gt;....](\"/Akademik-Aleksandrov.html\" \"READ MORE\")<br/><a href=\"\
-  /Akademik-Aleksandrov.html\"><img src=\"/images/Ru_Poseidon_Akademik_Aleksandrov_900.jpg\"\
+  /Akademik-Aleksandrov.html\"><img loading=\"lazy\" src=\"/images/Ru_Poseidon_Akademik_Aleksandrov_900.jpg\"\
   /></a><br clear=\"right\"/>"
 ---
 

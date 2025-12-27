@@ -6,7 +6,7 @@ excerpt: " ![Flag](/images/flag_iran.jpg) After years out of sight, Iran\u2019s 
   \ Nahang (Whale) Class midget sub is confirmed still in service. The 24m (80ft)\
   \ boat is visible in multiple sequential satellite images from Google Earth from\
   \  Dec 2015 through to July 2016.  [Read More &gt;....](/Nahang Class.html \"READ\
-  \ MORE\")<br/><a href=\"/Nahang Class.html\"><img src=\"/images/Naang_sat2.jpg\"\
+  \ MORE\")<br/><a href=\"/Nahang Class.html\"><img loading=\"lazy\" src=\"/images/Naang_sat2.jpg\"\
   /></a><br clear=\"right\"/>"
 ---
 

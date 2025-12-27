@@ -3,7 +3,7 @@ layout: post
 title: "SeeKrieger"
 date: "2019-03-27 13:00:00"
 excerpt: |-
-  <font size="6">**SeeKrieger High Speed Coastal Defense Craft / Submarine**</font><br/><img src="/images/Flag_Singapore.jpg"/> The SeeKrieger is an ambitious submersible boat design from Singaporean based DK Naval Technologies. If the performance matches specifications it will be the fastest naval vessel in the world by a large margin.... <br/><a href="/SeeKrieger.html"><img src="/images/SGP_SeeKrieger_900.jpg"/></a><br/>[Read More &gt;....](/SeeKrieger.html "READ MORE")
+  <font size="6">**SeeKrieger High Speed Coastal Defense Craft / Submarine**</font><br/><img loading="lazy" src="/images/Flag_Singapore.jpg"/> The SeeKrieger is an ambitious submersible boat design from Singaporean based DK Naval Technologies. If the performance matches specifications it will be the fastest naval vessel in the world by a large margin.... <br/><a href="/SeeKrieger.html"><img loading="lazy" src="/images/SGP_SeeKrieger_900.jpg"/></a><br/>[Read More &gt;....](/SeeKrieger.html "READ MORE")
 ---
 
 ##### 

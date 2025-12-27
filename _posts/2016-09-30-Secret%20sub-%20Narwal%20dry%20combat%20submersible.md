@@ -9,9 +9,10 @@ excerpt: "<br clear=\"right\"/>![Flag](/images/flag_germany.jpg) ![Flag](/images
   \ was designed as transport for kampfschwimmers (German Navy Special Forces combat\
   \ swimmers) to targets along the Baltic coast, and for intelligence missions.  [Read\
   \ More &gt;....](/Secret sub- Narwal dry combat submersible.html \"READ MORE\")<br/><a\
-  \ href=\"/Secret sub- Narwal dry combat submersible.html\"><img src=\"/images/Orca_model900.jpg\"\
-  /></a><br/><a href=\"/Secret sub- Narwal dry combat submersible.html\"><img src=\"\
-  /images/Orca_poster900.jpg\"/></a>"
+  \ href=\"/Secret sub- Narwal dry combat submersible.html\"><img loading=\"lazy\"\
+  \ src=\"/images/Orca_model900.jpg\"/></a><br/><a href=\"/Secret sub- Narwal dry\
+  \ combat submersible.html\"><img loading=\"lazy\" src=\"/images/Orca_poster900.jpg\"\
+  /></a>"
 ---
 
 *Thank you to everyone who made this possible.*  

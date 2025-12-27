@@ -3,7 +3,7 @@ layout: post
 title: "China_Stretched_KILO"
 date: "2018-12-11 03:00:00"
 excerpt: |-
-  <font size="6">**Debunked: Chinese Navy stretched KILO Class submarine**</font><br/><img src="/images/flag_China.jpg"/> In September a new modified KILO Class submarine was seemingly observed during a Chinese training Exercise. The modified KILO is now confirmed as fake.... <br/> <br/><a href="/China_Stretched_KILO.html"><img src="/images/Cn_KILO-Stretch_900.jpg"/></a><br/>[Read More &gt;....](/China_Stretched_KILO.html "READ MORE")
+  <font size="6">**Debunked: Chinese Navy stretched KILO Class submarine**</font><br/><img src="/images/flag_China.jpg"/> In September a new modified KILO Class submarine was seemingly observed during a Chinese training Exercise. The modified KILO is now confirmed as fake.... <br/> <br/><a href="/China_Stretched_KILO.html"><img loading="lazy" src="/images/Cn_KILO-Stretch_900.jpg"/></a><br/>[Read More &gt;....](/China_Stretched_KILO.html "READ MORE")
 ---
 
 Share:[![](/images/mailto.jpg)](mailto:?subject=Shared%20from%20Covert%20Shores&body=http%3A%2F%2Fwww.hisutton.com%2FChina_Stretched_KILO.html)_

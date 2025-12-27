@@ -3,7 +3,7 @@ layout: post
 title: "Book Review: Clearance Diver by Tony Ey"
 date: "2014-09-20 10:00:00"
 excerpt: |-
-  <a href="/Book Review: Clearance Diver by Tony Ey.html"><img src="/images/stars-five.png"/></a> FIVE STARS!. **Clearance Diver** by former Royal Australian Navy (RAN) Chief Petty Officer Tony Ey An excellent read, very funny in places and very well written. The author has an easy writing style that sucks you in to the narrative providing a rare insight into the world of elite 'special forces' units. Books like this also serve a vital role in recording the history of these under-documented units and it's great that the author can do this in an entertaining way without unduly stretching the stories. So a very valuable book from a historical perspective also. [READ MORE](/Book Review: Clearance Diver by Tony Ey.html "Clearance Diver by Tony Ey")
+  <a href="/Book Review: Clearance Diver by Tony Ey.html"><img loading="lazy" src="/images/stars-five.png"/></a> FIVE STARS!. **Clearance Diver** by former Royal Australian Navy (RAN) Chief Petty Officer Tony Ey An excellent read, very funny in places and very well written. The author has an easy writing style that sucks you in to the narrative providing a rare insight into the world of elite 'special forces' units. Books like this also serve a vital role in recording the history of these under-documented units and it's great that the author can do this in an entertaining way without unduly stretching the stories. So a very valuable book from a historical perspective also. [READ MORE](/Book Review: Clearance Diver by Tony Ey.html "Clearance Diver by Tony Ey")
 ---
 
 [![](/images/stars-five.png)](/Book Review: Clearance Diver by Tony Ey.html)

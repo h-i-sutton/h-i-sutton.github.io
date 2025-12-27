@@ -3,7 +3,7 @@ layout: post
 title: "French Navy Suffren Class Submarine"
 date: "2021-05-09 01:00:00"
 excerpt: |-
-  <h1>French Navy Suffren Class (Barracuda) Submarine</h1><br clear="right"/><a href="/Suffren-Barracuda-Class-Submarine.html"><img align="left" src="/images/Suffren-Sub-317.jpg"/></a>![Flag France](/images/flag_france.jpg) As naval threats go, nuclear-powered attack submarines (SSNs) are the apex predators. The new Suffren Class will bring France's SSNs closer to their British and American allies boats in overall capabilities.<br/><br/>6 of these submarines will form the backbone of the French Navy (Marine Nationale). <br/>[Read More &gt;....](/Suffren-Barracuda-Class-Submarine.html "READ MORE")<br clear="left"/>
+  <h1>French Navy Suffren Class (Barracuda) Submarine</h1><br clear="right"/><a href="/Suffren-Barracuda-Class-Submarine.html"><img align="left" loading="lazy" src="/images/Suffren-Sub-317.jpg"/></a>![Flag France](/images/flag_france.jpg) As naval threats go, nuclear-powered attack submarines (SSNs) are the apex predators. The new Suffren Class will bring France's SSNs closer to their British and American allies boats in overall capabilities.<br/><br/>6 of these submarines will form the backbone of the French Navy (Marine Nationale). <br/>[Read More &gt;....](/Suffren-Barracuda-Class-Submarine.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

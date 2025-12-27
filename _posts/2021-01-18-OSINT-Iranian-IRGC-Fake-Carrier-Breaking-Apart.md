@@ -3,7 +3,7 @@ layout: post
 title: "OSINT-Iranian-IRGC-Fake-Carrier-Breaking-Apart"
 date: "2021-01-18 13:01:00"
 excerpt: |-
-  <font size="6">**OSINT Curiosity: Wreck Of Iran's Fake Aircraft Carrier Is Breaking Apart**</font><br clear="right"/><a href="/OSINT-Iranian-IRGC-Fake-Carrier-Breaking-Apart.html"><img align="left" src="/images/Iran-Fake-Carrier-Breaking-Up-317.jpg"/></a>![Flag](/images/flag_iran.jpg) The IRGC's (Islamic Revolutionary Guard Corps) fake aircraft carrier, built as a target for war games, is now breaking apart...<br/><br/>[Read More &gt;....](/OSINT-Iranian-IRGC-Fake-Carrier-Breaking-Apart.html "READ MORE")<br clear="left"/>
+  <font size="6">**OSINT Curiosity: Wreck Of Iran's Fake Aircraft Carrier Is Breaking Apart**</font><br clear="right"/><a href="/OSINT-Iranian-IRGC-Fake-Carrier-Breaking-Apart.html"><img align="left" loading="lazy" src="/images/Iran-Fake-Carrier-Breaking-Up-317.jpg"/></a>![Flag](/images/flag_iran.jpg) The IRGC's (Islamic Revolutionary Guard Corps) fake aircraft carrier, built as a target for war games, is now breaking apart...<br/><br/>[Read More &gt;....](/OSINT-Iranian-IRGC-Fake-Carrier-Breaking-Apart.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

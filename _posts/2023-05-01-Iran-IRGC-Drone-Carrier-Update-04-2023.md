@@ -3,7 +3,7 @@ layout: post
 title: "Iran's First Drone Carrier Gets Ski Jump"
 date: "2023-05-01 12:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Iran-IRGC-Drone-Carrier-Update-04-2023.html"><img align="left" src="/images/Iran-Drone-Carrier-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) Further to the article in December 2022, the ski-jump arrangement of Iran's first drone carrier is now confirmed in photos.<br/><br/>The carrier, to be named  Shahid Bagheri, has an unique flight deck layout. <br/>[Read More &gt;....](/Iran-IRGC-Drone-Carrier-Update-04-2023.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Iran-IRGC-Drone-Carrier-Update-04-2023.html"><img align="left" loading="lazy" src="/images/Iran-Drone-Carrier-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) Further to the article in December 2022, the ski-jump arrangement of Iran's first drone carrier is now confirmed in photos.<br/><br/>The carrier, to be named  Shahid Bagheri, has an unique flight deck layout. <br/>[Read More &gt;....](/Iran-IRGC-Drone-Carrier-Update-04-2023.html "READ MORE")<br clear="left"/>
 ---
 
 ![Iran's First Carrier Shahid Mahdavi](/images/Iran-Drone-Carrier-skijump.jpg)  

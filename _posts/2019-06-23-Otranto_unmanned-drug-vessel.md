@@ -3,7 +3,7 @@ layout: post
 title: "Otranto_unmanned-drug-vessel"
 date: "2019-06-23 04:00:00"
 excerpt: |-
-  <font size="6">**First narco-USV**</font><br/>A unique craft was recently intercepted that may drastically change the threat profile in the Adriatic and potentially foretell of similar developments elsewhere: a sea-going unmanned surface vessel (USV) for smuggling drugs....<br/><a href="/Otranto_unmanned-drug-vessel.html"><img src="/images/Narcosub_Otranto_900.jpg"/></a><br/>[Read More &gt;....](/Otranto_unmanned-drug-vessel.html "READ MORE")
+  <font size="6">**First narco-USV**</font><br/>A unique craft was recently intercepted that may drastically change the threat profile in the Adriatic and potentially foretell of similar developments elsewhere: a sea-going unmanned surface vessel (USV) for smuggling drugs....<br/><a href="/Otranto_unmanned-drug-vessel.html"><img loading="lazy" src="/images/Narcosub_Otranto_900.jpg"/></a><br/>[Read More &gt;....](/Otranto_unmanned-drug-vessel.html "READ MORE")
 ---
 
 ##### 

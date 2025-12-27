@@ -3,7 +3,7 @@ layout: post
 title: "Sphyrene SDV"
 date: "2016-11-24 11:00:00"
 excerpt: |-
-  <img src="/images/flag_france.jpg"/> ![Flag](/images/Updated.jpg) <font size="6"> **Sphyrene + Coryphene SDVs** </font> <br/>The Sphyrene is an advanced six-man Swimmer Delivery Vehicle (SDV) currently on the market from French firm Alseamar. It is one of the latest generation of French SDVs tracing its lineage back to the **Vostock SDV** used by Commando Hubert. The Sphyrene is promoted on the export market alongside French diesel-electric submarines and Alseamar's updated Vostock, the *Coryphene*.  [Read More &gt;....](/Sphyrene SDV.html "READ MORE")<br/><a href="/Sphyrene SDV.html"><img src="/images/alseamar900.jpg"/></a><br clear="right"/>
+  <img src="/images/flag_france.jpg"/> ![Flag](/images/Updated.jpg) <font size="6"> **Sphyrene + Coryphene SDVs** </font> <br/>The Sphyrene is an advanced six-man Swimmer Delivery Vehicle (SDV) currently on the market from French firm Alseamar. It is one of the latest generation of French SDVs tracing its lineage back to the **Vostock SDV** used by Commando Hubert. The Sphyrene is promoted on the export market alongside French diesel-electric submarines and Alseamar's updated Vostock, the *Coryphene*.  [Read More &gt;....](/Sphyrene SDV.html "READ MORE")<br/><a href="/Sphyrene SDV.html"><img loading="lazy" src="/images/alseamar900.jpg"/></a><br clear="right"/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Thank you to an unnamed source. Any errors are entirely my responsibility*   

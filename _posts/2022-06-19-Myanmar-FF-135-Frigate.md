@@ -3,7 +3,7 @@ layout: post
 title: "OSINT: Myanmar's New FF-135 Frigate Under Construction"
 date: "2022-06-19 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Myanmar-FF-135-Frigate.html"><img align="left" src="/images/Myanmar-Navy-Frigate-317.jpg"/></a> ![Flag Myanmar](/images/flag-Myanmar.jpg) There is less awareness of the Myanmar Navy in the west than it deserves. A country with a checkered history, Myanmar (formerly Burma) has flirted with international isolation.<br/><br/>The latest frigate project is the largest and most heavily armed to date...<br/>[Read More &gt;....](/Myanmar-FF-135-Frigate.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Myanmar-FF-135-Frigate.html"><img align="left" loading="lazy" src="/images/Myanmar-Navy-Frigate-317.jpg"/></a> ![Flag Myanmar](/images/flag-Myanmar.jpg) There is less awareness of the Myanmar Navy in the west than it deserves. A country with a checkered history, Myanmar (formerly Burma) has flirted with international isolation.<br/><br/>The latest frigate project is the largest and most heavily armed to date...<br/>[Read More &gt;....](/Myanmar-FF-135-Frigate.html "READ MORE")<br clear="left"/>
 ---
 
 ![Myanmar's New FF-135 Frigate Under Construction](/images/Myanmar-Navy-Frigate-construction.jpg)  

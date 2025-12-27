@@ -3,7 +3,7 @@ layout: post
 title: "Update - Covert Shores book release soon"
 date: "2010-01-03 11:00:00"
 excerpt: |-
-  <br/><br/><a href="http://www.amazon.com/dp/1533114870/" target="blank"><img align="right" src="/images/Book_cover_150.jpg"/></a> <br/>.[Read More &gt;....](/Update - Covert Shores book release soon.html "READ MORE")<br/><a href="/Update - Covert Shores book release soon.html"><img src="/images/Book_cover.jpg"/></a>
+  <br/><br/><a href="http://www.amazon.com/dp/1533114870/" target="blank"><img align="right" loading="lazy" src="/images/Book_cover_150.jpg"/></a> <br/>.[Read More &gt;....](/Update - Covert Shores book release soon.html "READ MORE")<br/><a href="/Update - Covert Shores book release soon.html"><img loading="lazy" src="/images/Book_cover.jpg"/></a>
 ---
 
   

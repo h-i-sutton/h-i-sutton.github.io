@@ -3,7 +3,7 @@ layout: post
 title: "Warship_Misidentification"
 date: "2019-08-11 11:00:00"
 excerpt: |-
-  <font size="5">**Dangers of poor warship recognition skills**</font><br/><img src="/images/flag_iran.jpg"/> <img src="/images/flag_UK.jpg"/> <img src="/images/flag_UEA.jpg"/> Tactical blunders caused by misidentification can take on strategic proportions, especially in times of heightened tension and limited war. .. <br/>[Read More &gt;....](/Warship_Misidentification.html "READ MORE")<br/><a href="/Warship_Misidentification.html"><img src="/images/IRGC_Rec900.jpg"/></a><br clear="right"/>
+  <font size="5">**Dangers of poor warship recognition skills**</font><br/><img src="/images/flag_iran.jpg"/> <img src="/images/flag_UK.jpg"/> <img src="/images/flag_UEA.jpg"/> Tactical blunders caused by misidentification can take on strategic proportions, especially in times of heightened tension and limited war. .. <br/>[Read More &gt;....](/Warship_Misidentification.html "READ MORE")<br/><a href="/Warship_Misidentification.html"><img loading="lazy" src="/images/IRGC_Rec900.jpg"/></a><br clear="right"/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Comments and corrections welcome.*  

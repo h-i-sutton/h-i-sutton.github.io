@@ -3,7 +3,7 @@ layout: post
 title: "Seen For First Time : North Korea's Largest Submarine Launched Missile"
 date: "2022-04-26 16:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/North-Koreas-Largest-Submarine-Launched-Missile.html"><img align="left" src="/images/DPRK-North-Korea-New-Missile-2022-317.jpg"/></a> ![Flag China](/images/flag_nork.jpg) The latest military parade in the North Korean capital showcased yet another new missile.<br/><br/>The days when observers mocked North Korean missile capabilities feel long gone...<br/>[Read More &gt;....](/North-Koreas-Largest-Submarine-Launched-Missile.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/North-Koreas-Largest-Submarine-Launched-Missile.html"><img align="left" loading="lazy" src="/images/DPRK-North-Korea-New-Missile-2022-317.jpg"/></a> ![Flag China](/images/flag_nork.jpg) The latest military parade in the North Korean capital showcased yet another new missile.<br/><br/>The days when observers mocked North Korean missile capabilities feel long gone...<br/>[Read More &gt;....](/North-Koreas-Largest-Submarine-Launched-Missile.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

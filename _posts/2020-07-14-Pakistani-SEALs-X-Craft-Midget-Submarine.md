@@ -7,8 +7,8 @@ excerpt: "<font size=\"5\">**New OSINT: Mystery Submarine In Service With Pakist
   \ Passing Out Parade of the latest Pakistan Navy SEAL Course provides fresh OSINT\
   \ on Pakistan's unreported midget submarine. .. <br/>[Read More &gt;....](/Pakistani-SEALs-X-Craft-Midget-Submarine.html\
   \ \"READ MORE\")<br/><a href=\"/Pakistani-SEALs-X-Craft-Midget-Submarine.html\"\
-  ><img src=\"/images/Pakistan-Midget-Submarines-900.jpg\"/></a><br clear=\"right\"\
-  ><br/></br>"
+  ><img loading=\"lazy\" src=\"/images/Pakistan-Midget-Submarines-900.jpg\"/></a><br\
+  \ clear=\"right\"><br/><br/>"
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

@@ -3,7 +3,7 @@ layout: post
 title: "North-Korean-Navy-Nuclear-Submarine"
 date: "2021-01-14 09:01:00"
 excerpt: |-
-  <font size="6">**Hermit Kingdom Plans Nuclear Powered Submarine**</font><br clear="right"/><a href="/North-Korean-Navy-Nuclear-Submarine.html"><img align="left" src="/images/DPRK-Submarine-317.jpg"/></a>![Flag](/images/flag_nork.jpg) Kim Jong Un has said  that plans for an indigenous nuclear-powered submarine are almost complete. It is a bold ambition for a country whose submarines are decades behind cutting edge. <br/><br/>But it should be taken seriously...<br/>[Read More &gt;....](/North-Korean-Navy-Nuclear-Submarine.html "READ MORE")<br clear="left"/>
+  <font size="6">**Hermit Kingdom Plans Nuclear Powered Submarine**</font><br clear="right"/><a href="/North-Korean-Navy-Nuclear-Submarine.html"><img align="left" loading="lazy" src="/images/DPRK-Submarine-317.jpg"/></a>![Flag](/images/flag_nork.jpg) Kim Jong Un has said  that plans for an indigenous nuclear-powered submarine are almost complete. It is a bold ambition for a country whose submarines are decades behind cutting edge. <br/><br/>But it should be taken seriously...<br/>[Read More &gt;....](/North-Korean-Navy-Nuclear-Submarine.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

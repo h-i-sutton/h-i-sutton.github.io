@@ -3,7 +3,7 @@ layout: post
 title: "Articles_for_Forbes_4"
 date: "2019-10-19 11:01:00"
 excerpt: |-
-  <font size="6">**New Articles for Forbes**</font><br/>Taking underwater warfare and similar OSINT / defence analysis topics to a wider audience...<br/><a href="https://www.forbes.com/sites/hisutton/" target="blank"><img src="/images/Forbes-4.jpg"/></a><br/>[Read More &gt;....](/Articles_for_Forbes_4.html "READ MORE")<br clear="right"/>
+  <font size="6">**New Articles for Forbes**</font><br/>Taking underwater warfare and similar OSINT / defence analysis topics to a wider audience...<br/><a href="https://www.forbes.com/sites/hisutton/" target="blank"><img loading="lazy" src="/images/Forbes-4.jpg"/></a><br/>[Read More &gt;....](/Articles_for_Forbes_4.html "READ MORE")<br clear="right"/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

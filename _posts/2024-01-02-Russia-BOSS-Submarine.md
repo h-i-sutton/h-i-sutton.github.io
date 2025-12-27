@@ -3,7 +3,7 @@ layout: post
 title: "Russia's BOSS Submarine Concept For Border Guards"
 date: "2024-01-02 09:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russia-BOSS-Submarine.html"><img align="left" src="/images/Russia-BOSS-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Imagine a future where submarines prowl on the surface, launching aerial drones (UAVs) and engaging targets with gunfire and anti-tank missiles. It seems the antithesis of modern submarine operations.<br/><br/>The BOSS (*Border and Offshore Submersible Sentry*) submarine is a concept...<br/>[Read More &gt;....](/Russia-BOSS-Submarine.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russia-BOSS-Submarine.html"><img align="left" loading="lazy" src="/images/Russia-BOSS-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Imagine a future where submarines prowl on the surface, launching aerial drones (UAVs) and engaging targets with gunfire and anti-tank missiles. It seems the antithesis of modern submarine operations.<br/><br/>The BOSS (*Border and Offshore Submersible Sentry*) submarine is a concept...<br/>[Read More &gt;....](/Russia-BOSS-Submarine.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Russia-BOSS-Submarine-Cutaway-940.jpg)](/images/Russia-BOSS-Submarine-Cutaway.jpg)  

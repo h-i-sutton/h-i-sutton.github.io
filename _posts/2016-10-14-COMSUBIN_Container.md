@@ -7,9 +7,9 @@ excerpt: "<font size=\"6\"> **Rare photo of COMSUBIN Special Forces container em
   \ Class submarine *Venuti* with a Special Forces container fitted. Italy\u2019s\
   \ famous COMSUBIN Special Forces unit have a long history of maintaining extreme\
   \ secrecy surrounding their extensive waterborne capabilities...  [Read More &gt;....](/COMSUBIN_Container.html\
-  \ \"READ MORE\")<br/><a href=\"/COMSUBIN_Container.html\"><img src=\"/images/COMSUBIN_sub1_900.jpg\"\
-  /></a><br/><a href=\"/COMSUBIN_Container.html\"><img src=\"/images/Todaro900.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><a href=\"/COMSUBIN_Container.html\"><img loading=\"lazy\"\
+  \ src=\"/images/COMSUBIN_sub1_900.jpg\"/></a><br/><a href=\"/COMSUBIN_Container.html\"\
+  ><img loading=\"lazy\" src=\"/images/Todaro900.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social) **Rare photo of COMSUBIN Special Forces container emerges**    

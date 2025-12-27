@@ -3,7 +3,7 @@ layout: post
 title: "Poseidon_Torpedo"
 date: "2019-02-22 11:00:00"
 excerpt: |-
-  *Updated*<br/><font size="5">**Russian Poseidon Intercontinental Nuclear-Powered Nuclear-Armed Autonomous Torpedo**</font><br/><img src="/images/flag_russia.jpg"/> Poseidon is the largest torpedo ever developed in any country.  Countering this system is will force Western planners to reconsider anti-submarine warfare (ASW) and undersea sensor/weapons investment.... <br/><a href="/Poseidon_Torpedo.html"><img src="/images/Ru_Poseidon-updatedFeb2019_900.jpg"/></a><br clear="right"/>
+  *Updated*<br/><font size="5">**Russian Poseidon Intercontinental Nuclear-Powered Nuclear-Armed Autonomous Torpedo**</font><br/><img src="/images/flag_russia.jpg"/> Poseidon is the largest torpedo ever developed in any country.  Countering this system is will force Western planners to reconsider anti-submarine warfare (ASW) and undersea sensor/weapons investment.... <br/><a href="/Poseidon_Torpedo.html"><img loading="lazy" src="/images/Ru_Poseidon-updatedFeb2019_900.jpg"/></a><br clear="right"/>
 ---
 
 # Ru_Poseidon_test900.jpg

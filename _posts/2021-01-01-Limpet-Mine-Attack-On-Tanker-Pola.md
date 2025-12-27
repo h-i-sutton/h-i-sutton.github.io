@@ -3,7 +3,7 @@ layout: post
 title: "Limpet-Mine-Attack-On-Tanker-Pola"
 date: "2021-01-01 23:00:00"
 excerpt: |-
-  <font size="5">**Limpet Mine Attack on Tanker, Pola, Dec 31, 2020**</font><br clear="right"/><a href="/Limpet-Mine-Attack-On-Tanker-Pola.html"><img align="left" src="/images/Limpet-Mine-Attack-MT-Pola-317.jpg"/></a>![Flag](/images/flag_iran.jpg) On December 31, 2020, a limpet mine was found on the Liberian flagged tanker MT Pola (IMO: 9493767). The ship was at anchor in Iraq and was transhipping oil to another tanker, MT Nordic Freedom...<br/><br/>[Read More &gt;....](/Limpet-Mine-Attack-On-Tanker-Pola.html "READ MORE")<br clear="left"/>
+  <font size="5">**Limpet Mine Attack on Tanker, Pola, Dec 31, 2020**</font><br clear="right"/><a href="/Limpet-Mine-Attack-On-Tanker-Pola.html"><img align="left" loading="lazy" src="/images/Limpet-Mine-Attack-MT-Pola-317.jpg"/></a>![Flag](/images/flag_iran.jpg) On December 31, 2020, a limpet mine was found on the Liberian flagged tanker MT Pola (IMO: 9493767). The ship was at anchor in Iraq and was transhipping oil to another tanker, MT Nordic Freedom...<br/><br/>[Read More &gt;....](/Limpet-Mine-Attack-On-Tanker-Pola.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

@@ -3,7 +3,7 @@ layout: post
 title: "MSUBs-Moray-XLUUV"
 date: "2020-03-05 13:01:00"
 excerpt: |-
-  <br/><font size="6">**British extra-large UUV: Moray**</font><br/><img src="/images/flag_UK.jpg"/> MORAY is a multi-role XLUUV (extra-large unmanned underwater vehicle) designed for both combat and reconnaissance. Its modular design allows for ASW, ASuW, MCM and ISR mission fits... <br/><a href="/MSUBs-Moray-XLUUV.html"><img src="/images/MSUBs-Moray-XLUUV-900.jpg"/></a><br clear="right">[Read More &gt;....](/MSUBs-Moray-XLUUV.html "READ MORE")<br/></br>
+  <br/><font size="6">**British extra-large UUV: Moray**</font><br/><img src="/images/flag_UK.jpg"/> MORAY is a multi-role XLUUV (extra-large unmanned underwater vehicle) designed for both combat and reconnaissance. Its modular design allows for ASW, ASuW, MCM and ISR mission fits... <br/><a href="/MSUBs-Moray-XLUUV.html"><img loading="lazy" src="/images/MSUBs-Moray-XLUUV-900.jpg"/></a><br clear="right">[Read More &gt;....](/MSUBs-Moray-XLUUV.html "READ MORE")<br/><br/>
 ---
 
 *Based on unclassified sources*

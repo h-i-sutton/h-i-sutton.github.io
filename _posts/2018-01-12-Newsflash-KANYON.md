@@ -3,7 +3,7 @@ layout: post
 title: "Newsflash-KANYON"
 date: "2018-01-12 01:01:00"
 excerpt: |-
-  <font size="5">**Newsflash: KANYON**</font><br/>An unclassified Nuclear Posture Review document revealed by the <a href="http://www.huffingtonpost.com.au/2018/01/11/trump-s-nuclear-review-he-wants-a-lot-more-nukes_a_23331446/" target="blank">Huffington Post</a> contains a tiny reference which confirms the seriousness given to the KANYON nuclear-armed nuclear-powered torpedo. <br/>[Read More &gt;....](/Newsflash-KANYON.html "READ MORE")<br/><a href="/Newsflash-KANYON.html"><img src="/images/KANYON_update1.jpg"/></a><br clear="right"/>
+  <font size="5">**Newsflash: KANYON**</font><br/>An unclassified Nuclear Posture Review document revealed by the <a href="http://www.huffingtonpost.com.au/2018/01/11/trump-s-nuclear-review-he-wants-a-lot-more-nukes_a_23331446/" target="blank">Huffington Post</a> contains a tiny reference which confirms the seriousness given to the KANYON nuclear-armed nuclear-powered torpedo. <br/>[Read More &gt;....](/Newsflash-KANYON.html "READ MORE")<br/><a href="/Newsflash-KANYON.html"><img loading="lazy" src="/images/KANYON_update1.jpg"/></a><br clear="right"/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

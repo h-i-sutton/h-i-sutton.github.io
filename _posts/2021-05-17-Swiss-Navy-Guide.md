@@ -3,7 +3,7 @@ layout: post
 title: "Switzerland’s Remarkable ‘Navy’: A Covert Shores Guide"
 date: "2021-05-17 01:01:00"
 excerpt: |-
-  <br/><br clear="right"><a href="/Swiss-Navy-Guide.html"><img align="left" src="/images/Swiss-Navy-317.jpg"/></a> ![Swiss Flag](/images/flag_Swiss.jpg) Land-locked countries sometimes have particularly interesting navies. Or boat equipped Army units. Characterized by heavily armed neutrality, the postwar Swiss military has an extremely high standard of equipment. <br/>[Read More](/Swiss-Navy-Guide.html "READ MORE")<br clear="left"/></br>
+  <br/><br clear="right"><a href="/Swiss-Navy-Guide.html"><img align="left" loading="lazy" src="/images/Swiss-Navy-317.jpg"/></a> ![Swiss Flag](/images/flag_Swiss.jpg) Land-locked countries sometimes have particularly interesting navies. Or boat equipped Army units. Characterized by heavily armed neutrality, the postwar Swiss military has an extremely high standard of equipment. <br/>[Read More](/Swiss-Navy-Guide.html "READ MORE")<br clear="left"/><br/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

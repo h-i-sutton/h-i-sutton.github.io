@@ -3,7 +3,7 @@ layout: post
 title: "Ukraine's New USV Compared"
 date: "2022-09-22 23:01:00"
 excerpt: |-
-  <br clear="right"/><a href="/Ukraines-New-Explosive-USV.html"><img align="left" src="/images/Ukraine-Explosive-Boat-USV-317.jpg"/></a>![Flag](/images/flag_ukraine.jpg) On September 21 it was revealed that Ukraine operates a previously unreported USV (uncrewed surface vessel). The small, low-profile design appears to be a form of uncrewed explosive boat. Its conceptual simplicity combined with relative sophistication set it apart from previous explosive boats...<br/>[Read More &gt;....](/Ukraines-New-Explosive-USV.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Ukraines-New-Explosive-USV.html"><img align="left" loading="lazy" src="/images/Ukraine-Explosive-Boat-USV-317.jpg"/></a>![Flag](/images/flag_ukraine.jpg) On September 21 it was revealed that Ukraine operates a previously unreported USV (uncrewed surface vessel). The small, low-profile design appears to be a form of uncrewed explosive boat. Its conceptual simplicity combined with relative sophistication set it apart from previous explosive boats...<br/>[Read More &gt;....](/Ukraines-New-Explosive-USV.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

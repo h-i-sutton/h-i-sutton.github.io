@@ -10,7 +10,7 @@ excerpt: " <font size=\"6\">**OSINT: first candid photo of Belgorod submarine**<
   \ posted several excellent high resolution images of the last boat in an article\
   \ and on its twitter feed.  The images are superb, but of particular interest is\
   \ that another submarine is just visible in the background of one of them... <br/><a\
-  \ href=\"/K-329_Belgorod_Update.html\"><img src=\"/images/Ru_Belgorod_Candid900.jpg\"\
+  \ href=\"/K-329_Belgorod_Update.html\"><img loading=\"lazy\" src=\"/images/Ru_Belgorod_Candid900.jpg\"\
   /></a><br/>[Read More &gt;....](/K-329_Belgorod_Update.html \"READ MORE\")"
 ---
 

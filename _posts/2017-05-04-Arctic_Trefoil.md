@@ -8,9 +8,9 @@ excerpt: "<font size=\"6\">**Photos of construction of Russian Artic Trefoil Bas
   \ in the Arctic. Analysis suggests that it is built at a pre-existing artic outpost\
   \ known as Nagurskoye (\u041D\u0430\u0433\u0443\u0301\u0440\u0441\u043A\u043E\u0435\
   ) located at 80.810090\xB0, 47.651465\xB0...<br/>[Read More](/Arctic_Trefoil.html\
-  \ \"READ MORE\")<br/><a href=\"/Arctic_Trefoil.html\"><img src=\"/images/Arctic_Base900.jpg\"\
-  /></a><br/><a href=\"/Arctic_Trefoil.html\"><img src=\"/images/Arctic_Base900_1.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><a href=\"/Arctic_Trefoil.html\"><img loading=\"lazy\" src=\"\
+  /images/Arctic_Base900.jpg\"/></a><br/><a href=\"/Arctic_Trefoil.html\"><img loading=\"\
+  lazy\" src=\"/images/Arctic_Base900_1.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 **Photos of construction of Russian Artic Trefoil Base**   

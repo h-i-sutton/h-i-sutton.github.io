@@ -3,7 +3,7 @@ layout: post
 title: "Ukraine's Sea Baby Maritime Drone (USV)"
 date: "2025-03-30 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Ukraine-Sea-Baby-USV.html"><img align="left" src="/images/Ukraine-Sea-Baby-USV-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) The public first learnt of the now-famous 'Sea Baby' surface drones when they were used on July 17 2023 to destroy a section of the Kerch Bridge.<br/><br/>These small vessels have since shown themselves to be a versitile and enduring design...<br/>[Read More &gt;....](/Ukraine-Sea-Baby-USV.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Ukraine-Sea-Baby-USV.html"><img align="left" loading="lazy" src="/images/Ukraine-Sea-Baby-USV-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) The public first learnt of the now-famous 'Sea Baby' surface drones when they were used on July 17 2023 to destroy a section of the Kerch Bridge.<br/><br/>These small vessels have since shown themselves to be a versitile and enduring design...<br/>[Read More &gt;....](/Ukraine-Sea-Baby-USV.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Ukraine-Sea-Baby-USV-940.jpg)](/images/Ukraine-Sea-Baby-USV.jpg)  

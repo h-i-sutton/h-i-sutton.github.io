@@ -3,7 +3,7 @@ layout: post
 title: "First DDS - Type-IIIA U-Boat"
 date: "2015-01-06 23:00:00"
 excerpt: |-
-  <img src="/images/flag_germany.jpg"/>Although never built, the German Type-IIIA submarine was to be the first designed with an integral dry deck shelter for smaller vessels. <a href="/First DDS - Type-IIIA U-Boat.html"><img src="/images/uboot_Type-IIIA_header.jpg"/></a>
+  <img src="/images/flag_germany.jpg"/>Although never built, the German Type-IIIA submarine was to be the first designed with an integral dry deck shelter for smaller vessels. <a href="/First DDS - Type-IIIA U-Boat.html"><img loading="lazy" src="/images/uboot_Type-IIIA_header.jpg"/></a>
 ---
 
 ![](/images/flag_germany.jpg)  

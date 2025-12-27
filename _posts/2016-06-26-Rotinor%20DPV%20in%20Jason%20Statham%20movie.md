@@ -9,7 +9,7 @@ excerpt: " The trailer Jason Statham\u2019s new movie, **The Mechanic: Resurrect
   \ black underwater chariot. More specifically, a **SeaBob** diver propulsion vehicle\
   \ (DPV) which is the civilian version of the Rotinor **Divejet**.... [Read More\
   \ &gt;....](/Rotinor DPV in Jason Statham movie.html \"READ MORE\")<br/><a href=\"\
-  /Rotinor DPV in Jason Statham movie.html\"><img src=\"/images/Movie_Seabob.jpg\"\
+  /Rotinor DPV in Jason Statham movie.html\"><img loading=\"lazy\" src=\"/images/Movie_Seabob.jpg\"\
   /></a><br clear=\"right\"/>"
 ---
 

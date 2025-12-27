@@ -3,7 +3,7 @@ layout: post
 title: "Snakehead: The U.S. Navy's Large Submarine-Deployable Underwater Drone"
 date: "2022-05-17 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Snakehead-LDUUV.html"><img align="left" src="/images/US-Navy-Snakehead-UUV-317.jpg"/></a> ![Flag USA](/images/flag_USA.jpg) The Snakehead LDUUV (large displacement underwater vehicle) is entering service with the U.S. Navy. Approximately the same size as a SEAL delivery vehicle (SDV), it can be carried by submarines equipped with a dry deck shelter (DDS).<br/><br/>It marks the maturing of U.S. Navy technology and doctrine of underwater drones.<br/>[Read More &gt;....](/Snakehead-LDUUV.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Snakehead-LDUUV.html"><img align="left" loading="lazy" src="/images/US-Navy-Snakehead-UUV-317.jpg"/></a> ![Flag USA](/images/flag_USA.jpg) The Snakehead LDUUV (large displacement underwater vehicle) is entering service with the U.S. Navy. Approximately the same size as a SEAL delivery vehicle (SDV), it can be carried by submarines equipped with a dry deck shelter (DDS).<br/><br/>It marks the maturing of U.S. Navy technology and doctrine of underwater drones.<br/>[Read More &gt;....](/Snakehead-LDUUV.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

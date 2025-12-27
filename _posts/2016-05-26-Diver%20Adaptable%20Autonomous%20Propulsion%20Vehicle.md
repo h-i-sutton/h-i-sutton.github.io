@@ -6,7 +6,7 @@ excerpt: "<br clear=\"right\"/>![Flag](/images/flag_USA.jpg) Another SDV reveale
   \ 2016 is Patriot 3 Maritime\u2019s latest project, the Diver Adaptable *Autonomous*\
   \ Propulsion Vehicle (**DAAPV**). [Read More &gt;....](/Diver Adaptable Autonomous\
   \ Propulsion Vehicle.html \"READ MORE\")<br/><a href=\"/Diver Adaptable Autonomous\
-  \ Propulsion Vehicle.html\"><img src=\"/images/DAAPV900.jpg\"/></a>"
+  \ Propulsion Vehicle.html\"><img loading=\"lazy\" src=\"/images/DAAPV900.jpg\"/></a>"
 ---
 
 *Thank you to everyone who provided information for this article.*   

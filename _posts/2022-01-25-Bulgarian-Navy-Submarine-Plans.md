@@ -3,7 +3,7 @@ layout: post
 title: "More NATO Submarines In The Black Sea: Bulgaria's Options?"
 date: "2022-01-25 18:01:00"
 excerpt: |-
-  <br clear="right"/><a href="/Bulgarian-Navy-Submarine-Plans.html"><img align="left" src="/images/Bulgaria-Submarines-317.jpg"/></a> Against the backdrop of NATO-Russia tensions, NATO member Bulgaria is reprioritizing its needs. Bulgaria is speeding up reestablishing its submarine capability. The country is said to already be in talks with another country. <br/><br/>Here is a 'hot take'...<br/>[Read More &gt;....](/Bulgarian-Navy-Submarine-Plans.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Bulgarian-Navy-Submarine-Plans.html"><img align="left" loading="lazy" src="/images/Bulgaria-Submarines-317.jpg"/></a> Against the backdrop of NATO-Russia tensions, NATO member Bulgaria is reprioritizing its needs. Bulgaria is speeding up reestablishing its submarine capability. The country is said to already be in talks with another country. <br/><br/>Here is a 'hot take'...<br/>[Read More &gt;....](/Bulgarian-Navy-Submarine-Plans.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

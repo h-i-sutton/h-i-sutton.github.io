@@ -3,7 +3,7 @@ layout: post
 title: "Attack On Russian Oil Facility Reveals Ukraine's Unreported Kamikaze Drone"
 date: "2022-06-22 23:30:00"
 excerpt: |-
-  <br clear="right"/><a href="/Ukraines-Unreported-Kamikaze-Drone.html"><img align="left" src="/images/Ukraine-Russia-Drone-Attack-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Ukraine's successful attack on the Novoshakhtinsk oil refinery, Rostov, occurred at 8:40am local time on June 22.<br/><br/>Video of the attack clearly shows the drone involved. But it does not match any reported type in Ukrainian service....<br/>[Read More &gt;....](/Ukraines-Unreported-Kamikaze-Drone.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Ukraines-Unreported-Kamikaze-Drone.html"><img align="left" loading="lazy" src="/images/Ukraine-Russia-Drone-Attack-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Ukraine's successful attack on the Novoshakhtinsk oil refinery, Rostov, occurred at 8:40am local time on June 22.<br/><br/>Video of the attack clearly shows the drone involved. But it does not match any reported type in Ukrainian service....<br/>[Read More &gt;....](/Ukraines-Unreported-Kamikaze-Drone.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

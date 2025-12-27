@@ -3,7 +3,7 @@ layout: post
 title: "IS-MIX advanced mixed-gas rebreather"
 date: "2014-12-20 11:00:00"
 excerpt: |-
-  <img src="/images/flag_sweden.jpg"/>There's very little information publicly available about the new IS-MIX rebreather, so here it is... <a href="/IS-MIX advanced mixed-gas rebreather.html"><img src="/images/swe_IS-MIX_cover.jpg"/></a>
+  <img src="/images/flag_sweden.jpg"/>There's very little information publicly available about the new IS-MIX rebreather, so here it is... <a href="/IS-MIX advanced mixed-gas rebreather.html"><img loading="lazy" src="/images/swe_IS-MIX_cover.jpg"/></a>
 ---
 
 ![](/images/flag_sweden.jpg)  

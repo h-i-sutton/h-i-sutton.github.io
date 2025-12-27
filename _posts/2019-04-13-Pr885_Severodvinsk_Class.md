@@ -8,7 +8,7 @@ excerpt: "*Updated. Originally posted 13th Oct 2018*<br/><font size=\"6\">**Yase
   \ NATO: **SEVERODVINSK Class**. The Pr.885 Class nuclear-powered cruise missile\
   \ submarines (SSGN) represent the most modern and  potent Russian submarines are\
   \ and widely regarded as similar to the latest Western submarines... <br/><a href=\"\
-  /Pr885_Severodvinsk_Class.html\"><img src=\"/images/Ru_Pr885M_cutaway_900.jpg\"\
+  /Pr885_Severodvinsk_Class.html\"><img loading=\"lazy\" src=\"/images/Ru_Pr885M_cutaway_900.jpg\"\
   /></a><br/>[Read More &gt;....](/Pr885_Severodvinsk_Class.html \"READ MORE\")"
 ---
 

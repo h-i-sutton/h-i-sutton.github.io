@@ -6,9 +6,9 @@ excerpt: "<br/><font size=\"6\">**Sweden's unique flatfish AIP attack submarine 
   \ src=\"/images/flag_sweden.jpg\"/> The **A21** was a next-generation Air Independent\
   \ Power (AIP) submarine concept from the end of the Cold War. Its unique shape led\
   \ to the nickname \u2018**Flundran**\u2019 meaning flounder or flat-fish... <br/><a\
-  \ href=\"/Sweden_A21_Flundran_submarine.html\"><img src=\"/images/Swe_Ub2000_side900.jpg\"\
+  \ href=\"/Sweden_A21_Flundran_submarine.html\"><img loading=\"lazy\" src=\"/images/Swe_Ub2000_side900.jpg\"\
   /></a><br clear=\"right\">[Read More &gt;....](/Sweden_A21_Flundran_submarine.html\
-  \ \"READ MORE\")<br/></br>"
+  \ \"READ MORE\")<br/><br/>"
 ---
 
 *With thanks to the late Fredrik Granholm*

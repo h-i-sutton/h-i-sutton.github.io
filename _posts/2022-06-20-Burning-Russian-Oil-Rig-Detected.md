@@ -3,7 +3,7 @@ layout: post
 title: "NASA Detects Burning Russian Controlled Oil Platform After Ukrainian Attack"
 date: "2022-06-20 22:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Burning-Russian-Oil-Rig-Detected.html"><img align="left" src="/images/Russia-Ukraine-Attack-Oil-Rig-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Ukraine attacked oil platforms controlled by Russia today. Images have yet to emerge<br/><br/>However, a technique new to Naval OSINT, has revealed the location of a burning oil rig...<br/>[Read More &gt;....](/Burning-Russian-Oil-Rig-Detected.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Burning-Russian-Oil-Rig-Detected.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Attack-Oil-Rig-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Ukraine attacked oil platforms controlled by Russia today. Images have yet to emerge<br/><br/>However, a technique new to Naval OSINT, has revealed the location of a burning oil rig...<br/>[Read More &gt;....](/Burning-Russian-Oil-Rig-Detected.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

@@ -5,8 +5,8 @@ date: "2018-08-25 11:00:00"
 excerpt: "<font size=\"6\">**Nerpa anti-diver UUV**</font><br/><img src=\"/images/flag_russia.jpg\"\
   /> The Russian **Nerpa** system will be the world\u2019s first armed counter-diver\
   \ unmanned underwater vehicle (UUV)... <br/>[Read More &gt;....](/Nerpa_Armed-UUV.html\
-  \ \"READ MORE\")<br/><a href=\"/Nerpa_Armed-UUV.html\"><img src=\"/images/Ru_NerpaUUV_900.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><a href=\"/Nerpa_Armed-UUV.html\"><img loading=\"lazy\" src=\"\
+  /images/Ru_NerpaUUV_900.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Comments and corrections welcome.*  

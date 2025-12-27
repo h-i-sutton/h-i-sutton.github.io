@@ -3,7 +3,7 @@ layout: post
 title: "First-Narco-Submarine-of-2021"
 date: "2021-01-08 03:00:00"
 excerpt: |-
-  <font size="6">**First 'Narco Submarine' Incident of 2021** </font><br clear="right"/><a href="/First-Narco-Submarine-of-2021.html"><img align="left" src="/images/First-Narco-Submarine-Of-2021-317.jpg"/></a><br/>The Mexican Navy has made the first reported Narco submarine interdiction of the year.<br/><br/>Last year saw over 20 of the so-called "narco submarines". This incident shows that they aren't going away...<br/>[Read More &gt;....](/First-Narco-Submarine-of-2021.html "READ MORE")<br clear="left"/>
+  <font size="6">**First 'Narco Submarine' Incident of 2021** </font><br clear="right"/><a href="/First-Narco-Submarine-of-2021.html"><img align="left" loading="lazy" src="/images/First-Narco-Submarine-Of-2021-317.jpg"/></a><br/>The Mexican Navy has made the first reported Narco submarine interdiction of the year.<br/><br/>Last year saw over 20 of the so-called "narco submarines". This incident shows that they aren't going away...<br/>[Read More &gt;....](/First-Narco-Submarine-of-2021.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

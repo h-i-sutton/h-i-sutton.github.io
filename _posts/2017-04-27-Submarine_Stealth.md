@@ -9,7 +9,8 @@ excerpt: "<font size=\"6\">**Stealth: Raft Mountings in submarines**</font> <br/
   \ noise-absorbent materials to prevent noise being transferred to the hull and from\
   \ there into the water around the boat \u2013 this is termed *raft mounting*...<br/>[Read\
   \ More](/Submarine_Stealth.html \"READ MORE\")<br/><a href=\"/Submarine_Stealth.html\"\
-  ><img src=\"/images/Raftmounting_Virginia900.jpg\"/></a><br clear=\"right\"/>"
+  ><img loading=\"lazy\" src=\"/images/Raftmounting_Virginia900.jpg\"/></a><br clear=\"\
+  right\"/>"
 ---
 
 **Stealth: Raft Mountings in submarines**   

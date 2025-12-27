@@ -3,7 +3,7 @@ layout: post
 title: "Royal-Navy-Trafalgar-Class-Submarine"
 date: "2021-02-06 09:01:00"
 excerpt: |-
-  <font size="6">**New Cutaway of Royal Navy's Trafalgar Class Submarine**</font><br clear="right"/><a href="/Royal-Navy-Trafalgar-Class-Submarine.html"><img align="left" src="/images/RN-Trafalgar-Class-317.jpg"/></a>![Flag](/images/flag_UK.jpg) The Trafalgar Class are the final Cold War era Royal Navy attack submarines. Thoroughly upgraded throughout their lives, three remain in service. Still in the top tier of submarines...<br/>[Read More &gt;....](/Royal-Navy-Trafalgar-Class-Submarine.html "READ MORE")<br clear="left"/>
+  <font size="6">**New Cutaway of Royal Navy's Trafalgar Class Submarine**</font><br clear="right"/><a href="/Royal-Navy-Trafalgar-Class-Submarine.html"><img align="left" loading="lazy" src="/images/RN-Trafalgar-Class-317.jpg"/></a>![Flag](/images/flag_UK.jpg) The Trafalgar Class are the final Cold War era Royal Navy attack submarines. Thoroughly upgraded throughout their lives, three remain in service. Still in the top tier of submarines...<br/>[Read More &gt;....](/Royal-Navy-Trafalgar-Class-Submarine.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

@@ -3,7 +3,7 @@ layout: post
 title: "Improvised DIY gunboat in Libya"
 date: "2016-05-02 01:00:00"
 excerpt: |-
-  A photo has emerged which appears to show a vintage BTR-60 Armored Personnel Carrier (APC) being converted into a gunboat. The conversion entails removing the wheels and building a crude boat hull around the entire vehicle. <br/><a href="/Improvised DIY gunboat in Libya.html"><img src="/images/BTR_boat1.jpg"/></a><br/>[Read More &gt;....](/Improvised DIY gunboat in Libya.html "READ MORE")
+  A photo has emerged which appears to show a vintage BTR-60 Armored Personnel Carrier (APC) being converted into a gunboat. The conversion entails removing the wheels and building a crude boat hull around the entire vehicle. <br/><a href="/Improvised DIY gunboat in Libya.html"><img loading="lazy" src="/images/BTR_boat1.jpg"/></a><br/>[Read More &gt;....](/Improvised DIY gunboat in Libya.html "READ MORE")
 ---
 
 A photo has emerged which appears to show a vintage BTR-60PB in Libya, being converted into a gunboat. The conversion entails removing the wheels and building a crude boat hull around the entire vehicle.   

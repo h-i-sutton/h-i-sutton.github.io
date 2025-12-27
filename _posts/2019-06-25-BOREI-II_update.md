@@ -6,7 +6,7 @@ excerpt: " <font size=\"6\">**OSINT: new BOREI-II class SSBN is lengthened**</fo
   \ fresh commercial satellite imagery available on Google Earth\u2019s history layers\
   \ shows that the latest boat is also longer than the baseline version...  [Read\
   \ More &gt;....](/BOREI-II_update.html \"READ MORE\")<br/><a href=\"/BOREI-II_update.html\"\
-  ><img src=\"/images/Ru_Borei-Len900.jpg\"/></a>"
+  ><img loading=\"lazy\" src=\"/images/Ru_Borei-Len900.jpg\"/></a>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**OSINT: new BOREI-II class SSBN is lengthened**   

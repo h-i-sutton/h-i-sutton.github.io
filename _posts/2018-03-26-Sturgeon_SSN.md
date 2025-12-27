@@ -3,7 +3,7 @@ layout: post
 title: "Sturgeon_SSN"
 date: "2018-03-26 11:00:00"
 excerpt: |-
-  <font size="6">**Cold War Sturgeon Class Nuclear-Powered Attack Submarine (SSN)**</font><br/><img src="/images/flag_USA.jpg"/> The main US Navy attack submarine of the Cold War, 39 Sturgeon Class SSNs were built in the late 1960s and 1970s. Their primary purpose was anti-submarine warfare against all types of seagoing Soviet submarines... <br/><a href="/Sturgeon_SSN.html"><img src="/images/Sturgeon_900.jpg"/></a>
+  <font size="6">**Cold War Sturgeon Class Nuclear-Powered Attack Submarine (SSN)**</font><br/><img src="/images/flag_USA.jpg"/> The main US Navy attack submarine of the Cold War, 39 Sturgeon Class SSNs were built in the late 1960s and 1970s. Their primary purpose was anti-submarine warfare against all types of seagoing Soviet submarines... <br/><a href="/Sturgeon_SSN.html"><img loading="lazy" src="/images/Sturgeon_900.jpg"/></a>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)

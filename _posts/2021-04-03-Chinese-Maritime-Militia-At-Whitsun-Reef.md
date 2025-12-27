@@ -4,7 +4,7 @@ title: "Chinese-Maritime-Militia-At-Whitsun-Reef"
 date: "2021-04-03 12:00:00"
 excerpt: "<font size=\"5\">**New OSINT Shows Changes At Whisun Reef**</font><br clear=\"right\"\
   /><a href=\"/Chinese-Maritime-Militia-At-Whitsun-Reef.html\"><img align=\"left\"\
-  \ src=\"/images/South-China-Sea-Whitsun-317.jpg\"/></a>![Flag China](/images/flag_China.jpg)\
+  \ loading=\"lazy\" src=\"/images/South-China-Sea-Whitsun-317.jpg\"/></a>![Flag China](/images/flag_China.jpg)\
   \ The latest tide of OSINT (Open Source Intelligence) from the South China Sea shows\
   \ that most of China\u2019s fishing vessels have vacated Whitsun Reef. The presence\
   \ of over two hundred fishing vessels had caused considerable concern in the region.<br/><br/>But\

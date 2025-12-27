@@ -3,7 +3,7 @@ layout: post
 title: "Previously Unreported Italian Special Forces BIR-87 SDV Seen For First Time"
 date: "2023-12-14 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Italy-COMSUBIN-Submarine-BIR-87.html"><img align="left" src="/images/Italy-COMSUBIN-BIR-87_317.jpg"/></a> ![Flag Italy](/images/flag_italy.jpg) Italy's elite naval special forces, COMSUBIN (aka Incursori / GOI), is extremely secretive. And their swimmer delivery vehicles (SDVs) and submarines are among their best kept secrets.<br/><br/>Only now, after it has been retired, has the BIR-87 been displayed to the public...<br/>[Read More &gt;....](/Italy-COMSUBIN-Submarine-BIR-87.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Italy-COMSUBIN-Submarine-BIR-87.html"><img align="left" loading="lazy" src="/images/Italy-COMSUBIN-BIR-87_317.jpg"/></a> ![Flag Italy](/images/flag_italy.jpg) Italy's elite naval special forces, COMSUBIN (aka Incursori / GOI), is extremely secretive. And their swimmer delivery vehicles (SDVs) and submarines are among their best kept secrets.<br/><br/>Only now, after it has been retired, has the BIR-87 been displayed to the public...<br/>[Read More &gt;....](/Italy-COMSUBIN-Submarine-BIR-87.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

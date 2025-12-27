@@ -10,7 +10,7 @@ excerpt: "<img src=\"/images/flag_italy.jpg\"/>  The Italian Navy\u2019s MSM-1S 
   \ including the Italian Navy\u2019s COMSUBIN frogmen who dove to 250m for extended\
   \ periods of time. [Read More&gt;....](/MSM-1S lock-out sub joins Technical Naval\
   \ Museum at La Spezia.html \"READ MORE\")<br/><a href=\"/MSM-1S lock-out sub joins\
-  \ Technical Naval Museum at La Spezia.html\"><img src=\"/images/MSM1S_900.jpg\"\
+  \ Technical Naval Museum at La Spezia.html\"><img loading=\"lazy\" src=\"/images/MSM1S_900.jpg\"\
   /></a>"
 ---
 

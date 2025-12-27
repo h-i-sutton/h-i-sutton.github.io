@@ -3,7 +3,7 @@ layout: post
 title: "Russia_Navy_Beluga_Whale_update"
 date: "2019-05-26 05:00:00"
 excerpt: |-
-  <font size="6">**New OSINT: Russian Navy Beluga whale program moves in to GUGI submarine base**</font><br/><img src="/images/flag_russia.jpg"/> In late April fishermen in Finnmark in northern Norway found a Beluga whale wearing a tight harness for external equipment. There is strong evidence that it relates to the previously little-reported Russian Navy Northern Fleet marine mammal program. New satellite images shed new light... <br/><a href="/Russia_Navy_Beluga_Whale_update.html"><img src="/images/Ru_Beluga900.jpg"/></a><br/>[Read More &gt;....](/Russia_Navy_Beluga_Whale_update.html "READ MORE")
+  <font size="6">**New OSINT: Russian Navy Beluga whale program moves in to GUGI submarine base**</font><br/><img src="/images/flag_russia.jpg"/> In late April fishermen in Finnmark in northern Norway found a Beluga whale wearing a tight harness for external equipment. There is strong evidence that it relates to the previously little-reported Russian Navy Northern Fleet marine mammal program. New satellite images shed new light... <br/><a href="/Russia_Navy_Beluga_Whale_update.html"><img loading="lazy" src="/images/Ru_Beluga900.jpg"/></a><br/>[Read More &gt;....](/Russia_Navy_Beluga_Whale_update.html "READ MORE")
 ---
 
 ![Russian Navy Beluga whale - Covert Shores](/images/Ru_Beluga940.jpg)  

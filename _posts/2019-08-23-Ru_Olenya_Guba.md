@@ -11,7 +11,7 @@ excerpt: " <font size=\"5\">*Updates:*<br/>**\u25CF Beluga whale pens moved**<br
   \ most likely involved in the whale which turned up in Norway in May. Additionally\
   \ they confirm that the special mission host submarine BS-64 Podmoskovye returned\
   \ to its home base of Olenya Guba very shortly after the Losharik submarine accident...\
-  \ <br/><a href=\"/Ru_Olenya_Guba.html\"><img src=\"/images/Ru_OlenyaGuba_900.jpg\"\
+  \ <br/><a href=\"/Ru_Olenya_Guba.html\"><img loading=\"lazy\" src=\"/images/Ru_OlenyaGuba_900.jpg\"\
   /></a><br/>[Read More &gt;....](/Ru_Olenya_Guba.html \"READ MORE\")"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Russian-Navy-Warships-Off-Scotland"
 date: "2020-10-27 23:00:00"
 excerpt: |-
-  <br/><font size="5">**Russian Navy Warships Seen Loitering Off RAF Lossiemouth, Scotland**</font> <br/>![Flag](/images/flag_russia.jpg) ![Flag](/images/flag_UK.jpg) A pair of Russian Navy ships, believed to include a Udaloy Class destroyer have taken up position off the Scottish coast. The ships are around 25 nautical miles from the major air base at RAF Lossiemouth..... <br/><a href="/Russian-Navy-Warships-Off-Scotland.html"><img src="/images/Russian-Navy-off-Scotland-900.jpg"/></a><br clear="right">[Read More &gt;....](/Russian-Navy-Warships-Off-Scotland.html "READ MORE")<br/></br>
+  <br/><font size="5">**Russian Navy Warships Seen Loitering Off RAF Lossiemouth, Scotland**</font> <br/>![Flag](/images/flag_russia.jpg) ![Flag](/images/flag_UK.jpg) A pair of Russian Navy ships, believed to include a Udaloy Class destroyer have taken up position off the Scottish coast. The ships are around 25 nautical miles from the major air base at RAF Lossiemouth..... <br/><a href="/Russian-Navy-Warships-Off-Scotland.html"><img loading="lazy" src="/images/Russian-Navy-off-Scotland-900.jpg"/></a><br clear="right">[Read More &gt;....](/Russian-Navy-Warships-Off-Scotland.html "READ MORE")<br/><br/>
 ---
 
 [![](/images/Naval-News-logo.png)](https://www.navalnews.com/author/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

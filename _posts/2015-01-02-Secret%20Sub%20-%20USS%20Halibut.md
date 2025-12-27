@@ -3,7 +3,7 @@ layout: post
 title: "Secret Sub - USS Halibut"
 date: "2015-01-02 11:00:00"
 excerpt: |-
-  <img src="/images/flag_USA.jpg"/>The **USS Halibut** started life as a guided missile submarine performing nuclear deterrent missions at the height of the Cold War. She finished it as one of the world's most secret submarines, performing covert missions close to Soviet shores including Operation **IVY BELLS**. For these operations she carried a new type of Navy Diver <a href="/Secret Sub - USS Halibut.html"><img src="/images/halibut_banner.jpg"/></a>
+  <img src="/images/flag_USA.jpg"/>The **USS Halibut** started life as a guided missile submarine performing nuclear deterrent missions at the height of the Cold War. She finished it as one of the world's most secret submarines, performing covert missions close to Soviet shores including Operation **IVY BELLS**. For these operations she carried a new type of Navy Diver <a href="/Secret Sub - USS Halibut.html"><img loading="lazy" src="/images/halibut_banner.jpg"/></a>
 ---
 
 **If you like it, share it. Thanks!** ([Corrections welcome](pages/contact.html))   

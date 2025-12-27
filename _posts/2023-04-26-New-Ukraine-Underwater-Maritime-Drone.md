@@ -3,7 +3,7 @@ layout: post
 title: "Russia Faces New Threat: Ukraine’s ‘Toloka’ Underwater Maritime Drone"
 date: "2023-04-26 18:20:00"
 excerpt: |-
-  <br clear="right"/><a href="/New-Ukraine-Underwater-Maritime-Drone.html"><img align="left" src="/images/Ukraine-Toloka-UUV-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)The Russian Navy has a new problem in the Black Sea. Ukrainian group Brave-1 have shown their Toloka weaponized UUV (uncrewed underwater vehicle). The design is evidently intended to operate as a form of loitering torpedo.<br/><br/>It is a concept that makes a lot of sense.<br/>[Read More &gt;....](/New-Ukraine-Underwater-Maritime-Drone.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/New-Ukraine-Underwater-Maritime-Drone.html"><img align="left" loading="lazy" src="/images/Ukraine-Toloka-UUV-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)The Russian Navy has a new problem in the Black Sea. Ukrainian group Brave-1 have shown their Toloka weaponized UUV (uncrewed underwater vehicle). The design is evidently intended to operate as a form of loitering torpedo.<br/><br/>It is a concept that makes a lot of sense.<br/>[Read More &gt;....](/New-Ukraine-Underwater-Maritime-Drone.html "READ MORE")<br clear="left"/>
 ---
 
 # Russia Faces New Threat: Ukraine’s ‘Toloka’ Underwater Maritime Drone

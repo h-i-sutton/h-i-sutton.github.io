@@ -3,7 +3,7 @@ layout: post
 title: "Evolving_threat_to_tankers_in_Persian_Gulf"
 date: "2019-07-20 11:00:00"
 excerpt: |-
-  Updated. Originally posted 3rd August 2018<br/><font size="5">**Evolving threat to tankers in Persian Gulf**</font><br/><img src="/images/flag_iran.jpg"/> Iranian forces have long emphasized asymmetrical tactics in the Straits of Hormuz... <br/>[Read More &gt;....](/Evolving_threat_to_tankers_in_Persian_Gulf.html "READ MORE")<br/><a href="/Evolving_threat_to_tankers_in_Persian_Gulf.html"><img src="/images/Ir_LimpetAttack_header.jpg"/></a><br clear="right"/>
+  Updated. Originally posted 3rd August 2018<br/><font size="5">**Evolving threat to tankers in Persian Gulf**</font><br/><img src="/images/flag_iran.jpg"/> Iranian forces have long emphasized asymmetrical tactics in the Straits of Hormuz... <br/>[Read More &gt;....](/Evolving_threat_to_tankers_in_Persian_Gulf.html "READ MORE")<br/><a href="/Evolving_threat_to_tankers_in_Persian_Gulf.html"><img loading="lazy" src="/images/Ir_LimpetAttack_header.jpg"/></a><br clear="right"/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Comments and corrections welcome.*  

@@ -3,7 +3,7 @@ layout: post
 title: "Russia's Copy Of Ukraine's Maritime Drones: Sargan USV"
 date: "2023-06-18 22:30:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russian-Sargan-Maritime-Drone.html"><img align="left" src="/images/Russia-USV-Sargan-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) A group from Sevastopol has displayed a new uncrewed surface vessel, the Sargan, at the St. Petersburg International Economic Forum (SPIEF).<br/><br/>The 'Sargan' vehicle has clear influences from Ukraine's 'maritime drones'. These have been attacking the Russian Navy in Sevastopol since October 2022...<br/>[Read More &gt;....](/Russian-Sargan-Maritime-Drone.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russian-Sargan-Maritime-Drone.html"><img align="left" loading="lazy" src="/images/Russia-USV-Sargan-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) A group from Sevastopol has displayed a new uncrewed surface vessel, the Sargan, at the St. Petersburg International Economic Forum (SPIEF).<br/><br/>The 'Sargan' vehicle has clear influences from Ukraine's 'maritime drones'. These have been attacking the Russian Navy in Sevastopol since October 2022...<br/>[Read More &gt;....](/Russian-Sargan-Maritime-Drone.html "READ MORE")<br clear="left"/>
 ---
 
 # Russia's Copy Of Ukraine's Maritime Drones: Sargan USV

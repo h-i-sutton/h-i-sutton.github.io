@@ -7,8 +7,9 @@ excerpt: "<font size=\"6\">**Vintage submarine design from 1897**</font><br/><im
   \ *Nordenfelt Class* submarine being the first in the world to launch a torpedo\
   \ in 1888. Ten years later another Swedish engineer, O Eneroth, was proposing a\
   \ cutting-edge submarine design.<br/>... [Read More &gt;....](/O_Eneroth_Submarine_1897.html\
-  \ \"READ MORE\")<br/><a href=\"/O_Eneroth_Submarine_1897.html\"><img src=\"/images/Swe_1897_5.jpg\"\
-  /></a><br/>*Photo from Sj\xF6historiska museet.*<br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><a href=\"/O_Eneroth_Submarine_1897.html\"><img loading=\"\
+  lazy\" src=\"/images/Swe_1897_5.jpg\"/></a><br/>*Photo from Sj\xF6historiska museet.*<br\
+  \ clear=\"right\"/>"
 ---
 
 ![O_Eneroth_Submarine_1897](/images/Swe_1897_2.jpg)   

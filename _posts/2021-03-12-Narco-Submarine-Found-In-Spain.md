@@ -3,7 +3,7 @@ layout: post
 title: "Narco-Submarine-Found-In-Spain"
 date: "2021-03-12 09:00:00"
 excerpt: |-
-  <font size="6">**Disguised  Narco Submarine Found In Europe**</font><br clear="right"/><a href="/Narco-Submarine-Found-In-Spain.html"><img align="left" src="/images/Narco-Submarine-Spain-317.jpg"/></a> Police in Malaga, Spain have reported that they have discovered a narco-submarine aboard a ship. It is the fourth so-called narco submarine found in Europe in the last 15 years...<br/>[Read More &gt;....](/Narco-Submarine-Found-In-Spain.html "READ MORE")<br clear="left"/>
+  <font size="6">**Disguised  Narco Submarine Found In Europe**</font><br clear="right"/><a href="/Narco-Submarine-Found-In-Spain.html"><img align="left" loading="lazy" src="/images/Narco-Submarine-Spain-317.jpg"/></a> Police in Malaga, Spain have reported that they have discovered a narco-submarine aboard a ship. It is the fourth so-called narco submarine found in Europe in the last 15 years...<br/>[Read More &gt;....](/Narco-Submarine-Found-In-Spain.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

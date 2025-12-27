@@ -3,7 +3,7 @@ layout: post
 title: "Seismic_Survey_Sub"
 date: "2020-02-04 01:01:00"
 excerpt: |-
-  *Updated with Cutaway. Originally posted May 21 2017*<br/><font size="6">**Russian Seismic Survey Submarine for Arctic Operations**</font> <br/>![Flag](/images/flag_russia.jpg) This is a unique submarine concept developed by the Rubin design bureau. It is designed to conduct sub-bottom surveys using very low frequency active sonar which can penetrate the sea floor...<br/>[Read More](/Seismic_Survey_Sub.html "READ MORE")<br/><a href="/Seismic_Survey_Sub.html"><img src="/images/Ru_SeismicSurvey_Sub_Cutaway-900.jpg"/></a><br/><br clear="right"/>
+  *Updated with Cutaway. Originally posted May 21 2017*<br/><font size="6">**Russian Seismic Survey Submarine for Arctic Operations**</font> <br/>![Flag](/images/flag_russia.jpg) This is a unique submarine concept developed by the Rubin design bureau. It is designed to conduct sub-bottom surveys using very low frequency active sonar which can penetrate the sea floor...<br/>[Read More](/Seismic_Survey_Sub.html "READ MORE")<br/><a href="/Seismic_Survey_Sub.html"><img loading="lazy" src="/images/Ru_SeismicSurvey_Sub_Cutaway-900.jpg"/></a><br/><br clear="right"/>
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

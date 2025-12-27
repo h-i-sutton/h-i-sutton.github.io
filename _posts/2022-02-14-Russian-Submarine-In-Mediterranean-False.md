@@ -3,7 +3,7 @@ layout: post
 title: "Submarine Misinformation: False Reports Of Russian Sub In Mediterranean"
 date: "2022-02-14 15:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russian-Submarine-In-Mediterranean-False.html"><img align="left" src="/images/Russia-Submarine-Lada-In-Med-FALSE-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Russian media has reported that the country's only LADA Class submarine, Sankt Peterburg  (B-585) has deployed to the Mediterranean.<br/><br/>This appears to be incorrect. The submarine is instead believed to be in Kronstadt in the Baltic. <br/>[Read More &gt;....](/Russian-Submarine-In-Mediterranean-False.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russian-Submarine-In-Mediterranean-False.html"><img align="left" loading="lazy" src="/images/Russia-Submarine-Lada-In-Med-FALSE-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Russian media has reported that the country's only LADA Class submarine, Sankt Peterburg  (B-585) has deployed to the Mediterranean.<br/><br/>This appears to be incorrect. The submarine is instead believed to be in Kronstadt in the Baltic. <br/>[Read More &gt;....](/Russian-Submarine-In-Mediterranean-False.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

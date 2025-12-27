@@ -3,7 +3,7 @@ layout: post
 title: "News_Roundup_Nov2016"
 date: "2016-11-09 00:00:00"
 excerpt: |2-
-   [Read More &gt;....](/News_Roundup_Nov2016.html "READ MORE")<br/><a href="/News_Roundup_Nov2016.html"><img src="/images/news900.jpg"/></a>
+   [Read More &gt;....](/News_Roundup_Nov2016.html "READ MORE")<br/><a href="/News_Roundup_Nov2016.html"><img loading="lazy" src="/images/news900.jpg"/></a>
 ---
 
 **COMSUBIN special forces boat displayed**  

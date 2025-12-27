@@ -3,7 +3,7 @@ layout: post
 title: "SDV History - Lesser known Anglo-French projects"
 date: "2015-01-25 11:00:00"
 excerpt: |-
-  <img src="/images/flag_UK.jpg"/><img src="/images/flag_france.jpg"/>Probably one of the sleekest SDV designs out there; a family of two, four and five-man diver transports developed by MAREX.<br/><a href="/SDV History - Lesser known Anglo-French projects.html"><img src="/images/Marex_Header.jpg"/></a>
+  <img src="/images/flag_UK.jpg"/><img src="/images/flag_france.jpg"/>Probably one of the sleekest SDV designs out there; a family of two, four and five-man diver transports developed by MAREX.<br/><a href="/SDV History - Lesser known Anglo-French projects.html"><img loading="lazy" src="/images/Marex_Header.jpg"/></a>
 ---
 
 I've been meaning to share this for a while but I am heavy on the book editing so please excuse the rushed presentation.

@@ -3,7 +3,7 @@ layout: post
 title: "ROKN_ASWUUV"
 date: "2019-10-22 11:00:00"
 excerpt: |-
-  <font size="6">**ASWUUV:**</font><font size="5"> Large-Displacement Anti-Submarine Unmanned Underwater Vehicle</font><br/>![Flag](/images/flag_RoK.jpg) The South Korean Navy (ROKN) has revealed the world's first explicitly anti-submarine LDUUV design... [Read More &gt;....](/ROKN_ASWUUV.html "READ MORE")<br/><a href="/ROKN_ASWUUV.html"><img src="/images/ROKN_ASWUUV_profile900.jpg"/></a>
+  <font size="6">**ASWUUV:**</font><font size="5"> Large-Displacement Anti-Submarine Unmanned Underwater Vehicle</font><br/>![Flag](/images/flag_RoK.jpg) The South Korean Navy (ROKN) has revealed the world's first explicitly anti-submarine LDUUV design... [Read More &gt;....](/ROKN_ASWUUV.html "READ MORE")<br/><a href="/ROKN_ASWUUV.html"><img loading="lazy" src="/images/ROKN_ASWUUV_profile900.jpg"/></a>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**ASWUUV:** Large-Displacement Anti-Submarine Unmanned Underwater Vehicle  

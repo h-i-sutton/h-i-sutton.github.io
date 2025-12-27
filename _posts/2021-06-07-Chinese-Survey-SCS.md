@@ -3,7 +3,7 @@ layout: post
 title: "Survey Warfare: 3 Chinese Ships Of Interest In The South China Sea"
 date: "2021-06-07 23:50:00"
 excerpt: |-
-  <br clear="right"/><a href="/Chinese-Survey-SCS.html"><img align="left" src="/images/China-Survey-SCS-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)  Chinese ships, of various types and capabilities, have been surveying the South China Sea. Regardless of the individual ship or organization, these activities may have either military and civilian motives.<br/><br/>During the last couple of years three vessels have performed particularly interesting surveys. <br/>[Read More &gt;....](/Chinese-Survey-SCS.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Chinese-Survey-SCS.html"><img align="left" loading="lazy" src="/images/China-Survey-SCS-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)  Chinese ships, of various types and capabilities, have been surveying the South China Sea. Regardless of the individual ship or organization, these activities may have either military and civilian motives.<br/><br/>During the last couple of years three vessels have performed particularly interesting surveys. <br/>[Read More &gt;....](/Chinese-Survey-SCS.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

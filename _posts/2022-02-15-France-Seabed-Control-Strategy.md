@@ -3,7 +3,7 @@ layout: post
 title: "France's New Seabed Control Strategy: Know, Watch & Act"
 date: "2022-02-15 22:01:00"
 excerpt: |-
-  <br clear="right"/><a href="/France-Seabed-Control-Strategy.html"><img align="left" src="/images/France-Seabed-Warfare-317.jpg"/></a> ![Flag France](/images/flag_france.jpg) France is moving ahead with high-capability seabed warfare capabilities. The new strategy, which is broader than just the French Navy (Marine Nationale), could place France at the leading edge of these capabilities within NATO. <br/>[Read More &gt;....](/France-Seabed-Control-Strategy.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/France-Seabed-Control-Strategy.html"><img align="left" loading="lazy" src="/images/France-Seabed-Warfare-317.jpg"/></a> ![Flag France](/images/flag_france.jpg) France is moving ahead with high-capability seabed warfare capabilities. The new strategy, which is broader than just the French Navy (Marine Nationale), could place France at the leading edge of these capabilities within NATO. <br/>[Read More &gt;....](/France-Seabed-Control-Strategy.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

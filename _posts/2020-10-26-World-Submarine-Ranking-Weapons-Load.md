@@ -3,7 +3,7 @@ layout: post
 title: "World-Submarine-Ranking-Weapons-Load"
 date: "2020-10-26 04:00:00"
 excerpt: |-
-  <font size="6">**World Submarine Rankings: Weapons Load**</font> <br/>The more torpedoes and missiles a submarine carries, the more targets it can attack..... <br/>[Read More &gt;....](/World-Submarine-Ranking-Weapons-Load.html "READ MORE")<br/><a href="/World-Submarine-Ranking-Weapons-Load.html"><img src="/images/US-Navy-Ohio-Class-SSGN-USS-Georgia-900.jpg"/></a><br clear="right"><br/></br>
+  <font size="6">**World Submarine Rankings: Weapons Load**</font> <br/>The more torpedoes and missiles a submarine carries, the more targets it can attack..... <br/>[Read More &gt;....](/World-Submarine-Ranking-Weapons-Load.html "READ MORE")<br/><a href="/World-Submarine-Ranking-Weapons-Load.html"><img loading="lazy" src="/images/US-Navy-Ohio-Class-SSGN-USS-Georgia-900.jpg"/></a><br clear="right"><br/><br/>
 ---
 
 [![](/images/Naval-News-logo.png)](https://www.navalnews.com/author/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

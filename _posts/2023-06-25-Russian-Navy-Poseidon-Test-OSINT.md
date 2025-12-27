@@ -3,7 +3,7 @@ layout: post
 title: "Indications of Poseidon Test Launch From Submarine Belgorod"
 date: "2023-06-25 14:30:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russian-Navy-Poseidon-Test-OSINT.html"><img align="left" src="/images/Russia-BPoseidon-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Russia's largest submarine, Belgorod (K-329) has sailed from Severodvinsk in the Russian Arctic in the past few days. This is likely unrelated to the Wagner coup/rebellion but may be significant all the same...<br/>[Read More &gt;....](/Russian-Navy-Poseidon-Test-OSINT.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russian-Navy-Poseidon-Test-OSINT.html"><img align="left" loading="lazy" src="/images/Russia-BPoseidon-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Russia's largest submarine, Belgorod (K-329) has sailed from Severodvinsk in the Russian Arctic in the past few days. This is likely unrelated to the Wagner coup/rebellion but may be significant all the same...<br/>[Read More &gt;....](/Russian-Navy-Poseidon-Test-OSINT.html "READ MORE")<br clear="left"/>
 ---
 
 # Indications of Imminent Poseidon Test Launch From Submarine Belgorod

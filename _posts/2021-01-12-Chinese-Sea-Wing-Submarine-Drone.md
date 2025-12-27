@@ -3,7 +3,7 @@ layout: post
 title: "Chinese-Sea-Wing-Submarine-Drone"
 date: "2021-01-12 09:01:00"
 excerpt: |-
-  *Updated. Originally posted 2020-12-30*<br/><font size="6">**Chinese Sea Wing (Haiyi) ocean glider**</font><br clear="right"><a href="/Chinese-Sea-Wing-Submarine-Drone.html"><img align="left" src="/images/China-Sea-Wing-UUV-Glider-Drone-317.jpg"/></a>![Flag](/images/flag_China.jpg) A UUV found by Indonesian fishermen on December 20 was a Chinese made Sea Wing glider...<br/>[Read More &gt;....](/Chinese-Sea-Wing-Submarine-Drone.html "READ MORE")<br clear="left"/></br>
+  *Updated. Originally posted 2020-12-30*<br/><font size="6">**Chinese Sea Wing (Haiyi) ocean glider**</font><br clear="right"><a href="/Chinese-Sea-Wing-Submarine-Drone.html"><img align="left" loading="lazy" src="/images/China-Sea-Wing-UUV-Glider-Drone-317.jpg"/></a>![Flag](/images/flag_China.jpg) A UUV found by Indonesian fishermen on December 20 was a Chinese made Sea Wing glider...<br/>[Read More &gt;....](/Chinese-Sea-Wing-Submarine-Drone.html "READ MORE")<br clear="left"/><br/>
 ---
 
 *Updated. Originally posted 2020-12-30*  

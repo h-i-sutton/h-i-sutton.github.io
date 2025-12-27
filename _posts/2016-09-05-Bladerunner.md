@@ -3,15 +3,16 @@ layout: post
 title: "Bladerunner"
 date: "2016-09-05 02:00:00"
 excerpt: "<font size=\"6\"> *Royal Navy tests boat already operated by Iran* </font><br/><a\
-  \ href=\"/Bladerunner.html\"><img src=\"/images/bladerunner_RN1.jpg\"/></a><br/>![Flag](/images/flag_UK.jpg)\
-  \ ![Flag](/images/flag_iran.jpg) The Royal Navy demonstrated the UK\u2019s **Maritime\
-  \ Autonomy Surface Testbed** (MAST) unmanned surface vessel (USV) on the River Thames\
-  \ today. The craft utilizes the innovative British **Bladerunner** hull design from\
-  \ Ice Marine. The Royal Navy is the only operator of the autonomous Bladerunner,\
-  \ but they are not the first to navalize the type. Iran acquired a Bladerunner around\
-  \ 2009 and unveiled a local adaptation in 2010 as the **Seraj-1 Class**... [Read\
-  \ More &gt;....](/Bladerunner.html \"READ MORE\")<br/><a href=\"/Bladerunner.html\"\
-  ><img src=\"/images/bladerunner_Iran900.jpg\"/></a><br clear=\"right\"/>"
+  \ href=\"/Bladerunner.html\"><img loading=\"lazy\" src=\"/images/bladerunner_RN1.jpg\"\
+  /></a><br/>![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_iran.jpg) The Royal\
+  \ Navy demonstrated the UK\u2019s **Maritime Autonomy Surface Testbed** (MAST) unmanned\
+  \ surface vessel (USV) on the River Thames today. The craft utilizes the innovative\
+  \ British **Bladerunner** hull design from Ice Marine. The Royal Navy is the only\
+  \ operator of the autonomous Bladerunner, but they are not the first to navalize\
+  \ the type. Iran acquired a Bladerunner around 2009 and unveiled a local adaptation\
+  \ in 2010 as the **Seraj-1 Class**... [Read More &gt;....](/Bladerunner.html \"\
+  READ MORE\")<br/><a href=\"/Bladerunner.html\"><img loading=\"lazy\" src=\"/images/bladerunner_Iran900.jpg\"\
+  /></a><br clear=\"right\"/>"
 ---
 
  *Royal Navy tests boat already operated by Iran*   

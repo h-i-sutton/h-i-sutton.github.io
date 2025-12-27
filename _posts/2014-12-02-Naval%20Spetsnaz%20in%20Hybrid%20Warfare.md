@@ -7,7 +7,7 @@ excerpt: "<img src=\"/images/flag_russia.jpg\"/> With the annexation of the Crim
   \ Irrespective of whether Naval Spetsnaz have been involved in any operations during\
   \ the \u2018Hybrid War\u2019, their capabilities are among those best suited to\
   \ this kind of operatng environment. <a href=\"/Naval Spetsnaz in Hybrid Warfare.html\"\
-  ><img src=\"images/spetsnaz_header.jpg\"/></a>"
+  ><img loading=\"lazy\" src=\"images/spetsnaz_header.jpg\"/></a>"
 ---
 
 ![](/images/flag_russia.jpg)  **Illustrated analysis of near-term Russian maritime Special Forces underwater vehicles and capabilities** 

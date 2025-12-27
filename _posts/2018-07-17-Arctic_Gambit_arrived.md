@@ -6,8 +6,8 @@ excerpt: "<font size=\"6\">**Larry Bond's Arctic Gambit**</font> <br/>![Flag](/i
   \ ![Flag](/images/flag_russia.jpg) My hardback copy of Larry Bond\u2019s latest\
   \ Jerry Mitchell submarine novel, Arctic Gambit, has arrived. Expect a book review\
   \ when I\u2019ve read it cover to cover. ...<br/>[Read More](/Arctic_Gambit_arrived.html\
-  \ \"READ MORE\")<br/><a href=\"/Arctic_Gambit_arrived.html\"><img src=\"/images/LarryBond_ArcticGambit_900.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><a href=\"/Arctic_Gambit_arrived.html\"><img loading=\"lazy\"\
+  \ src=\"/images/LarryBond_ArcticGambit_900.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)

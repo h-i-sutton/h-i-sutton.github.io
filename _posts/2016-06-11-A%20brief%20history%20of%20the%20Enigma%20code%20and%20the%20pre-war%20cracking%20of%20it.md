@@ -15,8 +15,8 @@ excerpt: "![Flag](/images/flag_germany.jpg)![Flag](/images/flag_UK.jpg)![Flag](/
   \ head pieced together from all the various sources.  Here\u2019s what I\u2019ve\
   \ osmosed....* <a href=\"http://williamedwardscoder.tumblr.com/post/145745642718/a-brief-history-of-the-enigma-and-the-pre-war\"\
   \ target=\"_blank\">GO TO FULL ARTICLE</a><br/><a href=\"/A brief history of the\
-  \ Enigma code and the pre-war cracking of it.html\"><img src=\"/images/Enigma_breakers.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ Enigma code and the pre-war cracking of it.html\"><img loading=\"lazy\" src=\"\
+  /images/Enigma_breakers.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social) ![Flag](/images/flag_germany.jpg)![Flag](/images/flag_UK.jpg)![Flag](/images/flag_poland.jpg) From [GO TO BLOG](http://williamedwardscoder.tumblr.com/post/145745642718/a-brief-history-of-the-enigma-and-the-pre-war)  

@@ -3,14 +3,14 @@ layout: post
 title: "China's Massive Yulin Naval Base In South China Sea Getting Even Bigger"
 date: "2023-11-26 14:00:00"
 excerpt: "**Treat with Caution: Unverified Rumors**<br/><br clear=\"right\"><a href=\"/Chinese-Navy-Expand-SCS-Base.html\"\
-  ><img align=\"left\" src=\"/images/China-Sanya-Expansion-317.jpg\"/></a> ![Flag\
-  \ China](/images/flag_China.jpg) China\u2019s main naval base in the South China\
-  \ Sea continues to grow. Additional quays will almost double the size of the Sanya\
-  \ side of Yulin naval base. A new quay has been built on the western shore of Yulin\
-  \ Harbor, outside the historic inner harbor.<br/><br/>This may indicate that the\
-  \ base will play an increasing role in the basing of uncrewed platforms...<br/>[Read\
+  ><img align=\"left\" loading=\"lazy\" src=\"/images/China-Sanya-Expansion-317.jpg\"\
+  /></a> ![Flag China](/images/flag_China.jpg) China\u2019s main naval base in the\
+  \ South China Sea continues to grow. Additional quays will almost double the size\
+  \ of the Sanya side of Yulin naval base. A new quay has been built on the western\
+  \ shore of Yulin Harbor, outside the historic inner harbor.<br/><br/>This may indicate\
+  \ that the base will play an increasing role in the basing of uncrewed platforms...<br/>[Read\
   \ More &gt;....](/Chinese-Navy-Expand-SCS-Base.html \"READ MORE\")<br clear=\"left\"\
-  /></br>"
+  /><br/>"
 ---
 
 # China's Massive Yulin Naval Base In South China Sea Getting Even Bigger

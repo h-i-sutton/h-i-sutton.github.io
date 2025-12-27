@@ -3,7 +3,7 @@ layout: post
 title: "Russia Finally Launches The Poseidon Armed Submarine Khabarovsk"
 date: "2025-11-09 14:50:00"
 excerpt: |-
-  **Updated**<br/><br clear="right"><a href="/Russian-Submarine-Khabarovsk-20251102.html"><img align="left" src="/images/Russia-khabarovsk-2025-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) After a painfully long wait, the Russian submarine Khabarovsk has finally emerged from its construction shed in Severodvinsk.<br/><br/>The Pr. 09851 class boat is the second Poseidon carrying submarine in the Russian Navy, following the Pr. 09852 Belgorod...<br/>[Read More &gt;....](/Russian-Submarine-Khabarovsk-20251102.html "READ MORE")<br clear="left"/></br>
+  **Updated**<br/><br clear="right"><a href="/Russian-Submarine-Khabarovsk-20251102.html"><img align="left" loading="lazy" src="/images/Russia-khabarovsk-2025-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) After a painfully long wait, the Russian submarine Khabarovsk has finally emerged from its construction shed in Severodvinsk.<br/><br/>The Pr. 09851 class boat is the second Poseidon carrying submarine in the Russian Navy, following the Pr. 09852 Belgorod...<br/>[Read More &gt;....](/Russian-Submarine-Khabarovsk-20251102.html "READ MORE")<br clear="left"/><br/>
 ---
 
 **Updated**  

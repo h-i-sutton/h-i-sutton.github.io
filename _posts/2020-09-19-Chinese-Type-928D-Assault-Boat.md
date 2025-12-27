@@ -3,7 +3,7 @@ layout: post
 title: "Chinese-Type-928D-Assault-Boat"
 date: "2020-09-19 10:00:00"
 excerpt: |-
-  <font size="6">**China's New Assault Boat: Type-928D**</font> <br/><img src="/images/flag_China.jpg"/>The Type-092D assault boat has been in the news because it has been deployed by China to Pangong Lake on the China-India border. ... <br/><a href="/Chinese-Type-928D-Assault-Boat.html"><img src="/images/China-Type928D-Assault-Boat-900.jpg"/></a><br/>[Read More](/Chinese-Type-928D-Assault-Boat.html "READ MORE")<br/>
+  <font size="6">**China's New Assault Boat: Type-928D**</font> <br/><img src="/images/flag_China.jpg"/>The Type-092D assault boat has been in the news because it has been deployed by China to Pangong Lake on the China-India border. ... <br/><a href="/Chinese-Type-928D-Assault-Boat.html"><img loading="lazy" src="/images/China-Type928D-Assault-Boat-900.jpg"/></a><br/>[Read More](/Chinese-Type-928D-Assault-Boat.html "READ MORE")<br/>
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

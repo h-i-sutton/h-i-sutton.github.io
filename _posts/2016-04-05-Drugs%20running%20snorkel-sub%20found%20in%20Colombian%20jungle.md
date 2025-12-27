@@ -3,7 +3,7 @@ layout: post
 title: "Drugs running snorkel-sub found in Colombian jungle"
 date: "2016-04-05 01:00:00"
 excerpt: |-
-  The Colombian Navy has discovered its latest narco-sub hidden in the jungle along the Pacific Coast. Interestingly, this craft fits into the rare *Snorkel sub* category, and is closer to a real submarine than the typical *Low Profile Vessels* intercepted in the War on Drugs.  [Read More &gt;....](/Drugs running snorkel-sub found in Colombian jungle.html "READ MORE")<br/><a href="/Drugs running snorkel-sub found in Colombian jungle.html"><img src="/images/NarcoSub_snorkel_ColApril2016_900.jpg"/></a>
+  The Colombian Navy has discovered its latest narco-sub hidden in the jungle along the Pacific Coast. Interestingly, this craft fits into the rare *Snorkel sub* category, and is closer to a real submarine than the typical *Low Profile Vessels* intercepted in the War on Drugs.  [Read More &gt;....](/Drugs running snorkel-sub found in Colombian jungle.html "READ MORE")<br/><a href="/Drugs running snorkel-sub found in Colombian jungle.html"><img loading="lazy" src="/images/NarcoSub_snorkel_ColApril2016_900.jpg"/></a>
 ---
 
 ![Narco sub](/images/NarcoSub_snorkel_ColApril2016_1.jpg)  

@@ -3,7 +3,7 @@ layout: post
 title: "End Of The TYPHOON Era: World's Largest Submarine Retires"
 date: "2022-07-24 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Typhoon-Class-Submarine.html"><img align="left" src="/images/Russia-Typhoon-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The last Pr.941 TYPHOON Class boat, Dmitriy Donskoy (TK-208), is reportedly no longer in active service. The world's largest submarine, the undisputed king of submarines, is finally being decommissioned.<br/><br/>Regardless of your politics, there has always been a air of respect for the gigantic Russian submarine in defense circles.<br/>[Read More &gt;....](/Typhoon-Class-Submarine.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Typhoon-Class-Submarine.html"><img align="left" loading="lazy" src="/images/Russia-Typhoon-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The last Pr.941 TYPHOON Class boat, Dmitriy Donskoy (TK-208), is reportedly no longer in active service. The world's largest submarine, the undisputed king of submarines, is finally being decommissioned.<br/><br/>Regardless of your politics, there has always been a air of respect for the gigantic Russian submarine in defense circles.<br/>[Read More &gt;....](/Typhoon-Class-Submarine.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

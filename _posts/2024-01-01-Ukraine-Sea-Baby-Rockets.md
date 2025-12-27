@@ -3,7 +3,7 @@ layout: post
 title: "Ukraine's SBU Reveals Rocket-Armed Sea Baby USV"
 date: "2024-01-01 16:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Ukraine-Sea-Baby-Rockets.html"><img align="left" src="/images/Ukraine-USV-Rockets-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Ukraine's SBU (Security Service of Ukraine) has revealed has shown evidence of 'Sea Baby' USVs (uncrewed surface vessels) shooting rockets or missiles.<br/><br/>These weapons could serve several purposes...<br/>[Read More &gt;....](/Ukraine-Sea-Baby-Rockets.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Ukraine-Sea-Baby-Rockets.html"><img align="left" loading="lazy" src="/images/Ukraine-USV-Rockets-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Ukraine's SBU (Security Service of Ukraine) has revealed has shown evidence of 'Sea Baby' USVs (uncrewed surface vessels) shooting rockets or missiles.<br/><br/>These weapons could serve several purposes...<br/>[Read More &gt;....](/Ukraine-Sea-Baby-Rockets.html "READ MORE")<br clear="left"/>
 ---
 
 # Ukraine's SBU Reveals Rocket-Armed Sea Baby USV

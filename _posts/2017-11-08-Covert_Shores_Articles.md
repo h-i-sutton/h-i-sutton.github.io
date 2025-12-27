@@ -3,7 +3,7 @@ layout: post
 title: "Covert_Shores_Articles"
 date: "2017-11-08 23:00:00"
 excerpt: |-
-  <font size="6">**Popular Covert Shores Articles**</font><br/>[Read More &gt;....](/Covert_Shores_Articles.html "READ MORE")<br/><a href="/Covert_Shores_Articles.html"><img src="/images/Popular900.jpg"/></a><br clear="right"/>
+  <font size="6">**Popular Covert Shores Articles**</font><br/>[Read More &gt;....](/Covert_Shores_Articles.html "READ MORE")<br/><a href="/Covert_Shores_Articles.html"><img loading="lazy" src="/images/Popular900.jpg"/></a><br clear="right"/>
 ---
 
 *Scroll down for Special Forces, Uncrewed Underwater Vehicles (UUVs) Defense Analysis and Misc.*  

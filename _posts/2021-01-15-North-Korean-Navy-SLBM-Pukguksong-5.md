@@ -4,7 +4,7 @@ title: "North-Korean-Navy-SLBM-Pukguksong-5"
 date: "2021-01-15 09:01:00"
 excerpt: "<font size=\"6\">**New North Korean Submarine-Launched Ballistic Missile**</font><br\
   \ clear=\"right\"/><a href=\"/North-Korean-Navy-SLBM-Pukguksong-5.html\"><img align=\"\
-  left\" src=\"/images/DPRK-Submarine-SLBM-Pukguksong-317.jpg\"/></a>![Flag](/images/flag_nork.jpg)\
+  left\" loading=\"lazy\" src=\"/images/DPRK-Submarine-SLBM-Pukguksong-317.jpg\"/></a>![Flag](/images/flag_nork.jpg)\
   \ North Korea paraded yet another iteration of its **Pukguksong** (Polaris / Pole\
   \ Star:  \uBD81\uADF9\uC131) family of Submarine-Launched Ballistic Missiles (SLBMs).\
   \ <br/>[Read More &gt;....](/North-Korean-Navy-SLBM-Pukguksong-5.html \"READ MORE\"\

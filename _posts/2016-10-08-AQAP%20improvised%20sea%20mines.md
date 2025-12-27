@@ -3,7 +3,7 @@ layout: post
 title: "AQAP improvised sea mines"
 date: "2016-10-08 01:00:00"
 excerpt: |-
-  Photos have emerged of improvised sea mines planted in Mukalla in Yemen by retreating Al-Qaeda in the Arabian Peninsula (AQAP) forces who left the port city in April this year. The mines were spotted by local divers and have been removed by divers from Hadrami Elite Forces-Anti-Terrorism Unit and the Coast Guard. The mines appear to be constructed from two pressurized gas canisters cut in half and welded end-end. The explosive contents and reason why they were not detonated by AQAP have not been revealed.<br/>....  [Read More &gt;....](/AQAP improvised sea mines.html "READ MORE")<br/><a href="/AQAP improvised sea mines.html"><img src="/images/ISM900.jpg"/></a><br clear="right"/>
+  Photos have emerged of improvised sea mines planted in Mukalla in Yemen by retreating Al-Qaeda in the Arabian Peninsula (AQAP) forces who left the port city in April this year. The mines were spotted by local divers and have been removed by divers from Hadrami Elite Forces-Anti-Terrorism Unit and the Coast Guard. The mines appear to be constructed from two pressurized gas canisters cut in half and welded end-end. The explosive contents and reason why they were not detonated by AQAP have not been revealed.<br/>....  [Read More &gt;....](/AQAP improvised sea mines.html "READ MORE")<br/><a href="/AQAP improvised sea mines.html"><img loading="lazy" src="/images/ISM900.jpg"/></a><br clear="right"/>
 ---
 
 ![Improvised Sea Mine from AQAP](/images/ISM1.jpg)  

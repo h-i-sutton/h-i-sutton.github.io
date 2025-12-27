@@ -3,7 +3,7 @@ layout: post
 title: "Russian Navy's Deceptive Camouflage In Black Sea Not Effective Against Infrared"
 date: "2024-03-10 22:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russian-Navy-Deceptive-Camouflage-IR-Spectrum.html"><img align="left" src="/images/Russo-Ukraine-Deceptive-Camo-2024-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The dramatic footage of the attack on the Russian warship Sergei Kotov on March 4 has a useful OSINT (open source intelligence) angle.<br/><br/>The suggestion that the deceptive camouflage, black paint on the bow and stern, is for infrared stealth now seems much less likely...<br/>[Read More &gt;....](/Russian-Navy-Deceptive-Camouflage-IR-Spectrum.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russian-Navy-Deceptive-Camouflage-IR-Spectrum.html"><img align="left" loading="lazy" src="/images/Russo-Ukraine-Deceptive-Camo-2024-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The dramatic footage of the attack on the Russian warship Sergei Kotov on March 4 has a useful OSINT (open source intelligence) angle.<br/><br/>The suggestion that the deceptive camouflage, black paint on the bow and stern, is for infrared stealth now seems much less likely...<br/>[Read More &gt;....](/Russian-Navy-Deceptive-Camouflage-IR-Spectrum.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Russo-Ukraine-Deceptive-Camo-Infrared-940.jpg)](/images/Russo-Ukraine-Deceptive-Camo-Infrared.jpg)  

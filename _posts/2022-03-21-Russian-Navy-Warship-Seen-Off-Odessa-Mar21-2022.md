@@ -3,7 +3,7 @@ layout: post
 title: "Russian Navy Warship Seen Off Odessa Identified"
 date: "2022-03-21 09:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russian-Navy-Warship-Seen-Off-Odessa-Mar21-2022.html"><img align="left" src="/images/Russia-Ukraine-Odessa-2022-03-21-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The residents of Odessa awoke this morning to the sounds of shelling. Several videos are already circulating.<br/><br/>Based on images shared online, I have been able to identify one of the ships as a Russian Navy frigate.<br/>[Read More &gt;....](/Russian-Navy-Warship-Seen-Off-Odessa-Mar21-2022.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russian-Navy-Warship-Seen-Off-Odessa-Mar21-2022.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Odessa-2022-03-21-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The residents of Odessa awoke this morning to the sounds of shelling. Several videos are already circulating.<br/><br/>Based on images shared online, I have been able to identify one of the ships as a Russian Navy frigate.<br/>[Read More &gt;....](/Russian-Navy-Warship-Seen-Off-Odessa-Mar21-2022.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

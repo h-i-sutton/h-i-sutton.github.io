@@ -3,7 +3,7 @@ layout: post
 title: "Russian TV Segment On Poseidon Nuclear Torpedo Destroying Britain Is Misleading"
 date: "2022-05-01 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russia-1-TV-Segment-On-Poseidon-May-1-2022.html"><img align="left" src="/images/Russia-1-TV-Poseidon-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) A segment aired on Russia-1, a state-owned TV channel, appears to be aimed at a British audience. The video amounts to a threat, showing how the Poseidon nuclear-armed torpedo could be used to destroy Britain. <br/><br/>Poseidon is to be taken very seriously. But this video should not.<br/>[Read More &gt;....](/Russia-1-TV-Segment-On-Poseidon-May-1-2022.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russia-1-TV-Segment-On-Poseidon-May-1-2022.html"><img align="left" loading="lazy" src="/images/Russia-1-TV-Poseidon-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) A segment aired on Russia-1, a state-owned TV channel, appears to be aimed at a British audience. The video amounts to a threat, showing how the Poseidon nuclear-armed torpedo could be used to destroy Britain. <br/><br/>Poseidon is to be taken very seriously. But this video should not.<br/>[Read More &gt;....](/Russia-1-TV-Segment-On-Poseidon-May-1-2022.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

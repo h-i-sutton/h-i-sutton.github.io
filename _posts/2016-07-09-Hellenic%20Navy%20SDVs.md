@@ -13,8 +13,8 @@ excerpt: "<font size=\"6\"> **(X-Post from Naval Analyses)** </font>  ![Flag](/i
   ). The CE2Fs are designed from the outset as a mean for attacking enemy warships\
   \ in harbor as well as for other special operations..... <a href=\"http://navalanalyses.blogspot.ch/2016/07/history-6-cosmos-ce2f-swimmer-delivery.html\"\
   \ target=\"blank\">Read more at Naval Analyses</a><br/><a href=\"http://navalanalyses.blogspot.ch/2016/07/history-6-cosmos-ce2f-swimmer-delivery.html\"\
-  \ target=\"blank\"><img src=\"/images/CE2F_greece1.jpg\"/></a><br clear=\"right\"\
-  />"
+  \ target=\"blank\"><img loading=\"lazy\" src=\"/images/CE2F_greece1.jpg\"/></a><br\
+  \ clear=\"right\"/>"
 ---
 
 ![Flag](/images/flag_greece.jpg)  **(X-Post)**  from [Naval Analyses](http://navalanalyses.blogspot.ch/2016/07/history-6-cosmos-ce2f-swimmer-delivery.html)   

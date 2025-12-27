@@ -3,7 +3,7 @@ layout: post
 title: "SDV History - US Closed-Cycle Energy Source SDV project"
 date: "2015-01-27 11:00:00"
 excerpt: |-
-  <img src="/images/flag_USA.jpg"/>In the late 1980s, during the final days of the Cold War, the US Navy SEALs were looking towards a new generation of SEAL Delivery Vehicles (SDVs). One of the advanced designs in circulation was the Closed-Cycle Energy Source (CCES) submersible.<br/><a href="/SDV History - US Closed-Cycle Energy Source SDV project.html"><img src="/images/PerryCover.jpg"/></a>
+  <img src="/images/flag_USA.jpg"/>In the late 1980s, during the final days of the Cold War, the US Navy SEALs were looking towards a new generation of SEAL Delivery Vehicles (SDVs). One of the advanced designs in circulation was the Closed-Cycle Energy Source (CCES) submersible.<br/><a href="/SDV History - US Closed-Cycle Energy Source SDV project.html"><img loading="lazy" src="/images/PerryCover.jpg"/></a>
 ---
 
 ![](/images/flag_USA.jpg) In the late 1980s the SEALs were looking for a replacement for the Mk.8 SEAL Delivery Vehicle (SDV). One of the advanced designs in circulation was the Closed-Cycle Energy Source (CCES) submersible from Perry Offshore Inc. Perry were recognized within the submarine industry for their deep submergence dry submarines typically used for underwater engineering and deep sea rescue applications. There are almost certainly the most successful mini-sub manufacturer for civilian applications like oil exploration (even if you have never heard of them!) and were the designers behind the Royal Navy's successful Vickers VOL-L1 rescue submersible (grandfather of the L5).   

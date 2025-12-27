@@ -3,7 +3,7 @@ layout: post
 title: "Australian Navy To Build 3 Extra-Large Drone Submarines"
 date: "2022-05-05 09:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Australian-Navy-XLAUV.html"><img align="left" src="/images/Australia-XLAUV-317.jpg"/></a> ![Flag Australia](/images/flag_aus.jpg) The Royal Australian Navy (RAN) is going big in the uncrewed underwater vehicle (UUV) game. The Australian Department of Defence is joining with American company Anduril to develop an **XLAUV**<br/>[Read More &gt;....](/Australian-Navy-XLAUV.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Australian-Navy-XLAUV.html"><img align="left" loading="lazy" src="/images/Australia-XLAUV-317.jpg"/></a> ![Flag Australia](/images/flag_aus.jpg) The Royal Australian Navy (RAN) is going big in the uncrewed underwater vehicle (UUV) game. The Australian Department of Defence is joining with American company Anduril to develop an **XLAUV**<br/>[Read More &gt;....](/Australian-Navy-XLAUV.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

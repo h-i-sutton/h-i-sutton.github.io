@@ -3,7 +3,7 @@ layout: post
 title: "Heavily Armed Russian Navy Ships Sailing Between Britain And Ireland"
 date: "2022-08-30 08:00:00"
 excerpt: |-
-  **Regularly UPDATED**<br/><br clear="right"><a href="/Ustinov-Cruiser-Uk-Passage.html"><img align="left" src="/images/Ustinov-Irish-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) 2022-09-04 0400Z<br/><br/>After several days loitering in the Celtic Sea, the Russian ships headed south briefly and then started a run through the English Channel overnight September 3-4..<br/>[Read More &gt;....](/Ustinov-Cruiser-Uk-Passage.html "READ MORE")<br clear="left"/></br>
+  **Regularly UPDATED**<br/><br clear="right"><a href="/Ustinov-Cruiser-Uk-Passage.html"><img align="left" loading="lazy" src="/images/Ustinov-Irish-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) 2022-09-04 0400Z<br/><br/>After several days loitering in the Celtic Sea, the Russian ships headed south briefly and then started a run through the English Channel overnight September 3-4..<br/>[Read More &gt;....](/Ustinov-Cruiser-Uk-Passage.html "READ MORE")<br clear="left"/><br/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

@@ -3,7 +3,7 @@ layout: post
 title: "OSINT: Russia Removes 2 Radar Decoys Protecting Kerch Bridge"
 date: "2022-09-10 18:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russia-Kerch-Bridge-Decoys-Gone.html"><img align="left" src="/images/Russia-Target-Barge-Kerch-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag](/images/flag_ukraine.jpg) The Kerch Bridge, built by Russia since it annexed Crimea, is of strategic importance. In June extra steps were taken to protect it from Ukrainian attack.<br/><br/>Now some of these defenses have been removed....<br/>[Read More &gt;....](/Russia-Kerch-Bridge-Decoys-Gone.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russia-Kerch-Bridge-Decoys-Gone.html"><img align="left" loading="lazy" src="/images/Russia-Target-Barge-Kerch-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag](/images/flag_ukraine.jpg) The Kerch Bridge, built by Russia since it annexed Crimea, is of strategic importance. In June extra steps were taken to protect it from Ukrainian attack.<br/><br/>Now some of these defenses have been removed....<br/>[Read More &gt;....](/Russia-Kerch-Bridge-Decoys-Gone.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

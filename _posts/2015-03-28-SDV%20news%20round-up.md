@@ -3,7 +3,7 @@ layout: post
 title: "SDV news round-up"
 date: "2015-03-28 10:00:00"
 excerpt: |-
-  <img src="/images/flag_USA.jpg"/> <img src="/images/flag_UK.jpg"/> <img src="/images/flag_China.jpg"/> Latest Swimmer Delivery Vehicle (SDV) news from around the world.... [Read more -&gt;.....](/SDV news round-up.html "READ MORE")<br/><a href="/SDV news round-up.html"><img src="/images/SDVnews.jpg"/></a>
+  <img src="/images/flag_USA.jpg"/> <img src="/images/flag_UK.jpg"/> <img src="/images/flag_China.jpg"/> Latest Swimmer Delivery Vehicle (SDV) news from around the world.... [Read more -&gt;.....](/SDV news round-up.html "READ MORE")<br/><a href="/SDV news round-up.html"><img loading="lazy" src="/images/SDVnews.jpg"/></a>
 ---
 
 ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_UK.jpg)  **Next generation dry-SDV UOES-2 enters testing**   

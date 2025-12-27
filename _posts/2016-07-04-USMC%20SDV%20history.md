@@ -6,8 +6,8 @@ excerpt: " ![Flag](/images/flag_USA.jpg) Within the US Armed Forces, it is not j
   \ Navy SEALs who have a history of operating Swimmer Delivery Vehicles (SDVs). The\
   \ US Marine Corps\u2019 brief foray into operating the SDV Mk.7 ended in spectacular\
   \ fashion on a golf course in Little Creek... [Read More &gt;....](/USMC SDV history.html\
-  \ \"READ MORE\")<br/><br/><a href=\"/USMC SDV history.html\"><img src=\"/images/USMC_SDVMk7_crash_900.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><br/><a href=\"/USMC SDV history.html\"><img loading=\"lazy\"\
+  \ src=\"/images/USMC_SDVMk7_crash_900.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 ![](/images/USMC_badge.png)

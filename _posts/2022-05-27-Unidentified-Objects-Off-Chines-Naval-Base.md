@@ -3,7 +3,7 @@ layout: post
 title: "Mystery Objects Off Chinese Coast, Near Special Base"
 date: "2022-05-27 23:00:00"
 excerpt: |-
-  <br/><br clear="right"><a href="/Unidentified-Objects-Off-Chines-Naval-Base.html"><img align="left" src="/images/China-Dalian-Sea-Structure-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) There are four unexplained pillars or buoys just off the coast of Dalian, China. They are now visible on Google Earth.<br/>[Read More &gt;....](/Unidentified-Objects-Off-Chines-Naval-Base.html "READ MORE")<br clear="left"/></br>
+  <br/><br clear="right"><a href="/Unidentified-Objects-Off-Chines-Naval-Base.html"><img align="left" loading="lazy" src="/images/China-Dalian-Sea-Structure-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) There are four unexplained pillars or buoys just off the coast of Dalian, China. They are now visible on Google Earth.<br/>[Read More &gt;....](/Unidentified-Objects-Off-Chines-Naval-Base.html "READ MORE")<br clear="left"/><br/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

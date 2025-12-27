@@ -8,7 +8,7 @@ excerpt: "![Flag](/images/flag_nork.jpg) Recent TV footage from North Korea\u201
   \ peer at a submarine base. Analysis suggests that the new base is the major submarine\
   \ base on the island of *Mayang-do*.   [Read More &gt;....](/North Korean missile\
   \ sub has new base.html \"READ MORE\")<br/><a href=\"/North Korean missile sub has\
-  \ new base.html\"><img src=\"/images/Sinpo_sunrise900.jpg\"/></a>"
+  \ new base.html\"><img loading=\"lazy\" src=\"/images/Sinpo_sunrise900.jpg\"/></a>"
 ---
 
 *Original analysis: alternative suggestions welcome*

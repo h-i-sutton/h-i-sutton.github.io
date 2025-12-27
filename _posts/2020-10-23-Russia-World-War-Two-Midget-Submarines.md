@@ -3,7 +3,7 @@ layout: post
 title: "Russia-World-War-Two-Midget-Submarines"
 date: "2020-10-23 04:00:00"
 excerpt: |-
-  *Guest article by C. Edward Davis*<br/><font size="6">**Stalin's Robot submarines**</font> <br/>![Flag](/images/flag_russia.jpg) Few history enthusiasts are aware that the Soviet Union was also engaged in midget submarine development during World War Two.... <br/>[Read More &gt;....](/Russia-World-War-Two-Midget-Submarines.html "READ MORE")<br/><a href="/Russia-World-War-Two-Midget-Submarines.html"><img src="/images/OstekhBureau-900.jpg"/></a><br clear="right"><br/></br>
+  *Guest article by C. Edward Davis*<br/><font size="6">**Stalin's Robot submarines**</font> <br/>![Flag](/images/flag_russia.jpg) Few history enthusiasts are aware that the Soviet Union was also engaged in midget submarine development during World War Two.... <br/>[Read More &gt;....](/Russia-World-War-Two-Midget-Submarines.html "READ MORE")<br/><a href="/Russia-World-War-Two-Midget-Submarines.html"><img loading="lazy" src="/images/OstekhBureau-900.jpg"/></a><br clear="right"><br/><br/>
 ---
 
 [![](/images/Naval-News-logo.png)](https://www.navalnews.com/author/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

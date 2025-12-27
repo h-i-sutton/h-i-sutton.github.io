@@ -3,7 +3,7 @@ layout: post
 title: "China's Continues Massive Construction At Key Navy Base In South China Sea"
 date: "2022-12-03 18:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/China-Sanya-Navy-Construction-December-2022.html"><img align="left" src="/images/China-Sanya-New-DryDock-Dec-2022-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) A major new construction has been taking place at Sanya on Hainan. The new site, being built out into the bay, is opposite a large dry dock which was only recently commissioned. ..<br/>[Read More &gt;....](/China-Sanya-Navy-Construction-December-2022.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/China-Sanya-Navy-Construction-December-2022.html"><img align="left" loading="lazy" src="/images/China-Sanya-New-DryDock-Dec-2022-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) A major new construction has been taking place at Sanya on Hainan. The new site, being built out into the bay, is opposite a large dry dock which was only recently commissioned. ..<br/>[Read More &gt;....](/China-Sanya-Navy-Construction-December-2022.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

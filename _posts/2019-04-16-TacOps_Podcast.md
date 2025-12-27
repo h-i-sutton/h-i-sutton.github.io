@@ -3,7 +3,7 @@ layout: post
 title: "TacOps_Podcast"
 date: "2019-04-16 11:00:00"
 excerpt: |-
-  <br clear="right"/><font size="6">**New podcast worth checking**</font><br/>.Submarine veteran and speaker, Eric Moreno has joined up with Covert Cabal to produce a new pod cast. [Read More &gt;....](/TacOps_Podcast.html "READ MORE")<br/><a href="https://www.youtube.com/channel/UCjY6JQgw1URhPNz7kFam5HQ" target="blank"><img src="/images/PodCast900.jpg"/></a>
+  <br clear="right"/><font size="6">**New podcast worth checking**</font><br/>.Submarine veteran and speaker, Eric Moreno has joined up with Covert Cabal to produce a new pod cast. [Read More &gt;....](/TacOps_Podcast.html "READ MORE")<br/><a href="https://www.youtube.com/channel/UCjY6JQgw1URhPNz7kFam5HQ" target="blank"><img loading="lazy" src="/images/PodCast900.jpg"/></a>
 ---
 
 **New podcast worth checking**  

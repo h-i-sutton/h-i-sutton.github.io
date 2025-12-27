@@ -6,8 +6,8 @@ excerpt: "<font size=\"6\">**Unbuilt Russian rescue submarine to replace INDIA C
   \ <br/>![Flag](/images/flag_russia.jpg) Russian design bureau Lazurit (\u041B\u0430\
   \u0437\u0443\u0440\u0438\u0442) may be pitching for a new role for their SIERRA\
   \ Class attack submarines which were built during the Cold War...<br/>[Read More](/Lazurit_Rescue_Sub.html\
-  \ \"READ MORE\")<br/><a href=\"/Lazurit_Rescue_Sub.html\"><img src=\"/images/Lazurit_Patent900.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><a href=\"/Lazurit_Rescue_Sub.html\"><img loading=\"lazy\"\
+  \ src=\"/images/Lazurit_Patent900.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 **Unbuilt Russian rescue submarine to replace INDIA Class**   

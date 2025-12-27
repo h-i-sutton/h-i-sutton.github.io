@@ -3,7 +3,7 @@ layout: post
 title: "Suspicious Super Go-Fast Boats Seen Loitering Off Taiwanese Island"
 date: "2022-05-21 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Suspected-Chinese-Boats-Off-Taiwance-Island.html"><img align="left" src="/images/China-Go-Fast-May2022-317.jpg"/></a> Taiwanese media has reported that four boats were observed acting suspiciously near one of the county's small islands. The vessels are super-go fasts, a custom type used by smugglers in the region.<br/>[Read More &gt;....](/Suspected-Chinese-Boats-Off-Taiwance-Island.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Suspected-Chinese-Boats-Off-Taiwance-Island.html"><img align="left" loading="lazy" src="/images/China-Go-Fast-May2022-317.jpg"/></a> Taiwanese media has reported that four boats were observed acting suspiciously near one of the county's small islands. The vessels are super-go fasts, a custom type used by smugglers in the region.<br/>[Read More &gt;....](/Suspected-Chinese-Boats-Off-Taiwance-Island.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

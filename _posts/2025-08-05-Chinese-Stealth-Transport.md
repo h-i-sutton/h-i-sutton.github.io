@@ -3,7 +3,7 @@ layout: post
 title: "OSINT: Previously Unreported Low-Observable Naval Transport"
 date: "2025-08-05 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Chinese-Stealth-Transport.html"><img align="left" src="/images/China-Navy-Transport-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) A previously unreported Chinese transport vessel, with low-observable characteristics, has been observed in historic satellite imagery of Sanya on Hainan, in the South China Sea<br/><br/>Civilian multihull ferries are common in the port but these vessel appears to be a military transport, possibly optionally crewed...<br/>[Read More &gt;....](/Chinese-Stealth-Transport.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Chinese-Stealth-Transport.html"><img align="left" loading="lazy" src="/images/China-Navy-Transport-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) A previously unreported Chinese transport vessel, with low-observable characteristics, has been observed in historic satellite imagery of Sanya on Hainan, in the South China Sea<br/><br/>Civilian multihull ferries are common in the port but these vessel appears to be a military transport, possibly optionally crewed...<br/>[Read More &gt;....](/Chinese-Stealth-Transport.html "READ MORE")<br clear="left"/>
 ---
 
 # OSINT: Previously Unreported Low-Observable Naval Transport

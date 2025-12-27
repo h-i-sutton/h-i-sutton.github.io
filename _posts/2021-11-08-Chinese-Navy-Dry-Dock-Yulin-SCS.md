@@ -3,7 +3,7 @@ layout: post
 title: "OSINT: China Floods Mega Dry Dock For The First Time"
 date: "2021-11-08 09:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Chinese-Navy-Dry-Dock-Yulin-SCS.html"><img align="left" src="/images/China-Navy-Dry-Dock-Flooded-Hainan-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) The massive dry dock which China has built as part of its Aircraft Carrier development, has been flooded for the first time...<br/>[Read More &gt;....](/Chinese-Navy-Dry-Dock-Yulin-SCS.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Chinese-Navy-Dry-Dock-Yulin-SCS.html"><img align="left" loading="lazy" src="/images/China-Navy-Dry-Dock-Flooded-Hainan-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) The massive dry dock which China has built as part of its Aircraft Carrier development, has been flooded for the first time...<br/>[Read More &gt;....](/Chinese-Navy-Dry-Dock-Yulin-SCS.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

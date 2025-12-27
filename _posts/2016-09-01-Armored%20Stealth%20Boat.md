@@ -3,7 +3,7 @@ layout: post
 title: "Armored Stealth Boat"
 date: "2016-09-01 03:00:00"
 excerpt: |2-
-   The ultimate smuggling boat is known as the Armored Stealth Boat (ASB). You read that correctly; this may sound too *James Bond* to be real, but it is... [Read More &gt;....](/Armored Stealth Boat.html "READ MORE")<br/><a href="/Armored Stealth Boat.html"><img src="/images/ASB_cover900.jpg"/></a><br clear="right"/>
+   The ultimate smuggling boat is known as the Armored Stealth Boat (ASB). You read that correctly; this may sound too *James Bond* to be real, but it is... [Read More &gt;....](/Armored Stealth Boat.html "READ MORE")<br/><a href="/Armored Stealth Boat.html"><img loading="lazy" src="/images/ASB_cover900.jpg"/></a><br clear="right"/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

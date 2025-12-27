@@ -3,7 +3,7 @@ layout: post
 title: "Ukraine's Maritime Drones (USV) What You Need To Know"
 date: "2022-11-11 23:01:00"
 excerpt: "<br clear=\"right\"/><a href=\"/Ukraine-Maritime-Drones.html\"><img align=\"left\"\
-  \ src=\"/images/Ukraine-Navy-Maritime-Drone-317.jpg\"/></a>![Flag](/images/flag_ukraine.jpg)\
+  \ loading=\"lazy\" src=\"/images/Ukraine-Navy-Maritime-Drone-317.jpg\"/></a>![Flag](/images/flag_ukraine.jpg)\
   \ Ukraine\u2019s unique '**Magura**' maritime drones, termed uncrewed surface vessels\
   \ (USVs) in naval parlance, have taken the war to the Russian Navy. They are part\
   \ of a major switch in the fortunes for the Russian invasion.<br/><br/>[Read More\

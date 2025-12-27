@@ -3,7 +3,7 @@ layout: post
 title: "North-Korea-Builds-Surface-Effect-Warship"
 date: "2021-04-04 12:00:00"
 excerpt: |-
-  <font size="5">**Alert: New Intelligence Shows North Korea Built Another Warship**</font><br clear="right"/><a href="/North-Korea-Builds-Surface-Effect-Warship.html"><img align="left" src="/images/DPRK-SES-317.jpg"/></a>![Flag China](/images/flag_nork.jpg) North Korea continues to build Surface-Effect-Ships (SES) for its navy despite the generally slow pace of surface ship construction. An unfinished SES has been moved to the outside of the 'new' construction hall at Nampo. <br/>[Read More &gt;....](/North-Korea-Builds-Surface-Effect-Warship.html "READ MORE")<br clear="left"/>
+  <font size="5">**Alert: New Intelligence Shows North Korea Built Another Warship**</font><br clear="right"/><a href="/North-Korea-Builds-Surface-Effect-Warship.html"><img align="left" loading="lazy" src="/images/DPRK-SES-317.jpg"/></a>![Flag China](/images/flag_nork.jpg) North Korea continues to build Surface-Effect-Ships (SES) for its navy despite the generally slow pace of surface ship construction. An unfinished SES has been moved to the outside of the 'new' construction hall at Nampo. <br/>[Read More &gt;....](/North-Korea-Builds-Surface-Effect-Warship.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

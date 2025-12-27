@@ -3,7 +3,7 @@ layout: post
 title: "Ukraine's Sleek New Jet-Powered Attack Drone Seen For First Time"
 date: "2024-02-07 22:00:00"
 excerpt: |-
-  <br/><br clear="right"><a href="/Ukraine-Jet-Drone-2024-02.html"><img align="left" src="/images/Ukraine-OWA-UAV-jet-drone-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) A new type of Ukrainian long range drone has appeared in Russia. A crashed example of the jet powered drone was shared on Russian social media. It is evidently a type of one-way attack drone (OWA-UAV).<br/><br/>The drone is interesting in several ways...<br/>[Read More &gt;....](/Ukraine-Jet-Drone-2024-02.html "READ MORE")<br clear="left"/></br>
+  <br/><br clear="right"><a href="/Ukraine-Jet-Drone-2024-02.html"><img align="left" loading="lazy" src="/images/Ukraine-OWA-UAV-jet-drone-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) A new type of Ukrainian long range drone has appeared in Russia. A crashed example of the jet powered drone was shared on Russian social media. It is evidently a type of one-way attack drone (OWA-UAV).<br/><br/>The drone is interesting in several ways...<br/>[Read More &gt;....](/Ukraine-Jet-Drone-2024-02.html "READ MORE")<br clear="left"/><br/>
 ---
 
 # Ukraine's Sleek New Jet-Powered Attack Drone Seen For First Time

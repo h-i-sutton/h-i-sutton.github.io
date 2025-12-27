@@ -3,7 +3,7 @@ layout: post
 title: "Ukraine War Grain: Russian Ships Loading In Crimea"
 date: "2022-06-06 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russian-Merchant-Ships-Loading-In-Crimea.html"><img align="left" src="/images/Russia-War-Grain-Sevastopol-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Merchant ships only rarely pass through the crosshairs of defense OSINT. Now Russian ships are loading with grain in Crimea.<br/><br/>We can see and track this via OSINT, similar to how we track naval movements...<br/>[Read More &gt;....](/Russian-Merchant-Ships-Loading-In-Crimea.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russian-Merchant-Ships-Loading-In-Crimea.html"><img align="left" loading="lazy" src="/images/Russia-War-Grain-Sevastopol-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Merchant ships only rarely pass through the crosshairs of defense OSINT. Now Russian ships are loading with grain in Crimea.<br/><br/>We can see and track this via OSINT, similar to how we track naval movements...<br/>[Read More &gt;....](/Russian-Merchant-Ships-Loading-In-Crimea.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

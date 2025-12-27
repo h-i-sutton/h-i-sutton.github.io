@@ -3,7 +3,7 @@ layout: post
 title: "We will remember them"
 date: "2014-11-07 10:00:00"
 excerpt: |-
-  .<a href="/We will remember them.html"><img src="/images/poppiestower.jpg"/></a>
+  .<a href="/We will remember them.html"><img loading="lazy" src="/images/poppiestower.jpg"/></a>
 ---
 
 ![Poppy](/images/poppyfield.jpg)

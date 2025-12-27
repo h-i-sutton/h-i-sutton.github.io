@@ -3,7 +3,7 @@ layout: post
 title: "Cuban_Navy_SDV"
 date: "2019-06-09 03:00:00"
 excerpt: |-
-  <font size="6">**Cuba's swimmer delivery vehicle**</font><br/>![Flag](/images/flag_cuba.jpg) A new image has emerged which sheds light on the generally unknown Cuban Navy swimmer delivery vehicle (SDV)... [Read More &gt;....](/Cuban_Navy_SDV.html "READ MORE")<br/><a href="/Cuban_Navy_SDV.html"><img src="/images/Cuba_SDV900.jpg"/></a><br clear="right"/>
+  <font size="6">**Cuba's swimmer delivery vehicle**</font><br/>![Flag](/images/flag_cuba.jpg) A new image has emerged which sheds light on the generally unknown Cuban Navy swimmer delivery vehicle (SDV)... [Read More &gt;....](/Cuban_Navy_SDV.html "READ MORE")<br/><a href="/Cuban_Navy_SDV.html"><img loading="lazy" src="/images/Cuba_SDV900.jpg"/></a><br clear="right"/>
 ---
 
 **Cuba's swimmer delivery vehicle**  

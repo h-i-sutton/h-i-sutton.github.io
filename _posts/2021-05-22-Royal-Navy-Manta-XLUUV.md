@@ -3,7 +3,7 @@ layout: post
 title: "Pioneering Extra-Large UUV: The Royal Navy's Manta"
 date: "2021-05-22 01:00:00"
 excerpt: |-
-  *Updated: Oroginally posted March 18, 2020*<br/><br clear="right"><a href="/Royal-Navy-Manta-XLUUV.html"><img align="left" src="/images/Royal-Navy-Manta-317.jpg"/></a> ![British Flag](/images/flag_UK.jpg) As a first step the Royal Navy recently announced the contract for the Manta XLUUV (Extra-large Uncrewed Underwater Vehicle). Ultimately the Royal Navy envisions very large UUVs taking on armed combat roles...<br/>[Read More](/Royal-Navy-Manta-XLUUV.html "READ MORE")<br clear="left"/></br>
+  *Updated: Oroginally posted March 18, 2020*<br/><br clear="right"><a href="/Royal-Navy-Manta-XLUUV.html"><img align="left" loading="lazy" src="/images/Royal-Navy-Manta-317.jpg"/></a> ![British Flag](/images/flag_UK.jpg) As a first step the Royal Navy recently announced the contract for the Manta XLUUV (Extra-large Uncrewed Underwater Vehicle). Ultimately the Royal Navy envisions very large UUVs taking on armed combat roles...<br/>[Read More](/Royal-Navy-Manta-XLUUV.html "READ MORE")<br clear="left"/><br/>
 ---
 
 *Updated: Oroginally posted March 18, 2020*. *Based on unclassified sources*  

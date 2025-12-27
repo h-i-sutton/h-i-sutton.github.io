@@ -3,7 +3,7 @@ layout: post
 title: "Geolocation-Of-Thai-Navy-Submarine-In-China"
 date: "2021-02-18 09:01:00"
 excerpt: |-
-  <font size="6">**Geo-location Of Thai Navy Submarine in China**</font><br clear="right"/><a href="/Geolocation-Of-Thai-Navy-Submarine-In-China.html"><img align="left" src="/images/China-Thai-Navy-Sub-317.jpg"/></a>![Flag](/images/flag_China.jpg) China's new Wuchang Shipyard is pumping out Yuan Class AIP submarines (SSP). While I will not share all of the sources, there is some collaborating evidence which is easily accessible...<br/>[Read More &gt;....](/Geolocation-Of-Thai-Navy-Submarine-In-China.html "READ MORE")<br clear="left"/>
+  <font size="6">**Geo-location Of Thai Navy Submarine in China**</font><br clear="right"/><a href="/Geolocation-Of-Thai-Navy-Submarine-In-China.html"><img align="left" loading="lazy" src="/images/China-Thai-Navy-Sub-317.jpg"/></a>![Flag](/images/flag_China.jpg) China's new Wuchang Shipyard is pumping out Yuan Class AIP submarines (SSP). While I will not share all of the sources, there is some collaborating evidence which is easily accessible...<br/>[Read More &gt;....](/Geolocation-Of-Thai-Navy-Submarine-In-China.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

@@ -8,7 +8,8 @@ excerpt: "<font size=\"6\">**Yacht tracking: Russian yacht Elden** </font> (\u04
   \ 29 meter long **Elden** (\u042D\u041B\u0414\u0415\u041D), owned by Russian oligarch\
   \ Oleg Deripaska, has gained notoriety for other reasons however. ...  [Read More\
   \ &gt;....](/Yacht_Elden.html \"READ MORE\")<br/><a href=\"/Yacht_Elden.html\"><img\
-  \ src=\"/images/Ru_YachtElden_news900.jpg\"/></a><br clear=\"right\"/>"
+  \ loading=\"lazy\" src=\"/images/Ru_YachtElden_news900.jpg\"/></a><br clear=\"right\"\
+  />"
 ---
 
 **Yacht tracking: Russian yacht Elden**    

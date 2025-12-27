@@ -3,7 +3,7 @@ layout: post
 title: "Russias New Submarine Belgorod Out Of The Water"
 date: "2021-05-03 12:00:00"
 excerpt: |-
-  *Updated with new photo. Originally posted April 30th.*<br/><h1>Russia's New Submarine Belgorod Out Of The Water</h1><br clear="right"><a href="/Belgorod-Submarine-Out-Of-Water.html"><img align="left" src="/images/Russia-Belgorod-Submarine-Move317.jpg"/></a>![Flag Russia](/images/flag_russia.jpg) The Russian Navy's new special mission submarine, K-329 Belgorod, has returned to the construction hall. The submarine is expected to start sea trials soon so this may be a temporary measure to inspect the hull. <br/><br/>Or it may indicate a larger problem... <br/>[Read More &gt;....](/Belgorod-Submarine-Out-Of-Water.html "READ MORE")<br clear="left"/></br>
+  *Updated with new photo. Originally posted April 30th.*<br/><h1>Russia's New Submarine Belgorod Out Of The Water</h1><br clear="right"><a href="/Belgorod-Submarine-Out-Of-Water.html"><img align="left" loading="lazy" src="/images/Russia-Belgorod-Submarine-Move317.jpg"/></a>![Flag Russia](/images/flag_russia.jpg) The Russian Navy's new special mission submarine, K-329 Belgorod, has returned to the construction hall. The submarine is expected to start sea trials soon so this may be a temporary measure to inspect the hull. <br/><br/>Or it may indicate a larger problem... <br/>[Read More &gt;....](/Belgorod-Submarine-Out-Of-Water.html "READ MORE")<br clear="left"/><br/>
 ---
 
 *Updated with new photo. Originally posted April 30th.*  

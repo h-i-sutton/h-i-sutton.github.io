@@ -3,7 +3,7 @@ layout: post
 title: "The Surprising Secret Of This Brazilian Navy Ship From 1915"
 date: "2021-11-20 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Brazilian-Navy-Sip-Ceara.html"><img align="left" src="/images/Brazil-Submarine-Tender-Ceara317.jpg"/></a> ![Flag Brazil](/images/flag_brazil.jpg) From the outside the Brazilian Navy's **Ceara** looked remarkably ordinary. And described as a 'submarine tender', it sounded ordinary too. But on the inside the layout was almost James Bond levels of cool...<br/>[Read More &gt;....](/Brazilian-Navy-Sip-Ceara.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Brazilian-Navy-Sip-Ceara.html"><img align="left" loading="lazy" src="/images/Brazil-Submarine-Tender-Ceara317.jpg"/></a> ![Flag Brazil](/images/flag_brazil.jpg) From the outside the Brazilian Navy's **Ceara** looked remarkably ordinary. And described as a 'submarine tender', it sounded ordinary too. But on the inside the layout was almost James Bond levels of cool...<br/>[Read More &gt;....](/Brazilian-Navy-Sip-Ceara.html "READ MORE")<br clear="left"/>
 ---
 
 *Thanks to "Força-Tarefa 46" ([Task Force 46, Twitter](https://twitter.com/forca46)) for additional information.*  

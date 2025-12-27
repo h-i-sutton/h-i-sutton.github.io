@@ -3,7 +3,7 @@ layout: post
 title: "Philippines Design Indigenous Weaponised Uncrewed Surface Vessel (USV)"
 date: "2025-08-03 19:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Philippines-USV-Palid.html"><img align="left" src="/images/Philippines-USV-Palid-317.jpg"/></a> ![Flag China](/images/flag_Philippines.jpg) Facing increased aggression from China, the Philippines appears to have been looking to Ukraine for inspiration.<br/><br/>Mindanao State University displayed a model of the Palid USV at the Philippine Navy's Self Reliance Defense Posture (SRDP) summit in Manila last week...<br/>[Read More &gt;....](/Philippines-USV-Palid.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Philippines-USV-Palid.html"><img align="left" loading="lazy" src="/images/Philippines-USV-Palid-317.jpg"/></a> ![Flag China](/images/flag_Philippines.jpg) Facing increased aggression from China, the Philippines appears to have been looking to Ukraine for inspiration.<br/><br/>Mindanao State University displayed a model of the Palid USV at the Philippine Navy's Self Reliance Defense Posture (SRDP) summit in Manila last week...<br/>[Read More &gt;....](/Philippines-USV-Palid.html "READ MORE")<br clear="left"/>
 ---
 
 # Philippines Design Indigenous Weaponised Uncrewed Surface Vessel (USV)

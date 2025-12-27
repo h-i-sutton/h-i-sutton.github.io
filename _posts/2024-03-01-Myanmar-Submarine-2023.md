@@ -3,7 +3,7 @@ layout: post
 title: "Myanmar's Mystery Submarine"
 date: "2024-03-01 09:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Myanmar-Submarine-2023.html"><img align="left" src="/images/Myanmar-Submarine-317.jpg"/></a> ![Flag Myanmar](/images/flag-Myanmar.jpg) The Myanmar Navy has acquired two patrol submarines in recent years. Firstly an KILO Class submarine from India, and then a MING Class submarine from China. But there is another third boat...<br/>[Read More &gt;....](/Myanmar-Submarine-2023.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Myanmar-Submarine-2023.html"><img align="left" loading="lazy" src="/images/Myanmar-Submarine-317.jpg"/></a> ![Flag Myanmar](/images/flag-Myanmar.jpg) The Myanmar Navy has acquired two patrol submarines in recent years. Firstly an KILO Class submarine from India, and then a MING Class submarine from China. But there is another third boat...<br/>[Read More &gt;....](/Myanmar-Submarine-2023.html "READ MORE")<br clear="left"/>
 ---
 
 ![Myanmar's Mystery Submarine](/images/Myanmar-Submarine-profile.jpg)  

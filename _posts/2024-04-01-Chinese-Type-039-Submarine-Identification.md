@@ -3,7 +3,7 @@ layout: post
 title: "OSINT: Identification Of Type-039 Song & Yuan Class Submarines"
 date: "2024-04-01 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Chinese-Type-039-Submarine-Identification.html"><img align="left" src="/images/China-Type-039C-Yuan-Submarine-Sats-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) The Type-039A/B Yuan Class submarine is the most numerous, modern and capable Chinese non-nuclear submarine. It is displacing the older Ming and Song classes, and imported KILO class. Since it was first identified in May 2021, the latest Type-039**C** submarine has moved into the mainstream.<br/><br/>This analysis, using satellite imagery publicly available on Google Earth, shows that it is possible to positively identify the 'C' model...<br/>[Read More &gt;....](/Chinese-Type-039-Submarine-Identification.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Chinese-Type-039-Submarine-Identification.html"><img align="left" loading="lazy" src="/images/China-Type-039C-Yuan-Submarine-Sats-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) The Type-039A/B Yuan Class submarine is the most numerous, modern and capable Chinese non-nuclear submarine. It is displacing the older Ming and Song classes, and imported KILO class. Since it was first identified in May 2021, the latest Type-039**C** submarine has moved into the mainstream.<br/><br/>This analysis, using satellite imagery publicly available on Google Earth, shows that it is possible to positively identify the 'C' model...<br/>[Read More &gt;....](/Chinese-Type-039-Submarine-Identification.html "READ MORE")<br clear="left"/>
 ---
 
 # OSINT: Identification Of Type-039 Song & Yuan Class Submarines

@@ -3,7 +3,7 @@ layout: post
 title: "Dolphin SDV-X"
 date: "2015-02-07 11:00:00"
 excerpt: |-
-  <img src="/images/flag_USA.jpg"/> The Dolphin Class advanced Swimmer Delivery Vehicle (SDV-X) was developed in the 2000s as a US export type based on the SDV Mk.VIII Mod-1 Gator Class SDV in service with the USN SEALs. <a href="/Dolphin SDV-X.html"><img src="/images/USN_SDVX_header.png"/></a>
+  <img src="/images/flag_USA.jpg"/> The Dolphin Class advanced Swimmer Delivery Vehicle (SDV-X) was developed in the 2000s as a US export type based on the SDV Mk.VIII Mod-1 Gator Class SDV in service with the USN SEALs. <a href="/Dolphin SDV-X.html"><img loading="lazy" src="/images/USN_SDVX_header.png"/></a>
 ---
 
 ![Flag](/images/flag_USA.jpg) The Dolphin Class advanced Swimmer Delivery Vehicle (SDV-X) was developed in the 2000s as a US export type based on the SDV Mk.VIII Mod-1 Gator Class SDV in service with the USN SEALs. Although the type is in many respects more modern than the M.VIII (and any comparative disadvantages are purely down to export restrictions), it is slightly too large for existing USN Dry Deck Shelters (DDS) the has not adopted it for its SDV replacement program. The Dolphin has however been exported in substantial numbers with Egypt reportedly receiving some 36 craft.

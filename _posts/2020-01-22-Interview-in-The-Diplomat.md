@@ -3,7 +3,7 @@ layout: post
 title: "Interview-in-The-Diplomat"
 date: "2020-01-22 10:00:00"
 excerpt: |-
-  <font size="6">**Interview in The Diplomat**</font><br/>**H.I. Sutton on the Future of Underwater Warfare in the Indo-Pacific Region**. What are some of the future strategic and technological challenges to submarine forces in the region?...<br/><a href="/Interview-in-The-Diplomat.html"><img src="/images/theDiplomat_202001.jpg"/></a><br/>[Read More &gt;....](/Interview-in-The-Diplomat.html "READ MORE")
+  <font size="6">**Interview in The Diplomat**</font><br/>**H.I. Sutton on the Future of Underwater Warfare in the Indo-Pacific Region**. What are some of the future strategic and technological challenges to submarine forces in the region?...<br/><a href="/Interview-in-The-Diplomat.html"><img loading="lazy" src="/images/theDiplomat_202001.jpg"/></a><br/>[Read More &gt;....](/Interview-in-The-Diplomat.html "READ MORE")
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

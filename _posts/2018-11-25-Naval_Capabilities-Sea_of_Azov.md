@@ -7,8 +7,8 @@ excerpt: "<font size=\"6\">**Kerch Strait crisis: Naval Capabilities in Sea of A
   \ of the Sea of Azoz, denying commercial ships access to Ukrainian ports along the\
   \ sea\u2019s northern coast. This article summarizes selected Ukrainian and Russian\
   \ Naval capabilities in the Sea of Azov...   [Read More &gt;....](/Naval_Capabilities-Sea_of_Azov.html\
-  \ \"READ MORE\")<br/><a href=\"/Naval_Capabilities-Sea_of_Azov.html\"><img src=\"\
-  /images/Azov_900.jpg\"/></a><br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><a href=\"/Naval_Capabilities-Sea_of_Azov.html\"><img loading=\"\
+  lazy\" src=\"/images/Azov_900.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 ##### 

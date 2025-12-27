@@ -3,7 +3,7 @@ layout: post
 title: "Russian Navy Could Be Real Winner Of Sudan's Coup"
 date: "2021-10-26 11:00:00"
 excerpt: "<br clear=\"right\"/><a href=\"/Russian-Navy-Base-Sudan-Update.html\"><img align=\"\
-  left\" src=\"/images/Russia-Base-Sudan-317.jpg\"/></a> ![Flag Russia](/images/flag_russia.jpg)\
+  left\" loading=\"lazy\" src=\"/images/Russia-Base-Sudan-317.jpg\"/></a> ![Flag Russia](/images/flag_russia.jpg)\
   \ The rapidly developing coup situation in Sudan may play to Russia\u2019s advantage.\
   \ The Russian Navy had previously arranged to establish a naval base but the deal\
   \ was weakened by US diplomatic action. <br/><br/>If it is reborn, the base will\

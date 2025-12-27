@@ -3,7 +3,7 @@ layout: post
 title: "Naval Group Reveal XLUUV Demonstrator"
 date: "2021-10-09 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Naval-Group-XLUUV.html"><img align="left" src="/images/France-NG-XLUUV-317.jpg"/></a> ![Flag France](/images/flag_france.jpg) Described as an '**Oceanic Underwater Drone Demonstrator'**, French defense giant Naval Group's entry into the XLUUV arena is impressive. The innovative design uses sleek whale-like lines, reminiscent of the SMX-31 concept...<br/>[Read More &gt;....](/Naval-Group-XLUUV.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Naval-Group-XLUUV.html"><img align="left" loading="lazy" src="/images/France-NG-XLUUV-317.jpg"/></a> ![Flag France](/images/flag_france.jpg) Described as an '**Oceanic Underwater Drone Demonstrator'**, French defense giant Naval Group's entry into the XLUUV arena is impressive. The innovative design uses sleek whale-like lines, reminiscent of the SMX-31 concept...<br/>[Read More &gt;....](/Naval-Group-XLUUV.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

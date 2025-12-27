@@ -10,7 +10,8 @@ excerpt: "<br/>Originally posted 9th Sept 2014.<br/><img src=\"/images/flag_russ
   \ appendages merely adds to the mystery. She is a boat which is not well documented,\
   \ and many illustrations of her turn out to be quite misleading. The same can be\
   \ said of much of the early analysis which still affects write-ups on the subject.\
-  \ <a href=\"/SAROV-Class_Submarine.html\"><img src=\"/images/Sarov_900_1.jpg\"/></a><br/></br>"
+  \ <a href=\"/SAROV-Class_Submarine.html\"><img loading=\"lazy\" src=\"/images/Sarov_900_1.jpg\"\
+  /></a><br/><br/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

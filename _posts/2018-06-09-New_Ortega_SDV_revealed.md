@@ -9,7 +9,8 @@ excerpt: "*Updated.*<br/><font size=\"5\">**Revealed: Latest Dutch Special Force
   \ undergoing manufacturer\u2019s trials prior to delivery to a defense customer.\
   \ Covert Shores can reveal further details and high-resolution photos.<br/>[Read\
   \ More &gt;....](/New_Ortega_SDV_revealed.html \"READ MORE\")<br/><a href=\"/New_Ortega_SDV_revealed.html\"\
-  ><img src=\"/images/Ortega_Mk1D_side900.jpg\"/></a><br clear=\"right\"/>"
+  ><img loading=\"lazy\" src=\"/images/Ortega_Mk1D_side900.jpg\"/></a><br clear=\"\
+  right\"/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)

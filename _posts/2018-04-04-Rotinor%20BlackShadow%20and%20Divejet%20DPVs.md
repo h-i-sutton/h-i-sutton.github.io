@@ -3,7 +3,7 @@ layout: post
 title: "Rotinor BlackShadow and Divejet DPVs"
 date: "2018-04-04 11:01:00"
 excerpt: |-
-  ![Flag](/images/Updated.jpg)<br/><img src="/images/flag_germany.jpg"/> Rotinor's Diver Propulsion Vehicles (DPVs) are widely used within the Special Forces community and represent a major player in the market. Although innovative and high-tech, these craft represent rapidly maturing technology and are noted for the high underwater speed. [Read More &gt;....](/Rotinor BlackShadow and Divejet DPVs.html "READ MORE")<br/><a href="/Rotinor BlackShadow and Divejet DPVs.html"><img src="/images/Rotinor_RD2_900.jpg"/></a><br/><a href="/Rotinor BlackShadow and Divejet DPVs.html"><img src="/images/Rotinor_900.jpg"/></a>
+  ![Flag](/images/Updated.jpg)<br/><img src="/images/flag_germany.jpg"/> Rotinor's Diver Propulsion Vehicles (DPVs) are widely used within the Special Forces community and represent a major player in the market. Although innovative and high-tech, these craft represent rapidly maturing technology and are noted for the high underwater speed. [Read More &gt;....](/Rotinor BlackShadow and Divejet DPVs.html "READ MORE")<br/><a href="/Rotinor BlackShadow and Divejet DPVs.html"><img loading="lazy" src="/images/Rotinor_RD2_900.jpg"/></a><br/><a href="/Rotinor BlackShadow and Divejet DPVs.html"><img loading="lazy" src="/images/Rotinor_900.jpg"/></a>
 ---
 
 ![Flag](/images/Rotinor_RD2.jpg)  

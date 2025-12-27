@@ -3,7 +3,7 @@ layout: post
 title: "Chinese-Sea-Hunter-USV-Update"
 date: "2021-04-07 12:00:00"
 excerpt: |-
-  <font size="5">**Lonely Child: China's Sea Hunter USV Copy Going Nowhere?**</font><br clear="right"/><a href="/Chinese-Sea-Hunter-USV-Update.html"><img align="left" src="/images/China-Sea-Hunter-317.jpg"/></a>![Flag China](/images/flag_China.jpg) This unidentified vessel is believed to be a mid-size USV (Uncrewed Surface Vessel). It closely resembles the U.S. Navy's Sea Hunter USV.<br/><br/>Recent satellite imagery appears to show the vessel still at  the site where it was built. This implies that it has not been trialed by the Chinese Navy.<br/>[Read More &gt;....](/Chinese-Sea-Hunter-USV-Update.html "READ MORE")<br clear="left"/>
+  <font size="5">**Lonely Child: China's Sea Hunter USV Copy Going Nowhere?**</font><br clear="right"/><a href="/Chinese-Sea-Hunter-USV-Update.html"><img align="left" loading="lazy" src="/images/China-Sea-Hunter-317.jpg"/></a>![Flag China](/images/flag_China.jpg) This unidentified vessel is believed to be a mid-size USV (Uncrewed Surface Vessel). It closely resembles the U.S. Navy's Sea Hunter USV.<br/><br/>Recent satellite imagery appears to show the vessel still at  the site where it was built. This implies that it has not been trialed by the Chinese Navy.<br/>[Read More &gt;....](/Chinese-Sea-Hunter-USV-Update.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

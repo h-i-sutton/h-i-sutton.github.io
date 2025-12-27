@@ -7,8 +7,8 @@ excerpt: "*Updated: originally posted 22nd June 2018.*<br/><font size=\"5\">**'D
   \ The Deep Shadow carries six combat swimmers and is roughly analogous to the US\
   \ Navy SEALs\u2019 SDV Mk.VIII series. Its streamlined hull allows a comparatively\
   \ high yet undisclosed cruising speed....   [Read More &gt;....](/Deep_Shadow_SDV.html\
-  \ \"READ MORE\")<br/><a href=\"/Deep_Shadow_SDV.html\"><img src=\"/images/It_DeepShadow_900.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><a href=\"/Deep_Shadow_SDV.html\"><img loading=\"lazy\" src=\"\
+  /images/It_DeepShadow_900.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 *Updated: originally posted 22nd June 2018.*  

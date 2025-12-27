@@ -3,7 +3,7 @@ layout: post
 title: "Artwork-Walrus-Class-Submarine"
 date: "2021-02-22 01:01:00"
 excerpt: |-
-  <font size="6">**New Artwork Collaboration: Walrus Class Submarine**</font><br clear="right"/><a href="/Artwork-Walrus-Class-Submarine.html"><img align="left" src="/images/Dutch-Walrus-Class-Sub317.jpg"/></a>![Flag](/images/flag_netherlands.jpg) As a collaboration with 800Tonnes Naval Art, we illustrated a cutaway of the Royal Netherlands Navy Walrus Class submarine.<br/> <br/>800Tonnes did the outer hull, and I drew in the innards...<br/><br/>[Read More &gt;....](/Artwork-Walrus-Class-Submarine.html "READ MORE")<br clear="left"/>
+  <font size="6">**New Artwork Collaboration: Walrus Class Submarine**</font><br clear="right"/><a href="/Artwork-Walrus-Class-Submarine.html"><img align="left" loading="lazy" src="/images/Dutch-Walrus-Class-Sub317.jpg"/></a>![Flag](/images/flag_netherlands.jpg) As a collaboration with 800Tonnes Naval Art, we illustrated a cutaway of the Royal Netherlands Navy Walrus Class submarine.<br/> <br/>800Tonnes did the outer hull, and I drew in the innards...<br/><br/>[Read More &gt;....](/Artwork-Walrus-Class-Submarine.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)  

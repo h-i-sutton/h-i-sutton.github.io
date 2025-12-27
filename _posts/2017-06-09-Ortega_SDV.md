@@ -10,8 +10,8 @@ excerpt: "*Updated text on Mk.1D 9th June 2018*<br/><font size=\"5\">**Latest Du
   \ target area. Despite the unambiguous influence, the Ortega designs add modern\
   \ hydrodynamics and the latest technology to create a cutting-edge Special Forces\
   \ vehicle.. [Read More &gt;....](/Ortega_SDV.html \"READ MORE\")<br/><a href=\"\
-  /Ortega_SDV.html\"><img src=\"/images/Ortega_Mk1D_side900.jpg\"/></a><br clear=\"\
-  right\"/>"
+  /Ortega_SDV.html\"><img loading=\"lazy\" src=\"/images/Ortega_Mk1D_side900.jpg\"\
+  /></a><br clear=\"right\"/>"
 ---
 
 *Updated text on Mk.1D 9th June 2018*  

@@ -3,7 +3,7 @@ layout: post
 title: "Evidence Of Russia's Planned Amphibious Landings in Ukraine"
 date: "2022-03-01 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russias-Planned-Amphibious-Landings-in-Ukraine.html"><img align="left" src="/images/Russia-Ukraine-Amphibious-Landings-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Belarusian president  Alexander Lukashenko has shown plans for an amphibious landing near Odessa on Ukraine's southern coast.<br/><br/>It is an apparent intelligence blunder as no landings have been reported there. <br/>[Read More &gt;....](/Russias-Planned-Amphibious-Landings-in-Ukraine.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russias-Planned-Amphibious-Landings-in-Ukraine.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Amphibious-Landings-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Belarusian president  Alexander Lukashenko has shown plans for an amphibious landing near Odessa on Ukraine's southern coast.<br/><br/>It is an apparent intelligence blunder as no landings have been reported there. <br/>[Read More &gt;....](/Russias-Planned-Amphibious-Landings-in-Ukraine.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

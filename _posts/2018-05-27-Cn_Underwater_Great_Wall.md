@@ -5,8 +5,8 @@ date: "2018-05-27 11:00:00"
 excerpt: "<font size=\"6\">**Good Wind ears: China\u2019s Underwater Great Wall** </font><br/>![Flag](/images/flag_China.jpg)\
   \ A recent video adds to the information we have of China's ambitious submarine\
   \ monitoring system in the South China Sea...   [Read More &gt;....](/Cn_Underwater_Great_Wall.html\
-  \ \"READ MORE\")<br/><a href=\"/Cn_Underwater_Great_Wall.html\"><img src=\"/images/Cn_UGW_cover.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><a href=\"/Cn_Underwater_Great_Wall.html\"><img loading=\"\
+  lazy\" src=\"/images/Cn_UGW_cover.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Good Wind ears: China’s Underwater Great Wall**   

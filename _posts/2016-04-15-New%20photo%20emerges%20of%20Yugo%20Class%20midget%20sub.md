@@ -3,18 +3,18 @@ layout: post
 title: "New photo emerges of Yugo Class midget sub"
 date: "2016-04-15 01:00:00"
 excerpt: "<a href=\"/New photo emerges of Yugo Class midget sub.html\"><img align=\"left\"\
-  \ src=\"/images/Yugo1-300.jpg\"/></a>  ![Flag](/images/flag_nork.jpg) Operating\
-  \ under great secrecy, photos of the North Korean made \u2018YUGO Class\u2019 midget\
-  \ submarines operated by the Vietnamese Navy are very rare. Two YUGO Class midget\
-  \ submarines supplied in 1997 and are operated by submarine unit M96. The deal included\
-  \ 16 torpedoes, 282 batteries and 8 mines. Although the torpedo type is not reported\
-  \ they are known to be of 1960s Soviet type, probably Type 53-56 rather than the\
-  \ more recent CHT-02D type. <br/><br/>Although the image only shows the upper surfaces,\
-  \ the outer doors of the twin 533mm (21\u201D) torpedo tubes are clearly visible\
-  \ in the nose. The yellow object is a distress / communication buoy. The hatch halfway\
-  \ along the forward casing is for a diver lock-out chamber. <br/> [Read More &gt;....](/New\
-  \ photo emerges of Yugo Class midget sub.html \"READ MORE\") <br clear=\"left\"\
-  />"
+  \ loading=\"lazy\" src=\"/images/Yugo1-300.jpg\"/></a>  ![Flag](/images/flag_nork.jpg)\
+  \ Operating under great secrecy, photos of the North Korean made \u2018YUGO Class\u2019\
+  \ midget submarines operated by the Vietnamese Navy are very rare. Two YUGO Class\
+  \ midget submarines supplied in 1997 and are operated by submarine unit M96. The\
+  \ deal included 16 torpedoes, 282 batteries and 8 mines. Although the torpedo type\
+  \ is not reported they are known to be of 1960s Soviet type, probably Type 53-56\
+  \ rather than the more recent CHT-02D type. <br/><br/>Although the image only shows\
+  \ the upper surfaces, the outer doors of the twin 533mm (21\u201D) torpedo tubes\
+  \ are clearly visible in the nose. The yellow object is a distress / communication\
+  \ buoy. The hatch halfway along the forward casing is for a diver lock-out chamber.\
+  \ <br/> [Read More &gt;....](/New photo emerges of Yugo Class midget sub.html \"\
+  READ MORE\") <br clear=\"left\"/>"
 ---
 
 ![Flag](/images/flag_nork.jpg) Operating under great secrecy, photos of the North Korean made ‘YUGO Class’ midget submarines operated by the Vietnamese Navy are very rare. Two YUGO Class midget submarines supplied in 1997 and are operated by submarine unit M96. The deal included 16 torpedoes, 282 batteries and 8 mines. Although the torpedo type is not reported they are known to be of 1960s Soviet type, probably Type 53-56 rather than the more recent CHT-02D type. Not all of the equipment sold (torpedoes, batteries, mines) was new and Vietnam had to replace it with Russian source units.   

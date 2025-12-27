@@ -3,7 +3,7 @@ layout: post
 title: "Collins Class Submarine"
 date: "2025-11-16 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Collins-Class-Submarine.html"><img align="left" src="/images/Australia-Collins-Class-submarine-317.jpg"/></a> ![Flag Australia](/images/flag_Australia.jpg) Six Collins Class boats provide Australia with a world class conventional submarine force.<br/><br/>They are interesting in several ways...<br/>[Read More &gt;....](/Collins-Class-Submarine.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Collins-Class-Submarine.html"><img align="left" loading="lazy" src="/images/Australia-Collins-Class-submarine-317.jpg"/></a> ![Flag Australia](/images/flag_Australia.jpg) Six Collins Class boats provide Australia with a world class conventional submarine force.<br/><br/>They are interesting in several ways...<br/>[Read More &gt;....](/Collins-Class-Submarine.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Australia-Collins-Class-submarine-Cutaway-940.jpg)](/images/Australia-Collins-Class-submarine-Cutaway.jpg)  

@@ -3,7 +3,7 @@ layout: post
 title: "New-Satellite-Image-Shows-Suez-Canal-Blocked"
 date: "2021-03-24 12:00:00"
 excerpt: |-
-  <font size="5">**Seen From Space: Suez Canal Blocked**</font><br clear="right"/><a href="/New-Satellite-Image-Shows-Suez-Canal-Blocked.html"><img align="left" src="/images/Suez-Canal-Ever-Given-Sat-317.jpg"/></a>All eyes are on the container ship which blocked the Suez Canal. This includes the eyes in space. Sentinel 2 satellite imagery, taken today, gives a new perspective on the problem.<br/>[Read More &gt;....](/New-Satellite-Image-Shows-Suez-Canal-Blocked.html "READ MORE")<br clear="left"/>
+  <font size="5">**Seen From Space: Suez Canal Blocked**</font><br clear="right"/><a href="/New-Satellite-Image-Shows-Suez-Canal-Blocked.html"><img align="left" loading="lazy" src="/images/Suez-Canal-Ever-Given-Sat-317.jpg"/></a>All eyes are on the container ship which blocked the Suez Canal. This includes the eyes in space. Sentinel 2 satellite imagery, taken today, gives a new perspective on the problem.<br/>[Read More &gt;....](/New-Satellite-Image-Shows-Suez-Canal-Blocked.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

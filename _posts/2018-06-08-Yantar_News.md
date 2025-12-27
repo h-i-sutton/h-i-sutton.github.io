@@ -9,8 +9,8 @@ excerpt: "<font size=\"5\">**British deep-sea robot seen on Russian GUGI ship pa
   \ media. Yantar is a controversial ship. One interesting detail is that the British\
   \ supplied Anglo-Swedish **Tiger** remote operated vehicle (ROV) was lashed to the\
   \ helipad. [Read More &gt;....](/Yantar_News.html \"READ MORE\")<br/><a href=\"\
-  /Yantar_News.html\"><img src=\"/images/Yantar_Seaeye900.jpg\"/></a><br clear=\"\
-  right\"/>"
+  /Yantar_News.html\"><img loading=\"lazy\" src=\"/images/Yantar_Seaeye900.jpg\"/></a><br\
+  \ clear=\"right\"/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)

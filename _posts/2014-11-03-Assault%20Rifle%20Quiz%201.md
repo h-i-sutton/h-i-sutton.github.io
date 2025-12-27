@@ -3,7 +3,7 @@ layout: post
 title: "Assault Rifle Quiz 1"
 date: "2014-11-03 20:40:00"
 excerpt: |-
-  How well do you know assault rifles?  Take the quiz! <br/><a href="assault-rifle-quiz-1.html"><img src="/images/GunQuiz_header.jpg" width="600"/></a>
+  How well do you know assault rifles?  Take the quiz! <br/><a href="assault-rifle-quiz-1.html"><img loading="lazy" src="/images/GunQuiz_header.jpg" width="600"/></a>
 ---
 
 How well do you know assault rifles? Take the quiz!

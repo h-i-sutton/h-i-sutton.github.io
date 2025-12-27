@@ -3,7 +3,7 @@ layout: post
 title: "Mystery Missile Could Point To Change In North Korea's Submarine Strategy"
 date: "2021-10-12 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/North-Korea-Pukguksong-Missile-Mystery.html"><img align="left" src="/images/DPRK-Submarine-SLBM-Pukguksong-Mystery-317.jpg"/></a> ![Flag China](/images/flag_nork.jpg) North Korea unveils so many new missiles that it is hard to keep up. For submarine launched missiles, which are one of the key focuses, the trend has been bigger and bigger.<br/><br/>Now a new missile has been displayed at an internal arms show. It is something of a mystery...<br/>[Read More &gt;....](/North-Korea-Pukguksong-Missile-Mystery.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/North-Korea-Pukguksong-Missile-Mystery.html"><img align="left" loading="lazy" src="/images/DPRK-Submarine-SLBM-Pukguksong-Mystery-317.jpg"/></a> ![Flag China](/images/flag_nork.jpg) North Korea unveils so many new missiles that it is hard to keep up. For submarine launched missiles, which are one of the key focuses, the trend has been bigger and bigger.<br/><br/>Now a new missile has been displayed at an internal arms show. It is something of a mystery...<br/>[Read More &gt;....](/North-Korea-Pukguksong-Missile-Mystery.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

@@ -3,7 +3,7 @@ layout: post
 title: "Previously Unreported Italian Special Forces AE-90 Submarine Seen For First Time"
 date: "2023-06-02 23:00:00"
 excerpt: "<br clear=\"right\"/><a href=\"/Italy-COMSUBIN-Submarine.html\"><img align=\"left\"\
-  \ src=\"/images/Italy-CABI-DCS-317.jpg\"/></a> ![Flag Italy](/images/flag_italy.jpg)\
+  \ loading=\"lazy\" src=\"/images/Italy-CABI-DCS-317.jpg\"/></a> ![Flag Italy](/images/flag_italy.jpg)\
   \ Italy\u2019s COMSUBIN combat swimmers paraded a previously unreported mini-submarine\
   \ at the Republic day parade in Rome on June 2nd...<br/>[Read More &gt;....](/Italy-COMSUBIN-Submarine.html\
   \ \"READ MORE\")<br clear=\"left\"/>"

@@ -4,7 +4,7 @@ title: "Russian-Navy-Belgorod-Submarines-Evolution"
 date: "2021-03-27 12:00:00"
 excerpt: "<font size=\"5\">**Russian Navy Spy Submarine Belgorod: evolution of OSINT**</font><br\
   \ clear=\"right\"/><a href=\"/Russian-Navy-Belgorod-Submarines-Evolution.html\"\
-  ><img align=\"left\" src=\"/images/Russia-Navy-Belgorod-Submarine-Evolution-317.jpg\"\
+  ><img align=\"left\" loading=\"lazy\" src=\"/images/Russia-Navy-Belgorod-Submarine-Evolution-317.jpg\"\
   /></a>![Flag Russia](/images/flag_russia.jpg) Information is very limited about\
   \ the Russian Navy's largest new submarine, the Project 09852 K-329 Belgorod (\"\
   \u0411\u0435\u043B\u0433\u043E\u0440\u043E\u0434\"). Although analysts had been\

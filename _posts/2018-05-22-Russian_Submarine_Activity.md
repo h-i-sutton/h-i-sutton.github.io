@@ -3,7 +3,7 @@ layout: post
 title: "Russian_Submarine_Activity"
 date: "2018-05-22 11:00:00"
 excerpt: |-
-  <font size="6">**Sanity checking reports of increased Russian submarine activity**</font><br/><img src="/images/flag_russia.jpg"/> There have been reports that Russian submarine activity has returned to Cold War levels. This article uses publicly available data to compare recent activity to Cold War levels.... <br/><a href="/Russian_Submarine_Activity.html"><img src="/images/Ru_SubForceheader900.jpg"/></a><br clear="right"/>
+  <font size="6">**Sanity checking reports of increased Russian submarine activity**</font><br/><img src="/images/flag_russia.jpg"/> There have been reports that Russian submarine activity has returned to Cold War levels. This article uses publicly available data to compare recent activity to Cold War levels.... <br/><a href="/Russian_Submarine_Activity.html"><img loading="lazy" src="/images/Ru_SubForceheader900.jpg"/></a><br clear="right"/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)

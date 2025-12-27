@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review -The Modern Russian Navy by Neil Harvey"
 date: "2016-03-11 14:00:00"
-excerpt: "<img align=\"left\" src=\"/images/ModernRussianNavy.jpg\"/> ![Flag](/images/flag_russia.jpg)\
+excerpt: "<img align=\"left\" loading=\"lazy\" src=\"/images/ModernRussianNavy.jpg\"/> ![Flag](/images/flag_russia.jpg)\
   \ ![stars](/images/stars-five.png) <br/> This book is an up to date continuance\
   \ of a much missed book format once typified by the Janes\u2019 Warship Recognition\
   \ Guides and handbooks and as such is an essential guide for any naval enthusiast.\

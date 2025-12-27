@@ -3,7 +3,7 @@ layout: post
 title: "Russian Assault Boats head to Syria"
 date: "2016-05-08 01:00:00"
 excerpt: |-
-  ![Flag](/images/flag_russia.jpg) Russian Naval vessels traveling from bases in the Black Sea to Syria, have to pass through the narrow *Bosporus*, a narrow strait between Europe and the Middle East. Turkey sits both sides of the strait, with the vessels passing directly through Istanbul.  This means that Russian boats heading to Syria are closely monitored. This morning a Russian Naval vessel carrying two assault boats passed south toward Syria.   <br/><a href="/Russian Assault Boats head to Syria.html"><img src="/images/Rus6_900.jpg"/></a><br/>[Read More &gt;....](/Russian Assault Boats head to Syria.html "READ MORE")
+  ![Flag](/images/flag_russia.jpg) Russian Naval vessels traveling from bases in the Black Sea to Syria, have to pass through the narrow *Bosporus*, a narrow strait between Europe and the Middle East. Turkey sits both sides of the strait, with the vessels passing directly through Istanbul.  This means that Russian boats heading to Syria are closely monitored. This morning a Russian Naval vessel carrying two assault boats passed south toward Syria.   <br/><a href="/Russian Assault Boats head to Syria.html"><img loading="lazy" src="/images/Rus6_900.jpg"/></a><br/>[Read More &gt;....](/Russian Assault Boats head to Syria.html "READ MORE")
 ---
 
 All original photos by alper böler [Twitter @alperboler](https://twitter.com/alperboler)

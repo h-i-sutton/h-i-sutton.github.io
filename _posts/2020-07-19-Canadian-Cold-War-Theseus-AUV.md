@@ -9,8 +9,8 @@ excerpt: "<font size=\"5\">**Theseus AUV**</font> <br/>![Flag](/images/flag_cana
   \ Canadian engineers had to build the world\u2019s largest autonomous underwater\
   \ vehicle (AUV), Theseus, to lay a cable where ships could not reach... <br/>[Read\
   \ More &gt;....](/Canadian-Cold-War-Theseus-AUV.html \"READ MORE\")<br/><a href=\"\
-  /Canadian-Cold-War-Theseus-AUV.html\"><img src=\"/images/Canada-US-Navy-Spinnaker-Theseus-AUV-under-ice-cap-900.jpg\"\
-  /></a><br clear=\"right\"><br/></br>"
+  /Canadian-Cold-War-Theseus-AUV.html\"><img loading=\"lazy\" src=\"/images/Canada-US-Navy-Spinnaker-Theseus-AUV-under-ice-cap-900.jpg\"\
+  /></a><br clear=\"right\"><br/><br/>"
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

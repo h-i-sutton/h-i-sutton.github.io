@@ -3,7 +3,7 @@ layout: post
 title: "Shark Subs -  Shark Observation Vehicle"
 date: "2015-09-22 11:00:00"
 excerpt: |-
-  Not an SDV or military craft but interesting nonetheless. [Read More &gt;....](/Shark Subs -  Shark Observation Vehicle.html "READ MORE")<br/><a href="/Shark Subs -  Shark Observation Vehicle.html"><img src="/images/sharksub900a.jpg"/></a>
+  Not an SDV or military craft but interesting nonetheless. [Read More &gt;....](/Shark Subs -  Shark Observation Vehicle.html "READ MORE")<br/><a href="/Shark Subs -  Shark Observation Vehicle.html"><img loading="lazy" src="/images/sharksub900a.jpg"/></a>
 ---
 
 ![Shark Observation Vehicle](/images/sharksub1.jpg)   

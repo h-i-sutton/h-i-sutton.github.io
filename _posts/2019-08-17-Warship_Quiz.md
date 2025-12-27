@@ -3,7 +3,7 @@ layout: post
 title: "Warship_Quiz"
 date: "2019-08-17 18:40:00"
 excerpt: |-
-  Test your warship recognition skills. All warships relevant to current tensions in Persian Gulf.<br/><a href="/warship_quiz.html"><img src="images/quiz_Gulf_cover.jpg"/></a><br/>
+  Test your warship recognition skills. All warships relevant to current tensions in Persian Gulf.<br/><a href="/warship_quiz.html"><img loading="lazy" src="images/quiz_Gulf_cover.jpg"/></a><br/>
 ---
 
 This quiz needs Javacsript.

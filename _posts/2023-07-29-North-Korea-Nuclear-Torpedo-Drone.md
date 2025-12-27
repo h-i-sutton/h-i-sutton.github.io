@@ -3,7 +3,7 @@ layout: post
 title: "North Korea's New Underwater Drone"
 date: "2023-07-29 11:00:00"
 excerpt: |-
-  <br/><br clear="right"><a href="/North-Korea-Nuclear-Torpedo-Drone.html"><img align="left" src="/images/DPRK-Underwater-Drones-2023-07-317.jpg"/></a> ![Flag DPRK](/images/flag_nork.jpg) Kim Jong Un  likes to unveil new 'superweapons' at its nighttime military parades. For several years this has been dominated by ever more fearsome ballistic missiles. This year it is drones.<br/><br/>As well as copies of the American MQ-9 Reaper, there was a new underwater drone...<br/>[Read More &gt;....](/North-Korea-Nuclear-Torpedo-Drone.html "READ MORE")<br clear="left"/></br>
+  <br/><br clear="right"><a href="/North-Korea-Nuclear-Torpedo-Drone.html"><img align="left" loading="lazy" src="/images/DPRK-Underwater-Drones-2023-07-317.jpg"/></a> ![Flag DPRK](/images/flag_nork.jpg) Kim Jong Un  likes to unveil new 'superweapons' at its nighttime military parades. For several years this has been dominated by ever more fearsome ballistic missiles. This year it is drones.<br/><br/>As well as copies of the American MQ-9 Reaper, there was a new underwater drone...<br/>[Read More &gt;....](/North-Korea-Nuclear-Torpedo-Drone.html "READ MORE")<br clear="left"/><br/>
 ---
 
 ![North Korea's Mini-Poseidon: Haeil-2](/images/DPRK-Underwater-Drones-2023-07.jpg)  

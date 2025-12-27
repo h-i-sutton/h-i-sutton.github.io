@@ -2,8 +2,8 @@
 layout: post
 title: "Iran's IRGC Special Forces Using Modern German Underwater Vehicles"
 date: "2023-03-12 12:00:00"
-excerpt: "<br clear=\"right\"/><a href=\"/Iran-IRGC-Bonex-DPV.html\"><img align=\"left\" src=\"\
-  /images/Iran-IRGC-Bonex-DPV-317.jpg\"/></a> ![Flag Iran](/images/flag_iran.jpg)\
+excerpt: "<br clear=\"right\"/><a href=\"/Iran-IRGC-Bonex-DPV.html\"><img align=\"left\" loading=\"\
+  lazy\" src=\"/images/Iran-IRGC-Bonex-DPV-317.jpg\"/></a> ![Flag Iran](/images/flag_iran.jpg)\
   \ Iran\u2019s second navy, the IRGC-N (Islamic Revolutionary Guards Corps Navy)\
   \ often raises a eyebrows with its outlandish weapons concepts. Yet behind the propaganda\
   \ and hyperbole there is a consistent and growing core of good ideas and viable\

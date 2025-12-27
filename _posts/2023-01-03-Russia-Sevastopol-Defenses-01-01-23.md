@@ -3,7 +3,7 @@ layout: post
 title: "Russia Adds Even More Anti-Maritime Drone Defenses In Sevastopol"
 date: "2023-01-03 10:00:00"
 excerpt: |-
-  <br/><br clear="right"><a href="/Russia-Sevastopol-Defenses-01-01-23.html"><img align="left" src="/images/Russia-Sevastopol-Defenses-Jan2023-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)The October 29 Ukrainian attack on Sevastopol, using 'maritime drones' has had a dramatic impact on the Russian Navy. Now a new defensive boom has been added across the inner harbor. <br/><br/>The floating boom can make it difficult for the maritime drones.<br/>[Read More &gt;....](/Russia-Sevastopol-Defenses-01-01-23.html "READ MORE")<br clear="left"/></br>
+  <br/><br clear="right"><a href="/Russia-Sevastopol-Defenses-01-01-23.html"><img align="left" loading="lazy" src="/images/Russia-Sevastopol-Defenses-Jan2023-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg)The October 29 Ukrainian attack on Sevastopol, using 'maritime drones' has had a dramatic impact on the Russian Navy. Now a new defensive boom has been added across the inner harbor. <br/><br/>The floating boom can make it difficult for the maritime drones.<br/>[Read More &gt;....](/Russia-Sevastopol-Defenses-01-01-23.html "READ MORE")<br clear="left"/><br/>
 ---
 
 [![](/images/Russia-Sevastopol-Defenses-Jan2023-940.jpg)](/images/Russia-Sevastopol-Defenses-Jan2023.jpg)  

@@ -3,12 +3,12 @@ layout: post
 title: "Guide To Ukraine's Long Range Attack Drones"
 date: "2025-07-06 10:01:00"
 excerpt: "**UPDATED** *Originally posted Jan 24*.<br/><br clear=\"right\"><a href=\"/Ukraine-OWA-UAVs.html\"\
-  ><img align=\"left\" src=\"/images/Ukraine-OWA-UAVs-317.jpg\"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)\
-  \ Russia\u2019s use of long range drones, principally the Iranian Shahed type, against\
-  \ Ukraine is well documented. Ukraine too is increasingly using this category of\
-  \ drone.<br/><br/>This article will focus on the Ukrainian OWA-UAVs which can strike\
-  \ deep into Russia...<br/>[Read More &gt;....](/Ukraine-OWA-UAVs.html \"READ MORE\"\
-  )<br clear=\"left\"/></br>"
+  ><img align=\"left\" loading=\"lazy\" src=\"/images/Ukraine-OWA-UAVs-317.jpg\"/></a>\
+  \ ![Flag Ukraine](/images/flag_ukraine.jpg) Russia\u2019s use of long range drones,\
+  \ principally the Iranian Shahed type, against Ukraine is well documented. Ukraine\
+  \ too is increasingly using this category of drone.<br/><br/>This article will focus\
+  \ on the Ukrainian OWA-UAVs which can strike deep into Russia...<br/>[Read More\
+  \ &gt;....](/Ukraine-OWA-UAVs.html \"READ MORE\")<br clear=\"left\"/><br/>"
 ---
 
 **UPDATED** *Originally posted Jan 24*.  

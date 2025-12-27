@@ -3,7 +3,7 @@ layout: post
 title: "First Trans-Atlantic Narco Submarine Found In Africa"
 date: "2025-03-12 14:30:00"
 excerpt: |-
-  <br clear="right"/><a href="/Transatlantic-Narco-Submarine-202503.html"><img align="left" src="/images/Narco-Sub-Sierra-Leone-317.jpg"/></a> A narco submarine has washed up on Black Johnson beach of Sierra Leone, on the west coast of Africa.<br/><br/>As well as being the country's first discovery, it is significant in other ways...<br/>[Read More &gt;....](/Transatlantic-Narco-Submarine-202503.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Transatlantic-Narco-Submarine-202503.html"><img align="left" loading="lazy" src="/images/Narco-Sub-Sierra-Leone-317.jpg"/></a> A narco submarine has washed up on Black Johnson beach of Sierra Leone, on the west coast of Africa.<br/><br/>As well as being the country's first discovery, it is significant in other ways...<br/>[Read More &gt;....](/Transatlantic-Narco-Submarine-202503.html "READ MORE")<br clear="left"/>
 ---
 
 # First Trans-Atlantic Narco Submarine Found In Africa

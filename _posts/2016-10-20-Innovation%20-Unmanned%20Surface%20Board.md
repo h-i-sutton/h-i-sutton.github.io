@@ -8,9 +8,9 @@ excerpt: "![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_germany.jpg) ![F
   \ is the availability of high density reliable batteries and compact electric motors\
   \ which allow the board to be self-propelled. \u2018Jet boards\u2019 are not just\
   \ rich kids\u2019 toys. .  [Read More &gt;....](/Innovation -Unmanned Surface Board.html\
-  \ \"READ MORE\")<br/><a href=\"/Innovation -Unmanned Surface Board.html\"><img src=\"\
-  /images/UBS3.jpg\"/></a><br/><a href=\"/Innovation -Unmanned Surface Board.html\"\
-  ><img src=\"/images/USB4.jpg\"/></a>"
+  \ \"READ MORE\")<br/><a href=\"/Innovation -Unmanned Surface Board.html\"><img loading=\"\
+  lazy\" src=\"/images/UBS3.jpg\"/></a><br/><a href=\"/Innovation -Unmanned Surface\
+  \ Board.html\"><img loading=\"lazy\" src=\"/images/USB4.jpg\"/></a>"
 ---
 
 ![Unmanned Service board](/images/USB2.jpg)  

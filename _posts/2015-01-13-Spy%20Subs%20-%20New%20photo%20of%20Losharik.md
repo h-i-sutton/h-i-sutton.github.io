@@ -3,7 +3,7 @@ layout: post
 title: "Spy Subs - New photo of Losharik"
 date: "2015-01-13 11:00:00"
 excerpt: |-
-  <img src="/images/flag_russia.jpg"/>There are few active submarines as elusive as the Russian 'Special Projects' boat 'Losharik' so this new photo is something of a find! <a href="/Spy Subs - New photo of Losharik.html"><img src="/images/Losharik900.jpg"/></a>
+  <img src="/images/flag_russia.jpg"/>There are few active submarines as elusive as the Russian 'Special Projects' boat 'Losharik' so this new photo is something of a find! <a href="/Spy Subs - New photo of Losharik.html"><img loading="lazy" src="/images/Losharik900.jpg"/></a>
 ---
 
 ![](/images/flag_russia.jpg)  

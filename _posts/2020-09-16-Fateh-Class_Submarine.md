@@ -6,8 +6,8 @@ excerpt: "*Updated with cutaway. Originally posted 8th Dec 2016*<br/><font size=
   \ Navy's Fateh Class Submarine explained**</font> <br/><img src=\"/images/flag_iran.jpg\"\
   /> The Fateh Class legitimately places Iran in the list of sub building nations.\
   \ Iran\u2019s submarine building program has come of age. ... <br/><a href=\"/Fateh-Class_Submarine.html\"\
-  ><img src=\"/images/Iran-Fateh-Submarine-Cutaway-900.jpg\"/></a><br/>[Read More](/Fateh-Class_Submarine.html\
-  \ \"READ MORE\")<br/>"
+  ><img loading=\"lazy\" src=\"/images/Iran-Fateh-Submarine-Cutaway-900.jpg\"/></a><br/>[Read\
+  \ More](/Fateh-Class_Submarine.html \"READ MORE\")<br/>"
 ---
 
 *Updated. Originally posted 8th Dec 2016*

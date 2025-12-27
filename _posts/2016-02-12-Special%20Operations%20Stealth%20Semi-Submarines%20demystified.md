@@ -3,7 +3,7 @@ layout: post
 title: "Special Operations Stealth Semi-Submarines demystified"
 date: "2016-02-12 11:00:00"
 excerpt: |-
-  <img src="/images/Flag_Singapore.jpg"/> <img src="/images/Updated.jpg"/> The recent revealing of the Singaporean Navy's stealth **Specialized Marine Craft** (SMC) highlights the gradual maturing and adoption of certain US designed semi-submersible and stealth technologies for Special Forces. This article builds on the popular post on the old *Covert Shores Blog*.[Read More &gt;....](/Special Operations Stealth Semi-Submarines demystified.html "READ MORE")<br/><a href="/Special Operations Stealth Semi-Submarines demystified.html"><img src="/images/SMC_new900.jpg"/></a>
+  <img loading="lazy" src="/images/Flag_Singapore.jpg"/> <img loading="lazy" src="/images/Updated.jpg"/> The recent revealing of the Singaporean Navy's stealth **Specialized Marine Craft** (SMC) highlights the gradual maturing and adoption of certain US designed semi-submersible and stealth technologies for Special Forces. This article builds on the popular post on the old *Covert Shores Blog*.[Read More &gt;....](/Special Operations Stealth Semi-Submarines demystified.html "READ MORE")<br/><a href="/Special Operations Stealth Semi-Submarines demystified.html"><img loading="lazy" src="/images/SMC_new900.jpg"/></a>
 ---
 
 # Flag_Sinapore.jpg

@@ -2,14 +2,15 @@
 layout: post
 title: "Covert Shores Book out now"
 date: "2016-05-06 01:00:00"
-excerpt: "<a href=\"Covert Shores Book out now.html\"><img align=\"left\" src=\"/images/Book_cover_150.jpg\"\
-  /></a> Until now, the underwater craft employed by the World\u2019s Special Forces\
-  \ have been known only to a select few. Covert Shores is the first complete and\
-  \ documented insight into the little-known world of the mini-subs, Swimmer Delivery\
-  \ Vehicles (SDVs) and other underwater vehicles used by the U. S. Navy SEALs, Special\
-  \ Boat Service, Spetsnaz, COMSUBIN, Shayetet-13, Recce Commandos, Commando Hubert,\
-  \ Clearance Divers, Kampfschwimmers and many more.<br/> [Read More &gt;....](/Covert\
-  \ Shores Book out now.html \"READ MORE\")<br clear=\"left\"/>"
+excerpt: "<a href=\"Covert Shores Book out now.html\"><img align=\"left\" loading=\"lazy\"\
+  \ src=\"/images/Book_cover_150.jpg\"/></a> Until now, the underwater craft employed\
+  \ by the World\u2019s Special Forces have been known only to a select few. Covert\
+  \ Shores is the first complete and documented insight into the little-known world\
+  \ of the mini-subs, Swimmer Delivery Vehicles (SDVs) and other underwater vehicles\
+  \ used by the U. S. Navy SEALs, Special Boat Service, Spetsnaz, COMSUBIN, Shayetet-13,\
+  \ Recce Commandos, Commando Hubert, Clearance Divers, Kampfschwimmers and many more.<br/>\
+  \ [Read More &gt;....](/Covert Shores Book out now.html \"READ MORE\")<br clear=\"\
+  left\"/>"
 ---
 
 COVERT SHORES: The Story of Naval Special Forces Missions and Minisubs

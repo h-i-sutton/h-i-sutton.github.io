@@ -3,7 +3,7 @@ layout: post
 title: "SubCat Swimmer Delivery Vehicle"
 date: "2016-01-15 18:40:00"
 excerpt: |-
-  <img src="/images/flag_UK.jpg"/> The SubCat is one of a series of virtually unknown British SDVs (Swimmer Delivery Vehicles) from the Cold War. Designed to carry two combat divers over long distances, the SubCat incorporated many innovations and was ahead of its time in several respects. .... [Read More &gt;....](/SubCat Swimmer Delivery Vehicle.html "READ MORE")<br/><a href="/SubCat Swimmer Delivery Vehicle.html"><img src="/images/SubCat900.jpg"/></a>
+  <img src="/images/flag_UK.jpg"/> The SubCat is one of a series of virtually unknown British SDVs (Swimmer Delivery Vehicles) from the Cold War. Designed to carry two combat divers over long distances, the SubCat incorporated many innovations and was ahead of its time in several respects. .... [Read More &gt;....](/SubCat Swimmer Delivery Vehicle.html "READ MORE")<br/><a href="/SubCat Swimmer Delivery Vehicle.html"><img loading="lazy" src="/images/SubCat900.jpg"/></a>
 ---
 
 ![](/images/flag_UK.jpg) *The **SubCat** is one of a series of virtually unknown British SDVs (Swimmer Delivery Vehicles) from the Cold War. Designed to carry two combat divers over long distances, the SubCat incorporated many innovations and was ahead of its time in several respects*.   

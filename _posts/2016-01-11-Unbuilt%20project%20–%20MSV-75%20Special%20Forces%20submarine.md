@@ -11,7 +11,7 @@ excerpt: "<img src=\"/images/flag_germany.jpg\"/> The 1970s saw a resurgent Germ
   \ offer was the Thyssen Nordseewerke MSV-75 (Multipurpose Submersible Vessel) .....\
   \ [Read More &gt;....](/Unbuilt project \u2013 MSV-75 Special Forces submarine.html\
   \ \"READ MORE\")<br/><a href=\"/Unbuilt project \u2013 MSV-75 Special Forces submarine.html\"\
-  ><img src=\"/images/CommanderCrabbBook.jpg\"/></a>"
+  ><img loading=\"lazy\" src=\"/images/CommanderCrabbBook.jpg\"/></a>"
 ---
 
 ![](/images/flag_germany.jpg) The 1970s saw a resurgent German submarine (U-boot) industry, and the start of a period when they would dominate the export market. Typical German submarines, such as the ubiquitous Type-209, were relatively small diesel-electric boats but packed a big punch. Several other designs were even smaller however, and aimed at the Special Forces and special operations market which was at the time dominated by Italian firm Cos.Mo.S. One of the designs on offer was the Thyssen Nordseewerke (/Rheinstahl Nordseewerke) MSV-75 (Multipurpose Submersible Vessel).

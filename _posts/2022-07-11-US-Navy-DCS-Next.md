@@ -3,7 +3,7 @@ layout: post
 title: "DCS Next: Return Of The U.S. Navy's ASDS Submarine"
 date: "2022-07-11 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/US-Navy-DCS-Next.html"><img align="left" src="/images/US-Navy-DCS-Next-317.jpg"/></a> ![Flag  USA](/images/flag_USA.jpg) The U.S. Navy is a world leader in special forces submarines. The latest DCS (dry combat submersible) must be the envy of even the best equipped NATO partners.<br/><br/>But already the Navy &amp; SOCOM are already planning a follow-on submarine...<br/>[Read More &gt;....](/US-Navy-DCS-Next.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/US-Navy-DCS-Next.html"><img align="left" loading="lazy" src="/images/US-Navy-DCS-Next-317.jpg"/></a> ![Flag  USA](/images/flag_USA.jpg) The U.S. Navy is a world leader in special forces submarines. The latest DCS (dry combat submersible) must be the envy of even the best equipped NATO partners.<br/><br/>But already the Navy &amp; SOCOM are already planning a follow-on submarine...<br/>[Read More &gt;....](/US-Navy-DCS-Next.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

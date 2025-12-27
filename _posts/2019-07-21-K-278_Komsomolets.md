@@ -8,7 +8,7 @@ excerpt: "<font size=\"5\">**Wreck of Russia's unique deep-diving attack submari
   \ engineering mini-subs. *Almost*. The Soviet Union did commission a single nuclear-armed\
   \ titanium-hulled Pr.685 attack submarine which could dive to 1,020 meters (3,350\
   \ feet), comparable to the US Navy\u2019s famous unarmed NR-1.... <br/><a href=\"\
-  /K-278_Komsomolets.html\"><img src=\"/images/Ru_Komsomolets_wreck_guide900.jpg\"\
+  /K-278_Komsomolets.html\"><img loading=\"lazy\" src=\"/images/Ru_Komsomolets_wreck_guide900.jpg\"\
   /></a><br/>[Read More &gt;....](/K-278_Komsomolets.html \"READ MORE\")"
 ---
 

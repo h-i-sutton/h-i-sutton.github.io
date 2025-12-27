@@ -3,7 +3,7 @@ layout: post
 title: "Revealed: A Key Shipyard In Chain'a Naval Revolution"
 date: "2025-05-28 18:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Chinese-Wuxi-Boatyard-OSINT.html"><img align="left" src="/images/China-Wuxi-Shipyard-geolocation-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) A small boatyard, backing onto a narrow urban canal, may be playing an outsized role in China's naval modernisation. The unassuming site is in Wuxi, west of Shanghai, and around 90 miles inland.<br/><br/> Analysis indicates that it is building cutting edge uncrewed vessels...<br/>[Read More &gt;....](/Chinese-Wuxi-Boatyard-OSINT.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Chinese-Wuxi-Boatyard-OSINT.html"><img align="left" loading="lazy" src="/images/China-Wuxi-Shipyard-geolocation-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) A small boatyard, backing onto a narrow urban canal, may be playing an outsized role in China's naval modernisation. The unassuming site is in Wuxi, west of Shanghai, and around 90 miles inland.<br/><br/> Analysis indicates that it is building cutting edge uncrewed vessels...<br/>[Read More &gt;....](/Chinese-Wuxi-Boatyard-OSINT.html "READ MORE")<br clear="left"/>
 ---
 
 # Revealed: A Key Shipyard In Chain'a Naval Revolution

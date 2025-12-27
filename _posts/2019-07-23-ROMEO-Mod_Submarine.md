@@ -3,7 +3,7 @@ layout: post
 title: "ROMEO-Mod_Submarine"
 date: "2019-07-23 06:00:00"
 excerpt: |-
-  *Updated: originally posted July 23, 2019*<br/><font size="6">**New North Korean submarine: ROMEO-Mod**</font> <br clear="right"><a href="/ROMEO-Mod_Submarine.html" target="blank"><img align="left" src="/images/North-Korea-DPRK-ROMEO-MOD-900.jpg"/></a> ![Flag](/images/flag_nork.jpg) North Korea revealed its latest  indigenous submarine on 23rd July 2019. Footage was shown of Kim Jong Un inspecting the submarine, probably in Sinpo on the east coast. From the limited images available we can be confident that this is a modified vintage ROMEO Class design... <br/>[Read More &gt;....](/ROMEO-Mod_Submarine.html "READ MORE")<br clear="left"/></br>
+  *Updated: originally posted July 23, 2019*<br/><font size="6">**New North Korean submarine: ROMEO-Mod**</font> <br clear="right"><a href="/ROMEO-Mod_Submarine.html" target="blank"><img align="left" loading="lazy" src="/images/North-Korea-DPRK-ROMEO-MOD-900.jpg"/></a> ![Flag](/images/flag_nork.jpg) North Korea revealed its latest  indigenous submarine on 23rd July 2019. Footage was shown of Kim Jong Un inspecting the submarine, probably in Sinpo on the east coast. From the limited images available we can be confident that this is a modified vintage ROMEO Class design... <br/>[Read More &gt;....](/ROMEO-Mod_Submarine.html "READ MORE")<br clear="left"/><br/>
 ---
 
 *Updated: originally posted July 23, 2019*  

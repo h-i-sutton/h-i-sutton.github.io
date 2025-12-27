@@ -9,8 +9,8 @@ excerpt: "<font size=\"6\">**Russia and South Korean both launch submarines**</f
   \ the first KSS-III Class submarine a few days earlier. Both are examples of the\
   \ latest generation of diesel-electric submarines but there are at different ends\
   \ of the conventional submarine spectrum.... <br/><a href=\"/LADA_KS-III.html\"\
-  ><img src=\"/images/Ru_LADA-KS-III_900.jpg\"/></a><br/>[Read More &gt;....](/LADA_KS-III.html\
-  \ \"READ MORE\")"
+  ><img loading=\"lazy\" src=\"/images/Ru_LADA-KS-III_900.jpg\"/></a><br/>[Read More\
+  \ &gt;....](/LADA_KS-III.html \"READ MORE\")"
 ---
 
 ##### 

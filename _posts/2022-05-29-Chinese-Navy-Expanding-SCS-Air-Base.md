@@ -3,7 +3,7 @@ layout: post
 title: "OSINT: Chinese Navy Expanding Key Air Base In South China Sea"
 date: "2022-05-29 23:00:00"
 excerpt: |-
-  <br/><br clear="right"><a href="/Chinese-Navy-Expanding-SCS-Air-Base.html"><img align="left" src="/images/China-Upgrading-Lingshui-Air-Base-Hainan-South-China-Sea-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) China is expanding Lingshui Air Base near the Sanya &amp; Yulin naval bases on Hainan, South China Sea. The base has already been upgraded to accommodate fighter aircraft from the aircraft carriers stationed there. <br/><br/>Now the west side of the base is being upgraded.<br/>[Read More &gt;....](/Chinese-Navy-Expanding-SCS-Air-Base.html "READ MORE")<br clear="left"/></br>
+  <br/><br clear="right"><a href="/Chinese-Navy-Expanding-SCS-Air-Base.html"><img align="left" loading="lazy" src="/images/China-Upgrading-Lingshui-Air-Base-Hainan-South-China-Sea-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) China is expanding Lingshui Air Base near the Sanya &amp; Yulin naval bases on Hainan, South China Sea. The base has already been upgraded to accommodate fighter aircraft from the aircraft carriers stationed there. <br/><br/>Now the west side of the base is being upgraded.<br/>[Read More &gt;....](/Chinese-Navy-Expanding-SCS-Air-Base.html "READ MORE")<br clear="left"/><br/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

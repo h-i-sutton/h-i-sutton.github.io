@@ -9,10 +9,12 @@ excerpt: "<font size=\"6\">**First articles on Forbes**</font><br/>The first thr
   \ target=\"Blank\">Poseidon</a>, revealing that the test submarine Sarov was at\
   \ sea in June. And the third covers <a href=\"https://www.forbes.com/sites/hisutton/2019/08/22/naval-special-warfare-operating-jet-skis/\"\
   \ target=\"Blank\">USSOCOM\u2019s jet skis</a>...<br/><a href=\"https://www.forbes.com/sites/hisutton/2019/08/13/north-korea-appears-to-have-built-its-first-real-ballistic-missile-submarine/\"\
-  \ target=\"blank\"><img src=\"/images/Forbes_ROMEO-MOD.jpg\"/></a><a href=\"https://www.forbes.com/sites/hisutton/2019/08/17/russia-testing-nuclear-powered-mega-torpedo-near-where-deadly-explosion-occurred/\"\
-  \ target=\"blank\"><img src=\"/images/Forbes_Poseidon.jpg\"/></a><a href=\"https://www.forbes.com/sites/hisutton/2019/08/22/naval-special-warfare-operating-jet-skis/\"\
-  \ target=\"blank\"><img src=\"/images/Forbes_Jetskis.jpg\"/></a><br/>[Read More\
-  \ &gt;....](/Articles_for_Forbes.html \"READ MORE\")<br clear=\"right\"/>"
+  \ target=\"blank\"><img loading=\"lazy\" src=\"/images/Forbes_ROMEO-MOD.jpg\"/></a><a\
+  \ href=\"https://www.forbes.com/sites/hisutton/2019/08/17/russia-testing-nuclear-powered-mega-torpedo-near-where-deadly-explosion-occurred/\"\
+  \ target=\"blank\"><img loading=\"lazy\" src=\"/images/Forbes_Poseidon.jpg\"/></a><a\
+  \ href=\"https://www.forbes.com/sites/hisutton/2019/08/22/naval-special-warfare-operating-jet-skis/\"\
+  \ target=\"blank\"><img loading=\"lazy\" src=\"/images/Forbes_Jetskis.jpg\"/></a><br/>[Read\
+  \ More &gt;....](/Articles_for_Forbes.html \"READ MORE\")<br clear=\"right\"/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

@@ -3,7 +3,7 @@ layout: post
 title: "Covert Shores Surface Recognition Guide To Chinese Navy Submarines"
 date: "2021-06-29 09:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Chinese-Submarines-Guide.html"><img align="left" src="/images/Chinese-Sub-Rec-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) A quick guide to the submarine classes of the People's Liberation Army Navy (PLAN). The chart is intended as a practical guide and does not include every sub-variant.<br/>[Read More &gt;....](/Chinese-Submarines-Guide.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Chinese-Submarines-Guide.html"><img align="left" loading="lazy" src="/images/Chinese-Sub-Rec-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) A quick guide to the submarine classes of the People's Liberation Army Navy (PLAN). The chart is intended as a practical guide and does not include every sub-variant.<br/>[Read More &gt;....](/Chinese-Submarines-Guide.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

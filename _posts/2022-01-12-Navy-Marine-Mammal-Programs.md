@@ -3,7 +3,7 @@ layout: post
 title: "Killer Dolphins: World Survey Of Navy Marine Mammal Programs"
 date: "2022-01-12 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Navy-Marine-Mammal-Programs.html"><img align="left" src="/images/World-Navies-Marine-Mammals-317.jpg"/></a> ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_russia.jpg) ![Flag Israel](/images/flag_isreal.jpg) ![Flag](/images/flag_nork.jpg) I have identified  four countries with marine mammal programs. The United States, Russia, North Korea, and Israel.<br/>[Read More &gt;....](/Navy-Marine-Mammal-Programs.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Navy-Marine-Mammal-Programs.html"><img align="left" loading="lazy" src="/images/World-Navies-Marine-Mammals-317.jpg"/></a> ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_russia.jpg) ![Flag Israel](/images/flag_isreal.jpg) ![Flag](/images/flag_nork.jpg) I have identified  four countries with marine mammal programs. The United States, Russia, North Korea, and Israel.<br/>[Read More &gt;....](/Navy-Marine-Mammal-Programs.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

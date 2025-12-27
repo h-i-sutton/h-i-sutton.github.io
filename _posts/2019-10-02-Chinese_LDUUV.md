@@ -8,8 +8,8 @@ excerpt: "Updated. *Originally posted 15th Sep 2019*<br/><font size=\"6\">**Chin
   \ anniversary of the People\u2019s Republic of China (PRC) in Beijing appear to\
   \ show the first public unveiling of China\u2019s Large Displacement Unmanned Underwater\
   \ Vehicle (LDUUV)...   [Read More &gt;....](/Chinese_LDUUV.html \"READ MORE\")<br/><a\
-  \ href=\"/Chinese_LDUUV.html\"><img src=\"/images/Cn_SDV_trailer_900.jpg\"/></a><br\
-  \ clear=\"right\"/>"
+  \ href=\"/Chinese_LDUUV.html\"><img loading=\"lazy\" src=\"/images/Cn_SDV_trailer_900.jpg\"\
+  /></a><br clear=\"right\"/>"
 ---
 
 Updated. *Originally posted 15th Sep 2019*  

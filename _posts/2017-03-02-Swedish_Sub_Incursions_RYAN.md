@@ -8,8 +8,9 @@ excerpt: "<font size=\"6\">**Swedish news article on Cold War imcursions**</font
   \ Officer Nils-Ove Jansson  drew parallels to when Soviet Spetsnaz combat swimmers\
   \ came ashore in Sweden to reconnoiter the placing of nuclear mines (allegedly).\
   \ An interesting article in a few ways... [Read More &gt;....](/Swedish_Sub_Incursions_RYAN.html\
-  \ \"READ MORE\")<br/><a href=\"/Swedish_Sub_Incursions_RYAN.html\"><img src=\"/images/Swe_Incursions_Nils-Ove_Jansson900.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><a href=\"/Swedish_Sub_Incursions_RYAN.html\"><img loading=\"\
+  lazy\" src=\"/images/Swe_Incursions_Nils-Ove_Jansson900.jpg\"/></a><br clear=\"\
+  right\"/>"
 ---
 
 **Swedish news article on Cold War imcursions**   

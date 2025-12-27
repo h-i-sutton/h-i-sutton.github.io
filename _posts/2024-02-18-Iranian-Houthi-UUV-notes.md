@@ -3,7 +3,7 @@ layout: post
 title: "Notes On Emerging Iranian / Houthi Uncrewed Underwater Vehicle (UUV) Threat"
 date: "2024-02-18 23:01:00"
 excerpt: |-
-  <br clear="right"/><a href="/Iranian-Houthi-UUV-notes.html"><img align="left" src="/images/Iran-Houthis-UUV-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg)![Flag Houthi](/images/flag_Houthi.jpg) CENTCOM has announced that it has "successfully conducted five self-defense strikes against ... one unmanned underwater vessel (UUV)"<br/><br/>The most likely candidate for the Houthi supply at this point is a torpedo-like drone which has featured in several propaganda videos...<br/>[Read More &gt;....](/Iranian-Houthi-UUV-notes.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Iranian-Houthi-UUV-notes.html"><img align="left" loading="lazy" src="/images/Iran-Houthis-UUV-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg)![Flag Houthi](/images/flag_Houthi.jpg) CENTCOM has announced that it has "successfully conducted five self-defense strikes against ... one unmanned underwater vessel (UUV)"<br/><br/>The most likely candidate for the Houthi supply at this point is a torpedo-like drone which has featured in several propaganda videos...<br/>[Read More &gt;....](/Iranian-Houthi-UUV-notes.html "READ MORE")<br clear="left"/>
 ---
 
 # Notes On Emerging Iranian / Houthi Uncrewed Underwater Vehicle (UUV) Threat

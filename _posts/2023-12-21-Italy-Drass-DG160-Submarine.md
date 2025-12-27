@@ -3,7 +3,7 @@ layout: post
 title: "Italian Midget Submarine under Construction In Romania For Undisclosed Customer"
 date: "2023-12-21 11:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Italy-Drass-DG160-Submarine.html"><img align="left" src="/images/Italy-Drass-DG160-Submarine-317.jpg"/></a> ![Flag Italy](/images/flag_italy.jpg) The Italians have a reputation for building small submarines. One is under construction in Romania. In Italian arms sales tradition of mystery and speculation, we know of the project but we do not know of the customer....<br/>[Read More &gt;....](/Italy-Drass-DG160-Submarine.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Italy-Drass-DG160-Submarine.html"><img align="left" loading="lazy" src="/images/Italy-Drass-DG160-Submarine-317.jpg"/></a> ![Flag Italy](/images/flag_italy.jpg) The Italians have a reputation for building small submarines. One is under construction in Romania. In Italian arms sales tradition of mystery and speculation, we know of the project but we do not know of the customer....<br/>[Read More &gt;....](/Italy-Drass-DG160-Submarine.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

@@ -3,7 +3,7 @@ layout: post
 title: "Colombian Navy Seizes Another Narco Submarine In Jungle Raid"
 date: "2021-08-02 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Narco-Submarines-Update-2021-08-02.html"><img align="left" src="/images/Narco-Submarine-2021-08-02-317.jpg"/></a>The Colombian Navy, in coordination with the  Army and Attorney General's Office has captured a narco-submarine. The low-Profile Vessel (LPV) was discovered in the jungle at least partially laden with narcotics. <br/>[Read More &gt;....](/Narco-Submarines-Update-2021-08-02.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Narco-Submarines-Update-2021-08-02.html"><img align="left" loading="lazy" src="/images/Narco-Submarine-2021-08-02-317.jpg"/></a>The Colombian Navy, in coordination with the  Army and Attorney General's Office has captured a narco-submarine. The low-Profile Vessel (LPV) was discovered in the jungle at least partially laden with narcotics. <br/>[Read More &gt;....](/Narco-Submarines-Update-2021-08-02.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

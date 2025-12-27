@@ -3,7 +3,7 @@ layout: post
 title: "Ortega Mk1A SDV testing"
 date: "2016-06-15 18:50:00"
 excerpt: |-
-  ![Flag](/images/flag_netherlands.jpg) Dutch Swimmer Delivery Vehicle and Special Forces Diver technology company **Ortega** (<a href="http://www.ortega-submersibles.com/" target="blank">website</a>) have released a new video of their **Mk.1A** SDV being tested in Croatia. <br/><a href="/Ortega Mk1A SDV testing.html"><img src="/images/Ortega_1a_1.jpg"/></a><br clear="right"/>
+  ![Flag](/images/flag_netherlands.jpg) Dutch Swimmer Delivery Vehicle and Special Forces Diver technology company **Ortega** (<a href="http://www.ortega-submersibles.com/" target="blank">website</a>) have released a new video of their **Mk.1A** SDV being tested in Croatia. <br/><a href="/Ortega Mk1A SDV testing.html"><img loading="lazy" src="/images/Ortega_1a_1.jpg"/></a><br clear="right"/>
 ---
 
 ![Flag](/images/flag_netherlands.jpg) Dutch Swimmer Delivery Vehicle and Special Forces Diver technology company **Ortega** ([website](http://www.ortega-submersibles.com/)) have released a new video of their **Mk.1A** SDV being tested in Croatia. The clear waters and daytime testing allow incredible underwater photography rarely seen with military SDVs. Incredibly, the Mk.1A is based on the World War Two *Sleeping Beauty* SDV but with modern technology and refined hydrodynamics.   

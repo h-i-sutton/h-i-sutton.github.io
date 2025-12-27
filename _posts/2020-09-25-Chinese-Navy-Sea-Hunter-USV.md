@@ -3,7 +3,7 @@ layout: post
 title: "Chinese-Navy-Sea-Hunter-USV"
 date: "2020-09-25 10:00:00"
 excerpt: |-
-  <font size="6">**New evidence of China's Copy of U.S. Navy Sea Hunter USV**</font> <br/><img src="/images/flag_China.jpg"/> The US Navy's Sea Hunter drone may have lost the crown of the largest Uncrewed Surface Vessel (USV). A photo posted on Wiebo shows the Chinese equivalent, which is similar in almost every respect.... <br/><a href="/Chinese-Navy-Sea-Hunter-USV.html"><img src="/images/China-Navy-USC-Sea-Hunter-photo-900.jpg"/></a><br/>[Read More](/Chinese-Navy-Sea-Hunter-USV.html "READ MORE")<br/>
+  <font size="6">**New evidence of China's Copy of U.S. Navy Sea Hunter USV**</font> <br/><img src="/images/flag_China.jpg"/> The US Navy's Sea Hunter drone may have lost the crown of the largest Uncrewed Surface Vessel (USV). A photo posted on Wiebo shows the Chinese equivalent, which is similar in almost every respect.... <br/><a href="/Chinese-Navy-Sea-Hunter-USV.html"><img loading="lazy" src="/images/China-Navy-USC-Sea-Hunter-photo-900.jpg"/></a><br/>[Read More](/Chinese-Navy-Sea-Hunter-USV.html "READ MORE")<br/>
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

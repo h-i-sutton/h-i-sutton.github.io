@@ -3,7 +3,7 @@ layout: post
 title: "Submarine_Timeline"
 date: "2017-04-21 23:01:00"
 excerpt: |-
-  <font size="6">**History of Submarines - Timeline poster**</font><br/>[Read More &gt;....](/Submarine_Timeline.html "READ MORE")<br/><a href="/Submarine_Timeline.html"><img src="/images/Submarine_Timeline_v1_900.jpg"/></a><br clear="right"/>
+  <font size="6">**History of Submarines - Timeline poster**</font><br/>[Read More &gt;....](/Submarine_Timeline.html "READ MORE")<br/><a href="/Submarine_Timeline.html"><img loading="lazy" src="/images/Submarine_Timeline_v1_900.jpg"/></a><br clear="right"/>
 ---
 
 **Click for full resolution**  

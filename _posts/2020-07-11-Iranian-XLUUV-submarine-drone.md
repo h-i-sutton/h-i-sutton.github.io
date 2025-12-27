@@ -7,8 +7,8 @@ excerpt: "<font size=\"5\">**Iranian Islamic Revolutionary Guards (IRGC) XLUUV**
   \ this will add a new dimension to Iran\u2019s systematic warfare capability. It\
   \ will also mean that Iran joins an elite club with only the U.S. Navy and Britain\u2019\
   s Royal Navy having such large UUVs... <br/>[Read More &gt;....](/Iranian-XLUUV-submarine-drone.html\
-  \ \"READ MORE\")<br/><a href=\"/Iranian-XLUUV-submarine-drone.html\"><img src=\"\
-  /images/Iran-XLUUV-900.jpg\"/></a><br clear=\"right\"><br/></br>"
+  \ \"READ MORE\")<br/><a href=\"/Iranian-XLUUV-submarine-drone.html\"><img loading=\"\
+  lazy\" src=\"/images/Iran-XLUUV-900.jpg\"/></a><br clear=\"right\"><br/><br/>"
 ---
 
 # Iranian Islamic Revolutionary Guards (IRGC) Nazir-1 XLUUV

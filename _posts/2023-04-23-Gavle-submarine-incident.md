@@ -3,12 +3,12 @@ layout: post
 title: "Update: 2017 Gävle submarine incident may have been Russian incursion"
 date: "2023-04-23 12:30:00"
 excerpt: "<br/><br clear=\"right\"><a href=\"/Gavle-submarine-incident.html\"><img align=\"\
-  left\" src=\"/images/Sweden-Gavle-317.jpg\"/></a> ![Flag Sweden](/images/flag_sweden.jpg)\
+  left\" loading=\"lazy\" src=\"/images/Sweden-Gavle-317.jpg\"/></a> ![Flag Sweden](/images/flag_sweden.jpg)\
   \ ![Flag Russia](/images/flag_russia.jpg) In July 2017 an unidentified submersible\
   \ was imaged underwater in G\xE4vle harbour, Sweden, by a ship conducting a survey.<br/><br/>I\
   \ no longer believe that it was a Swedish made Carrier SEAL. By implication, a Russian\
   \ submersible is most likely.<br/>[Read More &gt;....](/Gavle-submarine-incident.html\
-  \ \"READ MORE\")<br clear=\"left\"/></br>"
+  \ \"READ MORE\")<br clear=\"left\"/><br/>"
 ---
 
 # Update: 2017 Gävle submarine incident may have been Russian incursion

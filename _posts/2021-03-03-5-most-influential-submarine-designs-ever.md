@@ -3,7 +3,7 @@ layout: post
 title: "5-most-influential-submarine-designs-ever"
 date: "2021-03-03 18:01:00"
 excerpt: |-
-  <font size="6">**5 Most Influential Submarine Designs Ever**</font><br clear="right"/><a href="/5-most-influential-submarine-designs-ever.html"><img align="left" src="/images/Most-influential-subs-317.jpg"/></a>These five submarines can easily be argued to have been the most important in overall terms. <br/><br/>**Not** the Surcouf, I-400, Alfa Class, USS Jimmy Carter or the mighty Typhoon.<br/><br/>[Read More &gt;....](/5-most-influential-submarine-designs-ever.html "READ MORE")<br clear="left"/>
+  <font size="6">**5 Most Influential Submarine Designs Ever**</font><br clear="right"/><a href="/5-most-influential-submarine-designs-ever.html"><img align="left" loading="lazy" src="/images/Most-influential-subs-317.jpg"/></a>These five submarines can easily be argued to have been the most important in overall terms. <br/><br/>**Not** the Surcouf, I-400, Alfa Class, USS Jimmy Carter or the mighty Typhoon.<br/><br/>[Read More &gt;....](/5-most-influential-submarine-designs-ever.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)  

@@ -3,7 +3,7 @@ layout: post
 title: "Battle-of-Midway-Warship-Quiz"
 date: "2019-12-23 08:40:00"
 excerpt: |-
-  The discovery of the wrecks of two Japanese aircraft carriers lost at the Battle of Midway brings the battle a bit closer. Take the quiz! <br/><a href="battle-of-midway-warship-quiz.html"><img src="images/Midway_Quiz_900.jpg" width="900"/></a>
+  The discovery of the wrecks of two Japanese aircraft carriers lost at the Battle of Midway brings the battle a bit closer. Take the quiz! <br/><a href="battle-of-midway-warship-quiz.html"><img loading="lazy" src="images/Midway_Quiz_900.jpg" width="900"/></a>
 ---
 
 The discovery of the wrecks of two Japanese aircraft carriers lost at the Battle of Midway brings the battle a bit closer. The order of battle included massive fleets, including 7 large aircraft carriers. How well do you know the fleets?

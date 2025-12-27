@@ -3,7 +3,7 @@ layout: post
 title: "Shelf-ATGU-connected-to-ice-breaking submarine"
 date: "2020-01-07 23:00:00"
 excerpt: |-
-  <font size="5">**New OSINT on Russian 'Shelf' autonomous underwater reactor (ATGU)**</font> <br/>![Flag](/images/flag_russia.jpg) The reactor section of the "Submarine for servicing underwater mining complexes on the Arctic shelf and other underwater operations" is identical to the Shelf self-contained nuclear power designed for seabed operations... [Read More &gt;....]("/Shelf-ATGU-connected-to-ice-breaking submarine.html" "READ MORE")<br/><a href="/Shelf-ATGU-connected-to-ice-breaking submarine.html"><img src="/images/Russian-Shelf-self-contained-nuclear-power-900.jpg"/></a><br clear="right"/>
+  <font size="5">**New OSINT on Russian 'Shelf' autonomous underwater reactor (ATGU)**</font> <br/>![Flag](/images/flag_russia.jpg) The reactor section of the "Submarine for servicing underwater mining complexes on the Arctic shelf and other underwater operations" is identical to the Shelf self-contained nuclear power designed for seabed operations... [Read More &gt;....]("/Shelf-ATGU-connected-to-ice-breaking submarine.html" "READ MORE")<br/><a href="/Shelf-ATGU-connected-to-ice-breaking submarine.html"><img loading="lazy" src="/images/Russian-Shelf-self-contained-nuclear-power-900.jpg"/></a><br clear="right"/>
 ---
 
 **New OSINT on Russian 'Shelf' autonomous underwater reactor (ATGU)**   

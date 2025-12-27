@@ -3,7 +3,7 @@ layout: post
 title: "USS_Grayback"
 date: "2017-09-12 22:01:00"
 excerpt: |-
-  <font size="6">**USS Grayback (LPSS-574): SEAL host submarine**</font> <br/>![Flag](/images/flag_USA.jpg)  At the height of the Cold War and Vietnam Wars In the mid-1960s the US Navy planned to convert two nuclear deterrence guided missile submarines into dedicated Special Forces host submarines.....includes information on **Operation THUNDERHEAD**...  [Read More &gt;....](/USS_Grayback.html "READ MORE")<br/><a href="/USS_Grayback.html"><img src="/images/Grayback900.jpg"/></a><br clear="right"/>
+  <font size="6">**USS Grayback (LPSS-574): SEAL host submarine**</font> <br/>![Flag](/images/flag_USA.jpg)  At the height of the Cold War and Vietnam Wars In the mid-1960s the US Navy planned to convert two nuclear deterrence guided missile submarines into dedicated Special Forces host submarines.....includes information on **Operation THUNDERHEAD**...  [Read More &gt;....](/USS_Grayback.html "READ MORE")<br/><a href="/USS_Grayback.html"><img loading="lazy" src="/images/Grayback900.jpg"/></a><br clear="right"/>
 ---
 
 **USS Grayback (LPSS-574): SEAL host submarine**   

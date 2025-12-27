@@ -3,7 +3,7 @@ layout: post
 title: "Dangers of the deep - submarine rescue"
 date: "2015-02-21 10:00:00"
 excerpt: |-
-  <img src="/images/flag_Yugo.jpg"/> One night in October 1983 the almost brand-new Sava class boat Drava ran into serious difficulties in the Adriatic. Unseen by the crew a pin-prick sized hole has developed and the submarine started taking on water. As the water gained, the boat started to slowly sink. <br/><a href="/Dangers of the deep - submarine rescue.html"><img src="/images/yugo_sava.jpg"/></a>
+  <img src="/images/flag_Yugo.jpg"/> One night in October 1983 the almost brand-new Sava class boat Drava ran into serious difficulties in the Adriatic. Unseen by the crew a pin-prick sized hole has developed and the submarine started taking on water. As the water gained, the boat started to slowly sink. <br/><a href="/Dangers of the deep - submarine rescue.html"><img loading="lazy" src="/images/yugo_sava.jpg"/></a>
 ---
 
 Disaster is never far away in submarine operations generally. Following the tragic losses of the USS Thresher and USS Scorpion, plus a string of Soviet and NATO submarines during the 1960s Navy's became acutely aware of the need to invest in Deep Submergence Rescue Vehicles (DSRV). Popular history recounts USN, Soviet and British programs, but other navies developed this capability too.

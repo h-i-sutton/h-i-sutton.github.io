@@ -3,7 +3,7 @@ layout: post
 title: "OSINT on Iranian Ship Makran, Sailing To Venezuela"
 date: "2021-06-02 23:50:00"
 excerpt: |-
-  **Frequent updates since publishing**<br clear="right"/><a href="/OSINT-Update-Makran-Iran-Venezuela.html"><img align="left" src="/images/Iran-Venezuela-Makran-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) **OSINT**. An Iranian Navy forward base ship, Makran, is believed to be transporting arms to Venezuela. I was able to break the story on USNI News. This piece complements that write up by providing a few additional OSINT elements for reference.  <br/>[Read More &gt;....](/OSINT-Update-Makran-Iran-Venezuela.html "READ MORE")<br clear="left"/>
+  **Frequent updates since publishing**<br clear="right"/><a href="/OSINT-Update-Makran-Iran-Venezuela.html"><img align="left" loading="lazy" src="/images/Iran-Venezuela-Makran-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) **OSINT**. An Iranian Navy forward base ship, Makran, is believed to be transporting arms to Venezuela. I was able to break the story on USNI News. This piece complements that write up by providing a few additional OSINT elements for reference.  <br/>[Read More &gt;....](/OSINT-Update-Makran-Iran-Venezuela.html "READ MORE")<br clear="left"/>
 ---
 
 **Frequent updates since publishing**

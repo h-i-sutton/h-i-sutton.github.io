@@ -3,7 +3,7 @@ layout: post
 title: "Mystery Object Found On Indonesian Beach Identified"
 date: "2022-02-17 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Mystery-Object-Found-On-Indonesian-Beach.html"><img align="left" src="/images/Indonesia-Mystery-Object-317.jpg"/></a> Another 'mystery object' has washed up on an Indonesian beach. Some reports describe it as missile-like. Others, possibly influenced by a spate of Chinese ocean gliders which washed up in Indonesia, label it another "seaglider".<br/><br/>It is neither.<br/>[Read More &gt;....](/Mystery-Object-Found-On-Indonesian-Beach.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Mystery-Object-Found-On-Indonesian-Beach.html"><img align="left" loading="lazy" src="/images/Indonesia-Mystery-Object-317.jpg"/></a> Another 'mystery object' has washed up on an Indonesian beach. Some reports describe it as missile-like. Others, possibly influenced by a spate of Chinese ocean gliders which washed up in Indonesia, label it another "seaglider".<br/><br/>It is neither.<br/>[Read More &gt;....](/Mystery-Object-Found-On-Indonesian-Beach.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

@@ -3,7 +3,7 @@ layout: post
 title: "Vanquisher of enemies - INS Arihant"
 date: "2018-11-12 10:00:00"
 excerpt: |-
-  *Updated. Originally posted 21st September 2014*<br/><br clear="right">![Flag](/images/flag_india.jpg) Despite years of development and press attention, India's first ballistic missile submarine (SSBN) the *INS Arihant* is still something of a mystery. As more information comes out we can have a go at working out exactly what she looks like, and what the implications are on her internal layout and capabilities. <a href="/Vanquisher of Enemies - INS Arihant.html"><img src="/images/arihant_title.png"/></a></br>
+  *Updated. Originally posted 21st September 2014*<br/><br clear="right">![Flag](/images/flag_india.jpg) Despite years of development and press attention, India's first ballistic missile submarine (SSBN) the *INS Arihant* is still something of a mystery. As more information comes out we can have a go at working out exactly what she looks like, and what the implications are on her internal layout and capabilities. <a href="/Vanquisher of Enemies - INS Arihant.html"><img loading="lazy" src="/images/arihant_title.png"/></a><br/>
 ---
 
 *Updated. Originally posted 21st September 2014*  

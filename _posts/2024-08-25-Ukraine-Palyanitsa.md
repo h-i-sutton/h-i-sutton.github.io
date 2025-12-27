@@ -2,8 +2,8 @@
 layout: post
 title: "Ukraine's New Palyanitsa Cruise Missile"
 date: "2024-08-25 10:00:00"
-excerpt: "<br clear=\"right\"/><a href=\"/Ukraine-Palyanitsa.html\"><img align=\"left\" src=\"\
-  /images/Ukraine-Palyanitsa-317.jpg\"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)\
+excerpt: "<br clear=\"right\"/><a href=\"/Ukraine-Palyanitsa.html\"><img align=\"left\" loading=\"\
+  lazy\" src=\"/images/Ukraine-Palyanitsa-317.jpg\"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)\
   \ The blurring of lines between uncrewed air vehicles (UAVs) and cruise missiles\
   \ continues. Ukraine has revealed its latest new strategic weapon, the *Palyanitsa*\
   \ (\u041F\u0430\u043B\u044F\u043D\u0438\u0446\u044F).This is much more of a cruise\

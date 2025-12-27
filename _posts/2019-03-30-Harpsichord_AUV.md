@@ -9,7 +9,8 @@ excerpt: "*Updated*<br/><font size=\"5\">**Russian Harpsichord (Klavesin) large 
   \ It will be carried by surface vessels or submarines and may become a standard\
   \ feature of Russian Navy nuclear submarines, giving them an improved Intelligence\
   \ Surveillance and Reconnaissance (ISR) capability.... <br/><a href=\"/Harpsichord_AUV.html\"\
-  ><img src=\"/images/Harpsichord_title900.jpg\"/></a><br clear=\"right\"/>"
+  ><img loading=\"lazy\" src=\"/images/Harpsichord_title900.jpg\"/></a><br clear=\"\
+  right\"/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)

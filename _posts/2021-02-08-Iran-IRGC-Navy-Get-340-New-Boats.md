@@ -4,7 +4,7 @@ title: "Iran-IRGC-Navy-Get-340-New-Boats"
 date: "2021-02-08 10:00:00"
 excerpt: "<font size=\"6\">**Iran Shows Off 340 Boats Including New 'Bladerunner'**</font><br\
   \ clear=\"right\"/><a href=\"/Iran-IRGC-Navy-Get-340-New-Boats.html\"><img align=\"\
-  left\" src=\"/images/Iran-IRGC-Boat-Show-317.jpg\"/></a>![Flag](/images/flag_iran.jpg)\
+  left\" loading=\"lazy\" src=\"/images/Iran-IRGC-Boat-Show-317.jpg\"/></a>![Flag](/images/flag_iran.jpg)\
   \ Iran\u2019s IRGC-N (Islamic Revolutionary Guard Corps, Navy) has held a ceremony\
   \ for the induction of 340 new vessels. <br/><br/>Several of the vessels are particularly\
   \ interesting.<br/><br/>[Read More &gt;....](/Iran-IRGC-Navy-Get-340-New-Boats.html\

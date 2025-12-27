@@ -3,7 +3,7 @@ layout: post
 title: "Russian Triton-NN SDV"
 date: "2014-10-19 11:00:00"
 excerpt: |-
-  The ongoing Swedish <a href="/Swedish incursions 2014.html" target="_blank">Incursions saga</a> makes it a good time to share my illustration of the Russian Triton-NN submersible boat <a href="/Russian Triton-NN SDV.html"><img src="/images/triton_nn.png"/></a>
+  The ongoing Swedish <a href="/Swedish incursions 2014.html" target="_blank">Incursions saga</a> makes it a good time to share my illustration of the Russian Triton-NN submersible boat <a href="/Russian Triton-NN SDV.html"><img loading="lazy" src="/images/triton_nn.png"/></a>
 ---
 
 The Triton-NN submersible boat has been the subject of a lot of speculation in Sweden over the last couple of days. I do not believe that it is in active service and thus would not be the culprit in the ongoing submarine scare, but all the same I thought I ought to share this side profile.

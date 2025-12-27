@@ -9,7 +9,7 @@ excerpt: "<img src=\"/images/flag_italy.jpg\"/> Italy is renowned for sleek and 
   \ But it will, because it is also one of the Special Forces community\u2019s best\
   \ kept secrets.   [Read More &gt;....](/Exclusive - Secret Submarine-Boat revealed.html\
   \ \"READ MORE\")<br/><a href=\"/Exclusive - Secret Submarine-Boat revealed.html\"\
-  ><img src=\"/images/Comsubin1.jpg\"/></a>"
+  ><img loading=\"lazy\" src=\"/images/Comsubin1.jpg\"/></a>"
 ---
 
 ![Italian COMSUBIN GOI submersible boat](/images/COMSUBIN_illustration940.jpg)  

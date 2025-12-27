@@ -3,7 +3,7 @@ layout: post
 title: "USS Halibut Cutaway"
 date: "2016-06-23 02:00:00"
 excerpt: |-
-  ![Flag](/images/flag_USA.jpg) .... [Read More &gt;....](/USS Halibut Cutaway.html "READ MORE")<br/><a href="/USS Halibut Cutaway.html"><img src="/images/Halibut_poster900.jpg"/></a><br clear="right"/>
+  ![Flag](/images/flag_USA.jpg) .... [Read More &gt;....](/USS Halibut Cutaway.html "READ MORE")<br/><a href="/USS Halibut Cutaway.html"><img loading="lazy" src="/images/Halibut_poster900.jpg"/></a><br clear="right"/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Thank you to everybody who has made this article possible.*  

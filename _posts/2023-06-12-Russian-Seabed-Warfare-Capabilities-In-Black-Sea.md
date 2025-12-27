@@ -3,7 +3,7 @@ layout: post
 title: "Guide To Russian Seabed Warfare Capabilities In Black Sea"
 date: "2023-06-12 23:30:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russian-Seabed-Warfare-Capabilities-In-Black-Sea.html"><img align="left" src="/images/Russia-Kommuna-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) A Russian Navy Vishnya class Intelligence Ship was reportedly attacked by Ukrainian maritime drones (USVs) on June 11. Russia's claims that the ship was  defending gas pipelines in the Black Sea raises some questions.<br/><br/>Was that is really why it was there? Do the pipelines need protecting, and if so, who from?<br/>[Read More &gt;....](/Russian-Seabed-Warfare-Capabilities-In-Black-Sea.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russian-Seabed-Warfare-Capabilities-In-Black-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Kommuna-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) A Russian Navy Vishnya class Intelligence Ship was reportedly attacked by Ukrainian maritime drones (USVs) on June 11. Russia's claims that the ship was  defending gas pipelines in the Black Sea raises some questions.<br/><br/>Was that is really why it was there? Do the pipelines need protecting, and if so, who from?<br/>[Read More &gt;....](/Russian-Seabed-Warfare-Capabilities-In-Black-Sea.html "READ MORE")<br clear="left"/>
 ---
 
 # Guide To Russian Seabed Warfare Capabilities In Black Sea

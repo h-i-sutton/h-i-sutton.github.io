@@ -2,8 +2,8 @@
 layout: post
 title: "Ukraine's Marichka Underwater Drone (AUV)"
 date: "2023-08-23 23:00:00"
-excerpt: "<br clear=\"right\"/><a href=\"/Ukraine-Marichka-AUV.html\"><img align=\"left\" src=\"\
-  /images/Ukraine-Marichka-AUV-317.jpg\"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)\
+excerpt: "<br clear=\"right\"/><a href=\"/Ukraine-Marichka-AUV.html\"><img align=\"left\" loading=\"\
+  lazy\" src=\"/images/Ukraine-Marichka-AUV-317.jpg\"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg)\
   \ The Marichka (\u041C\u0410\u0420\u0406\u0427\u041A\u0410) is a new large autonomous\
   \ underwater vehicle (AUV) developed by AMMO Ukraine. Among the many large AUV projects\
   \ around the world, it is probably the first born directly from wartime needs...<br/>[Read\

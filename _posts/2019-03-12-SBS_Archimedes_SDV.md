@@ -3,7 +3,7 @@ layout: post
 title: "SBS_Archimedes_SDV"
 date: "2019-03-12 00:00:00"
 excerpt: |2-
-   <font size="6">**British SBS Archimedes swimmer delivery vehicle**</font><br/> ![Flag](/images/flag_UK.jpg) During the undeclared war between Indonesia and Malaysia in 1963-66 (known as the Indonesia Confrontation),an official requirement was raised for the SBS to be ready to conduct underwater sabotage missions against enemy ships in harbor...  [Read More &gt;....](/SBS_Archimedes_SDV.html "READ MORE")<br/><a href="/SBS_Archimedes_SDV.html"><img src="/images/UK_Archimedes900.jpg"/></a><br/>
+   <font size="6">**British SBS Archimedes swimmer delivery vehicle**</font><br/> ![Flag](/images/flag_UK.jpg) During the undeclared war between Indonesia and Malaysia in 1963-66 (known as the Indonesia Confrontation),an official requirement was raised for the SBS to be ready to conduct underwater sabotage missions against enemy ships in harbor...  [Read More &gt;....](/SBS_Archimedes_SDV.html "READ MORE")<br/><a href="/SBS_Archimedes_SDV.html"><img loading="lazy" src="/images/UK_Archimedes900.jpg"/></a><br/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**British SBS Archimedes swimmer delivery vehicle**   

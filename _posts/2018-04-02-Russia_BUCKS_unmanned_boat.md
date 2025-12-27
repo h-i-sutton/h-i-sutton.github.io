@@ -7,7 +7,7 @@ excerpt: "<font size=\"6\">**Russian Cold War unmanned boat**</font><br/><img sr
   \ doctrine. But some types were in service during the Cold War (and even World War\
   \ One!). This article describes the Russian **BUKS** (*\u0411\u0423\u041A\u0421\
   *) mine and obstacle clearance boat from the Cold War...... <br/><a href=\"/Russia_BUCKS_unmanned_boat.html\"\
-  ><img src=\"/images/Bucks_900.jpg\"/></a><br clear=\"right\"/>"
+  ><img loading=\"lazy\" src=\"/images/Bucks_900.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)

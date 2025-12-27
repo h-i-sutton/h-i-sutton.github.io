@@ -3,7 +3,7 @@ layout: post
 title: "2 Rare Disguised Narco Submarines Discovered On Trans-Atlantic Route"
 date: "2025-06-10 22:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Disguised-Narco-Submarine-202506.html"><img align="left" src="/images/Disguised-Narco-Submarine-202506_317.jpg"/></a> Brasilian Navy and Federal Police seized a low-profile 'narco submarine' used to transport cocaine to Europe on May 31 2025. The nearly-complete vessel was disguised as a local fishing vessel with a fake deckhouse.<br/><br/>It's not the first example of a disguised narco-sub in recent months...[Read More &gt;....](/Disguised-Narco-Submarine-202506.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Disguised-Narco-Submarine-202506.html"><img align="left" loading="lazy" src="/images/Disguised-Narco-Submarine-202506_317.jpg"/></a> Brasilian Navy and Federal Police seized a low-profile 'narco submarine' used to transport cocaine to Europe on May 31 2025. The nearly-complete vessel was disguised as a local fishing vessel with a fake deckhouse.<br/><br/>It's not the first example of a disguised narco-sub in recent months...[Read More &gt;....](/Disguised-Narco-Submarine-202506.html "READ MORE")<br clear="left"/>
 ---
 
 # 2 Rare Disguised Narco Submarines Discovered On Trans-Atlantic Route

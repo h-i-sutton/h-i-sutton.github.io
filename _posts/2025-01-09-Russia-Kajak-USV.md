@@ -3,7 +3,7 @@ layout: post
 title: "Russian USV Engineers Weaponize A Kayak"
 date: "2025-01-09 12:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russia-Kajak-USV.html"><img align="left" src="/images/Russo-USV-Kajak-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Russian engineers have been testing an uncrewed surface vessel (USV) based on a kayak hull.<br/><br/>The small vessel appears to have a StarLink communications system or other very similar antenna...<br/>[Read More &gt;....](/Russia-Kajak-USV.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russia-Kajak-USV.html"><img align="left" loading="lazy" src="/images/Russo-USV-Kajak-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Russian engineers have been testing an uncrewed surface vessel (USV) based on a kayak hull.<br/><br/>The small vessel appears to have a StarLink communications system or other very similar antenna...<br/>[Read More &gt;....](/Russia-Kajak-USV.html "READ MORE")<br clear="left"/>
 ---
 
 # Russian USV Engineers Weaponize A Kayak

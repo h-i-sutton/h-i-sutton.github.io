@@ -3,7 +3,7 @@ layout: post
 title: "Cutaway-of-1913-Submarine-Patent"
 date: "2020-12-31 02:00:00"
 excerpt: |-
-  <font size="6">**Impressive Submarine Patent of 1913**</font><br clear="right"/><a href="/Cutaway-of-1913-Submarine-Patent.html"><img align="left" src="/images/US-Lake-Submarine-1912-317.jpg"/></a>![Flag](/images/flag_USA.jpg) When Edward Lasius Peacock patented a "Submarine Or Submersible Torpedo Boat" he was outlining one of the most impressive submarine designs of the period...<br/><br/>[Read More &gt;....](/Cutaway-of-1913-Submarine-Patent.html "READ MORE")<br clear="left"/>
+  <font size="6">**Impressive Submarine Patent of 1913**</font><br clear="right"/><a href="/Cutaway-of-1913-Submarine-Patent.html"><img align="left" loading="lazy" src="/images/US-Lake-Submarine-1912-317.jpg"/></a>![Flag](/images/flag_USA.jpg) When Edward Lasius Peacock patented a "Submarine Or Submersible Torpedo Boat" he was outlining one of the most impressive submarine designs of the period...<br/><br/>[Read More &gt;....](/Cutaway-of-1913-Submarine-Patent.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

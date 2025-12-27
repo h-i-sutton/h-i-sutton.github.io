@@ -3,7 +3,7 @@ layout: post
 title: "Demystified - Taedong-B submersible infiltration craft"
 date: "2015-10-08 11:00:00"
 excerpt: |-
-  <img src="/images/flag_iran.jpg"/> <img src="/images/flag_nork.jpg"/> Iranian media and internet claims that it is of Iranian orgin are plainly mistaken. The design is a gradual evolution of small infiltration craft used to run agents into South Korea..... [Read More &gt;....](/Demystified - Taedong-B submersible infiltration craft.html "READ MORE")<br/><a href="/Demystified - Taedong-B submersible infiltration craft.html"><img src="/images/TaedongB900.jpg"/></a>
+  <img src="/images/flag_iran.jpg"/> <img src="/images/flag_nork.jpg"/> Iranian media and internet claims that it is of Iranian orgin are plainly mistaken. The design is a gradual evolution of small infiltration craft used to run agents into South Korea..... [Read More &gt;....](/Demystified - Taedong-B submersible infiltration craft.html "READ MORE")<br/><a href="/Demystified - Taedong-B submersible infiltration craft.html"><img loading="lazy" src="/images/TaedongB900.jpg"/></a>
 ---
 
 This article builds on an old one on the [Covert Shores blog](http://covertshores.blogspot.ch/2010/06/north-korean-semi-submersible-craft.html)  

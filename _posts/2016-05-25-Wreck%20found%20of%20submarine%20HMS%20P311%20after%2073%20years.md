@@ -3,7 +3,7 @@ layout: post
 title: "Wreck found of submarine HMS P311 after 73 years"
 date: "2016-05-25 01:00:00"
 excerpt: |-
-  <br clear="right"/>![Flag](/images/flag_UK.jpg) The wreck of wartime British submarine HMS P311 has finally been found by Italian divers near the island of Tavolora in Sardinia. She was lost with all hands between 30th December 1942 and 8th January 1943 while undertaking Operation PRINCIPLE. [Read More &gt;....](/Wreck found of submarine HMS P311 after 73 years.html "READ MORE")<br/><a href="/Wreck found of submarine HMS P311 after 73 years.html"><img src="/images/p311.jpg"/></a><br/><a href="/Wreck found of submarine HMS P311 after 73 years.html"><img src="/images/p311_900.jpg"/></a>
+  <br clear="right"/>![Flag](/images/flag_UK.jpg) The wreck of wartime British submarine HMS P311 has finally been found by Italian divers near the island of Tavolora in Sardinia. She was lost with all hands between 30th December 1942 and 8th January 1943 while undertaking Operation PRINCIPLE. [Read More &gt;....](/Wreck found of submarine HMS P311 after 73 years.html "READ MORE")<br/><a href="/Wreck found of submarine HMS P311 after 73 years.html"><img loading="lazy" src="/images/p311.jpg"/></a><br/><a href="/Wreck found of submarine HMS P311 after 73 years.html"><img loading="lazy" src="/images/p311_900.jpg"/></a>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

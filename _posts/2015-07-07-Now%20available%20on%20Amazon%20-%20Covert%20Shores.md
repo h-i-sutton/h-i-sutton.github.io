@@ -16,8 +16,8 @@ excerpt: "Until now, the underwater craft employed by the World\u2019s Special F
   \ these expert craft. A must-read for all military enthusiasts.<br/><br/>268 pages\
   \ 8.5\"x11\" full color with over eighty original color illustrations.<br/>.[Read\
   \ More &gt;....](/Now available on Amazon - Covert Shores.html \"READ MORE\")<br/><a\
-  \ href=\"/Now available on Amazon - Covert Shores.html\"><img src=\"/images/Book_cover.jpg\"\
-  /></a>"
+  \ href=\"/Now available on Amazon - Covert Shores.html\"><img loading=\"lazy\" src=\"\
+  /images/Book_cover.jpg\"/></a>"
 ---
 
   

@@ -3,7 +3,7 @@ layout: post
 title: "Oligarch's Luxury Mega-Yacht Nord, Cutaway"
 date: "2022-04-28 09:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russian-Oligarch-Yacht-Nord.html"><img align="left" src="/images/Russia-Nord-Yacht-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The luxurious world of super yachts is incredibly secretive. Especially those owned by Russian Oligarchs. Part of an elite among elites, this top-tier have features worthy of a Bond villain. Mini-submarines, amphibious vessels, helicopters and remote vehicles.<br/><br/>Motor Yacht Nord, often described as a warship in a tuxedo, is one of the most impressive.<br/>[Read More &gt;....](/Russian-Oligarch-Yacht-Nord.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russian-Oligarch-Yacht-Nord.html"><img align="left" loading="lazy" src="/images/Russia-Nord-Yacht-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The luxurious world of super yachts is incredibly secretive. Especially those owned by Russian Oligarchs. Part of an elite among elites, this top-tier have features worthy of a Bond villain. Mini-submarines, amphibious vessels, helicopters and remote vehicles.<br/><br/>Motor Yacht Nord, often described as a warship in a tuxedo, is one of the most impressive.<br/>[Read More &gt;....](/Russian-Oligarch-Yacht-Nord.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

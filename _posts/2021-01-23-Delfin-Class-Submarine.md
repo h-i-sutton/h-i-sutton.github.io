@@ -3,7 +3,7 @@ layout: post
 title: "Delfin-Class-Submarine"
 date: "2021-01-23 02:00:00"
 excerpt: |-
-  *Updated. Originally posted Oct 10 2016 and Feb 27 2020.*<br/><font size="6">**Delfin Class: The Cuban Navy's Only Submarine**</font> <br clear="right"><a href="/Delfin-Class-Submarine.html"><img align="left" src="/images/Cuban-Navy-Delfin-class-submarine-317.jpg"/></a>![Flag](/images/flag_cuba.jpg) Cuba maintains a shroud of secrecy around its sole active submarine. However OSINT continues to emerge and I now feel that we know enough to create a cutaway. Caveats apply...<br/>[Read More &gt;....](/Delfin-Class-Submarine.html "READ MORE")<br clear="left"/></br>
+  *Updated. Originally posted Oct 10 2016 and Feb 27 2020.*<br/><font size="6">**Delfin Class: The Cuban Navy's Only Submarine**</font> <br clear="right"><a href="/Delfin-Class-Submarine.html"><img align="left" loading="lazy" src="/images/Cuban-Navy-Delfin-class-submarine-317.jpg"/></a>![Flag](/images/flag_cuba.jpg) Cuba maintains a shroud of secrecy around its sole active submarine. However OSINT continues to emerge and I now feel that we know enough to create a cutaway. Caveats apply...<br/>[Read More &gt;....](/Delfin-Class-Submarine.html "READ MORE")<br clear="left"/><br/>
 ---
 
 *Updated. Originally posted Oct 10 2016 and Feb 27 2020.*  

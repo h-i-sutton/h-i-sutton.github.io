@@ -6,7 +6,7 @@ excerpt: "![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_italy.jpg) Photos r
   \ Navy SEAL\u2019s new **UOES-3** Dry Combat Submersible (DCS) undergoing testing\
   \ in Europe. [Read More &gt;....](/USSOCOMs new Dry Combat Submersible undergoing\
   \ testing.html \"READ MORE\") <a href=\"/USSOCOMs new Dry Combat Submersible undergoing\
-  \ testing.html\"><img src=\"/images/GSE_Button900.jpg\"/></a>"
+  \ testing.html\"><img loading=\"lazy\" src=\"/images/GSE_Button900.jpg\"/></a>"
 ---
 
 ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_italy.jpg) Photos reveal the US Navy SEAL’s new **UOES-3** (aka GSE Trieste Button 5.60) Dry Combat Submersible (DCS) undergoing testing in Europe. The photos were taken some months ago prior to delivery to US sand show the craft on the test barge.   

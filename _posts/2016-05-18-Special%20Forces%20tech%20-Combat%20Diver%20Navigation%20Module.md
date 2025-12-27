@@ -3,7 +3,7 @@ layout: post
 title: "Special Forces tech -Combat Diver Navigation Module"
 date: "2016-05-18 01:00:00"
 excerpt: |-
-  <br clear="right"/>![Flag](/images/flag_USA.jpg) Developed for the US and British military diver communities, the CDNM (Combat Diver Navigation Module) is basically the Google Glasses for naval Special Forces.  [Read More &gt;....](/Special Forces tech -Combat Diver Navigation Module.html "READ MORE")<br/><a href="/Special Forces tech -Combat Diver Navigation Module.html"><img src="/images/CombatDiver_NavModule1.jpg"/></a>
+  <br clear="right"/>![Flag](/images/flag_USA.jpg) Developed for the US and British military diver communities, the CDNM (Combat Diver Navigation Module) is basically the Google Glasses for naval Special Forces.  [Read More &gt;....](/Special Forces tech -Combat Diver Navigation Module.html "READ MORE")<br/><a href="/Special Forces tech -Combat Diver Navigation Module.html"><img loading="lazy" src="/images/CombatDiver_NavModule1.jpg"/></a>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

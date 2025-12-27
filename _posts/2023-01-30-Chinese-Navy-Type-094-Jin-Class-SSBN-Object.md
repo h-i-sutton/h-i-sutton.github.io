@@ -3,7 +3,7 @@ layout: post
 title: "Unidentified Object On Chinese Navy Nuclear Missile Submarine"
 date: "2023-01-30 23:00:00"
 excerpt: |-
-  <br/><br clear="right"><a href="/Chinese-Navy-Type-094-Jin-Class-SSBN-Object.html"><img align="left" src="/images/China-Type-094-SSBN-Object-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) An interesting video has surfaced on Chinese social media, shared on Twitter here, of a Chinese Navy (PLAN) Type-094 Jin Class ballistic missile submarine. The submarine is seen on the surface with one of the starboard (right) missile hatches open.<br/><br/>Behind that, on the aft of the raised missile deck casing, is an unidentified structure.<br/>[Read More &gt;....](/Chinese-Navy-Type-094-Jin-Class-SSBN-Object.html "READ MORE")<br clear="left"/></br>
+  <br/><br clear="right"><a href="/Chinese-Navy-Type-094-Jin-Class-SSBN-Object.html"><img align="left" loading="lazy" src="/images/China-Type-094-SSBN-Object-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) An interesting video has surfaced on Chinese social media, shared on Twitter here, of a Chinese Navy (PLAN) Type-094 Jin Class ballistic missile submarine. The submarine is seen on the surface with one of the starboard (right) missile hatches open.<br/><br/>Behind that, on the aft of the raised missile deck casing, is an unidentified structure.<br/>[Read More &gt;....](/Chinese-Navy-Type-094-Jin-Class-SSBN-Object.html "READ MORE")<br clear="left"/><br/>
 ---
 
 # Unidentified Object On Chinese Navy Nuclear Missile Submarine

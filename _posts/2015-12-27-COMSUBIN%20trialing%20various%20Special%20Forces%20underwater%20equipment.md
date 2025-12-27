@@ -3,7 +3,7 @@ layout: post
 title: "COMSUBIN trialing various Special Forces underwater equipment"
 date: "2015-12-27 11:00:00"
 excerpt: |-
-  <img src="/images/flag_italy.jpg"/> The Italian Navy has published some very nice photos of COMSUBIN operating various underwater vehicles. None of these types are thought to be operational with the unit, but excellent photography.   [Read More &gt;....](/COMSUBIN trialing various Special Forces underwater equipment.html "READ MORE")<br/><a href="/COMSUBIN trialing various Special Forces underwater equipment.html"><img src="/images/COMSUBIN900.jpg"/></a>
+  <img src="/images/flag_italy.jpg"/> The Italian Navy has published some very nice photos of COMSUBIN operating various underwater vehicles. None of these types are thought to be operational with the unit, but excellent photography.   [Read More &gt;....](/COMSUBIN trialing various Special Forces underwater equipment.html "READ MORE")<br/><a href="/COMSUBIN trialing various Special Forces underwater equipment.html"><img loading="lazy" src="/images/COMSUBIN900.jpg"/></a>
 ---
 
 ![](/images/flag_italy.jpg) The Italian Navy has published some very nice photos of COMSUBIN operating various underwater vehicles. None of these types are thought to be operational with the unit, but excellent photography.  

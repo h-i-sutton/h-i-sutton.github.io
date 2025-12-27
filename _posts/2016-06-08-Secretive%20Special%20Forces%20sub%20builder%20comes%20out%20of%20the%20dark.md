@@ -9,9 +9,9 @@ excerpt: "<br clear=\"right\"/>![Flag](/images/flag_italy.jpg) One of the world\
   \ to an equally secretive customer base. That seems to be changing; CABI Cattaneo\
   \ has come out of the dark... [Read More &gt;....](/Secretive Special Forces sub\
   \ builder comes out of the dark.html \"READ MORE\")<br/><a href=\"/Secretive Special\
-  \ Forces sub builder comes out of the dark.html\"><img src=\"/images/CABI_900.jpg\"\
+  \ Forces sub builder comes out of the dark.html\"><img loading=\"lazy\" src=\"/images/CABI_900.jpg\"\
   /></a><br/><a href=\"/Secretive Special Forces sub builder comes out of the dark.html\"\
-  ><img src=\"/images/Todaro900.jpg\"/></a>"
+  ><img loading=\"lazy\" src=\"/images/Todaro900.jpg\"/></a>"
 ---
 
 ![CABI Cattaneo](/images/Italy-CABI-Deep-Guardian.jpg)  

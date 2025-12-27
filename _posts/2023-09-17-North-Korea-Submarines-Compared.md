@@ -3,14 +3,14 @@ layout: post
 title: "Further Analysis Of North Korea's New Missile Submarines"
 date: "2023-09-17 23:00:00"
 excerpt: "<br clear=\"right\"/><a href=\"/North-Korea-Submarines-Compared.html\"><img align=\"\
-  left\" src=\"/images/DPRK-North-Korea-Submarine-launch-317.jpg\"/></a> ![Flag DPRK](/images/flag_nork.jpg)\
-  \ A major question is whether \u2018Hero Kim Gun-ok\u2019 is the same submarine\
-  \ which was showing in 2019 when Kim Jong Un visited Sinpo. That boat, known in\
-  \ the West as Sinpo-C, was undergoing conversion to carry missiles. The temptation\
-  \ is to say that it is probably the same submarine. However, a comparison if the\
-  \ available imagery identifies significant and numerous differences...<br/>[Read\
-  \ More &gt;....](/North-Korea-Submarines-Compared.html \"READ MORE\")<br clear=\"\
-  left\"/>"
+  left\" loading=\"lazy\" src=\"/images/DPRK-North-Korea-Submarine-launch-317.jpg\"\
+  /></a> ![Flag DPRK](/images/flag_nork.jpg) A major question is whether \u2018Hero\
+  \ Kim Gun-ok\u2019 is the same submarine which was showing in 2019 when Kim Jong\
+  \ Un visited Sinpo. That boat, known in the West as Sinpo-C, was undergoing conversion\
+  \ to carry missiles. The temptation is to say that it is probably the same submarine.\
+  \ However, a comparison if the available imagery identifies significant and numerous\
+  \ differences...<br/>[Read More &gt;....](/North-Korea-Submarines-Compared.html\
+  \ \"READ MORE\")<br clear=\"left\"/>"
 ---
 
 [![](/images/DPRK-North-Korea-Submarine-Hero-Kim-Gun-ok-side-940.jpg)](/images/DPRK-North-Korea-Submarine-Hero-Kim-Gun-ok-side.jpg)  

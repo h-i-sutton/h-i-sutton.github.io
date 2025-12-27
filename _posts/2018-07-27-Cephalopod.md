@@ -8,7 +8,7 @@ excerpt: "<font size=\"5\">**Russian 'Cephalopod' Armed Autonomous Underwater Ve
   \ nuclear autonomous torpedo. **Cephalopod** (\u0426\u0435\u0444\u0430\u043B\u043E\
   \u043F\u043E\u0434) is a small unmanned submarine with a sonar like a proper submarine\
   \ and torpedoes to make the kill... <br/>[Read More &gt;....](/Cephalopod.html \"\
-  READ MORE\")<br/><a href=\"/Cephalopod.html\"><img src=\"/images/Ru_Cephalopod_900.jpg\"\
+  READ MORE\")<br/><a href=\"/Cephalopod.html\"><img loading=\"lazy\" src=\"/images/Ru_Cephalopod_900.jpg\"\
   /></a><br clear=\"right\"/>"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Russian-Navy-Base-in-Tartus-Syria"
 date: "2020-10-11 04:00:00"
 excerpt: |-
-  <font size="6">**Russia's Defended Submarine Base In The Med: Tartus, Syria**</font> <br/>![Flag](/images/flag_russia.jpg) Since Russia's intervention in the war in Syria their Mediterranean naval squadron has been reestablished. In the future it may have a base in Libya, but for the moment its only base is in Tartus in Syria... <br/>[Read More &gt;....](/Russian-Navy-Base-in-Tartus-Syria.html "READ MORE")<br/><a href="/Russian-Navy-Base-in-Tartus-Syria.html"><img src="/images/Russia-Navy-Tartus-900.jpg"/></a><br clear="right"><br/></br>
+  <font size="6">**Russia's Defended Submarine Base In The Med: Tartus, Syria**</font> <br/>![Flag](/images/flag_russia.jpg) Since Russia's intervention in the war in Syria their Mediterranean naval squadron has been reestablished. In the future it may have a base in Libya, but for the moment its only base is in Tartus in Syria... <br/>[Read More &gt;....](/Russian-Navy-Base-in-Tartus-Syria.html "READ MORE")<br/><a href="/Russian-Navy-Base-in-Tartus-Syria.html"><img loading="lazy" src="/images/Russia-Navy-Tartus-900.jpg"/></a><br clear="right"><br/><br/>
 ---
 
 [![](/images/Naval-News-logo.png)](https://www.navalnews.com/author/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

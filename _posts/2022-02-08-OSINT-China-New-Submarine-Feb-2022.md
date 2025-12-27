@@ -3,7 +3,7 @@ layout: post
 title: "'Olympics Class': New Mystery Submarine Class Spotted In China"
 date: "2022-02-08 12:00:00"
 excerpt: |-
-  <br/><br clear="right"><a href="/OSINT-China-New-Submarine-Feb-2022.html"><img align="left" src="/images/China-Submarine-Unidentified-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) China has done it again! I have said before, only the Chinese can build a major new submarine type without the defense community knowing about it beforehand.<br/><br/>And now another new class has been spotted. <br/>[Read More &gt;....](/OSINT-China-New-Submarine-Feb-2022.html "READ MORE")<br clear="left"/></br>
+  <br/><br clear="right"><a href="/OSINT-China-New-Submarine-Feb-2022.html"><img align="left" loading="lazy" src="/images/China-Submarine-Unidentified-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) China has done it again! I have said before, only the Chinese can build a major new submarine type without the defense community knowing about it beforehand.<br/><br/>And now another new class has been spotted. <br/>[Read More &gt;....](/OSINT-China-New-Submarine-Feb-2022.html "READ MORE")<br clear="left"/><br/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

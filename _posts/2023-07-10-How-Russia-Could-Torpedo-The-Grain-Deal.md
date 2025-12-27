@@ -3,7 +3,7 @@ layout: post
 title: "Ways Russia Could Attack Merchant Ships If Black Sea Grain Initiative Ends"
 date: "2023-07-10 04:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/How-Russia-Could-Torpedo-The-Grain-Deal.html"><img align="left" src="/images/Russia-Kilo-BSGI-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) From the first day of its 2022 invasion, Russia enforced a blockade of Ukrainian ports. Several merchant ships were attacked, likely by Russian forces. Grain shipments, vital for world food stability, were stopped.<br/><br/>Starting in July 2022, the Black Sea Grain Initiative (BSGI) allows the export of grain from the Black Sea. The latest iteration of the deal is set to expire on July 18....<br/>[Read More &gt;....](/How-Russia-Could-Torpedo-The-Grain-Deal.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/How-Russia-Could-Torpedo-The-Grain-Deal.html"><img align="left" loading="lazy" src="/images/Russia-Kilo-BSGI-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) From the first day of its 2022 invasion, Russia enforced a blockade of Ukrainian ports. Several merchant ships were attacked, likely by Russian forces. Grain shipments, vital for world food stability, were stopped.<br/><br/>Starting in July 2022, the Black Sea Grain Initiative (BSGI) allows the export of grain from the Black Sea. The latest iteration of the deal is set to expire on July 18....<br/>[Read More &gt;....](/How-Russia-Could-Torpedo-The-Grain-Deal.html "READ MORE")<br clear="left"/>
 ---
 
 # Ways Russia Could Attack Merchant Ships If Black Sea Grain Initiative Ends

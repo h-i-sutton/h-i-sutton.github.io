@@ -3,7 +3,7 @@ layout: post
 title: "Ukraine War Navy Recognition Quiz"
 date: "2023-01-13 18:20:00"
 excerpt: |-
-  <br clear="right"/><a href="/Ukraine-War-Navy-quiz.html"><img align="left" src="/images/Ukraine-War-Navy-Quiz-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) This quiz covers warships and other naval vessels currently operating in the Black Sea as part of the war. Both Russian and Ukrainian types are shown.<br/><br/>Think you know your warships and submarines?  Take the quiz!<br/>[Read More &gt;....](/Ukraine-War-Navy-quiz.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Ukraine-War-Navy-quiz.html"><img align="left" loading="lazy" src="/images/Ukraine-War-Navy-Quiz-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) This quiz covers warships and other naval vessels currently operating in the Black Sea as part of the war. Both Russian and Ukrainian types are shown.<br/><br/>Think you know your warships and submarines?  Take the quiz!<br/>[Read More &gt;....](/Ukraine-War-Navy-quiz.html "READ MORE")<br clear="left"/>
 ---
 
 ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) This quiz covers warships, submarines and other naval vessels currently operating in the Black Sea as part of the war. Both Russian and Ukrainian types are shown.   

@@ -8,8 +8,8 @@ excerpt: "![Flag](/images/flag_USA.jpg)  When it was launched the USS Barbel was
   \ led by the US Navy. German WW2 technology had kick started postwar submarine development,\
   \ but new innovations in hull form and propulsion were led by the US.[Read More\
   \ &gt;....](/The last US Navy diesel subs -Barbel Class.html \"READ MORE\")<br/><a\
-  \ href=\"/The last US Navy diesel subs -Barbel Class.html\"><img src=\"/images/Barbel900.jpg\"\
-  /></a>"
+  \ href=\"/The last US Navy diesel subs -Barbel Class.html\"><img loading=\"lazy\"\
+  \ src=\"/images/Barbel900.jpg\"/></a>"
 ---
 
 ![Flag](/images/flag_USA.jpg) When it was launched the USS Barbel was the most advanced attack submarine in the world in all respects except one; it’s powerplant. By the 1950s submarine design was going through a series of revolutions, undoubtedly led by the US Navy. German WW2 technology had kick started postwar submarine development, but new innovations in hull form and propulsion were led by the US with countries like Britain, Russia and Netherlands contributing to the wider story.   

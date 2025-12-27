@@ -6,7 +6,7 @@ excerpt: "<br clear=\"right\"/>![Flag](/images/flag_russia.jpg) The RG019 underw
   \ was developed in the 1970s to allow Russian divers (Spetsnaz, GRU/KGB\u2026) to\
   \ fix explosives to steel, wood and concrete.  [Read More &gt;....](/Special Forces\
   \ tech- RG019 underwater nail gun.html \"READ MORE\")<br/><a href=\"/Special Forces\
-  \ tech- RG019 underwater nail gun.html\"><img src=\"/images/underwaternailgun.jpg\"\
+  \ tech- RG019 underwater nail gun.html\"><img loading=\"lazy\" src=\"/images/underwaternailgun.jpg\"\
   /></a>"
 ---
 

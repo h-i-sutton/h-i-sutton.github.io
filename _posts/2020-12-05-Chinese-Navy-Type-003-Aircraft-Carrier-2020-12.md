@@ -3,7 +3,7 @@ layout: post
 title: "Chinese-Navy-Type-003-Aircraft-Carrier-2020-12"
 date: "2020-12-05 23:01:00"
 excerpt: |-
-  <font size="6">**Fresh images of Chinese Navy (PLAN) Type-003 Aircraft Carrier**</font><br clear="right"/><a href="/Chinese-Navy-Type-003-Aircraft-Carrier-2020-12.html"><img align="left" src="/images/China-Type-003-Aircraft-Carrier-Update-317.jpg"/></a><br/>![Flag](/images/flag_China.jpg) The new aircraft carrier is expected to be much more capable than the current two ships...<br/>[Read More &gt;....](/Chinese-Navy-Type-003-Aircraft-Carrier-2020-12.html "READ MORE")<br clear="left"/>
+  <font size="6">**Fresh images of Chinese Navy (PLAN) Type-003 Aircraft Carrier**</font><br clear="right"/><a href="/Chinese-Navy-Type-003-Aircraft-Carrier-2020-12.html"><img align="left" loading="lazy" src="/images/China-Type-003-Aircraft-Carrier-Update-317.jpg"/></a><br/>![Flag](/images/flag_China.jpg) The new aircraft carrier is expected to be much more capable than the current two ships...<br/>[Read More &gt;....](/Chinese-Navy-Type-003-Aircraft-Carrier-2020-12.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

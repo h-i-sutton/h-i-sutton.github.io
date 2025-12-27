@@ -11,8 +11,8 @@ excerpt: "<img src=\"/images/flag_nork.jpg\"/> Making predictions is a fool\u201
   \ based capability. It is a question which has cropped up in a few places and is\
   \ very interesting, so like a fool, here is my prediction... [Read More &gt;....](North\
   \ Koreas next Ballistic Missile Sub.html \"READ MORE\")<br/><a href=\"/North Koreas\
-  \ next Ballistic Missile Sub.html\"><img src=\"/images/SINPO_nextGen900.jpg\"/></a><br\
-  \ clear=\"right\"/>"
+  \ next Ballistic Missile Sub.html\"><img loading=\"lazy\" src=\"/images/SINPO_nextGen900.jpg\"\
+  /></a><br clear=\"right\"/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Thank you to unnamed advisers. This work would not have been possible without substantial inputs from experts. Any errors or incorrect assumptions are purely the responsibility of the author*   

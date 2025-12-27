@@ -3,7 +3,7 @@ layout: post
 title: "New Images Of Chinese Navy's Latest Type-039C Yuan Class Submarine"
 date: "2021-06-17 08:50:00"
 excerpt: |-
-  <br clear="right"/><a href="/Chinese-Navy-Type-039C-Submarine.html"><img align="left" src="/images/China-Type-039C-Yuan-Submarine-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)  A clearer video has emerged of the new model of Type-039A 'Yuan' family submarines. Provisionally known as the Type-039**C**, the new design is likely to be significant, a major upgrade to an already competitive design. <br/><br/>[Read More &gt;....](/Chinese-Navy-Type-039C-Submarine.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Chinese-Navy-Type-039C-Submarine.html"><img align="left" loading="lazy" src="/images/China-Type-039C-Yuan-Submarine-317.jpg"/></a> ![Flag China](/images/flag_China.jpg)  A clearer video has emerged of the new model of Type-039A 'Yuan' family submarines. Provisionally known as the Type-039**C**, the new design is likely to be significant, a major upgrade to an already competitive design. <br/><br/>[Read More &gt;....](/Chinese-Navy-Type-039C-Submarine.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

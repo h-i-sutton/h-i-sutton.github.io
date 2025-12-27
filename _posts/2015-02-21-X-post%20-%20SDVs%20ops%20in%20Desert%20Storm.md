@@ -3,7 +3,7 @@ layout: post
 title: "X-post - SDVs ops in Desert Storm"
 date: "2015-02-21 11:00:00"
 excerpt: |-
-  <img src="/images/flag_USA.jpg"/> This interesting article appeared on a USN SEALs related blog that I follow. Retired SEAL Michael Wood gives a first-hand account of a close encounter during SDV ops as part of Operation Desert Storm.<br/><center><a href="http://travelphotoescapades.com/military-travel-photo-escapade/" target="_blank"><img src="/images/CraneLaunch_SDV_ManningRestraintLines-300x197.jpg"/></a><br/><a href="http://travelphotoescapades.com/military-travel-photo-escapade/" target="_blank">FULL ARTICLE</a> (link opens in new tab)</center>
+  <img src="/images/flag_USA.jpg"/> This interesting article appeared on a USN SEALs related blog that I follow. Retired SEAL Michael Wood gives a first-hand account of a close encounter during SDV ops as part of Operation Desert Storm.<br/><center><a href="http://travelphotoescapades.com/military-travel-photo-escapade/" target="_blank"><img loading="lazy" src="/images/CraneLaunch_SDV_ManningRestraintLines-300x197.jpg"/></a><br/><a href="http://travelphotoescapades.com/military-travel-photo-escapade/" target="_blank">FULL ARTICLE</a> (link opens in new tab)</center>
 ---
 
 ![](/images/flag_USA.jpg) This interesting article appeared on a USN SEALs related blog that I follow. Retired SEAL Michael Wood gives a first-hand account of a close encounter during SDV ops as part of Operation Desert Storm.

@@ -3,7 +3,7 @@ layout: post
 title: "Guide To Ukrainian Interceptor Drones"
 date: "2025-11-23 23:00:00"
 excerpt: |-
-  <br/><br clear="right"><a href="/Ukrainian-Interceptor-Drones.html"><img align="left" src="/images/Ukraine-Interceptor-drones-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Ukraine is deploying a growing arsenal of purpose-built interceptor drones designed to counter enemy reconnaissance and strike drones.<br/><br/>This guide outlines the principal types and emerging trends in this fast-moving domain...<br/>[Read More &gt;....](/Ukrainian-Interceptor-Drones.html "READ MORE")<br clear="left"/></br>
+  <br/><br clear="right"><a href="/Ukrainian-Interceptor-Drones.html"><img align="left" loading="lazy" src="/images/Ukraine-Interceptor-drones-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Ukraine is deploying a growing arsenal of purpose-built interceptor drones designed to counter enemy reconnaissance and strike drones.<br/><br/>This guide outlines the principal types and emerging trends in this fast-moving domain...<br/>[Read More &gt;....](/Ukrainian-Interceptor-Drones.html "READ MORE")<br clear="left"/><br/>
 ---
 
 [![](/images/Ukraine-Interceptor-drones-940.jpg)](/images/Ukraine-Interceptor-drones.jpg)  

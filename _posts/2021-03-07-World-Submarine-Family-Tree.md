@@ -3,7 +3,7 @@ layout: post
 title: "World-Submarine-Family-Tree"
 date: "2021-03-05 01:01:00"
 excerpt: |-
-  <font size="5" style="color:#8A0808">**UPDATED - version 2.3**</font><br/><font size="6">**World Submarines Family Tree**</font><br clear="right"><a href="/World-Submarine-Family-Tree.html"><img align="left" src="/images/Submarine-Family-Tree-317.jpg"/></a> I would like to share this resource I built as part of my research into submarine design history. I am trying to make map out which designs influenced which others, and from there which designs can be said to be the most influential submarines. <br/><br/>This is a nuanced topic and the map is only intended as a starting point...<br/>[Read More &gt;....](/World-Submarine-Family-Tree.html "READ MORE")<br clear="left"/></br>
+  <font size="5" style="color:#8A0808">**UPDATED - version 2.3**</font><br/><font size="6">**World Submarines Family Tree**</font><br clear="right"><a href="/World-Submarine-Family-Tree.html"><img align="left" loading="lazy" src="/images/Submarine-Family-Tree-317.jpg"/></a> I would like to share this resource I built as part of my research into submarine design history. I am trying to make map out which designs influenced which others, and from there which designs can be said to be the most influential submarines. <br/><br/>This is a nuanced topic and the map is only intended as a starting point...<br/>[Read More &gt;....](/World-Submarine-Family-Tree.html "READ MORE")<br clear="left"/><br/>
 ---
 
 **UPDATED - version 2.3**  

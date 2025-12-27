@@ -3,7 +3,7 @@ layout: post
 title: "Narco-Submarine-Intercepted-By-US-Navy"
 date: "2020-12-16 03:00:00"
 excerpt: |-
-  <font size="6">**Cutaway of Narco VSV interdicted by US Navy LCS** </font><br clear="right"/><a href="/Narco-Submarine-Intercepted-By-US-Navy.html"><img align="left" src="/images/Narco-Submarine-VSV-Cutaway-317.jpg"/></a><br/>The USS Gabrielle Giffords, an  Independence-class littoral combat ship  (LCS) interdicted a narco-submarine in the Pacific Ocean on December 5.<br/><br/>The cutaway shows the internal arrangement of this specific type of narco-VSV....<br/>[Read More &gt;....](/Narco-Submarine-Intercepted-By-US-Navy.html "READ MORE")<br clear="left"/>
+  <font size="6">**Cutaway of Narco VSV interdicted by US Navy LCS** </font><br clear="right"/><a href="/Narco-Submarine-Intercepted-By-US-Navy.html"><img align="left" loading="lazy" src="/images/Narco-Submarine-VSV-Cutaway-317.jpg"/></a><br/>The USS Gabrielle Giffords, an  Independence-class littoral combat ship  (LCS) interdicted a narco-submarine in the Pacific Ocean on December 5.<br/><br/>The cutaway shows the internal arrangement of this specific type of narco-VSV....<br/>[Read More &gt;....](/Narco-Submarine-Intercepted-By-US-Navy.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

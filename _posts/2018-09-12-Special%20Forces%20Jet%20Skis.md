@@ -3,7 +3,7 @@ layout: post
 title: "Special Forces Jet Skis"
 date: "2018-09-12 02:00:00"
 excerpt: |-
-  *Updated. Originally posted 29th Aug 2016*<br/>Special Forces use of Jet Skis has slowly become common knowledge.  [Read More &gt;....](/Special Forces Jet Skis.html "READ MORE")<br/><a href="/Special Forces Jet Skis.html"><img src="/images/jetski900.jpg"/></a><br clear="right"/>
+  *Updated. Originally posted 29th Aug 2016*<br/>Special Forces use of Jet Skis has slowly become common knowledge.  [Read More &gt;....](/Special Forces Jet Skis.html "READ MORE")<br/><a href="/Special Forces Jet Skis.html"><img loading="lazy" src="/images/jetski900.jpg"/></a><br clear="right"/>
 ---
 
 Share:[![](/images/mailto.jpg)](mailto:?subject=Shared%20from%20Covert%20Shores&body=http%3A%2F%2Fwww.hisutton.com%2FChina_Stretched_KILO.html)_

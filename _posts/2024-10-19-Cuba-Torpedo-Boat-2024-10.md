@@ -3,7 +3,7 @@ layout: post
 title: "Clearer Images Of Cuba's Latest Home-Built Torpedo Boat"
 date: "2024-10-19 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Cuba-Torpedo-Boat-2024-10.html"><img align="left" src="/images/Cuba-Torpedo-Boat-317.jpg"/></a> ![Flag Cuba](/images/flag_cuba.jpg) Cuba's beleaguered navy, the Las Fuerzas Armadas Revolucionarias de Cuba (FAR), continues to field locally produced vessels. The latest type of note, first observed in 2021, is a torpedo boat.<br/><br/>Recent photos provide new details of this unique boat...<br/>[Read More &gt;....](/Cuba-Torpedo-Boat-2024-10.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Cuba-Torpedo-Boat-2024-10.html"><img align="left" loading="lazy" src="/images/Cuba-Torpedo-Boat-317.jpg"/></a> ![Flag Cuba](/images/flag_cuba.jpg) Cuba's beleaguered navy, the Las Fuerzas Armadas Revolucionarias de Cuba (FAR), continues to field locally produced vessels. The latest type of note, first observed in 2021, is a torpedo boat.<br/><br/>Recent photos provide new details of this unique boat...<br/>[Read More &gt;....](/Cuba-Torpedo-Boat-2024-10.html "READ MORE")<br clear="left"/>
 ---
 
 # Clearer Images Of Cuba's Latest Home-Built Torpedo Boat

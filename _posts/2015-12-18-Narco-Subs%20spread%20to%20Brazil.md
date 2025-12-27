@@ -3,7 +3,7 @@ layout: post
 title: "Narco-Subs spread to Brazil"
 date: "2015-12-18 11:00:00"
 excerpt: |-
-  The scene of cops swarming over a captured semi-sub (technically a Low Profile Vessel, LPV) deep in the South American jungle look familiar. It looks like a dozen similar drug busts spanning the last twenty years. But this is unique. Brazil is not known for Narco subs. In fact there have never been any found in the Brazilian rainforests; until now.  Does this represent a one-off oddity, or a shift in the game? [Read More &gt;....](/Narco-Subs spread to Brazil.html "READ MORE")<br/><a href="/Narco-Subs spread to Brazil.html"><img src="/images/narcoBrazil2.jpg"/></a>
+  The scene of cops swarming over a captured semi-sub (technically a Low Profile Vessel, LPV) deep in the South American jungle look familiar. It looks like a dozen similar drug busts spanning the last twenty years. But this is unique. Brazil is not known for Narco subs. In fact there have never been any found in the Brazilian rainforests; until now.  Does this represent a one-off oddity, or a shift in the game? [Read More &gt;....](/Narco-Subs spread to Brazil.html "READ MORE")<br/><a href="/Narco-Subs spread to Brazil.html"><img loading="lazy" src="/images/narcoBrazil2.jpg"/></a>
 ---
 
 The scene of cops swarming over a captured semi-sub (technically a Low Profile Vessel, LPV) deep in the South American jungle look familiar. It looks like a dozen similar drug busts spanning the last twenty years. But this is unique.   

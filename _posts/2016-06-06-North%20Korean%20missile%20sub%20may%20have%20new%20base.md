@@ -9,7 +9,7 @@ excerpt: "![Flag](/images/flag_nork.jpg) ![Flag](/images/Updated.jpg) Recent TV 
   \ suggests that the new base is the major submarine base at *Cha'aho* (not on the\
   \ island of *Mayang-do* as this post originally proposed).   [Read More &gt;....](/North\
   \ Korean missile sub may have new base.html \"READ MORE\")<br/><a href=\"/North\
-  \ Korean missile sub may have new base.html\"><img src=\"/images/Sinpo_sunrise900.jpg\"\
+  \ Korean missile sub may have new base.html\"><img loading=\"lazy\" src=\"/images/Sinpo_sunrise900.jpg\"\
   /></a>"
 ---
 

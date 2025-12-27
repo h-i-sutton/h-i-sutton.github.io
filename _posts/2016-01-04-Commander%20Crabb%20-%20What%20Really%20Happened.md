@@ -12,7 +12,8 @@ excerpt: "![stars](/images/stars-five.png) The mysterious disappearance of Comma
   \ Theories.  So this book, researched and authored by the Chairman of the Historical\
   \ Diving Society, is a breath of fresh air.  [Read More &gt;....](/Commander Crabb\
   \ - What Really Happened.html \"READ MORE\")<br/><a href=\"/Commander Crabb - What\
-  \ Really Happened.html\"><img src=\"/images/CommanderCrabbBook.jpg\"/></a>"
+  \ Really Happened.html\"><img loading=\"lazy\" src=\"/images/CommanderCrabbBook.jpg\"\
+  /></a>"
 ---
 
 ![stars](/images/stars-five.png)  **Commander Crabb**   

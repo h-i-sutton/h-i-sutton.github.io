@@ -3,7 +3,7 @@ layout: post
 title: "Iran's New Drone Carrier Starts Sea Trials"
 date: "2024-11-29 12:30:00"
 excerpt: |-
-  <br clear="right"/><a href="/Iran-Shahid-Bagheri-Sea-Trials.html"><img align="left" src="/images/Iran-Shahid-Bagheri-20241128-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) The Iranian IRGC's (Islamic Revolutionary Guard Corps) latest ambitious naval project, the drone carrier Shahid Bagheri (C-110-4), has sailed. The vessel appears to be on sea trials and may now be anchored outside Bandar Abbas harbor...<br/>[Read More &gt;....](/Iran-Shahid-Bagheri-Sea-Trials.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Iran-Shahid-Bagheri-Sea-Trials.html"><img align="left" loading="lazy" src="/images/Iran-Shahid-Bagheri-20241128-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) The Iranian IRGC's (Islamic Revolutionary Guard Corps) latest ambitious naval project, the drone carrier Shahid Bagheri (C-110-4), has sailed. The vessel appears to be on sea trials and may now be anchored outside Bandar Abbas harbor...<br/>[Read More &gt;....](/Iran-Shahid-Bagheri-Sea-Trials.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Iran-Shahid-Bagheri-20241128-940.jpg)](/images/Iran-Shahid-Bagheri-20241128.jpg)  

@@ -3,7 +3,7 @@ layout: post
 title: "Yugo_X-Craft"
 date: "2017-12-19 01:01:00"
 excerpt: |-
-  <br/><font size="6">**Yugoslavian X-Craft: R-3E**</font> <br/>![Flag](/images/flag_Yugo.jpg) ![Flag](/images/flag_croatia.jpg) Yugoslavia gained a reputation for special forces crat, chief among which was the R-3E X-craft. Developed in the Cold War it was in many respects ahead of its time as a dry-SDV....<br/>[Read More](/Yugo_X-Craft.html "READ MORE")<br/><a href="/Yugo_X-Craft.html"><img src="/images/R3E_900.jpg"/></a><br clear="right"/>
+  <br/><font size="6">**Yugoslavian X-Craft: R-3E**</font> <br/>![Flag](/images/flag_Yugo.jpg) ![Flag](/images/flag_croatia.jpg) Yugoslavia gained a reputation for special forces crat, chief among which was the R-3E X-craft. Developed in the Cold War it was in many respects ahead of its time as a dry-SDV....<br/>[Read More](/Yugo_X-Craft.html "READ MORE")<br/><a href="/Yugo_X-Craft.html"><img loading="lazy" src="/images/R3E_900.jpg"/></a><br clear="right"/>
 ---
 
 ![Yugoslavian midget submarines](/images/R3E_2.jpg)  

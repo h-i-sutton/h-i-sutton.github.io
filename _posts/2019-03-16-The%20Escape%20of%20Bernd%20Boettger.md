@@ -3,7 +3,7 @@ layout: post
 title: "The Escape of Bernd Boettger"
 date: "2019-03-16 11:00:00"
 excerpt: |-
-  *Updated. Originally posted 7th November 2014*<br/> <font size="6">**Daring underwater escape from East Germany**</font><br/> ![Flag](/images/flag_germany.jpg)There were many fantastic and inspiring escapes across the Iron Curtain during the Cold War. With the odds stacked against anyone even trying to escape, it often came down to ingenious contraptions to exploit weaknesses in the defenses. One of the most impressive examples was Bernd Boettger's 1968 escape by home-made diver propulsion device (DPV)<a href="/The Escape of Bernd Boettger.html"><img src="/images/escape1.jpg"/></a>
+  *Updated. Originally posted 7th November 2014*<br/> <font size="6">**Daring underwater escape from East Germany**</font><br/> ![Flag](/images/flag_germany.jpg)There were many fantastic and inspiring escapes across the Iron Curtain during the Cold War. With the odds stacked against anyone even trying to escape, it often came down to ingenious contraptions to exploit weaknesses in the defenses. One of the most impressive examples was Bernd Boettger's 1968 escape by home-made diver propulsion device (DPV)<a href="/The Escape of Bernd Boettger.html"><img loading="lazy" src="/images/escape1.jpg"/></a>
 ---
 
 **Daring underwater escape from East Germany**  

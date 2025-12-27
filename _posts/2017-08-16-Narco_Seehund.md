@@ -7,8 +7,8 @@ excerpt: "<font size=\"6\">**Narco-Sub based on German Seehund Midget Submarine*
   \ midget submarine captured by Columbian forces in a jungle factory near the Ecuadorian\
   \ border on or around 27th November 2011. It has an uncanny resemblance to German\
   \ World War Two Seehund midget submarine... [Read More &gt;....](/Narco_Seehund.html\
-  \ \"READ MORE\")<br/><a href=\"/Narco_Seehund.html\"><img src=\"/images/Narco_Seehund900.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><a href=\"/Narco_Seehund.html\"><img loading=\"lazy\" src=\"\
+  /images/Narco_Seehund900.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 **Narco-Sub based on German Seehund Midget Submarine**  

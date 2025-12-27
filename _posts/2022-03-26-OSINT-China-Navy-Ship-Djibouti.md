@@ -3,7 +3,7 @@ layout: post
 title: "Chinese Navy Ship Seen At Important African Base For First Time"
 date: "2022-03-26 22:00:00"
 excerpt: |-
-  <br/><br clear="right"><a href="/OSINT-China-Navy-Ship-Djibouti.html"><img align="left" src="/images/Chinese-Navy-Ship-Djibouti-March-2022-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) The Chinese Navy is extending its reach to the world's oceans. A Chinese Navy warship has been observed calling at the new base in Djibouti. This location is strategic, and has been years in the building, but until now Chinese warships had not docked there.<br/>[Read More &gt;....](/OSINT-China-Navy-Ship-Djibouti.html "READ MORE")<br clear="left"/></br>
+  <br/><br clear="right"><a href="/OSINT-China-Navy-Ship-Djibouti.html"><img align="left" loading="lazy" src="/images/Chinese-Navy-Ship-Djibouti-March-2022-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) The Chinese Navy is extending its reach to the world's oceans. A Chinese Navy warship has been observed calling at the new base in Djibouti. This location is strategic, and has been years in the building, but until now Chinese warships had not docked there.<br/>[Read More &gt;....](/OSINT-China-Navy-Ship-Djibouti.html "READ MORE")<br clear="left"/><br/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

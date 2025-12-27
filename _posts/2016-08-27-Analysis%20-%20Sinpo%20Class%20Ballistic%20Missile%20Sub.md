@@ -2,23 +2,24 @@
 layout: post
 title: "Analysis - Sinpo Class Ballistic Missile Sub"
 date: "2016-08-27 12:00:00"
-excerpt: "<img src=\"/images/Updated.jpg\"/>*17th April 2017*<br/><font size=\"6\"> **North\
-  \ Korea's** *Polaris* </font> (Gorae / SINPO Class ballistic missile submarine)<br\
-  \ clear=\"right\"><img src=\"/images/flag_nork.jpg\"/> A lot of things have changed\
-  \ since I first discovered the Gorae Class ballistic missile submarine (aka SINPO\
-  \ Class) in Google Earth imagery in October 2014. At the time, North Korea\u2019\
-  s submarine launched ballistic missile (SLBM) program was only a rumor on the peripherals\
-  \ of the defense analysis community. Armed with these rumors the discovery of the\
-  \ submarine was not entirely a surprise, but it was an undeclared type as far as\
-  \ North Korea was concerned. Its existence had been kept a well-guarded secret.\
-  \ Perhaps under the previous \u2018dear leader\u2019 the project would have remained\
-  \ obscure, but in the new mood of bravado the type has been thrust into the limelight\
-  \ by the North Korean regime themselves. Along the way there have been plenty of\
-  \ questions about capabilities and some incredulity among observers. But with the\
-  \ latest August 2016 test launch been deemed successful it is now taken very seriously.\
-  \ As I have done all the long. .. [Read More &gt;....](Analysis - Sinpo Class Ballistic\
-  \ Missile Sub.html \"READ MORE\")<br/><a href=\"/Analysis - Sinpo Class Ballistic\
-  \ Missile Sub.html\"><img src=\"/images/Gorae900.jpg\"/></a></br>"
+excerpt: "<img loading=\"lazy\" src=\"/images/Updated.jpg\"/>*17th April 2017*<br/><font size=\"\
+  6\"> **North Korea's** *Polaris* </font> (Gorae / SINPO Class ballistic missile\
+  \ submarine)<br clear=\"right\"><img src=\"/images/flag_nork.jpg\"/> A lot of things\
+  \ have changed since I first discovered the Gorae Class ballistic missile submarine\
+  \ (aka SINPO Class) in Google Earth imagery in October 2014. At the time, North\
+  \ Korea\u2019s submarine launched ballistic missile (SLBM) program was only a rumor\
+  \ on the peripherals of the defense analysis community. Armed with these rumors\
+  \ the discovery of the submarine was not entirely a surprise, but it was an undeclared\
+  \ type as far as North Korea was concerned. Its existence had been kept a well-guarded\
+  \ secret. Perhaps under the previous \u2018dear leader\u2019 the project would have\
+  \ remained obscure, but in the new mood of bravado the type has been thrust into\
+  \ the limelight by the North Korean regime themselves. Along the way there have\
+  \ been plenty of questions about capabilities and some incredulity among observers.\
+  \ But with the latest August 2016 test launch been deemed successful it is now taken\
+  \ very seriously. As I have done all the long. .. [Read More &gt;....](Analysis\
+  \ - Sinpo Class Ballistic Missile Sub.html \"READ MORE\")<br/><a href=\"/Analysis\
+  \ - Sinpo Class Ballistic Missile Sub.html\"><img loading=\"lazy\" src=\"/images/Gorae900.jpg\"\
+  /></a><br/>"
 ---
 
  North Korea's Polaris: **Gorae Class ballistic missile submarine**  (SINPO Class)  

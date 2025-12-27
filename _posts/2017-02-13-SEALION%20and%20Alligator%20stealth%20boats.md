@@ -10,8 +10,8 @@ excerpt: "<font size=\"6\"> **SEALION Combatant Craft Heavy (CCH)** </font><br/>
   \ the SEALION family of semi-submersible \u2018stealth boats\u2019 as the *Combatant\
   \ Craft Heavy*. This article builds on the popular post on the old *Covert Shores\
   \ Blog*.[Read More &gt;....](/SEALION and Alligator stealth boats.html \"READ MORE\"\
-  )<br/><a href=\"/SEALION and Alligator stealth boats.html\"><img src=\"/images/Sealion_cutaway_900.jpg\"\
-  /></a><br clear=\"right\"/>"
+  )<br/><a href=\"/SEALION and Alligator stealth boats.html\"><img loading=\"lazy\"\
+  \ src=\"/images/Sealion_cutaway_900.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 ![Special forces semi-submarine](/images/SEALION_Mk5.jpg)  

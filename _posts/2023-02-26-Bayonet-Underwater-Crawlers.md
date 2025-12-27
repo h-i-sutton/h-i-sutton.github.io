@@ -3,7 +3,7 @@ layout: post
 title: "New Tracked Underwater Drones"
 date: "2023-02-26 23:00:00"
 excerpt: |-
-  <br/><br clear="right"><a href="/Bayonet-Underwater-Crawlers.html"><img align="left" src="/images/US-Bayonet-crawlers-317.jpg"/></a> ![Flag Uunited States](/images/flag_USA.jpg)The concept of submarine crawlers, which use tracks to navigate on the sea floor is not new. But it is still novel.<br/><br/>What the Bayonet series of crawlers adds is modern levels of automation, reliability and flexibility. And unlike regular UUVs (Uncrewed Underwater Vehicles) the crawlers are amphibious. <br/>[Read More &gt;....](/Bayonet-Underwater-Crawlers.html "READ MORE")<br clear="left"/></br>
+  <br/><br clear="right"><a href="/Bayonet-Underwater-Crawlers.html"><img align="left" loading="lazy" src="/images/US-Bayonet-crawlers-317.jpg"/></a> ![Flag Uunited States](/images/flag_USA.jpg)The concept of submarine crawlers, which use tracks to navigate on the sea floor is not new. But it is still novel.<br/><br/>What the Bayonet series of crawlers adds is modern levels of automation, reliability and flexibility. And unlike regular UUVs (Uncrewed Underwater Vehicles) the crawlers are amphibious. <br/>[Read More &gt;....](/Bayonet-Underwater-Crawlers.html "READ MORE")<br clear="left"/><br/>
 ---
 
 ![U.S. Bayonet Underwater Crawlers](/images/US-Bayonet-350-crawler.jpg)  

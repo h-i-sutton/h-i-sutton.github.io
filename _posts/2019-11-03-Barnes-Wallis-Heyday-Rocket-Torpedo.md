@@ -3,7 +3,7 @@ layout: post
 title: "Barnes-Wallis-Heyday-Rocket-Torpedo"
 date: "2019-11-03 00:00:00"
 excerpt: |2-
-   <font size="6">**British 'Heyday' rocket torpedo**</font><br/> ![Flag](/images/flag_UK.jpg) British scientist, engineer and inventor Sir Barnes Neville Wallis CBE is best remembered for inventing the bouncing bomb which was used by the Royal Air Force in the Dambusters raid (Operation Chastise). He worked on a wide range of projects however, including hydrodynamics. This article is about his rocket torpedo...  [Read More &gt;....](/Barnes-Wallis-Heyday-Rocket-Torpedo.html "READ MORE")<br/><a href="/Barnes-Wallis-Heyday-Rocket-Torpedo.html"><img src="/images/Barnes-Wallis_Heyday900.jpg"/></a><br/>
+   <font size="6">**British 'Heyday' rocket torpedo**</font><br/> ![Flag](/images/flag_UK.jpg) British scientist, engineer and inventor Sir Barnes Neville Wallis CBE is best remembered for inventing the bouncing bomb which was used by the Royal Air Force in the Dambusters raid (Operation Chastise). He worked on a wide range of projects however, including hydrodynamics. This article is about his rocket torpedo...  [Read More &gt;....](/Barnes-Wallis-Heyday-Rocket-Torpedo.html "READ MORE")<br/><a href="/Barnes-Wallis-Heyday-Rocket-Torpedo.html"><img loading="lazy" src="/images/Barnes-Wallis_Heyday900.jpg"/></a><br/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**British 'Heyday' rocket torpedo**   

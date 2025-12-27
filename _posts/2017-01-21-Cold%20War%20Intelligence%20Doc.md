@@ -15,8 +15,8 @@ excerpt: "<font size=\"6\">**Analysis of Soviet Cold War Intelligence document o
   \ swimmer operations and technology, and lays out that countering these forces is\
   \ critically important in wartime. He also points out the key weaknesses of Soviet\
   \ capabilities as he saw them..... [Read More &gt;....](/Cold War Intelligence Doc.html\
-  \ \"READ MORE\")<br/><a href=\"/Cold War Intelligence Doc.html\"><img src=\"/images/Soviet_analysis1965_cover.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><a href=\"/Cold War Intelligence Doc.html\"><img loading=\"\
+  lazy\" src=\"/images/Soviet_analysis1965_cover.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Analysis of Soviet Cold War Intelligence document on Naval Special Forces**  

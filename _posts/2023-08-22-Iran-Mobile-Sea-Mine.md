@@ -3,7 +3,7 @@ layout: post
 title: "Iran's Previously Unreported Submarine-Launched Stand-Off Sea Mine"
 date: "2023-08-22 23:30:00"
 excerpt: |-
-  <br clear="right"/><a href="/Iran-Mobile-Sea-Mine.html"><img align="left" src="/images/Iran-Mobile-Mine-940.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) The president of Iran, Ebrahim Raisi, has visited an 'exhibition of achievements' of the Ministry of Defense. Among the interesting items on display was a previously unreported stand-off bottom mine.<br/><br/>The weapon would prove a useful addition to Iran's fleet....<br/>[Read More &gt;....](/Iran-Mobile-Sea-Mine.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Iran-Mobile-Sea-Mine.html"><img align="left" loading="lazy" src="/images/Iran-Mobile-Mine-940.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) The president of Iran, Ebrahim Raisi, has visited an 'exhibition of achievements' of the Ministry of Defense. Among the interesting items on display was a previously unreported stand-off bottom mine.<br/><br/>The weapon would prove a useful addition to Iran's fleet....<br/>[Read More &gt;....](/Iran-Mobile-Sea-Mine.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

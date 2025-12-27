@@ -3,7 +3,7 @@ layout: post
 title: "New Iranian Warship Design With VLS"
 date: "2021-11-11 15:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Iranian-Warship-With-VLS.html"><img align="left" src="/images/Iran-Missile-Corvette-Nov-2021-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) Images shared on social media reveal a new Iranian warship design. The type appears to be connected the regular Navy rather than the less conventional IRGC.<br/><br/> While Iran displays a regular stream of these ship models, many of which never make it into the water, this one seems more credible. <br/>[Read More &gt;....](/Iranian-Warship-Wth-VLS.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Iranian-Warship-With-VLS.html"><img align="left" loading="lazy" src="/images/Iran-Missile-Corvette-Nov-2021-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) Images shared on social media reveal a new Iranian warship design. The type appears to be connected the regular Navy rather than the less conventional IRGC.<br/><br/> While Iran displays a regular stream of these ship models, many of which never make it into the water, this one seems more credible. <br/>[Read More &gt;....](/Iranian-Warship-Wth-VLS.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

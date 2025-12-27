@@ -3,7 +3,7 @@ layout: post
 title: "Controversial Russian Spy Ship Yantar Leaves Base"
 date: "2022-03-06 22:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russian-Spy-Ship-Yantar-2022-03-06.html"><img align="left" src="/images/Russia-Yantar-Spy-Ship-2022-03-06-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Yantar, the special mission ship reputed to be involved in spying on undersea internet cables, has left her base. The controversial ship has departed Olenya Guba near the Kola Peninsular in Russia's arctic north. <br/>[Read More &gt;....](/Russian-Spy-Ship-Yantar-2022-03-06.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russian-Spy-Ship-Yantar-2022-03-06.html"><img align="left" loading="lazy" src="/images/Russia-Yantar-Spy-Ship-2022-03-06-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Yantar, the special mission ship reputed to be involved in spying on undersea internet cables, has left her base. The controversial ship has departed Olenya Guba near the Kola Peninsular in Russia's arctic north. <br/>[Read More &gt;....](/Russian-Spy-Ship-Yantar-2022-03-06.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

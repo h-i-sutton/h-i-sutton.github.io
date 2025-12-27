@@ -3,7 +3,7 @@ layout: post
 title: "Sea Baby: The Ukrainian Navy's 'Bridge Killer' Maritime Drone"
 date: "2023-08-16 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Ukraine-USV-Sea-Baby.html"><img align="left" src="/images/Ukraine-Maritime-Drone-Kerch-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) The July 17 attack on the Kerch Bridge is one of the more successful, and noteworthy, maritime drone attacks. Now, via an exclusive with CNN, the Ukrainian government has revealed more details about the drones used...<br/>[Read More &gt;....](/Ukraine-USV-Sea-Baby.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Ukraine-USV-Sea-Baby.html"><img align="left" loading="lazy" src="/images/Ukraine-Maritime-Drone-Kerch-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) The July 17 attack on the Kerch Bridge is one of the more successful, and noteworthy, maritime drone attacks. Now, via an exclusive with CNN, the Ukrainian government has revealed more details about the drones used...<br/>[Read More &gt;....](/Ukraine-USV-Sea-Baby.html "READ MORE")<br clear="left"/>
 ---
 
 # Sea Baby: The Ukrainian Navy's 'Bridge Killer' Maritime Drone

@@ -3,7 +3,7 @@ layout: post
 title: "US_Navy_North_Korean_Submarine"
 date: "2019-02-06 11:01:00"
 excerpt: |-
-  <font size="6">**WSTTT: US Navy's North Korean midget submarine**</font><br/><img src="/images/flag_USA.jpg"/> In May 2004 the US Navy 'sunk' a North Korean Sang-O Class midget submarine as an underwater target off San Clemente Island, California. In fact it was the purpose-built WSTTT (Weapon Set-To-hit Threat Target)... <br/>[Read More &gt;....](/US_Navy_North_Korean_Submarine.html "READ MORE")<br clear="right"><a href="/US_Navy_North_Korean_Submarine.html"><img src="/images/USN_SangO_900.jpg"/></a></br>
+  <font size="6">**WSTTT: US Navy's North Korean midget submarine**</font><br/><img src="/images/flag_USA.jpg"/> In May 2004 the US Navy 'sunk' a North Korean Sang-O Class midget submarine as an underwater target off San Clemente Island, California. In fact it was the purpose-built WSTTT (Weapon Set-To-hit Threat Target)... <br/>[Read More &gt;....](/US_Navy_North_Korean_Submarine.html "READ MORE")<br clear="right"><a href="/US_Navy_North_Korean_Submarine.html"><img loading="lazy" src="/images/USN_SangO_900.jpg"/></a><br/>
 ---
 
 *This article has been corrected.*  

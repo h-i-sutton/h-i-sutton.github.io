@@ -3,7 +3,7 @@ layout: post
 title: "World_Submarines_Quiz"
 date: "2019-02-03 18:40:00"
 excerpt: |-
-  Test your submarine identificant skills. <br/><a href="/world_submarines_quiz.html"><img src="images/SubQuiz_900.jpg"/></a><br/>
+  Test your submarine identificant skills. <br/><a href="/world_submarines_quiz.html"><img loading="lazy" src="images/SubQuiz_900.jpg"/></a><br/>
 ---
 
 This quiz needs Javacsript.

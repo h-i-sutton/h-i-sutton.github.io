@@ -3,7 +3,7 @@ layout: post
 title: "Nautilus-2020_Luxury_Submarine"
 date: "2018-12-15 04:00:00"
 excerpt: |-
-  <font size="6">**Nautilus-2020 Private Private Submarine**</font><br/>What better way to blow the Monaco Yacht show out of the water than with your own private luxury submarine?<br/><a href="/Nautilus-2020_Luxury_Submarine.html"><img src="/images/Nautilus2020_cutaway_900.jpg"/></a><br/>[Read More &gt;....](/Nautilus-2020_Luxury_Submarine.html "READ MORE")
+  <font size="6">**Nautilus-2020 Private Private Submarine**</font><br/>What better way to blow the Monaco Yacht show out of the water than with your own private luxury submarine?<br/><a href="/Nautilus-2020_Luxury_Submarine.html"><img loading="lazy" src="/images/Nautilus2020_cutaway_900.jpg"/></a><br/>[Read More &gt;....](/Nautilus-2020_Luxury_Submarine.html "READ MORE")
 ---
 
 Share:[![](/images/mailto.jpg)](mailto:?subject=Shared%20from%20Covert%20Shores&body=http%3A%2F%2Fwww.hisutton.com%2FNautilus-2020_Luxury_Submarine.html)_

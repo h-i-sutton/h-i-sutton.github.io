@@ -6,8 +6,8 @@ excerpt: "<font size=\"6\">**Indonesia reveals new KTBA series SDV**</font> <br/
   \ Indonesia has revealed the latest in its indigenous Kendaraan Tempur Bawah Air\
   \ (KTBA) series of Swimmer Delivery Vehicles (SDVs) developed for the elite naval\
   \ special forces unit **Kopaska**.\u2026 [Read More &gt;....](/Indonesian_KTBA_chariots.html\
-  \ \"READ MORE\")<br/><a href=\"/Indonesian_KTBA_chariots.html\"><img src=\"/images/Indo_KTBA_900.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><a href=\"/Indonesian_KTBA_chariots.html\"><img loading=\"\
+  lazy\" src=\"/images/Indo_KTBA_900.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 ##### 

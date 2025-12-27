@@ -3,7 +3,7 @@ layout: post
 title: "Seacraft_DPC"
 date: "2018-11-12 10:00:00"
 excerpt: |-
-  <font size="6">**Seacraft DPC**</font><br clear="right"/><img src="/images/flag_poland.jpg"/> Polish Diver Propulsion Vehicle (DPV) manufacturer <a href="http://www.seacraft.eu/" target="blank">Seacraft</a> is developing a **Diver Propulsion Craft** (DPC) which bridges the gap between DPVs and full-size SDVs (Swimmer Delivery Vehicles). The one/two/three/four-person craft allows greater speed, load carrying and endurance than a DPV whilst still being small enough to manhandle or carry within a submarine....  <a href="/Seacraft_DPC.html"><img src="/images/Pl_Seacraft_DPC_900.jpg"/></a><br/><a href="http://www.seacraft.eu/" target="blank"><img align="right" src="/images/Pl_Seacraft_Logo.png"/></a>[Read More &gt;....](/Seacraft_DPC.html "READ MORE")<br clear="right"/>
+  <font size="6">**Seacraft DPC**</font><br clear="right"/><img src="/images/flag_poland.jpg"/> Polish Diver Propulsion Vehicle (DPV) manufacturer <a href="http://www.seacraft.eu/" target="blank">Seacraft</a> is developing a **Diver Propulsion Craft** (DPC) which bridges the gap between DPVs and full-size SDVs (Swimmer Delivery Vehicles). The one/two/three/four-person craft allows greater speed, load carrying and endurance than a DPV whilst still being small enough to manhandle or carry within a submarine....  <a href="/Seacraft_DPC.html"><img loading="lazy" src="/images/Pl_Seacraft_DPC_900.jpg"/></a><br/><a href="http://www.seacraft.eu/" target="blank"><img align="right" loading="lazy" src="/images/Pl_Seacraft_Logo.png"/></a>[Read More &gt;....](/Seacraft_DPC.html "READ MORE")<br clear="right"/>
 ---
 
 [![](/images/Pl_Seacraft_Logo.png)](http://www.seacraft.eu/)  

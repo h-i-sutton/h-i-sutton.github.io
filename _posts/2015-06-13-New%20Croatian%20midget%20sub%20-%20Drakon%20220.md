@@ -3,7 +3,7 @@ layout: post
 title: "New Croatian midget sub - Drakon 220"
 date: "2015-06-13 11:00:00"
 excerpt: |-
-  Croatia (formerly part of Yugoslavia) has a track record of impressive midget submarines. The industry has struggled since independence with the Croatian Navy retiring its submarine capability. A new improved version of the R-3E design (better known as the Una Class) is now ready for construction however [Read More &gt;....](/New Croatian midget sub - Drakon 220.html "READ MORE")<br/><a href="/New Croatian midget sub - Drakon 220.html"><img src="/images/Yugo_Dragon_show1.jpg"/></a>
+  Croatia (formerly part of Yugoslavia) has a track record of impressive midget submarines. The industry has struggled since independence with the Croatian Navy retiring its submarine capability. A new improved version of the R-3E design (better known as the Una Class) is now ready for construction however [Read More &gt;....](/New Croatian midget sub - Drakon 220.html "READ MORE")<br/><a href="/New Croatian midget sub - Drakon 220.html"><img loading="lazy" src="/images/Yugo_Dragon_show1.jpg"/></a>
 ---
 
 ![Drakon 220](/images/Yugo_Dragon_show1.jpg   

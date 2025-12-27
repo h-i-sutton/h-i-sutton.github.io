@@ -3,7 +3,7 @@ layout: post
 title: "AssaultRifle_Quiz3"
 date: "2017-03-12 20:40:00"
 excerpt: |-
-  Test your knowledge of assault current rifles and similar weapons.<br/><a href="assaultrifle_quiz3.html"><img src="/images/ARQuiz3_header.jpg" width="900"/></a>
+  Test your knowledge of assault current rifles and similar weapons.<br/><a href="assaultrifle_quiz3.html"><img loading="lazy" src="/images/ARQuiz3_header.jpg" width="900"/></a>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**No bullpups...**   

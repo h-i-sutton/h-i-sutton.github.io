@@ -3,7 +3,7 @@ layout: post
 title: "Russia Forced To Reduce Submarines In Mediterranean Despite Risk Of Escalation In Ukraine"
 date: "2022-09-24 18:01:00"
 excerpt: |-
-  **Updated**<br clear="right"/><a href="/Russian-KILO-Submarine-Force-Reduced.html"><img align="left" src="/images/Russia-KILO-Med-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag](/images/flag_ukraine.jpg) This morning a Russian Navy submarine sailed, on the surface, past Gibraltar where it exited the Mediterranean. The Pr.636.3 Improved-KILO class boat is likely heading to the Baltic for much needed maintenance.<br/><br/>This weakens their forces in the Mediterranean....<br/>[Read More &gt;....](/Russian-KILO-Submarine-Force-Reduced.html "READ MORE")<br clear="left"/>
+  **Updated**<br clear="right"/><a href="/Russian-KILO-Submarine-Force-Reduced.html"><img align="left" loading="lazy" src="/images/Russia-KILO-Med-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag](/images/flag_ukraine.jpg) This morning a Russian Navy submarine sailed, on the surface, past Gibraltar where it exited the Mediterranean. The Pr.636.3 Improved-KILO class boat is likely heading to the Baltic for much needed maintenance.<br/><br/>This weakens their forces in the Mediterranean....<br/>[Read More &gt;....](/Russian-KILO-Submarine-Force-Reduced.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

@@ -3,7 +3,7 @@ layout: post
 title: "South_Asia_CASD"
 date: "2017-01-16 02:00:00"
 excerpt: "<a href=\"/images/IndoPak_CASD-infographic.jpg\" target=\"blank\"><img align=\"left\"\
-  \ src=\"/images/IndoPak_CASD-infographic_350.jpg\"/></a> <br/><br/><br/><br/>Related:<br/>![Flag](/images/flag_USA.jpg)\
+  \ loading=\"lazy\" src=\"/images/IndoPak_CASD-infographic_350.jpg\"/></a> <br/><br/><br/><br/>Related:<br/>![Flag](/images/flag_USA.jpg)\
   \ ![Flag](/images/flag_russia.jpg) ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_france.jpg)\
   \ ![Flag](/images/flag_China.jpg)  +  ![Flag](/images/flag_india.jpg) ![Flag](/images/flag_nork.jpg)\
   \ ![Flag](/images/flag_isreal.jpg) ![Flag](/images/flag_pakistan.jpg)  <br/><br/>![Flag](/images/flag_sweden.jpg)\
@@ -12,8 +12,9 @@ excerpt: "<a href=\"/images/IndoPak_CASD-infographic.jpg\" target=\"blank\"><img
   \ ![Flag](/images/flag_RoK.jpg) ![Flag](/images/flag_pakistan.jpg) ![Flag](/images/flag_isreal.jpg)\
   \ ![Flag](/images/flag_russia.jpg) ![Flag](/images/flag_spain.jpg) ![Flag](/images/Flag_Singapore.jpg)\
   \ ![Flag](/images/flag_india.jpg) ![Flag](/images/flag_China.jpg) <a href=\"/World%20survey%20of%20AIP%20submarines.html\"\
-  ><img src=\"/images/AIP_subs_250.png\"/></a> World survey of <a href=\"/World%20survey%20of%20AIP%20submarines.html\"\
-  >AIP submarines</a><br/><br/> ![Flag](/images/flag_nork.jpg) "
+  ><img loading=\"lazy\" src=\"/images/AIP_subs_250.png\"/></a> World survey of <a\
+  \ href=\"/World%20survey%20of%20AIP%20submarines.html\">AIP submarines</a><br/><br/>\
+  \ ![Flag](/images/flag_nork.jpg) "
 ---
 
 *Click for high resolution*  

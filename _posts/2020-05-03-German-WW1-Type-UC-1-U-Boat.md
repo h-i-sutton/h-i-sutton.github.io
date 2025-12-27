@@ -3,7 +3,7 @@ layout: post
 title: "German-WW1-Type-UC-1-U-Boat"
 date: "2020-05-03 00:00:00"
 excerpt: |-
-  <font size="6">**Forgotten Super-Weapon of WW1: Type UC-1 Uboat**</font> <br/>![Flag](/images/flag_germany.jpg) Mine laying submarines are largely forgotten in spite of being one of the most successful weapons of the war. This article will focus on the first German type, the UC-1 Class. It was an elegant, innovative and effective design.... <br/><a href="/German-WW1-Type-UC-1-U-Boat.html"><img src="/images/German-UC-1-900.jpg"/></a><br clear="right">[Read More &gt;....](/German-WW1-Type-UC-1-U-Boat.html "READ MORE")<br/></br>
+  <font size="6">**Forgotten Super-Weapon of WW1: Type UC-1 Uboat**</font> <br/>![Flag](/images/flag_germany.jpg) Mine laying submarines are largely forgotten in spite of being one of the most successful weapons of the war. This article will focus on the first German type, the UC-1 Class. It was an elegant, innovative and effective design.... <br/><a href="/German-WW1-Type-UC-1-U-Boat.html"><img loading="lazy" src="/images/German-UC-1-900.jpg"/></a><br clear="right">[Read More &gt;....](/German-WW1-Type-UC-1-U-Boat.html "READ MORE")<br/><br/>
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

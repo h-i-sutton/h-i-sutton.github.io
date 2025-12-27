@@ -3,10 +3,10 @@ layout: post
 title: "The Submarine Which Came In From The Cold: Belgorod Under Cover"
 date: "2021-10-06 23:00:00"
 excerpt: "<br clear=\"right\"/><a href=\"/Belgorod-Submarine-Returns-To-Builder.html\"><img\
-  \ align=\"left\" src=\"/images/Russia-Belgorod-Submarine-2021-10-04_317.jpg\"/></a>\
-  \ ![Flag Russia](/images/flag_russia.jpg) Russia\u2019s latest super-massive submarine,\
-  \ K-329 Belgorod, has been returned to the sheds.<br/><br/>This answers a small\
-  \ Open Source Intelligence (OSINT) mystery...<br/>[Read More &gt;....](/Belgorod-Submarine-Returns-To-Builder.html\
+  \ align=\"left\" loading=\"lazy\" src=\"/images/Russia-Belgorod-Submarine-2021-10-04_317.jpg\"\
+  /></a> ![Flag Russia](/images/flag_russia.jpg) Russia\u2019s latest super-massive\
+  \ submarine, K-329 Belgorod, has been returned to the sheds.<br/><br/>This answers\
+  \ a small Open Source Intelligence (OSINT) mystery...<br/>[Read More &gt;....](/Belgorod-Submarine-Returns-To-Builder.html\
   \ \"READ MORE\")<br clear=\"left\"/>"
 ---
 

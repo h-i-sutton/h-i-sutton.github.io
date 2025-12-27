@@ -3,7 +3,7 @@ layout: post
 title: "Russia_to+build_more_deep-sea_submersibles"
 date: "2019-01-09 11:01:00"
 excerpt: |-
-  News: <font size="6">**Russia building six more deep-sea submersibles**</font><br/><img src="/images/flag_russia.jpg"/> Russian news agency TASS reported on 9th January that the Russian Navy is planning to purchase six transparent bathyscaphes to perform special underwater operations. TASS cited an unnamed source in the Russian military-industrial complex so reliability is unconfirmed. The report is not far-fetched however. ... <br/><a href="/Russia_to+build_more_deep-sea_submersibles.html"><img src="/images/Ru_Malachite_3p900.jpg"/></a>[Read More &gt;....](/Russia_to+build_more_deep-sea_submersibles.html "READ MORE")<br clear="right"/>
+  News: <font size="6">**Russia building six more deep-sea submersibles**</font><br/><img src="/images/flag_russia.jpg"/> Russian news agency TASS reported on 9th January that the Russian Navy is planning to purchase six transparent bathyscaphes to perform special underwater operations. TASS cited an unnamed source in the Russian military-industrial complex so reliability is unconfirmed. The report is not far-fetched however. ... <br/><a href="/Russia_to+build_more_deep-sea_submersibles.html"><img loading="lazy" src="/images/Ru_Malachite_3p900.jpg"/></a>[Read More &gt;....](/Russia_to+build_more_deep-sea_submersibles.html "READ MORE")<br clear="right"/>
 ---
 
 News: **Russia building six more deep-sea submersibles**  

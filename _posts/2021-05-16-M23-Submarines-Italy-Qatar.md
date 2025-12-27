@@ -3,7 +3,7 @@ layout: post
 title: "Qatar Navy's New Submarine - About M23 SRL"
 date: "2021-05-16 01:01:00"
 excerpt: |-
-  <br/><br clear="right"><a href="/M23-Submarines-Italy-Qatar.html"><img align="left" src="/images/Italy-GSE-30m-317.jpg"/></a> ![Flag](/images/flag_italy.jpg) Slowly, more information about the submarines being built in Italy for the Qatari Emiri Navy (QEN) are coming out. The EUR 190 million deal is for two submarines plus a training system. <br/><br/>It has emerged that GSE are the builder, under a spin-off company called M23 SRL.<br/>[Read More](/M23-Submarines-Italy-Qatar.html "READ MORE")<br clear="left"/></br>
+  <br/><br clear="right"><a href="/M23-Submarines-Italy-Qatar.html"><img align="left" loading="lazy" src="/images/Italy-GSE-30m-317.jpg"/></a> ![Flag](/images/flag_italy.jpg) Slowly, more information about the submarines being built in Italy for the Qatari Emiri Navy (QEN) are coming out. The EUR 190 million deal is for two submarines plus a training system. <br/><br/>It has emerged that GSE are the builder, under a spin-off company called M23 SRL.<br/>[Read More](/M23-Submarines-Italy-Qatar.html "READ MORE")<br clear="left"/><br/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

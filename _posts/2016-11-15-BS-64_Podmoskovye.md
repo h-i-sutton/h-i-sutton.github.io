@@ -10,9 +10,10 @@ excerpt: " <font size=\"6\">**New Russian Special Mission spy-sub**</font><br/> 
   \ base at Olenya Guba (Deer Bay) on the Murmansk Oblast. She will be used as a Host\
   \ Submarine for some of the midget submarines based there, most likely including\
   \ the elusive Project 10831 **LOSHARIK**. ...  [Read More &gt;....](/BS-64_Podmoskovye.html\
-  \ \"READ MORE\")<br/><a href=\"/BS-64_Podmoskovye.html\"><img src=\"/images/BS-64+900_1.jpg\"\
-  /></a><br/><a href=\"/BS-64_Podmoskovye.html\"><img src=\"/images/BS-64_900.jpg\"\
-  /></a><br/>Keywords: GUGI, Spy Submarine, Losharik, DELTA-IV, Belgorod, Podmoskovye*"
+  \ \"READ MORE\")<br/><a href=\"/BS-64_Podmoskovye.html\"><img loading=\"lazy\" src=\"\
+  /images/BS-64+900_1.jpg\"/></a><br/><a href=\"/BS-64_Podmoskovye.html\"><img loading=\"\
+  lazy\" src=\"/images/BS-64_900.jpg\"/></a><br/>Keywords: GUGI, Spy Submarine, Losharik,\
+  \ DELTA-IV, Belgorod, Podmoskovye*"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**BS-64 Podmoskovye - New Russian Special Mission spy-sub**   

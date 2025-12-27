@@ -9,8 +9,8 @@ excerpt: "<font size=\"6\"> **Taiwanese 130 ton Special Forces midget submarine 
   \ Center recommended that Taiwan instead concentrate on building a large fleet of\
   \ some 42 midget submarines. This 350 ton design is most likely in response to this....\
   \  [Read More &gt;....](/Taiwanese_midget_sub.html \"READ MORE\")<br/><a href=\"\
-  /Taiwanese_midget_sub.html\"><img src=\"/images/ROCN_midget900.jpg\"/></a><br clear=\"\
-  right\"/>"
+  /Taiwanese_midget_sub.html\"><img loading=\"lazy\" src=\"/images/ROCN_midget900.jpg\"\
+  /></a><br clear=\"right\"/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social) **Taiwanese 130 ton Special Forces midget submarine design**    

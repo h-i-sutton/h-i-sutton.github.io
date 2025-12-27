@@ -3,7 +3,7 @@ layout: post
 title: "Malachite_arctic_submarine"
 date: "2019-01-14 11:00:00"
 excerpt: |-
-  <font size="6">**Russian ice-breaking submarine design**</font><br/><img src="/images/flag_russia.jpg"/> In 2017 famous Russian submarine design bureau, Malachite, patented a special purpose submarine design for underwater technical works. In particular, the submarine is intended for the maintenance and repair of underwater mining complexes on the Arctic shelf.... <br/><a href="/Malachite_arctic_submarine.html"><img src="/images/Ru_Malachite_arctic_900.jpg"/></a><br clear="right">[Read More &gt;....](http://www.hisutton.com/Shelf-ATGU-connected-to-ice-breaking%20submarine.html "READ MORE")<br/></br>
+  <font size="6">**Russian ice-breaking submarine design**</font><br/><img src="/images/flag_russia.jpg"/> In 2017 famous Russian submarine design bureau, Malachite, patented a special purpose submarine design for underwater technical works. In particular, the submarine is intended for the maintenance and repair of underwater mining complexes on the Arctic shelf.... <br/><a href="/Malachite_arctic_submarine.html"><img loading="lazy" src="/images/Ru_Malachite_arctic_900.jpg"/></a><br clear="right">[Read More &gt;....](http://www.hisutton.com/Shelf-ATGU-connected-to-ice-breaking%20submarine.html "READ MORE")<br/><br/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Comments and corrections welcome.*  

@@ -2,13 +2,13 @@
 layout: post
 title: "Chinese Navy (PLAN) Extra-Large & Extra-Extra-Large Underwater Vehicles"
 date: "2025-10-27 23:00:00"
-excerpt: "<br clear=\"right\"/><a href=\"/Chinese-XLUUVs.html\"><img align=\"left\" src=\"\
-  /images/China-XLUUV-317.jpg\"/></a> ![Flag China](/images/flag_China.jpg) China\u2019\
-  s development of extra-large uncrewed underwater vehicles (XLUUVs) is now unmatched\
-  \ globally, and accelerating rapidly. No other nation is pursuing undersea autonomy\
-  \ at comparable scale, scope, or speed.<br/><br/>Four factors set China\u2019s program\
-  \ apart from all others...<br/>[Read More &gt;....](/Chinese-XLUUVs.html \"READ\
-  \ MORE\")<br clear=\"left\"/>"
+excerpt: "<br clear=\"right\"/><a href=\"/Chinese-XLUUVs.html\"><img align=\"left\" loading=\"\
+  lazy\" src=\"/images/China-XLUUV-317.jpg\"/></a> ![Flag China](/images/flag_China.jpg)\
+  \ China\u2019s development of extra-large uncrewed underwater vehicles (XLUUVs)\
+  \ is now unmatched globally, and accelerating rapidly. No other nation is pursuing\
+  \ undersea autonomy at comparable scale, scope, or speed.<br/><br/>Four factors\
+  \ set China\u2019s program apart from all others...<br/>[Read More &gt;....](/Chinese-XLUUVs.html\
+  \ \"READ MORE\")<br clear=\"left\"/>"
 ---
 
 [![](/images/China-XLUUV-940.jpg)](/images/China-XLUUV.jpg)  

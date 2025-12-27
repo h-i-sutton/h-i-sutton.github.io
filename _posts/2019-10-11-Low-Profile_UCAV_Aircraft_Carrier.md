@@ -3,7 +3,7 @@ layout: post
 title: "Low-Profile_UCAV_Aircraft_Carrier"
 date: "2019-10-11 03:00:00"
 excerpt: |-
-  <font size="6">**Low-Profile UCAV Carrier**</font><br/>Aircraft Carriers are continuously evolving. Yet some of the basic characteristics of carriers hark back to their inception in World War One. Can we conceive of a way to reverse this, and have a carrier which has a very low radar signature, certainly compared to the current carriers?...<br/><a href="/Low-Profile_UCAV_Aircraft_Carrier.html"><img src="/images/LowPro_CarrierArt_900.jpg"/></a><br/>[Read More &gt;....](/Low-Profile_UCAV_Aircraft_Carrier.html "READ MORE")
+  <font size="6">**Low-Profile UCAV Carrier**</font><br/>Aircraft Carriers are continuously evolving. Yet some of the basic characteristics of carriers hark back to their inception in World War One. Can we conceive of a way to reverse this, and have a carrier which has a very low radar signature, certainly compared to the current carriers?...<br/><a href="/Low-Profile_UCAV_Aircraft_Carrier.html"><img loading="lazy" src="/images/LowPro_CarrierArt_900.jpg"/></a><br/>[Read More &gt;....](/Low-Profile_UCAV_Aircraft_Carrier.html "READ MORE")
 ---
 
 Share:[![](/images/mailto.jpg)](mailto:?subject=Shared%20from%20Covert%20Shores&body=http%3A%2F%2Fwww.hisutton.com%2FLow-Profile_UCAV_Aircraft_Carrier.html)_

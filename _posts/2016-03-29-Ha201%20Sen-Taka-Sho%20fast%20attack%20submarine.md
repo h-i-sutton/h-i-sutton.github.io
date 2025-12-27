@@ -8,7 +8,7 @@ excerpt: "![Flag](/images/flag_japan.jpg)  During the latter stages of WW2 Japan
   \ by a smaller submarine with similar technology. This was the **Ha-201 \u2018Sen-Taka-Sho\u2019\
   ** (High Speed Small Submarine). [Read More &gt;....](/Ha201 Sen-Taka-Sho fast attack\
   \ submarine.html \"READ MORE\")<br/><a href=\"/Ha201 Sen-Taka-Sho fast attack submarine.html\"\
-  ><img src=\"/images/Ha201+Cover900.jpg\"/></a>"
+  ><img loading=\"lazy\" src=\"/images/Ha201+Cover900.jpg\"/></a>"
 ---
 
 ![Japanese 波201 (HA201) Sen-Taka-Sho fast attack submarine from World War 2](/images/Ha201+Cover900.jpg)   

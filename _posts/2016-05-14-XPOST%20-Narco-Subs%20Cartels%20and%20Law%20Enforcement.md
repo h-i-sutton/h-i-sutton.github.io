@@ -13,12 +13,12 @@ excerpt: "[XPOST - <a href=\"http://www.foreignbrief.com/narco-subs/\" target=\"
   \ smuggling vessels that operate illegally as \u2018stateless vessels\u2019. Most\
   \ narco-subs are owned by Colombian drug cartels and operate as part of a transnational\
   \ criminal network transporting cocaine from South to North America. <br/><a href=\"\
-  /XPOST -Narco-Subs Cartels and Law Enforcement.html\"><img src=\"/images/NarcoUSCG.jpg\"\
-  /></a><br/> <br/> <a href=\"http://www.foreignbrief.com/narco-subs/\" target=\"\
-  blank\"><img src=\"/images/ForeignBrief.jpg\"/></a> &lt;-- Read full article on\
-  \ <a href=\"http://www.foreignbrief.com/narco-subs/\" target=\"blank\">ForeignBrief.com</a><br/>[Read\
-  \ More &gt;....](/XPOST -Narco-Subs Cartels and Law Enforcement.html \"READ MORE\"\
-  )"
+  /XPOST -Narco-Subs Cartels and Law Enforcement.html\"><img loading=\"lazy\" src=\"\
+  /images/NarcoUSCG.jpg\"/></a><br/> <br/> <a href=\"http://www.foreignbrief.com/narco-subs/\"\
+  \ target=\"blank\"><img loading=\"lazy\" src=\"/images/ForeignBrief.jpg\"/></a>\
+  \ &lt;-- Read full article on <a href=\"http://www.foreignbrief.com/narco-subs/\"\
+  \ target=\"blank\">ForeignBrief.com</a><br/>[Read More &gt;....](/XPOST -Narco-Subs\
+  \ Cartels and Law Enforcement.html \"READ MORE\")"
 ---
 
 2016 looks set to be a bumper year for narco-sub incidents.  

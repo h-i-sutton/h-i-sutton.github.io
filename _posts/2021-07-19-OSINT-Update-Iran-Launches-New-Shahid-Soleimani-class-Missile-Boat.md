@@ -3,7 +3,7 @@ layout: post
 title: "OSINT Analysis Shows That Iran Launched A New Missile Boat"
 date: "2021-07-19 09:50:00"
 excerpt: |-
-  <br clear="right"/><a href="/OSINT-Update-Iran-Launches-New-Shahid-Soleimani-class-Missile-Boat.html"><img align="left" src="/images/Iran-Qeshm-Warship-Launch-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) **OSINT**. While the world watches watches the Iranian Navy's largest warship, Makran, transit the English Channel, the IRGC has quietly launched one of its new missile corvettes. The boat, which is a large stealthy catamaran design, was launched at a yard on Qeshm Island between June 27 and July 2.  <br/>[Read More &gt;....](/OSINT-Update-Iran-Launches-New-Shahid-Soleimani-class-Missile-Boat.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/OSINT-Update-Iran-Launches-New-Shahid-Soleimani-class-Missile-Boat.html"><img align="left" loading="lazy" src="/images/Iran-Qeshm-Warship-Launch-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) **OSINT**. While the world watches watches the Iranian Navy's largest warship, Makran, transit the English Channel, the IRGC has quietly launched one of its new missile corvettes. The boat, which is a large stealthy catamaran design, was launched at a yard on Qeshm Island between June 27 and July 2.  <br/>[Read More &gt;....](/OSINT-Update-Iran-Launches-New-Shahid-Soleimani-class-Missile-Boat.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

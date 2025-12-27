@@ -9,8 +9,8 @@ excerpt: "*Updated. Originally posted 25th June 2016*<br/>![Flag](/images/flag_r
   \ looking in through the doors of the construction hall. This is the first of many\
   \ commercial satellite images which will reveal many more details about this enigmatic\
   \ boat...... [Read More &gt;....](/Spy Subs -Project 09852 Belgorod.html \"READ\
-  \ MORE\")<br/><a href=\"/Spy Subs -Project 09852 Belgorod.html\"><img src=\"/images/Ru_Belgorod_Profile900.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ MORE\")<br/><a href=\"/Spy Subs -Project 09852 Belgorod.html\"><img loading=\"\
+  lazy\" src=\"/images/Ru_Belgorod_Profile900.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 [Read More >....]({% post_url 2021-06-29-Belgorod-Class-Submarine %} "This Articles Has Been Superseded. Go Here For Latest Info")

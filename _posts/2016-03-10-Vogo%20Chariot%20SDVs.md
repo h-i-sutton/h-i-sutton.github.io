@@ -3,7 +3,7 @@ layout: post
 title: "Vogo Chariot SDVs"
 date: "2016-03-10 11:00:00"
 excerpt: |-
-  <img src="/images/flag_RoK.jpg"/> <img src="/images/Updated.jpg"/> Vogo Engineering's SDV-300 and SDV-340 Swimmer Delivery Vehicles. <br/><a href="/Vogo Chariot SDVs.html"><img src="/images/vogo_header.png"/></a>
+  <img src="/images/flag_RoK.jpg"/> <img loading="lazy" src="/images/Updated.jpg"/> Vogo Engineering's SDV-300 and SDV-340 Swimmer Delivery Vehicles. <br/><a href="/Vogo Chariot SDVs.html"><img loading="lazy" src="/images/vogo_header.png"/></a>
 ---
 
 ![Flag](/images/flag_RoK.jpg) ![](/images/Updated.jpg)   

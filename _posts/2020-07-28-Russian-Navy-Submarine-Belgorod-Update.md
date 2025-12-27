@@ -3,7 +3,7 @@ layout: post
 title: "Russian-Navy-Submarine-Belgorod-Update"
 date: "2020-07-28 03:00:00"
 excerpt: |-
-  <font size="6">**Belgorod: Russia's super-submarine update**</font> <br/>![Flag](/images/flag_russia.jpg) On July 26, Russia's Navy Day, President Putin stated that the RuN will receive "underwater nuclear drones"... <br/>[Read More &gt;....](/Russian-Navy-Submarine-Belgorod-Update.html "READ MORE")<br/><a href="/Russian-Navy-Submarine-Belgorod-Update.html"><img src="/images/Russia-submarine-Belgorod-Airbus900.jpg"/></a><br clear="right"><br/></br>
+  <font size="6">**Belgorod: Russia's super-submarine update**</font> <br/>![Flag](/images/flag_russia.jpg) On July 26, Russia's Navy Day, President Putin stated that the RuN will receive "underwater nuclear drones"... <br/>[Read More &gt;....](/Russian-Navy-Submarine-Belgorod-Update.html "READ MORE")<br/><a href="/Russian-Navy-Submarine-Belgorod-Update.html"><img loading="lazy" src="/images/Russia-submarine-Belgorod-Airbus900.jpg"/></a><br clear="right"><br/><br/>
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

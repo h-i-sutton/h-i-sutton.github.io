@@ -9,7 +9,7 @@ excerpt: "![stars](/images/stars-five.png) South Africa's Seaborne Raiders 1978-
   \ (they are Army!) Special Forces units. There is no other book to compare as far\
   \ as 4 Reconnaissance Regiment (4RR) goes. [Read More &gt;....](/Book Review - Iron\
   \ Fist from the Sea.html \"READ MORE\")<br/><a href=\"/Book Review - Iron Fist from\
-  \ the Sea.html\"><img src=\"/images/IronFistFromTheSea.jpg\"/></a>"
+  \ the Sea.html\"><img loading=\"lazy\" src=\"/images/IronFistFromTheSea.jpg\"/></a>"
 ---
 
 ![stars](/images/stars-five.png)  **Iron Fist from the Sea**   

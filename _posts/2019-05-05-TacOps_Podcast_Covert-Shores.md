@@ -9,8 +9,8 @@ excerpt: "<br clear=\"right\"/><font size=\"6\">**Tac Ops podcast with Covert Sh
   \ the recent launch of the new Russian \u2018super submarine\u2019 Belgorod, and\
   \ the Poseidon Inter-continental autonomous torpedo it will carry and much much\
   \ more...<br/> [Read More &gt;....](/TacOps_Podcast_Covert-Shores.html \"READ MORE\"\
-  )<br/><a href=\"/TacOps_Podcast_Covert-Shores.html\"><img src=\"/images/Tac_Ops_Pod_CovertShores900.jpg\"\
-  /></a>"
+  )<br/><a href=\"/TacOps_Podcast_Covert-Shores.html\"><img loading=\"lazy\" src=\"\
+  /images/Tac_Ops_Pod_CovertShores900.jpg\"/></a>"
 ---
 
 **Tac Ops podcast with Covert Shores**[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

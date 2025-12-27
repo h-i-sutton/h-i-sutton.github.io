@@ -3,7 +3,7 @@ layout: post
 title: "Myanmar-Navy-Submarine"
 date: "2020-02-23 01:01:00"
 excerpt: |-
-  <font size="6">**OSINT confirms Myanmar KILO Class submarine**</font> <br/> A set of photos published on Facebook appear to confirm that Myanmar's first submarine, a KILO Class boat, has arrived in the country...<br/><a href="/Myanmar-Navy-Submarine.html"><img src="/images/Myanmar_Kilo-900.jpg"/></a><br/>[Read More](/Myanmar-Navy-Submarine.html "READ MORE")<br clear="right"/>
+  <font size="6">**OSINT confirms Myanmar KILO Class submarine**</font> <br/> A set of photos published on Facebook appear to confirm that Myanmar's first submarine, a KILO Class boat, has arrived in the country...<br/><a href="/Myanmar-Navy-Submarine.html"><img loading="lazy" src="/images/Myanmar_Kilo-900.jpg"/></a><br/>[Read More](/Myanmar-Navy-Submarine.html "READ MORE")<br clear="right"/>
 ---
 
 [![](/images/Forbes-Icon.jpg)](https://www.forbes.com/sites/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

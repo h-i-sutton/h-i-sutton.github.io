@@ -3,7 +3,7 @@ layout: post
 title: "OSINT: Unusual Mini-Submarine Seen In Sevastopol, Black Sea"
 date: "2022-07-12 12:00:00"
 excerpt: |-
-  **UPDATED**<br/><br clear="right"><a href="/Russian-Mini-Submarine-Sevastopol.html"><img align="left" src="/images/Russia-Minisub-Sevastopol-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) A major naval base supporting Russia's invasion of Ukraine, Sevastopol in Crimea is a hive of submarine activity. <br/><br/>Now There is an unusual mini-submarine in Sevastopol...<br/>[Read More &gt;....](/Russian-Mini-Submarine-Sevastopol.html "READ MORE")<br clear="left"/></br>
+  **UPDATED**<br/><br clear="right"><a href="/Russian-Mini-Submarine-Sevastopol.html"><img align="left" loading="lazy" src="/images/Russia-Minisub-Sevastopol-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) A major naval base supporting Russia's invasion of Ukraine, Sevastopol in Crimea is a hive of submarine activity. <br/><br/>Now There is an unusual mini-submarine in Sevastopol...<br/>[Read More &gt;....](/Russian-Mini-Submarine-Sevastopol.html "READ MORE")<br clear="left"/><br/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

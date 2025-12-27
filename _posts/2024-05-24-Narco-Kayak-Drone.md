@@ -3,7 +3,7 @@ layout: post
 title: "Uncrewed Narco Kayak Found by Italy"
 date: "2024-05-24 11:30:00"
 excerpt: |-
-  <br clear="right"/><a href="/Narco-Kayak-Drone.html"><img align="left" src="/images/Narcos-Italy-USV-Kayak-317.jpg"/></a> An Uncrewed 'narco submarine', based on a fiberglass kayak has been discovered by Italian police.<br/><br/>The Torino Carabinieri reported that the vessel had been tested on a lake....<br/>[Read More &gt;....](/Narco-Kayak-Drone.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Narco-Kayak-Drone.html"><img align="left" loading="lazy" src="/images/Narcos-Italy-USV-Kayak-317.jpg"/></a> An Uncrewed 'narco submarine', based on a fiberglass kayak has been discovered by Italian police.<br/><br/>The Torino Carabinieri reported that the vessel had been tested on a lake....<br/>[Read More &gt;....](/Narco-Kayak-Drone.html "READ MORE")<br clear="left"/>
 ---
 
 ![Narco Drone boat found in Italy](/images/Narcos-Italy-USV-Kayak-profile.jpg)  

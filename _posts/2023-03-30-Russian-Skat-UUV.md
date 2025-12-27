@@ -2,12 +2,12 @@
 layout: post
 title: "Russian Firm Develops New 'Skat' Underwater Vehicle"
 date: "2023-03-30 17:30:00"
-excerpt: "<br/><br clear=\"right\"><a href=\"/Russian-Skat-UUV.html\"><img align=\"left\" src=\"\
-  /images/Russia-Skat-UUV-317.jpg\"/></a> ![Flag Russia](/images/flag_russia.jpg)\
+excerpt: "<br/><br clear=\"right\"><a href=\"/Russian-Skat-UUV.html\"><img align=\"left\" loading=\"\
+  lazy\" src=\"/images/Russia-Skat-UUV-317.jpg\"/></a> ![Flag Russia](/images/flag_russia.jpg)\
   \  Russian media has reported that Spektr Engineering design bureau has developed\
   \ a new uncrewed underwater vehicle (UUV).<br/><br/>The 'Skat' (\u0421\u043A\u0430\
   \u0442) may have potential uses in the war with Ukraine.<br/>[Read More &gt;....](/Russian-Skat-UUV.html\
-  \ \"READ MORE\")<br clear=\"left\"/></br>"
+  \ \"READ MORE\")<br clear=\"left\"/><br/>"
 ---
 
 # Russian Firm Develops New 'Skat' Underwater Vehicle

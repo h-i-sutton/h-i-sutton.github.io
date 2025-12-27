@@ -3,7 +3,7 @@ layout: post
 title: "Prohibition_Smugglers_Sub"
 date: "2019-10-04 10:00:00"
 excerpt: |-
-  <font size="6">**Moonshine smuggling sub, 1920s, Mississippi** </font><br/>![Flag](/images/flag_USA.jpg) During the 1920-33 prohibition era cunning individuals devised contraptions to smuggle 'moonshine' whisky from their illicit distilleries to the big cities...   [Read More &gt;....](/Prohibition_Smugglers_Sub.html "READ MORE")<br/><a href="/Prohibition_Smugglers_Sub.html"><img src="/images/Moonshine_Cutaway_900.jpg"/></a><br clear="right"/>
+  <font size="6">**Moonshine smuggling sub, 1920s, Mississippi** </font><br/>![Flag](/images/flag_USA.jpg) During the 1920-33 prohibition era cunning individuals devised contraptions to smuggle 'moonshine' whisky from their illicit distilleries to the big cities...   [Read More &gt;....](/Prohibition_Smugglers_Sub.html "READ MORE")<br/><a href="/Prohibition_Smugglers_Sub.html"><img loading="lazy" src="/images/Moonshine_Cutaway_900.jpg"/></a><br clear="right"/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Moonshine smuggling sub, 1920s, Mississippi**   

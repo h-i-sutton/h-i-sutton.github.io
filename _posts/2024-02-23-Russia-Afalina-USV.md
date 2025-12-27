@@ -2,8 +2,8 @@
 layout: post
 title: "Russia's New 'Afalina' Maritime Drone Is RC 'Bat Boat' Toy"
 date: "2024-02-23 09:00:00"
-excerpt: "<br clear=\"right\"/><a href=\"/Russia-Afalina-USV.html\"><img align=\"left\" src=\"\
-  /images/Russia-USV-Afalina-317.jpg\"/></a> ![Flag Russia](/images/flag_russia.jpg)\
+excerpt: "<br clear=\"right\"/><a href=\"/Russia-Afalina-USV.html\"><img align=\"left\" loading=\"\
+  lazy\" src=\"/images/Russia-USV-Afalina-317.jpg\"/></a> ![Flag Russia](/images/flag_russia.jpg)\
   \ Russian media has revealed the 'Afalina' uncrewed surface vessel (USV) to rival\
   \ the Ukrainian Sea Baby and Magura types. The Russian version, actually a sub-scale\
   \ prototype, is shown being put through its paces on a calm lake.<br/><br/>The prototype\

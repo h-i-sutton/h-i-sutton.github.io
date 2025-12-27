@@ -3,7 +3,7 @@ layout: post
 title: "Types Of Armored Vehicle Quiz"
 date: "2023-01-08 14:40:00"
 excerpt: |-
-  <br clear="right"/><a href="/Armored-Vehicle-Quiz.html"><img align="left" src="/images/Armored-Vehicle-Quiz-317.jpg"/></a>  Is this a tank?!!?!??!<br/><br/>Think you know your Tanks from your recce vehicles?  Take the quiz!<br/>[Read More &gt;....](/Armored-Vehicle-Quiz.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Armored-Vehicle-Quiz.html"><img align="left" loading="lazy" src="/images/Armored-Vehicle-Quiz-317.jpg"/></a>  Is this a tank?!!?!??!<br/><br/>Think you know your Tanks from your recce vehicles?  Take the quiz!<br/>[Read More &gt;....](/Armored-Vehicle-Quiz.html "READ MORE")<br clear="left"/>
 ---
 
 Think you know your Tanks from your recce vehicles This quiz tests your knowledge of Armored Vehicle **types**. Slightly tongue in cheek swipe at journalists but fun anyway.   

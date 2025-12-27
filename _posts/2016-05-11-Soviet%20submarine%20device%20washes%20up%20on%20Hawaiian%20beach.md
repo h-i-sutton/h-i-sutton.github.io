@@ -7,9 +7,9 @@ excerpt: "![Flag](/images/flag_russia.jpg) This is not the sort of thing you exp
   \ unmanned aircraft, the VBAU \u2018Paravan\u2019 communication buoy was a device\
   \ towed behind Soviet submarines to allow them to communicate with their base without\
   \ the whole submarine coming up to periscope depth.  <br/><a href=\"/Soviet submarine\
-  \ device washes up on Hawaiian beach.html\"><img src=\"/images/buoy900.jpg\"/></a><br/>\
-  \ [Read More &gt;....](/Soviet submarine device washes up on Hawaiian beach.html\
-  \ \"READ MORE\")"
+  \ device washes up on Hawaiian beach.html\"><img loading=\"lazy\" src=\"/images/buoy900.jpg\"\
+  /></a><br/> [Read More &gt;....](/Soviet submarine device washes up on Hawaiian\
+  \ beach.html \"READ MORE\")"
 ---
 
 ![Soviet submarine communication buoy washes up on Hawaiian beach](/images/buoy1.jpg)  

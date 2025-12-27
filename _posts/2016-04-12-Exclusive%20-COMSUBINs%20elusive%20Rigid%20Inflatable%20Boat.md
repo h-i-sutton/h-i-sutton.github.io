@@ -10,7 +10,7 @@ excerpt: "![Flag](/images/flag_italy.jpg) The Italian Navy\u2019s elite COMSUBIN
   \ craft. Consequently, the RHIB (Rigid Hulled inflatable Boat) shown in this article\
   \ is not something you can find information about on the web.  [Read More &gt;....](/Exclusive\
   \ -COMSUBINs elusive Rigid Inflatable Boat.html \"READ MORE\")<br/><a href=\"/Exclusive\
-  \ -COMSUBINs elusive Rigid Inflatable Boat.html\"><img src=\"/images/it_COMSUBIN_RIB0.jpg\"\
+  \ -COMSUBINs elusive Rigid Inflatable Boat.html\"><img loading=\"lazy\" src=\"/images/it_COMSUBIN_RIB0.jpg\"\
   /></a>"
 ---
 

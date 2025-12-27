@@ -3,7 +3,7 @@ layout: post
 title: "Overview Of Ukrainian Maritime Drones (USVs) Of The Russo-Ukrainian War"
 date: "2025-09-30 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Ukrainian-USVs-Russo-Ukraine-War.html"><img align="left" src="/images/Russo-Ukraine-USVs-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) USVs (uncrewed surface vessels) have been under development for navies for some years, but the war in the Black Sea has redefined them.<br/><br/>Ukraine in particular has exploited emerging communications technologies to create effective USVs...<br/>[Read More &gt;....](/Ukrainian-USVs-Russo-Ukraine-War.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Ukrainian-USVs-Russo-Ukraine-War.html"><img align="left" loading="lazy" src="/images/Russo-Ukraine-USVs-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) USVs (uncrewed surface vessels) have been under development for navies for some years, but the war in the Black Sea has redefined them.<br/><br/>Ukraine in particular has exploited emerging communications technologies to create effective USVs...<br/>[Read More &gt;....](/Ukrainian-USVs-Russo-Ukraine-War.html "READ MORE")<br clear="left"/>
 ---
 
 *I have split Ukrainian and Russian USV types into seperate guides.*  

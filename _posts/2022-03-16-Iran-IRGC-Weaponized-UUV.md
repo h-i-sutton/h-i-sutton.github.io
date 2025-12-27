@@ -3,7 +3,7 @@ layout: post
 title: "New Iranian Weaponized Underwater Drone"
 date: "2022-03-16 11:00:00"
 excerpt: "<br clear=\"right\"/><a href=\"/Iran-IRGC-Weaponized-UUV.html\"><img align=\"left\"\
-  \ src=\"/images/Iran-IRGC-Torpedo-UUV-317.jpg\"/></a> ![Flag Iran](/images/flag_iran.jpg)\
+  \ loading=\"lazy\" src=\"/images/Iran-IRGC-Torpedo-UUV-317.jpg\"/></a> ![Flag Iran](/images/flag_iran.jpg)\
   \ Iran\u2019s IRGC (Islamic Revolutionary Guard Corps) has unveiled yet another\
   \ new weapon.<br/><br/>This one appears more useful than many previous grand unveilings.<br/>[Read\
   \ More &gt;....](/Iran-IRGC-Weaponized-UUV.html \"READ MORE\")<br clear=\"left\"\

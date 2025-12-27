@@ -7,8 +7,9 @@ excerpt: "<font size=\"6\">**Submarines without sails**</font><br/>![Flag](/imag
   \ China has launched an unnamed \u2018sailless\u2019 submarine in Shanghai. It is\
   \ probably the first full-sized sailless submarine, but it the Chinese naval architects\
   \ behind it are not the first to seriously consider this layout... <br/><a href=\"\
-  /Sailless_Submarines.html\"><img src=\"/images/Sailless_900.jpg\"/></a><br clear=\"\
-  right\">[Read More &gt;....](/Sailless_Submarines.html \"READ MORE\")<br/></br>"
+  /Sailless_Submarines.html\"><img loading=\"lazy\" src=\"/images/Sailless_900.jpg\"\
+  /></a><br clear=\"right\">[Read More &gt;....](/Sailless_Submarines.html \"READ\
+  \ MORE\")<br/><br/>"
 ---
 
 ##### 

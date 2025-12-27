@@ -3,7 +3,7 @@ layout: post
 title: "Biomimetic_Autonomous_Underwater_Vehicles"
 date: "2019-11-02 05:00:00"
 excerpt: |-
-  Updated with Cinese projects. Originally posted Sept 29<br/><font size="6">**Guide to Biomimetic Underwater Vehicles**</font><br/> Overview of projects... <br/><a href="/Biomimetic_Autonomous_Underwater_Vehicles.html"><img src="/images/Bio_900.jpg"/></a><br/>[Read More &gt;....](/Biomimetic_Autonomous_Underwater_Vehicles.html "READ MORE")
+  Updated with Cinese projects. Originally posted Sept 29<br/><font size="6">**Guide to Biomimetic Underwater Vehicles**</font><br/> Overview of projects... <br/><a href="/Biomimetic_Autonomous_Underwater_Vehicles.html"><img loading="lazy" src="/images/Bio_900.jpg"/></a><br/>[Read More &gt;....](/Biomimetic_Autonomous_Underwater_Vehicles.html "READ MORE")
 ---
 
 Updated with Cinese projects. Originally posted Sept 29  

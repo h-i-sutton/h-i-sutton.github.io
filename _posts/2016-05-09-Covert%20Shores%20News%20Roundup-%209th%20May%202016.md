@@ -3,7 +3,7 @@ layout: post
 title: "Covert Shores News Roundup- 9th May 2016"
 date: "2016-05-09 01:00:00"
 excerpt: |-
-  ![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_Yugo.jpg) Various things that have happened recently. Thank you to everyone who feeds me info. <br/><a href="/Covert Shores News Roundup- 9th May 2016.html"><img src="/images/News_may9th.jpg"/></a><br/> [Read More &gt;....](/Covert Shores News Roundup- 9th May 2016.html "READ MORE")
+  ![Flag](/images/flag_sweden.jpg) ![Flag](/images/flag_UK.jpg) ![Flag](/images/flag_Yugo.jpg) Various things that have happened recently. Thank you to everyone who feeds me info. <br/><a href="/Covert Shores News Roundup- 9th May 2016.html"><img loading="lazy" src="/images/News_may9th.jpg"/></a><br/> [Read More &gt;....](/Covert Shores News Roundup- 9th May 2016.html "READ MORE")
 ---
 
  **Spain's SAES Limpet Naval Mine (MILA) on board SEAL Carrier SDV**    

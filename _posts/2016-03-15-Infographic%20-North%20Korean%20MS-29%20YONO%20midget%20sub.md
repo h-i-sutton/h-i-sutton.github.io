@@ -9,7 +9,7 @@ excerpt: "![Flag](/images/flag_nork.jpg) Ever since the loss of a North Korean s
   \ as someone called it!) all point to an MS-29 YONO Class midget submarine, the\
   \ same class credited with sinking the ROKN corvette Cheonan on 26 March 2010. Here\
   \ is my quick infographic comparing the type to other North Korean submarines.<br/><a\
-  \ href=\"/images/Yono_Infographic_2000.jpg\"><img src=\"/images/Yono_Infographic_900.jpg\"\
+  \ href=\"/images/Yono_Infographic_2000.jpg\"><img loading=\"lazy\" src=\"/images/Yono_Infographic_900.jpg\"\
   /></a>"
 ---
 

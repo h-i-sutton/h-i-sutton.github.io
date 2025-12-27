@@ -3,7 +3,7 @@ layout: post
 title: "Drone Warfare's New Angle: Iran's Shaheds Become Low-Cost Anti-Ship Missiles"
 date: "2024-01-13 17:00:00"
 excerpt: "<br clear=\"right\"/><a href=\"/Iran-Shahed-Drone-Anti-Ship-Threat.html\"><img align=\"\
-  left\" src=\"/images/Iran-Shahed-136-317.jpg\"/></a> ![Flag Iran](/images/flag_iran.jpg)\
+  left\" loading=\"lazy\" src=\"/images/Iran-Shahed-136-317.jpg\"/></a> ![Flag Iran](/images/flag_iran.jpg)\
   \ Iran\u2019s IRGC (Islamic Revolutionary Guard Corps) are known for their outlandish\
   \ claims and propaganda equipment parades. Despite the hype much of their equipment\
   \ and tactics should be taken seriously. Especially in hybrid warfare scenarios\

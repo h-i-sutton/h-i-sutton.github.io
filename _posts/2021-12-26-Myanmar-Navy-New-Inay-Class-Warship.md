@@ -3,7 +3,7 @@ layout: post
 title: "OSINT: First Images Of New Inlay Class Warship For Myanmar Navy"
 date: "2021-12-26 12:00:00"
 excerpt: |-
-  <br/><br clear="right"><a href="/Myanmar-Navy-New-Inay-Class-Warship.html"><img align="left" src="/images/Myanmar-Navy-Inlay-Class-317.jpg"/></a> The arrival of a Chinese Type-035 Ming Class submarine in Myanmar has brought a brief moment of renewed interest in the country's navy.<br/><br/>Images also show another new warship. <br/>[Read More &gt;....](/Myanmar-Navy-New-Inay-Class-Warship.html "READ MORE")<br clear="left"/></br>
+  <br/><br clear="right"><a href="/Myanmar-Navy-New-Inay-Class-Warship.html"><img align="left" loading="lazy" src="/images/Myanmar-Navy-Inlay-Class-317.jpg"/></a> The arrival of a Chinese Type-035 Ming Class submarine in Myanmar has brought a brief moment of renewed interest in the country's navy.<br/><br/>Images also show another new warship. <br/>[Read More &gt;....](/Myanmar-Navy-New-Inay-Class-Warship.html "READ MORE")<br clear="left"/><br/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

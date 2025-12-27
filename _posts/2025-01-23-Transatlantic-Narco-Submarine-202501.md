@@ -3,10 +3,10 @@ layout: post
 title: "Another Trans-Atlantic Narco Submarine Found In Europe"
 date: "2025-01-23 09:30:00"
 excerpt: "<br clear=\"right\"/><a href=\"/Transatlantic-Narco-Submarine-202501.html\"><img\
-  \ align=\"left\" src=\"/images/Narcosub-Transatlantic-2025-01-22_317.jpg\"/></a>\
-  \ Another narco-submarine has been found in an isolated cove on the Galician coast\
-  \ in northern Spain. The vessel was discovered off Mux\xEDa, a headland on the north-west\
-  \ tip of the country.<br/><br/>This is significant for several reasons...<br/>[Read\
+  \ align=\"left\" loading=\"lazy\" src=\"/images/Narcosub-Transatlantic-2025-01-22_317.jpg\"\
+  /></a> Another narco-submarine has been found in an isolated cove on the Galician\
+  \ coast in northern Spain. The vessel was discovered off Mux\xEDa, a headland on\
+  \ the north-west tip of the country.<br/><br/>This is significant for several reasons...<br/>[Read\
   \ More &gt;....](/Transatlantic-Narco-Submarine-202501.html \"READ MORE\")<br clear=\"\
   left\"/>"
 ---

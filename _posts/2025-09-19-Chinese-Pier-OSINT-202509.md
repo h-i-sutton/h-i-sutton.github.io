@@ -3,7 +3,7 @@ layout: post
 title: "OSINT: New Underwater Structures At Chinese USV/AUV Test Site"
 date: "2025-09-19 09:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Chinese-Pier-OSINT-202509.html"><img align="left" src="/images/China-Pier-Crane-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) Just south of Dalian there is a pier which has become closely associated with China's uncrewed vessel developments<br/><br/>Now there appears to be new seabed structures being deployed at the site...<br/>[Read More &gt;....](/Chinese-Pier-OSINT-202509.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Chinese-Pier-OSINT-202509.html"><img align="left" loading="lazy" src="/images/China-Pier-Crane-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) Just south of Dalian there is a pier which has become closely associated with China's uncrewed vessel developments<br/><br/>Now there appears to be new seabed structures being deployed at the site...<br/>[Read More &gt;....](/Chinese-Pier-OSINT-202509.html "READ MORE")<br clear="left"/>
 ---
 
 # OSINT: New Underwater Structures At Chinese USV/AUV Test Site

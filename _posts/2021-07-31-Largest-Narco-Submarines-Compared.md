@@ -3,7 +3,7 @@ layout: post
 title: "Largest Narco Submarines Compared To Navy Subs"
 date: "2021-07-31 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Largest-Narco-Submarines-Compared.html"><img align="left" src="/images/Giant-Narco-Submarine-Comp-317.jpg"/></a>Typically so-called "narco submarines" are generally quite small. But occasionally much larger narco subs have been found. How do they compare to the submarines in service with navies around the world?<br/>[Read More &gt;....](/Largest-Narco-Submarines-Compared.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Largest-Narco-Submarines-Compared.html"><img align="left" loading="lazy" src="/images/Giant-Narco-Submarine-Comp-317.jpg"/></a>Typically so-called "narco submarines" are generally quite small. But occasionally much larger narco subs have been found. How do they compare to the submarines in service with navies around the world?<br/>[Read More &gt;....](/Largest-Narco-Submarines-Compared.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

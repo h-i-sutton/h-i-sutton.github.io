@@ -3,7 +3,7 @@ layout: post
 title: "Houthi's Blowfish: Guide To Explosive USV Threat In Red Sea"
 date: "2024-06-30 10:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Yemen-Houthi-USV-Guide.html"><img align="left" src="/images/Yemen-Houthi-Explosive-USVs-317.jpg"/></a> ![Flag Houthi](/images/flag_Houthi.jpg)Recent attacks with USVs, such as the sinking of MV Tutor, have brought their threat to the fore.<br/><br/>This guide will describe the observed types of Houthi USV...<br/>[Read More &gt;....](/Yemen-Houthi-USV-Guide.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Yemen-Houthi-USV-Guide.html"><img align="left" loading="lazy" src="/images/Yemen-Houthi-Explosive-USVs-317.jpg"/></a> ![Flag Houthi](/images/flag_Houthi.jpg)Recent attacks with USVs, such as the sinking of MV Tutor, have brought their threat to the fore.<br/><br/>This guide will describe the observed types of Houthi USV...<br/>[Read More &gt;....](/Yemen-Houthi-USV-Guide.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Yemen-Houthi-Explosive-USVs-940.jpg)](/images/Yemen-Houthi-Explosive-USVs.jpg)  

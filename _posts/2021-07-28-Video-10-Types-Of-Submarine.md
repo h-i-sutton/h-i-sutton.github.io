@@ -3,7 +3,7 @@ layout: post
 title: "New YouTube Video: The 10 Types of Submarine"
 date: "2021-07-28 12:00:00"
 excerpt: |-
-  <br clear="right"/><a href="https://www.youtube.com/watch?v=GRs_MVkrapY" target="blank"><img align="left" src="/images/Youtube-10-types-submarine-317.jpg"/></a> I am trying out recording videos for Youtube. The first topic is a simple explainer of the 10 types of submarines in service today. From SSBN to SSK, to AGS. The video explains what these terms means. ...<br/>[Read More &gt;....](/Video-10-Types-Of-Submarine.html "READ MORE")<br/>[Go To Video &gt;....]("https://www.youtube.com/watch?v=GRs_MVkrapY" "Go To Youtube")<br clear="left"/>
+  <br clear="right"/><a href="https://www.youtube.com/watch?v=GRs_MVkrapY" target="blank"><img align="left" loading="lazy" src="/images/Youtube-10-types-submarine-317.jpg"/></a> I am trying out recording videos for Youtube. The first topic is a simple explainer of the 10 types of submarines in service today. From SSBN to SSK, to AGS. The video explains what these terms means. ...<br/>[Read More &gt;....](/Video-10-Types-Of-Submarine.html "READ MORE")<br/>[Go To Video &gt;....]("https://www.youtube.com/watch?v=GRs_MVkrapY" "Go To Youtube")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

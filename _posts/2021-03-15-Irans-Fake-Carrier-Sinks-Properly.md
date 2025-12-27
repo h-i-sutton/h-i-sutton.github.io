@@ -3,7 +3,7 @@ layout: post
 title: "Irans-Fake-Carrier-Sinks-Properly"
 date: "2021-03-15 10:00:00"
 excerpt: |-
-  <font size="5">**Goodbye My Old Friend: Iran's Fake Aircraft Carrier Sinks, Properly, At Last**</font><br clear="right"/><a href="/Irans-Fake-Carrier-Sinks-Properly.html"><img align="left" src="/images/Iran-IRGC-Fake-Carrier-Gone-317.jpg"/></a>![Flag](/images/flag_iran.jpg) There is something tragic about watching an over-enthusiastic actor wallow in their stage death. Running it out for longer than the audience can bear to watch. <br/><br/>It's all over. Finally(?). <br/><br/>[Read More &gt;....](/Irans-Fake-Carrier-Sinks-Properly.html "READ MORE")<br clear="left"/>
+  <font size="5">**Goodbye My Old Friend: Iran's Fake Aircraft Carrier Sinks, Properly, At Last**</font><br clear="right"/><a href="/Irans-Fake-Carrier-Sinks-Properly.html"><img align="left" loading="lazy" src="/images/Iran-IRGC-Fake-Carrier-Gone-317.jpg"/></a>![Flag](/images/flag_iran.jpg) There is something tragic about watching an over-enthusiastic actor wallow in their stage death. Running it out for longer than the audience can bear to watch. <br/><br/>It's all over. Finally(?). <br/><br/>[Read More &gt;....](/Irans-Fake-Carrier-Sinks-Properly.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

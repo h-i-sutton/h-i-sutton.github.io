@@ -3,7 +3,7 @@ layout: post
 title: "3 Chinese Navy Ships of Interest in Sanya (Not The Carrier)"
 date: "2021-09-30 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/China-Sanya-Carrier.html"><img align="left" src="/images/China-Sanya-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) There is a tendency to focus on aircraft carriers and other major warships. Looking beyond them, there are sometimes some very interesting ships nearby.<br/><br/>In close concert with China's second aircraft carrier, CV-17 Shandong, at Sanya in the South China Sea, are three of these. A massive space tracking ship, a spy ship and a  unique type of support ship only used by the Chinese Navy (PLAN)...<br/>[Read More &gt;....](/China-Sanya-Carrier.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/China-Sanya-Carrier.html"><img align="left" loading="lazy" src="/images/China-Sanya-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) There is a tendency to focus on aircraft carriers and other major warships. Looking beyond them, there are sometimes some very interesting ships nearby.<br/><br/>In close concert with China's second aircraft carrier, CV-17 Shandong, at Sanya in the South China Sea, are three of these. A massive space tracking ship, a spy ship and a  unique type of support ship only used by the Chinese Navy (PLAN)...<br/>[Read More &gt;....](/China-Sanya-Carrier.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

@@ -2,15 +2,15 @@
 layout: post
 title: "The famous CosMoS CE2F chariot"
 date: "2016-02-29 14:00:00"
-excerpt: "<br clear=\"right\"/>![Flag](/images/flag_italy.jpg) <img src=\"/images/Updated.jpg\"\
-  /> For much of the Cold War and beyond, within naval circles, the Cos.Mo.S CE2F\
-  \ was the prototypical two-man \u2018chariot\u2019. Based on tactics employed with\
-  \ devastating effect in WW2, it provided a means for a navy to neutralize a much\
-  \ more powerful foe before they\u2019d even left port.[Read More &gt;....](/The\
+excerpt: "<br clear=\"right\"/>![Flag](/images/flag_italy.jpg) <img loading=\"lazy\" src=\"\
+  /images/Updated.jpg\"/> For much of the Cold War and beyond, within naval circles,\
+  \ the Cos.Mo.S CE2F was the prototypical two-man \u2018chariot\u2019. Based on tactics\
+  \ employed with devastating effect in WW2, it provided a means for a navy to neutralize\
+  \ a much more powerful foe before they\u2019d even left port.[Read More &gt;....](/The\
   \ famous CosMoS CE2F chariot.html \"READ MORE\")<br/><a href=\"/The famous CosMoS\
-  \ CE2F chariot.html\"><img src=\"/images/CosmosCE2F_Col.jpg\"/></a> <br/> <a href=\"\
-  /The famous CosMoS CE2F chariot.html\"><img src=\"/images/cosmos_CE2F-X100-T.jpg\"\
-  /></a>"
+  \ CE2F chariot.html\"><img loading=\"lazy\" src=\"/images/CosmosCE2F_Col.jpg\"/></a>\
+  \ <br/> <a href=\"/The famous CosMoS CE2F chariot.html\"><img loading=\"lazy\" src=\"\
+  /images/cosmos_CE2F-X100-T.jpg\"/></a>"
 ---
 
 ![](/images/Updated.jpg) *Thank you to everyone who has helped with information*

@@ -3,7 +3,7 @@ layout: post
 title: "Guide To Ukraine's Longer Ranged Missiles"
 date: "2024-09-24 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Ukraine-missiles.html"><img align="left" src="/images/Ukraine-Missiles-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Although missiles are normally outside my swim lane, I feel that this topic is a natural complement to the visual guides I prepared for maritime drones (OWA-USVs) and aerial drones (OWA-UAVs...<br/>[Read More &gt;....](/Ukraine-missiles.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Ukraine-missiles.html"><img align="left" loading="lazy" src="/images/Ukraine-Missiles-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Although missiles are normally outside my swim lane, I feel that this topic is a natural complement to the visual guides I prepared for maritime drones (OWA-USVs) and aerial drones (OWA-UAVs...<br/>[Read More &gt;....](/Ukraine-missiles.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Ukraine-Missiles-940.jpg)](/images/Ukraine-Missiles.jpg)  

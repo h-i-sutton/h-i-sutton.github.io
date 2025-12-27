@@ -3,7 +3,7 @@ layout: post
 title: "Israeli-Navy-Dolphin-Class-Submarine-with-Special-Forces-Hangar"
 date: "2020-10-05 03:00:00"
 excerpt: |-
-  <font size="6">**Image reveals Shayetet-13's submarine hangar**</font> <br/>![Flag](/images/flag_isreal.jpg)  A photo published in several Israeli news outlets may reveal one of Shayetet-13's previously unreported capability... <br/>[Read More &gt;....](/Israeli-Navy-Dolphin-Class-Submarine-with-Special-Forces-Hangar.html "READ MORE")<br/><a href="/Israeli-Navy-Dolphin-Class-Submarine-with-Special-Forces-Hangar.html"><img src="/images/Israel-Navy-Dolphin-Submarine-Hangar-900.jpg"/></a><br clear="right"><br/></br>
+  <font size="6">**Image reveals Shayetet-13's submarine hangar**</font> <br/>![Flag](/images/flag_isreal.jpg)  A photo published in several Israeli news outlets may reveal one of Shayetet-13's previously unreported capability... <br/>[Read More &gt;....](/Israeli-Navy-Dolphin-Class-Submarine-with-Special-Forces-Hangar.html "READ MORE")<br/><a href="/Israeli-Navy-Dolphin-Class-Submarine-with-Special-Forces-Hangar.html"><img loading="lazy" src="/images/Israel-Navy-Dolphin-Submarine-Hangar-900.jpg"/></a><br clear="right"><br/><br/>
 ---
 
 [![](/images/Naval-News-logo.png)](https://www.navalnews.com/author/hisutton/)[![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

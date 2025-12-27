@@ -3,7 +3,7 @@ layout: post
 title: "Iran Copies' Russian SPP-1M Underwater Pistol"
 date: "2021-05-25 20:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Iran-SPP-1M-Underwater-Pistol.html"><img align="left" src="/images/Iran-SPP-1M-Copy-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) Russia's distinctive four-barrel SPP-1 underwater pistol was introduced into service in 1971. Its relative compactness, simplicity and robustness make it still relevant today.<br/><br/>So it is perhaps no surprise that Iran has copied it.<br/>[Read More &gt;....](/Iran-SPP-1M-Underwater-Pistol.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Iran-SPP-1M-Underwater-Pistol.html"><img align="left" loading="lazy" src="/images/Iran-SPP-1M-Copy-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) Russia's distinctive four-barrel SPP-1 underwater pistol was introduced into service in 1971. Its relative compactness, simplicity and robustness make it still relevant today.<br/><br/>So it is perhaps no surprise that Iran has copied it.<br/>[Read More &gt;....](/Iran-SPP-1M-Underwater-Pistol.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

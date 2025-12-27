@@ -3,7 +3,7 @@ layout: post
 title: "New Variant Of China's Yuan Class Submarine, Possible Type-039C"
 date: "2021-05-15 20:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Type-039C-Yuan-Class-Submarine.html"><img align="left" src="/images/China-Possible-Type-039C-317.jpg"/></a>![Flag](/images/flag_China.jpg) A candid photograph, taken from a moving vehicle on a bridge, shows the submarine on the slipway at Wuchang shipyard in Wuhan.<br/><br/>I have not yet been able to corroborate the image with other public sources, so caution is needed. However, Google Earth satellite imagery does show three submarine hull sections in the latest (February 2021) imagery. <br/>[Read More &gt;....](/Type-039C-Yuan-Class-Submarine.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Type-039C-Yuan-Class-Submarine.html"><img align="left" loading="lazy" src="/images/China-Possible-Type-039C-317.jpg"/></a>![Flag](/images/flag_China.jpg) A candid photograph, taken from a moving vehicle on a bridge, shows the submarine on the slipway at Wuchang shipyard in Wuhan.<br/><br/>I have not yet been able to corroborate the image with other public sources, so caution is needed. However, Google Earth satellite imagery does show three submarine hull sections in the latest (February 2021) imagery. <br/>[Read More &gt;....](/Type-039C-Yuan-Class-Submarine.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

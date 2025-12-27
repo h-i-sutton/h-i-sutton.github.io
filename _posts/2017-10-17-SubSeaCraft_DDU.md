@@ -3,7 +3,7 @@ layout: post
 title: "SubSeaCraft_DDU"
 date: "2017-10-17 03:00:00"
 excerpt: |-
-  <font size="6">**Diver Delivery Unit**</font> <br/>![Flag](/images/flag_UK.jpg) British firm SubSeaCraft recently revealed the prototype of their new Submersible Boat for Special Forces....  [Read More &gt;....](/SubSeaCraft_DDU.html "READ MORE")<br/><a href="/SubSeaCraft_DDU.html"><img src="/images/DDU_tests900.jpg"/></a><br clear="right"/>
+  <font size="6">**Diver Delivery Unit**</font> <br/>![Flag](/images/flag_UK.jpg) British firm SubSeaCraft recently revealed the prototype of their new Submersible Boat for Special Forces....  [Read More &gt;....](/SubSeaCraft_DDU.html "READ MORE")<br/><a href="/SubSeaCraft_DDU.html"><img loading="lazy" src="/images/DDU_tests900.jpg"/></a><br clear="right"/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Diver Delivery Unit**   

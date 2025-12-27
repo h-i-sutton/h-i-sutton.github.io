@@ -3,7 +3,7 @@ layout: post
 title: "India-Pakistan_Submarines"
 date: "2019-03-07 10:00:00"
 excerpt: |-
-  <img src="/images/flag_india.jpg"/> <img src="/images/flag_pakistan.jpg"/> High-resolution poster of submarines in service with Indian ad Pakistani Navies.... <br/><a href="/India-Pakistan_Submarines.html"><img src="/images/IndiaPakistan_Subs900.jpg"/></a><br/>
+  <img src="/images/flag_india.jpg"/> <img src="/images/flag_pakistan.jpg"/> High-resolution poster of submarines in service with Indian ad Pakistani Navies.... <br/><a href="/India-Pakistan_Submarines.html"><img loading="lazy" src="/images/IndiaPakistan_Subs900.jpg"/></a><br/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

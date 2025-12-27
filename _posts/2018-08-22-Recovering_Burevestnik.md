@@ -8,8 +8,8 @@ excerpt: "<font size=\"6\">**Vessels of interest regarding recovery of Burevestn
   \ on an expedition from Severomorsk, the interesting mix of vessels piqued analysts'\
   \ interest. Now a timeline has emerged that points to one possible real mission\
   \ of the detachment... <br/>[Read More &gt;....](/Recovering_Burevestnik.html \"\
-  READ MORE\")<br/><a href=\"/Recovering_Burevestnik.html\"><img src=\"/images/Ru_KIL-143_900.jpg\"\
-  /></a><br clear=\"right\"/>"
+  READ MORE\")<br/><a href=\"/Recovering_Burevestnik.html\"><img loading=\"lazy\"\
+  \ src=\"/images/Ru_KIL-143_900.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Comments and corrections welcome.*  

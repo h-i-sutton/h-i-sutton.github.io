@@ -3,7 +3,7 @@ layout: post
 title: "Warships sunk by sneak attack"
 date: "2014-11-16 11:00:00"
 excerpt: |-
-  A quick illustrated list of Warships (excluding auxiliaries and merchant ships) successfully attacked by Naval Special Forces. <a href="/Warships sunk by sneak attack.html"><img src="images/dragon1.jpg"/></a>
+  A quick illustrated list of Warships (excluding auxiliaries and merchant ships) successfully attacked by Naval Special Forces. <a href="/Warships sunk by sneak attack.html"><img loading="lazy" src="images/dragon1.jpg"/></a>
 ---
 
 ____________________

@@ -3,7 +3,7 @@ layout: post
 title: "Spain's S-80P Isaac Peral Class AIP Submarine"
 date: "2022-03-28 09:00:00"
 excerpt: |-
-  <br/><br clear="right"><a href="/S-80-Isaac-Peral-Class-Submarine.html"><img align="left" src="/images/S-80P-Isaac-Peral-Class-Submarine-317.jpg"/></a> ![Flag Spain](/images/flag_spain.jpg) The S-81 Isaac Peral is one of the largest non-nuclear submarines in the world. The long-range 2,965 ton boat will bring new capabilities to the Spanish Navy and is being offered on the export market.<br/><br/>Uniquely for a Western non-nuclear submarine it is equipped to launch Tomahawk missiles.<br/>[Read More &gt;....](/S-80-Isaac-Peral-Class-Submarine.html "READ MORE")<br clear="left"/></br>
+  <br/><br clear="right"><a href="/S-80-Isaac-Peral-Class-Submarine.html"><img align="left" loading="lazy" src="/images/S-80P-Isaac-Peral-Class-Submarine-317.jpg"/></a> ![Flag Spain](/images/flag_spain.jpg) The S-81 Isaac Peral is one of the largest non-nuclear submarines in the world. The long-range 2,965 ton boat will bring new capabilities to the Spanish Navy and is being offered on the export market.<br/><br/>Uniquely for a Western non-nuclear submarine it is equipped to launch Tomahawk missiles.<br/>[Read More &gt;....](/S-80-Isaac-Peral-Class-Submarine.html "READ MORE")<br clear="left"/><br/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

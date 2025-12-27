@@ -6,7 +6,7 @@ excerpt: "![Flag](/images/stars-five.png)<font size=\"7\">**Arctic Gambit**</fon
   \ Bond &amp; Chris Carlson<br/>![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_russia.jpg)\
   \ The only boat for the mission is the US Navy\u2019s specialist spy sub USS Jimmy\
   \ Carter....<br/>[Read More](/Arctic_Gambit_review.html \"READ MORE\")<br/><a href=\"\
-  /Arctic_Gambit_review.html\"><img src=\"/images/LarryBond_ArcticGambit_900.jpg\"\
+  /Arctic_Gambit_review.html\"><img loading=\"lazy\" src=\"/images/LarryBond_ArcticGambit_900.jpg\"\
   /></a><br clear=\"right\"/>"
 ---
 

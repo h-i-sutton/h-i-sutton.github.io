@@ -6,7 +6,8 @@ excerpt: "<font size=\"6\">**Russian Autonomous Underwater vehicle Garmoniya-GUI
   \ src=\"/images/flag_russia.jpg\"/> The **Project 7\u042022 Garmoniya-GUIDE** is\
   \ an unmanned underwater vehicle project in Russia which likely fits within the\
   \ Large Displacement UUV category (LDUUV).... <br/><a href=\"/Ru_Garmoniya-GID_AUV.html\"\
-  ><img src=\"/images/Ru_Garmoniya-GUIDE900.jpg\"/></a><br clear=\"right\"/>"
+  ><img loading=\"lazy\" src=\"/images/Ru_Garmoniya-GUIDE900.jpg\"/></a><br clear=\"\
+  right\"/>"
 ---
 
   

@@ -3,7 +3,7 @@ layout: post
 title: "Questions about the Russian Navy Zircon Hypersonic Missile"
 date: "2010-11-05 03:00:00"
 excerpt: |-
-  <font size="6">**Russia's Much Vaunted Zircon Hypersonic Missile Launch: Not All It Seems?**</font><br clear="right"/><a href="/Russian-Navy-Zircon-Hypersonic-Missile-Questions.html"><img align="left" src="/images/Russia-Zircon-300.jpg"/></a>![Flag](/images/flag_russia.jpg) In the race to field hypersonics, Russia is forging ahead by rolling out the **3M22 Zircon** missile to its Navy. <br/><br/>But there is a catch...<br/>[Read More &gt;....](/Russian-Navy-Zircon-Hypersonic-Missile-Questions.html "READ MORE")<br clear="left"/>
+  <font size="6">**Russia's Much Vaunted Zircon Hypersonic Missile Launch: Not All It Seems?**</font><br clear="right"/><a href="/Russian-Navy-Zircon-Hypersonic-Missile-Questions.html"><img align="left" loading="lazy" src="/images/Russia-Zircon-300.jpg"/></a>![Flag](/images/flag_russia.jpg) In the race to field hypersonics, Russia is forging ahead by rolling out the **3M22 Zircon** missile to its Navy. <br/><br/>But there is a catch...<br/>[Read More &gt;....](/Russian-Navy-Zircon-Hypersonic-Missile-Questions.html "READ MORE")<br clear="left"/>
 ---
 
 *Actual date Nov 5, 2020. This is an old copy with a typo in the URL. New copy [HERE]({% post_url 2020-11-05-Russian-Navy-Zircon-Hypersonic-Missile-Questions %} "HERE") but same content*  

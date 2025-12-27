@@ -4,7 +4,7 @@ title: "Kalvari Class Submarine: The Scorpène's New Sting"
 date: "2021-04-09 12:00:00"
 excerpt: "<font size=\"5\">**Kalvari Class Submarine: The Scorp\xE8ne's New Sting**</font><br\
   \ clear=\"right\"/><a href=\"/Scorpene-Class-Submarine.html\"><img align=\"left\"\
-  \ src=\"/images/Kalvari-Class-Submarine-317.jpg\"/></a>![Flag India](/images/flag_india.jpg)\
+  \ loading=\"lazy\" src=\"/images/Kalvari-Class-Submarine-317.jpg\"/></a>![Flag India](/images/flag_india.jpg)\
   \ The latest attack submarines to join the Indian Navy, the six Kalvari Class boats\
   \ were ordered under the P-75 program. A derivative of the French Scorp\xE8ne Class.\
   \ they will soon differ in one significant way: they will be upgraded with Air Independent\

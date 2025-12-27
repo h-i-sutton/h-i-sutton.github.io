@@ -3,7 +3,7 @@ layout: post
 title: "Covert Shores Guide To Mozambique Navy: New, Fast, and Stuck In The Mud"
 date: "2021-05-26 19:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Guide-To-Mozambique-Navy.html"><img align="left" src="/images/Mozambique-Ocean-Eagle-317.jpg"/></a> ![Flag Mozambique](/images/flag_mozambique.jpg) Mozambique has one of the most impressive fleets of any small navy. On paper. It is equipped with futuristic trimaran offshore patrol boats, robust interceptors and the world's fastest military boat.<br/><br/>This article will provide an overview of their vessel types.<br/>[Read More &gt;....](/Guide-To-Mozambique-Navy.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Guide-To-Mozambique-Navy.html"><img align="left" loading="lazy" src="/images/Mozambique-Ocean-Eagle-317.jpg"/></a> ![Flag Mozambique](/images/flag_mozambique.jpg) Mozambique has one of the most impressive fleets of any small navy. On paper. It is equipped with futuristic trimaran offshore patrol boats, robust interceptors and the world's fastest military boat.<br/><br/>This article will provide an overview of their vessel types.<br/>[Read More &gt;....](/Guide-To-Mozambique-Navy.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

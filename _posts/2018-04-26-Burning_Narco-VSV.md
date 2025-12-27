@@ -3,7 +3,7 @@ layout: post
 title: "Burning_Narco-VSV"
 date: "2018-04-26 12:00:00"
 excerpt: |-
-  <font size="6">**Fifth Narco VSV**</font><br/>The fifth Narco-VSV (Very Slender Vessel) has been intercepted by the US Navy. The Cyclone Class patrol boat USS Zephyr (PC 8), with a US Coast Guard detachment aboard, seized the vessel in the Eastern Pacific on 7th April 2018.... <br/><a href="/Burning_Narco-VSV.html"><img src="/images/Narco_Fire900.jpg"/></a><br clear="right"/>
+  <font size="6">**Fifth Narco VSV**</font><br/>The fifth Narco-VSV (Very Slender Vessel) has been intercepted by the US Navy. The Cyclone Class patrol boat USS Zephyr (PC 8), with a US Coast Guard detachment aboard, seized the vessel in the Eastern Pacific on 7th April 2018.... <br/><a href="/Burning_Narco-VSV.html"><img loading="lazy" src="/images/Narco_Fire900.jpg"/></a><br clear="right"/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**Fifth Narco VSV**  

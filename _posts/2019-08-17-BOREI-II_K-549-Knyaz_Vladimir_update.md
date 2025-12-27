@@ -3,7 +3,7 @@ layout: post
 title: "BOREI-II_K-549-Knyaz_Vladimir_update"
 date: "2019-08-17 00:00:00"
 excerpt: |-
-  *originally posted July 16th 2019*<br/> <font size="6">**Correction**: BOREI-II class SSBN in *Sonar* tests</font><br/> ![Flag](/images/flag_russia.jpg) Information surfaced on the Russian internet which confirms that the lead BOREI-II Class ballistic missile submarine, **K-549 Knyaz Vladimir**, is readying for sonar tests. The frame seen was previously misidentified as a telemetery mast for missile test launches but in fact relates to testing and calibrate the digitally formed passive sonar beams...  [Read More &gt;....](/BOREI-II_K-549-Knyaz_Vladimir_update.html "READ MORE")<br/><a href="/BOREI-II_K-549-Knyaz_Vladimir_update.html"><img src="/images/Ru_BOREI-II_Telemetry900.jpg"/></a>
+  *originally posted July 16th 2019*<br/> <font size="6">**Correction**: BOREI-II class SSBN in *Sonar* tests</font><br/> ![Flag](/images/flag_russia.jpg) Information surfaced on the Russian internet which confirms that the lead BOREI-II Class ballistic missile submarine, **K-549 Knyaz Vladimir**, is readying for sonar tests. The frame seen was previously misidentified as a telemetery mast for missile test launches but in fact relates to testing and calibrate the digitally formed passive sonar beams...  [Read More &gt;....](/BOREI-II_K-549-Knyaz_Vladimir_update.html "READ MORE")<br/><a href="/BOREI-II_K-549-Knyaz_Vladimir_update.html"><img loading="lazy" src="/images/Ru_BOREI-II_Telemetry900.jpg"/></a>
 ---
 
 *originally posted July 16th 2019*  

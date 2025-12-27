@@ -10,8 +10,8 @@ excerpt: "<font size=\"6\">**New info on Pr-09852 Belgorod submarine and Arctic 
   \ in in the world, at 184m. This is thanks to a 30m hull insert which allows her\
   \ to accommodate the relatively large Losharik deep sea submersible (AGS). However,\
   \ her size isn\u2019t the real headline here\u2026. <br/>[Read More &gt;....](/Russian_Arctic_update2.html\
-  \ \"READ MORE\")<br/><a href=\"/Russian_Arctic_update2.html\"><img src=\"/images/Belgorod_subsCompare900.jpg\"\
-  /></a><br clear=\"right\"/>"
+  \ \"READ MORE\")<br/><a href=\"/Russian_Arctic_update2.html\"><img loading=\"lazy\"\
+  \ src=\"/images/Belgorod_subsCompare900.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 **New info on Pr-09852 Belgorod submarine and Arctic plans**   

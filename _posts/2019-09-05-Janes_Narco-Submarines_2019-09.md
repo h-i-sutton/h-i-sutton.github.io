@@ -8,7 +8,7 @@ excerpt: " <font size=\"5\">**Jane's Intelligence Review (JIR) Article:<br/>Narc
   \ of the total cocaine entering the United States. In my latest Jane's Intelligence\
   \ Review (JIR) article I analyse the innovations and evolutions that the vessels\
   \ have undergone..... <br/><a href=\"/Janes_Narco-Submarines_2019-09.html\"><img\
-  \ src=\"/images/Janes_NarcoSubs900.jpg\"/></a><br/>[Read More &gt;....](/Janes_Narco-Submarines_2019-09.html\
+  \ loading=\"lazy\" src=\"/images/Janes_NarcoSubs900.jpg\"/></a><br/>[Read More &gt;....](/Janes_Narco-Submarines_2019-09.html\
   \ \"READ MORE\")"
 ---
 

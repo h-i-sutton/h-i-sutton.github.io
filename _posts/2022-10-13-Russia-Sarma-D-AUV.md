@@ -3,7 +3,7 @@ layout: post
 title: "Russia's answer to the U.S. Navy's Orca XLUUV: Sarma-D"
 date: "2022-10-13 13:01:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russia-Sarma-D-AUV.html"><img align="left" src="/images/Russia-Drone-sarma-D-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The Sarma-D is Russia's answer to the U.S. Navy's Orca XLUUV (extra-large uncrewed underwater vehicle). This massive robot submarine promises an incredible 8-10,000 km range, and many of the trappings of full-size submarines.<br/><br/>Its naval potential is clear...<br/>[Read More &gt;....](/Russia-Sarma-D-AUV.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russia-Sarma-D-AUV.html"><img align="left" loading="lazy" src="/images/Russia-Drone-sarma-D-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The Sarma-D is Russia's answer to the U.S. Navy's Orca XLUUV (extra-large uncrewed underwater vehicle). This massive robot submarine promises an incredible 8-10,000 km range, and many of the trappings of full-size submarines.<br/><br/>Its naval potential is clear...<br/>[Read More &gt;....](/Russia-Sarma-D-AUV.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

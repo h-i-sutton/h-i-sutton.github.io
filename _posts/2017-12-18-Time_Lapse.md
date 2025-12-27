@@ -3,7 +3,7 @@ layout: post
 title: "Time_Lapse"
 date: "2017-12-18 22:01:00"
 excerpt: |-
-  <font size="6">**Time lapse video of Submarine Cutaway in MS Paint**</font><br clear="right"/>View it on Youtube:<br/><a href="https://www.youtube.com/watch?v=PdKkR_lbLN0&amp;t=73s"><img src="/images/Borei_YOUTUBE.jpg"/></a>
+  <font size="6">**Time lapse video of Submarine Cutaway in MS Paint**</font><br clear="right"/>View it on Youtube:<br/><a href="https://www.youtube.com/watch?v=PdKkR_lbLN0&amp;t=73s"><img loading="lazy" src="/images/Borei_YOUTUBE.jpg"/></a>
 ---
 
 **Time lapse video of Submarine Cutaway in MS Paint**  

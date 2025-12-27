@@ -3,7 +3,7 @@ layout: post
 title: "Ukraine's New USV, The Stalker 5.0"
 date: "2024-06-17 22:01:00"
 excerpt: |-
-  <br clear="right"/><a href="/Ukraine-Stalker-USV.html"><img align="left" src="/images/Ukraine-USV-Stalker-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) The Stalker 5.0 USV was revealed at the international Black Sea Security Forum 2024 in Odesa.<br/><br/>Unit price is stated as 60k USD, making it cheaper than some other designs...<br/>[Read More &gt;....](/Ukraine-Stalker-USV.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Ukraine-Stalker-USV.html"><img align="left" loading="lazy" src="/images/Ukraine-USV-Stalker-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) The Stalker 5.0 USV was revealed at the international Black Sea Security Forum 2024 in Odesa.<br/><br/>Unit price is stated as 60k USD, making it cheaper than some other designs...<br/>[Read More &gt;....](/Ukraine-Stalker-USV.html "READ MORE")<br clear="left"/>
 ---
 
 # Ukraine's New USV, The Stalker 5.0

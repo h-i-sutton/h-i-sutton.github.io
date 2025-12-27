@@ -3,7 +3,7 @@ layout: post
 title: "USSOCOM - Naval Special Warfare update"
 date: "2015-08-22 11:00:00"
 excerpt: |-
-  <img src="/images/flag_USA.jpg"/> US Special Operations Command (USSOCOM) comtinue to be surprisingly open about their maritime procurement programs, giving regular updates on the progress of their surface systems, SDV programs and related capabilities. [Read More &gt;....](/USSOCOM - Naval Special Warfare update.html "READ MORE")<br/><a href="/USSOCOM - Naval Special Warfare update.html"><img src="/images/UOES3.jpg"/></a>
+  <img src="/images/flag_USA.jpg"/> US Special Operations Command (USSOCOM) comtinue to be surprisingly open about their maritime procurement programs, giving regular updates on the progress of their surface systems, SDV programs and related capabilities. [Read More &gt;....](/USSOCOM - Naval Special Warfare update.html "READ MORE")<br/><a href="/USSOCOM - Naval Special Warfare update.html"><img loading="lazy" src="/images/UOES3.jpg"/></a>
 ---
 
 ![](/images/flag_USA.jpg) US Special Operations Command (USSOCOM) comtinue to be surprisingly open about their maritime procurement programs, giving regular updates on the progress of their surface systems, SDV programs and related capabilities. Below is a brief overview. For a more complete update, download their [PDF](http://www.dtic.mil/ndia/2015SOFIC/PEOMaritimeLehnhardt2.pdf.html).  

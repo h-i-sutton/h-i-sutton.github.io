@@ -3,7 +3,7 @@ layout: post
 title: "Spy Ship Attacked: Russia Implies Ukrainian/NATO Threat To TurkStream Gas Pipeline"
 date: "2023-06-11 16:30:00"
 excerpt: |-
-  <br clear="right"/><a href="/Implied-Threat-To-TurkStream-Gas-Pipeline.html"><img align="left" src="/images/Russia-TurkStream-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) There are reports from Russian sources claiming that the Black Sea Fleet Vishnya class Intelligence Ship Priazovye, was attacked by maritime drones (USVs).<br/><br/> However the claimed reason that she was there may be more significant.<br/>[Read More &gt;....](/Implied-Threat-To-TurkStream-Gas-Pipeline.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Implied-Threat-To-TurkStream-Gas-Pipeline.html"><img align="left" loading="lazy" src="/images/Russia-TurkStream-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) There are reports from Russian sources claiming that the Black Sea Fleet Vishnya class Intelligence Ship Priazovye, was attacked by maritime drones (USVs).<br/><br/> However the claimed reason that she was there may be more significant.<br/>[Read More &gt;....](/Implied-Threat-To-TurkStream-Gas-Pipeline.html "READ MORE")<br clear="left"/>
 ---
 
 # Spy Ship Attacked: Russia Implies Ukrainian/NATO Threat To TurkStream Gas Pipeline

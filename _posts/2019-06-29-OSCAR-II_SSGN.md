@@ -3,7 +3,7 @@ layout: post
 title: "OSCAR-II_SSGN"
 date: "2019-06-29 00:00:00"
 excerpt: |2-
-   <font size="6">**OSCAR-II Class SSGN**</font><br/> ![Flag](/images/flag_russia.jpg) The Russian Navy is modernizing two of its Project 949A OSCAR-II Class cruise missile submarines (SSGNs) to carry the latest generation of missiles...  [Read More &gt;....](/OSCAR-II_SSGN.html "READ MORE")<br/><a href="/OSCAR-II_SSGN.html"><img src="/images/Ru_OSCAR-II_Cutaway900.jpg"/></a>
+   <font size="6">**OSCAR-II Class SSGN**</font><br/> ![Flag](/images/flag_russia.jpg) The Russian Navy is modernizing two of its Project 949A OSCAR-II Class cruise missile submarines (SSGNs) to carry the latest generation of missiles...  [Read More &gt;....](/OSCAR-II_SSGN.html "READ MORE")<br/><a href="/OSCAR-II_SSGN.html"><img loading="lazy" src="/images/Ru_OSCAR-II_Cutaway900.jpg"/></a>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)**OSCAR-II Class SSGN**   

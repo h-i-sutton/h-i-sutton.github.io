@@ -3,7 +3,7 @@ layout: post
 title: "Moskva Sinking: Images Reveal Once Powerful Russian Navy Ship On Fire"
 date: "2022-04-18 01:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russian-Navy-Moskva-Sinking.html"><img align="left" src="/images/Russia-Navy-Moskva-Damage-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The first images of the stricken Russian Navy cruiser Moskva are emerging. They show the once-mighty warship listing to port (left). Smoke is pouring out of the superstructure and there are signs of fires.<br/><br/>A quick analysis of what we are seeing.<br/>[Read More &gt;....](/Russian-Navy-Moskva-Sinking.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russian-Navy-Moskva-Sinking.html"><img align="left" loading="lazy" src="/images/Russia-Navy-Moskva-Damage-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The first images of the stricken Russian Navy cruiser Moskva are emerging. They show the once-mighty warship listing to port (left). Smoke is pouring out of the superstructure and there are signs of fires.<br/><br/>A quick analysis of what we are seeing.<br/>[Read More &gt;....](/Russian-Navy-Moskva-Sinking.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

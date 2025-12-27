@@ -3,7 +3,7 @@ layout: post
 title: "Free Willy: Russian Navy Trained Dolphins Hit By Storm"
 date: "2023-11-28 20:45:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russia-Trained-Dolphin-Pens-Storm.html"><img align="left" src="/images/Russia-Navy-Dolphins-Storm-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) A massive storm battered Crimea on the November 27. Preliminary analysis of the damage done to Russian defenses reveals that the dolphin pens in Sevastopol harbor are gone as a result.<br/><br/>It is plausible that some or all of the trained dolphins have been freed...<br/>[Read More &gt;....](/Russia-Trained-Dolphin-Pens-Storm.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russia-Trained-Dolphin-Pens-Storm.html"><img align="left" loading="lazy" src="/images/Russia-Navy-Dolphins-Storm-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) A massive storm battered Crimea on the November 27. Preliminary analysis of the damage done to Russian defenses reveals that the dolphin pens in Sevastopol harbor are gone as a result.<br/><br/>It is plausible that some or all of the trained dolphins have been freed...<br/>[Read More &gt;....](/Russia-Trained-Dolphin-Pens-Storm.html "READ MORE")<br clear="left"/>
 ---
 
 # Free Willy: Russian Navy Trained Dolphins Hit By Storm

@@ -3,7 +3,7 @@ layout: post
 title: "List of Warships sunk by sneak attack"
 date: "2014-11-25 11:00:00"
 excerpt: |-
-  A quick illustrated list of Warships (excluding auxiliaries and merchant ships) successfully attacked by Naval Special Forces. <a href="/List of Warships sunk by sneak attack.html"><img src="images/maialepainting.jpg" width="900"/></a>
+  A quick illustrated list of Warships (excluding auxiliaries and merchant ships) successfully attacked by Naval Special Forces. <a href="/List of Warships sunk by sneak attack.html"><img loading="lazy" src="images/maialepainting.jpg" width="900"/></a>
 ---
 
 This is a list of warships sunk (or seriously damaged) by Naval Special Forces using frogmen/combat swimmers, midget submarines, wet-submarines or explosive boats. Please send any corrections or comments to [my email](mailto:hisutton.author+blog@gmail.com?subject=Warships sunk by sneak attack)

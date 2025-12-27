@@ -3,7 +3,7 @@ layout: post
 title: "WW2 - German AIP midget sub - Delfin"
 date: "2015-09-06 11:00:00"
 excerpt: |-
-  We think of Air Independant Propulsion (AIP) as a modern invention but German scientists were experimenting with closed-cycle subs in WW2. [Read More &gt;....](/WW2 - German AIP midget sub - Delfin.html "READ MORE")<br/><a href="/WW2 - German AIP midget sub - Delfin.html"><img src="/images/Delfin_940.jpg"/></a>
+  We think of Air Independant Propulsion (AIP) as a modern invention but German scientists were experimenting with closed-cycle subs in WW2. [Read More &gt;....](/WW2 - German AIP midget sub - Delfin.html "READ MORE")<br/><a href="/WW2 - German AIP midget sub - Delfin.html"><img loading="lazy" src="/images/Delfin_940.jpg"/></a>
 ---
 
 The single-man Delfin was originally designed with a regular gasoline engine like on the infamous *Biber* (which had a habbit of killing its crew), but was built with an inovative closed-cycle engine.   

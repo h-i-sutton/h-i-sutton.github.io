@@ -3,7 +3,7 @@ layout: post
 title: "African Navies' Submarine Capabilities 2021"
 date: "2021-11-12 15:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/African-Navies-Submarines.html"><img align="left" src="/images/African-Navy-Submarines-317.jpg"/></a> Persistent rumors that Nigeria may receive a submarine from China have resurfaced again. While that is a case of "wait and see", it is a timely reminder that several African Navies operated submarines.<br/><br/>17 boats are currently in service with three countries. . <br/>[Read More &gt;....](/African-Navies-Submarines.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/African-Navies-Submarines.html"><img align="left" loading="lazy" src="/images/African-Navy-Submarines-317.jpg"/></a> Persistent rumors that Nigeria may receive a submarine from China have resurfaced again. While that is a case of "wait and see", it is a timely reminder that several African Navies operated submarines.<br/><br/>17 boats are currently in service with three countries. . <br/>[Read More &gt;....](/African-Navies-Submarines.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

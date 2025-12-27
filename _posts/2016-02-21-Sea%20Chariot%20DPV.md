@@ -3,7 +3,7 @@ layout: post
 title: "Sea Chariot DPV"
 date: "2016-02-21 14:00:00"
 excerpt: |-
-  ![Flag](/images/flag_isreal.jpg) An interesting new Diver propulsion Device, this time from Israel.[Read More &gt;....](/Sea Chariot DPV.html "READ MORE")<br/><a href="/Sea Chariot DPV.html"><img src="/images/SeaChariot_Mk3.png"/></a>
+  ![Flag](/images/flag_isreal.jpg) An interesting new Diver propulsion Device, this time from Israel.[Read More &gt;....](/Sea Chariot DPV.html "READ MORE")<br/><a href="/Sea Chariot DPV.html"><img loading="lazy" src="/images/SeaChariot_Mk3.png"/></a>
 ---
 
 ![Flag](/images/flag_isreal.jpg) An interesting new Diver propulsion Device, this time from Israel. Technical Equipment International (TEI) Ltd ae better known for their military night vision and related underwater equipment.

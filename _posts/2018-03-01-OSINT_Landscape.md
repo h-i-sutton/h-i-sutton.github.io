@@ -3,7 +3,7 @@ layout: post
 title: "OSINT_Landscape"
 date: "2018-03-01 11:00:00"
 excerpt: |-
-  <font size="6">**OSINT Landscape released**</font><br/>This landscape shows the main platforms and tools of Open Source Intelligence (OSINT) and Open Source Investigation (OSINV). OSINT is the collection and analysis of publicly available sources in an intelligence context. "Open" refers to overt, publicly available sources as opposed to covert or clandestine sources..... [Read More &gt;....](/OSINT_Landscape.html "READ MORE")<br/><a href="/OSINT_Landscape.html"><img src="/images/OSINT_Landscape_v1_FINAL_450.jpg"/></a><br clear="right"/>
+  <font size="6">**OSINT Landscape released**</font><br/>This landscape shows the main platforms and tools of Open Source Intelligence (OSINT) and Open Source Investigation (OSINV). OSINT is the collection and analysis of publicly available sources in an intelligence context. "Open" refers to overt, publicly available sources as opposed to covert or clandestine sources..... [Read More &gt;....](/OSINT_Landscape.html "READ MORE")<br/><a href="/OSINT_Landscape.html"><img loading="lazy" src="/images/OSINT_Landscape_v1_FINAL_450.jpg"/></a><br clear="right"/>
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

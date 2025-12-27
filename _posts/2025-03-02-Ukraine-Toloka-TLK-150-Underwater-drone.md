@@ -3,7 +3,7 @@ layout: post
 title: "Ukraine's Toloka TLK-150 Underwater Drone"
 date: "2025-03-02 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Ukraine-Toloka-TLK-150-Underwater-drone.html"><img align="left" src="/images/Ukraine-UUV-Toloka-TLK-150_317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The Russian Navy is doing badly in the Russo-Ukraine War, losing control of the Black Sea. Ukraine's maritime surface drones (USVs - uncrewed surface vessels) have denied them sea control, and pushed them back to the eastern coast of the Black Sea.<br/><br/>Among the development Ukrainian engineers have up their sleeves, are underwater versions of drones. The **Toloka TLK-150** is a publicly displayed version...<br/>[Read More &gt;....](/Ukraine-Toloka-TLK-150-Underwater-drone.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Ukraine-Toloka-TLK-150-Underwater-drone.html"><img align="left" loading="lazy" src="/images/Ukraine-UUV-Toloka-TLK-150_317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The Russian Navy is doing badly in the Russo-Ukraine War, losing control of the Black Sea. Ukraine's maritime surface drones (USVs - uncrewed surface vessels) have denied them sea control, and pushed them back to the eastern coast of the Black Sea.<br/><br/>Among the development Ukrainian engineers have up their sleeves, are underwater versions of drones. The **Toloka TLK-150** is a publicly displayed version...<br/>[Read More &gt;....](/Ukraine-Toloka-TLK-150-Underwater-drone.html "READ MORE")<br clear="left"/>
 ---
 
 # Ukraine's Toloka TLK-150 Underwater Drone

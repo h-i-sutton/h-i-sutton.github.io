@@ -3,7 +3,7 @@ layout: post
 title: "Chinese Naval Special Forces projects and capabilities"
 date: "2015-05-28 11:00:00"
 excerpt: |-
-  <img src="/images/flag_China.jpg"/> Survey of Chinese midget submarines, Swimmer Delivery Vehicles (SDVs) and Diver Propulsion Vehicles (DPVs). [Read More &gt;....](/Chinese Naval Special Forces projects and capabilities.html "READ MORE")<br/><a href="/Chinese Naval Special Forces projects and capabilities.html"><img src="/images/China_MidgetBlur.jpg"/></a>
+  <img src="/images/flag_China.jpg"/> Survey of Chinese midget submarines, Swimmer Delivery Vehicles (SDVs) and Diver Propulsion Vehicles (DPVs). [Read More &gt;....](/Chinese Naval Special Forces projects and capabilities.html "READ MORE")<br/><a href="/Chinese Naval Special Forces projects and capabilities.html"><img loading="lazy" src="/images/China_MidgetBlur.jpg"/></a>
 ---
 
 ![Flag](/images/flag_China.jpg) Survey of Chinese midget submarines, Swimmer Delivery Vehicles (SDVs) and Diver Propulsion Vehicles (DPVs).   

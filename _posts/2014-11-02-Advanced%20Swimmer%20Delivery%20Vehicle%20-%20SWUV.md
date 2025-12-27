@@ -5,8 +5,8 @@ date: "2014-11-02 11:00:00"
 excerpt: "The first glimpse of the next generation *Special Warfare Underwater Vehicle* (SWUV,\
   \ read \u2018SDV\u2019)  for the French navy has arrived. This article covers the\
   \ history and present trend in French Special Forces (Commando Hubert) submersibles.<a\
-  \ href=\"/Advanced Swimmer Delivery Vehicle - SWUV.html\"><img src=\"/images/SWUV_header.jpg\"\
-  /></a>"
+  \ href=\"/Advanced Swimmer Delivery Vehicle - SWUV.html\"><img loading=\"lazy\"\
+  \ src=\"/images/SWUV_header.jpg\"/></a>"
 ---
 
 ![SWUV artwork](/images/SWUV_header.jpg)

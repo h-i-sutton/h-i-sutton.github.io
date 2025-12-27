@@ -6,8 +6,9 @@ excerpt: "<img src=\"/images/flag_USA.jpg\"/><font size=\"6\"> **US Navy Spy Sub
   \ </font> <br/>When she was finally decommissioned in 2004, after 31 years and 19\
   \ deployments, USS Parche was the most decorated submarine in US Navy history. <br/>\u2026\
   .[Read More &gt;....](/USS_Parche.html \"READ MORE\")<br/><a href=\"/USS_Parche.html\"\
-  ><img src=\"/images/parche_shilloette.png\"/></a><br/><a href=\"/USS_Parche.html\"\
-  ><img src=\"/images/Parche_cutaway900.jpg\"/></a><br clear=\"right\"/>"
+  ><img loading=\"lazy\" src=\"/images/parche_shilloette.png\"/></a><br/><a href=\"\
+  /USS_Parche.html\"><img loading=\"lazy\" src=\"/images/Parche_cutaway900.jpg\"/></a><br\
+  \ clear=\"right\"/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social) *Thank you to everyone who has helped. Any errors are entirely my responsibility. Corrections welcome.*  

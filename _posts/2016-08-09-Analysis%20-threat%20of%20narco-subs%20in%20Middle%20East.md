@@ -15,7 +15,7 @@ excerpt: " Naval planners are doubtless considering the potential of \u2018narco
   \ it is along North Africa\u2019s Mediterranean coast and in the Eastern Mediterranean....\
   \ [Read More &gt;....](/Analysis -threat of narco-subs in Middle East.html \"READ\
   \ MORE\")<br/><a href=\"/Analysis -threat of narco-subs in Middle East.html\"><img\
-  \ src=\"/images/narco_ME900.jpg\"/></a><br clear=\"right\"/>"
+  \ loading=\"lazy\" src=\"/images/narco_ME900.jpg\"/></a><br clear=\"right\"/>"
 ---
 
 ![Narco sub](/images/narco_ME940.jpg)  

@@ -3,7 +3,7 @@ layout: post
 title: "Book Review - Operation Ivy Bells"
 date: "2015-03-31 10:00:00"
 excerpt: |-
-  ![stars](/images/stars-five.png) Historical 'fiction' allows the author, former US Master Diver Robert G. Williscroft, to share the story of the most famous spy submarine mission of the Cold War. [Read More &gt;....](/Book Review - Operation Ivy Bells.html "READ MORE")<br/><a href="/Book Review - Operation Ivy Bells.html"><img src="/images/ivybells.jpg"/></a>
+  ![stars](/images/stars-five.png) Historical 'fiction' allows the author, former US Master Diver Robert G. Williscroft, to share the story of the most famous spy submarine mission of the Cold War. [Read More &gt;....](/Book Review - Operation Ivy Bells.html "READ MORE")<br/><a href="/Book Review - Operation Ivy Bells.html"><img loading="lazy" src="/images/ivybells.jpg"/></a>
 ---
 
 ![stars](/images/stars-five.png) **Operation Ivy Bells** By Robert G. Williscroft   

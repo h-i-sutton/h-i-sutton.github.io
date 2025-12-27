@@ -6,8 +6,9 @@ excerpt: "<br clear=\"right\"/><img src=\"/images/flag_russia.jpg\"/> The Projec
   \ Class deep-submergence special missions submarine (NATO: UNIFORM Class) was introduced\
   \ in the 1980s, analogous to the US Navy\u2019s NR-1.  ... [Read More &gt;....](Project\
   \ 1910 UNIFORM Class.html \"READ MORE\")<br/><a href=\"/Project 1910 UNIFORM Class.html\"\
-  ><img src=\"/images/Pr1910_surface900.jpg\"/></a><br/><a href=\"/Project 1910 UNIFORM\
-  \ Class.html\"><img src=\"/images/Pr1910_900.jpg\"/></a>"
+  ><img loading=\"lazy\" src=\"/images/Pr1910_surface900.jpg\"/></a><br/><a href=\"\
+  /Project 1910 UNIFORM Class.html\"><img loading=\"lazy\" src=\"/images/Pr1910_900.jpg\"\
+  /></a>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)*Thank you to everyone who has helped with information or insights. Corections and additional information welcome.*   

@@ -3,7 +3,7 @@ layout: post
 title: "Guide To Iran's Navy & IRGC's Drone Carriers, Forward Base Ships, and Covert Intelligence Ships"
 date: "2024-12-14 22:30:00"
 excerpt: |-
-  <br clear="right"/><a href="/Iran-Navy-IRGC-Forward-Base-Ships.html"><img align="left" src="/images/Iran-Drone-Carriers-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) The Iranian Navy and IRGC (Islamic Revolutionary Guard Corps) both employ a growing number of large ships as drone carriers, forward operating bases and covert intelligence platforms. These vessels use merchant ship hulls but with new decks and an array of armaments...<br/>[Read More &gt;....](/Iran-Navy-IRGC-Forward-Base-Ships.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Iran-Navy-IRGC-Forward-Base-Ships.html"><img align="left" loading="lazy" src="/images/Iran-Drone-Carriers-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) The Iranian Navy and IRGC (Islamic Revolutionary Guard Corps) both employ a growing number of large ships as drone carriers, forward operating bases and covert intelligence platforms. These vessels use merchant ship hulls but with new decks and an array of armaments...<br/>[Read More &gt;....](/Iran-Navy-IRGC-Forward-Base-Ships.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Iran-Shahid-Bagheri-Maxar-940.jpg)](/images/Iran-Shahid-Bagheri-Maxar.jpg)  

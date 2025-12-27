@@ -3,7 +3,7 @@ layout: post
 title: "Indian-Navy-DRDO-AIP-Submarines"
 date: "2021-03-09 12:00:00"
 excerpt: |-
-  <font size="6">**Indian Navy Submarines Move Closer To AIP Game Changer**</font><br clear="right"/><a href="/Indian-Navy-DRDO-AIP-Submarines.html"><img align="left" src="/images/India-submarines-AIP-317.jpg"/></a>![Flag](/images/flag_india.jpg) Air Independent Power (AIP) greatly increases the survivability of non-nuclear submarines by increasing their underwater endurance. The Indian Navy, unlike its potential adversaries of China and Pakistan has not yet fielded AIP.<br/><br/>But it is moving closer with a locally-designed fuel cell AIP system...<br/>[Read More &gt;....](/Indian-Navy-DRDO-AIP-Submarines.html "READ MORE")<br clear="left"/>
+  <font size="6">**Indian Navy Submarines Move Closer To AIP Game Changer**</font><br clear="right"/><a href="/Indian-Navy-DRDO-AIP-Submarines.html"><img align="left" loading="lazy" src="/images/India-submarines-AIP-317.jpg"/></a>![Flag](/images/flag_india.jpg) Air Independent Power (AIP) greatly increases the survivability of non-nuclear submarines by increasing their underwater endurance. The Indian Navy, unlike its potential adversaries of China and Pakistan has not yet fielded AIP.<br/><br/>But it is moving closer with a locally-designed fuel cell AIP system...<br/>[Read More &gt;....](/Indian-Navy-DRDO-AIP-Submarines.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

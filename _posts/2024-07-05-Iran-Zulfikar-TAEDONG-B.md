@@ -3,7 +3,7 @@ layout: post
 title: "Iran's 'Zulfikar' Submersible Torpedo Boat"
 date: "2024-07-05 17:30:00"
 excerpt: |-
-  <br clear="right"/><a href="/Iran-Zulfikar-TAEDONG-B.html"><img align="left" src="/images/Iran-DPRK-Zulfikar-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) Iran's submersible torpedo boats represent a serious threat to shipping in the confined waters of the Persian Gulf and, potentially, Red Sea.<br/><br/>They are better suited to supply to the Houthi Movement in Yemen than midget submarines...<br/>[Read More &gt;....](/Iran-Zulfikar-TAEDONG-B.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Iran-Zulfikar-TAEDONG-B.html"><img align="left" loading="lazy" src="/images/Iran-DPRK-Zulfikar-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) Iran's submersible torpedo boats represent a serious threat to shipping in the confined waters of the Persian Gulf and, potentially, Red Sea.<br/><br/>They are better suited to supply to the Houthi Movement in Yemen than midget submarines...<br/>[Read More &gt;....](/Iran-Zulfikar-TAEDONG-B.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Iran-DPRK-Zulfikar-TAEDONG-B-cutaway-940.jpg)](/images/Iran-DPRK-Zulfikar-TAEDONG-B-cutaway.jpg)  

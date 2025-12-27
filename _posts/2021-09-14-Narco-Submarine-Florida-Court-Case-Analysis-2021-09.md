@@ -3,7 +3,7 @@ layout: post
 title: "The 4 Narco Submarine Incidents Behind Florida Court Case"
 date: "2021-09-14 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Narco-Submarine-Florida-Court-Case-Analysis-2021-09.html"><img align="left" src="/images/Narco-Sub-US-Court-Case-317.jpg"/></a>6 Colombian nationals have pled guilty to conspiracy to distribute cocaine, using so-called narco submarines. The story. released by Acting United States Attorney Karin Hoppmann, has gathered some press attention. Using my database of reported narco submarine incidents, I have identified the ones listed in the press release. <br/>[Read More &gt;....](/Narco-Submarine-Florida-Court-Case-Analysis-2021-09.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Narco-Submarine-Florida-Court-Case-Analysis-2021-09.html"><img align="left" loading="lazy" src="/images/Narco-Sub-US-Court-Case-317.jpg"/></a>6 Colombian nationals have pled guilty to conspiracy to distribute cocaine, using so-called narco submarines. The story. released by Acting United States Attorney Karin Hoppmann, has gathered some press attention. Using my database of reported narco submarine incidents, I have identified the ones listed in the press release. <br/>[Read More &gt;....](/Narco-Submarine-Florida-Court-Case-Analysis-2021-09.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)  

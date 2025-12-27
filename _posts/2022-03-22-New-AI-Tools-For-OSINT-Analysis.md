@@ -3,7 +3,7 @@ layout: post
 title: "New A.I. Tools Help OSINT Analysis Of Ukraine War"
 date: "2022-03-22 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/New-AI-Tools-For-OSINT-Analysis.html"><img align="left" src="/images/OSINT-AI-Ships-Count-317.jpg"/></a> Using A.I. I have been exploring the impact of Russia closing general access to the Kerch Straight.<br/><br/>Here is how.<br/>[Read More &gt;....](/New-AI-Tools-For-OSINT-Analysis.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/New-AI-Tools-For-OSINT-Analysis.html"><img align="left" loading="lazy" src="/images/OSINT-AI-Ships-Count-317.jpg"/></a> Using A.I. I have been exploring the impact of Russia closing general access to the Kerch Straight.<br/><br/>Here is how.<br/>[Read More &gt;....](/New-AI-Tools-For-OSINT-Analysis.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

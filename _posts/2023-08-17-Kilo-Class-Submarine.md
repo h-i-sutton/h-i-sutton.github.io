@@ -3,7 +3,7 @@ layout: post
 title: "KILO Class Submarine"
 date: "2023-08-17 17:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Kilo-Class-Submarine.html"><img align="left" src="/images/Russia-KILO-Submarine-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The KILO Class was the last major Soviet diesel-electric submarine of the Cold War era. Today it remains the most prolific class of submarine. Much of its success has been after the collapse of the USSR, with it becoming the main Russian non-nuclear submarine class and also widely exported.<br/><br/>During the Cold War the then-new submarine gained a reputation for stealth...<br/>[Read More &gt;....](/Kilo-Class-Submarine.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Kilo-Class-Submarine.html"><img align="left" loading="lazy" src="/images/Russia-KILO-Submarine-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) The KILO Class was the last major Soviet diesel-electric submarine of the Cold War era. Today it remains the most prolific class of submarine. Much of its success has been after the collapse of the USSR, with it becoming the main Russian non-nuclear submarine class and also widely exported.<br/><br/>During the Cold War the then-new submarine gained a reputation for stealth...<br/>[Read More &gt;....](/Kilo-Class-Submarine.html "READ MORE")<br clear="left"/>
 ---
 
 # KILO Class Submarine

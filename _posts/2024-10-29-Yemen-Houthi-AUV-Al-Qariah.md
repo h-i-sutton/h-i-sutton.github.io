@@ -3,7 +3,7 @@ layout: post
 title: "Great Disaster: Houthi's Underwater Drone Not Reverse Engineered U.S. Navy REMUS"
 date: "2024-10-29 23:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Yemen-Houthi-AUV-Al-Qariah.html"><img align="left" src="/images/Houthi-AUV-Al-Qariah-317.jpg"/></a> ![Flag Houthi](/images/flag_Houthi.jpg) Yemen's Iranian-backed Houthi Movement, which controls parts of the west of the country, has shown a propaganda video of its latest maritime weapons. One weapon shown is a one-way-attack autonomous underwater vehicle (OWA-AUV).<br/><br/>There has been speculation that it is in fact a reverse engineered REMUS 600. This does not appear to be the case...<br/>[Read More &gt;....](/Yemen-Houthi-AUV-Al-Qariah.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Yemen-Houthi-AUV-Al-Qariah.html"><img align="left" loading="lazy" src="/images/Houthi-AUV-Al-Qariah-317.jpg"/></a> ![Flag Houthi](/images/flag_Houthi.jpg) Yemen's Iranian-backed Houthi Movement, which controls parts of the west of the country, has shown a propaganda video of its latest maritime weapons. One weapon shown is a one-way-attack autonomous underwater vehicle (OWA-AUV).<br/><br/>There has been speculation that it is in fact a reverse engineered REMUS 600. This does not appear to be the case...<br/>[Read More &gt;....](/Yemen-Houthi-AUV-Al-Qariah.html "READ MORE")<br clear="left"/>
 ---
 
 # Great Disaster: Houthi's Underwater Drone Not Reverse Engineered U.S. Navy REMUS

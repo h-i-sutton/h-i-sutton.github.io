@@ -3,7 +3,7 @@ layout: post
 title: "Royal_Navy_Submarine_SSN-R"
 date: "2018-12-29 13:01:00"
 excerpt: |-
-  <br/><font size="6">**Astute's successor: SSN(R)**</font><br/><img src="/images/flag_UK.jpg"/> Royal Navy planners are already looking to the next class of British attack submarines. Although there is little-to-nothing on this subject on the internet, it is a good time to start an article... <br/><a href="/Royal_Navy_Submarine_SSN-R.html"><img src="/images/SSNR_900.jpg"/></a><br clear="right">[Read More &gt;....](/Royal_Navy_Submarine_SSN-R.html "READ MORE")<br/></br>
+  <br/><font size="6">**Astute's successor: SSN(R)**</font><br/><img src="/images/flag_UK.jpg"/> Royal Navy planners are already looking to the next class of British attack submarines. Although there is little-to-nothing on this subject on the internet, it is a good time to start an article... <br/><a href="/Royal_Navy_Submarine_SSN-R.html"><img loading="lazy" src="/images/SSNR_900.jpg"/></a><br clear="right">[Read More &gt;....](/Royal_Navy_Submarine_SSN-R.html "READ MORE")<br/><br/>
 ---
 
 *Based on unclassified sources*

@@ -3,13 +3,14 @@ layout: post
 title: "Russia Forced To Reduce Navy In Mediterranean As Ukraine War Drags On"
 date: "2022-08-24 23:00:00"
 excerpt: "<br clear=\"right\"/><a href=\"/Russia-Marshal-Ustinov-SLAVA-Cruiser-Leaves-Med.html\"\
-  ><img align=\"left\" src=\"/images/Russia-SLAVA-Ustinov-317.jpg\"/></a> ![Flag Russia](/images/flag_russia.jpg)\
-  \ One of Russia\u2019s two SLAVA class cruisers deployed to the Mediterranean has\
-  \ left the sea. The Marshal Ustinov was seen sailing out through the Straits of\
-  \ Gibraltar today.<br/><br/>This may be a sign that the Russian Navy forces in the\
-  \ Mediterranean, beefed up to support the invasion of Ukraine, are being forced\
-  \ to withdraw key assets...<br/>[Read More &gt;....](/Russia-Marshal-Ustinov-SLAVA-Cruiser-Leaves-Med.html\
-  \ \"READ MORE\")<br clear=\"left\"/>"
+  ><img align=\"left\" loading=\"lazy\" src=\"/images/Russia-SLAVA-Ustinov-317.jpg\"\
+  /></a> ![Flag Russia](/images/flag_russia.jpg) One of Russia\u2019s two SLAVA class\
+  \ cruisers deployed to the Mediterranean has left the sea. The Marshal Ustinov was\
+  \ seen sailing out through the Straits of Gibraltar today.<br/><br/>This may be\
+  \ a sign that the Russian Navy forces in the Mediterranean, beefed up to support\
+  \ the invasion of Ukraine, are being forced to withdraw key assets...<br/>[Read\
+  \ More &gt;....](/Russia-Marshal-Ustinov-SLAVA-Cruiser-Leaves-Med.html \"READ MORE\"\
+  )<br clear=\"left\"/>"
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

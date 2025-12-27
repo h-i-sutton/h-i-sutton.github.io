@@ -3,7 +3,7 @@ layout: post
 title: "Iran Building 4th Missile Catamaran, And New Stealth Version Launched"
 date: "2022-12-03 08:00:00"
 excerpt: |-
-  <br clear="right"/><a href="/Iran-4th-Shahid-Soleimani-class.html"><img align="left" src="/images/Iran-IRGC-Shahid-Soleimani-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) Double OSINT (open source intelligence) news on the IRGC's (Islamic Revolutionary Guard Corp).<br/><br/>The Shahid Soleimani class will be by far the most potent and modern of the IRGC's warships. As well as a mix of short and long range anti-ship missiles, it can carry three fast boats in a hangar under the helicopter deck...<br/>[Read More &gt;....](/Iran-4th-Shahid-Soleimani-class.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Iran-4th-Shahid-Soleimani-class.html"><img align="left" loading="lazy" src="/images/Iran-IRGC-Shahid-Soleimani-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) Double OSINT (open source intelligence) news on the IRGC's (Islamic Revolutionary Guard Corp).<br/><br/>The Shahid Soleimani class will be by far the most potent and modern of the IRGC's warships. As well as a mix of short and long range anti-ship missiles, it can carry three fast boats in a hangar under the helicopter deck...<br/>[Read More &gt;....](/Iran-4th-Shahid-Soleimani-class.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/AmazonMyBooks.jpg)](https://www.amazon.com/s?i=stripbooks&rh=p_27%3AH+I+Sutton&s=relevancerank&text=H+I+Sutton&ref=dp_byline_sr_book_1)[![](/images/MauilTo-Icon.jpg)](mailto:hisutton.author+blog@gmail.com?subject=)[![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)[![](/images/Youtube-icon.jpg)](https://www.youtube.com/channel/UCWHq3kn8PWCb66fhJD8lskQ)  

@@ -3,7 +3,7 @@ layout: post
 title: "Pr09852_Belgorod_Launch"
 date: "2019-03-22 13:00:00"
 excerpt: |-
-  <font size="6">**Belgorod due for launch**</font><br/><img src="/images/flag_russia.jpg"/> The unique Project 09852 Class submarine, Belgorod, is expected to be rolled out of the sheds at Sevmash shipyard in Severodvinsk in just less than two weeks time.... <br/><a href="/Pr09852_Belgorod_Launch.html"><img src="/images/Ru_Belgorod_badge900.jpg"/></a><br/>[Read More &gt;....](/Pr09852_Belgorod_Launch.html "READ MORE")
+  <font size="6">**Belgorod due for launch**</font><br/><img src="/images/flag_russia.jpg"/> The unique Project 09852 Class submarine, Belgorod, is expected to be rolled out of the sheds at Sevmash shipyard in Severodvinsk in just less than two weeks time.... <br/><a href="/Pr09852_Belgorod_Launch.html"><img loading="lazy" src="/images/Ru_Belgorod_badge900.jpg"/></a><br/>[Read More &gt;....](/Pr09852_Belgorod_Launch.html "READ MORE")
 ---
 
 ##### 

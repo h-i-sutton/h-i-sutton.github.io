@@ -2,11 +2,11 @@
 layout: post
 title: "Analysis - Russian Status-6 aka KANYON nuclear deterrence and Pr 09851 submarine"
 date: "2016-12-19 11:00:00"
-excerpt: "<img src=\"/images/Updated.jpg\"/>Originally posted 20th Nov 2015<br/><img src=\"\
-  /images/flag_russia.jpg\"/> <font size=\"6\">**KANYON (Status-6) strategic weapon**</font><br\
-  \ clear=\"right\"> The *leaking* of the Status-6 (\u2018**KANYON**\u2019) strategic\
-  \ nuclear torpedo on Russian TV on 9th November 2015 was met by many in the West\
-  \ with incredulity. However the fact remains that the weapon was not unexpected\
+excerpt: "<img loading=\"lazy\" src=\"/images/Updated.jpg\"/>Originally posted 20th Nov 2015<br/><img\
+  \ src=\"/images/flag_russia.jpg\"/> <font size=\"6\">**KANYON (Status-6) strategic\
+  \ weapon**</font><br clear=\"right\"> The *leaking* of the Status-6 (\u2018**KANYON**\u2019\
+  ) strategic nuclear torpedo on Russian TV on 9th November 2015 was met by many in\
+  \ the West with incredulity. However the fact remains that the weapon was not unexpected\
   \ among the few observers watching the development of certain large submarines by\
   \ Russia. We knew that Russia was developing an over-sized forward firing weapon\
   \ because of the **Sarov** submarine (see old <a href=\"http://www.hisutton.com/SAROV-Class_Submarine.html\"\
@@ -19,7 +19,7 @@ excerpt: "<img src=\"/images/Updated.jpg\"/>Originally posted 20th Nov 2015<br/>
   \ fired from Sarov. [Read More &gt;....](/Analysis - Russian Status-6 aka KANYON\
   \ nuclear deterrence and Pr 09851 submarine.html \"READ MORE\")<br/><a href=\"/Analysis\
   \ - Russian Status-6 aka KANYON nuclear deterrence and Pr 09851 submarine.html\"\
-  ><img src=\"/images/Kanyon_illustration900.jpg\"/></a></br>"
+  ><img loading=\"lazy\" src=\"/images/Kanyon_illustration900.jpg\"/></a><br/>"
 ---
 
 [![](/images/Icon_Bluesky.jpg)](https://bsky.app/profile/covertshores.bsky.social)![](/images/Updated.jpg)Orginally posted 20th Nov 2015  

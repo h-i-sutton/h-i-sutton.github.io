@@ -3,7 +3,7 @@ layout: post
 title: "Russian Aircraft Suspected Of Laying Mines Off Odesa, Ukraine"
 date: "2023-10-26 16:45:00"
 excerpt: |-
-  <br clear="right"/><a href="/Russia-Mines-Odesa-Shipping-Lane.html"><img align="left" src="/images/Russia-mine-Il38-MAY-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Ukrainian mediareported that Russian aircraft dropped four explosive devices in the shipping lane to/from Odesa on October 25.<br/><br/>The objects are likely  mines intended to effect a blockade on the port...<br/>[Read More &gt;....](/Russia-Mines-Odesa-Shipping-Lane.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russia-Mines-Odesa-Shipping-Lane.html"><img align="left" loading="lazy" src="/images/Russia-mine-Il38-MAY-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Ukrainian mediareported that Russian aircraft dropped four explosive devices in the shipping lane to/from Odesa on October 25.<br/><br/>The objects are likely  mines intended to effect a blockade on the port...<br/>[Read More &gt;....](/Russia-Mines-Odesa-Shipping-Lane.html "READ MORE")<br clear="left"/>
 ---
 
 # Russian Aircraft Suspected Of Laying Mines Off Odesa, Ukraine

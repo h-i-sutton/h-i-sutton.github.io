@@ -3,7 +3,7 @@ layout: post
 title: "Unusually Large Narco Submarine Found"
 date: "2023-02-02 23:00:00"
 excerpt: |-
-  <br/><br clear="right"><a href="/Narco-Submarine-Venezuela-Feb-2023.html"><img align="left" src="/images/Narco-Submarine-Venezuela-Feb2023-317.jpg"/></a> Venezuelan government forces have captured an unusual narco submarine. The large twin-motor vessel was under construction in the jungle.<br/><br/>Its size, twin motors and construction site open up the possibility that this is actually another transatlantic craft.<br/>[Read More &gt;....](/Narco-Submarine-Venezuela-Feb-2023.html "READ MORE")<br clear="left"/></br>
+  <br/><br clear="right"><a href="/Narco-Submarine-Venezuela-Feb-2023.html"><img align="left" loading="lazy" src="/images/Narco-Submarine-Venezuela-Feb2023-317.jpg"/></a> Venezuelan government forces have captured an unusual narco submarine. The large twin-motor vessel was under construction in the jungle.<br/><br/>Its size, twin motors and construction site open up the possibility that this is actually another transatlantic craft.<br/>[Read More &gt;....](/Narco-Submarine-Venezuela-Feb-2023.html "READ MORE")<br clear="left"/><br/>
 ---
 
 # Unusually Large Narco Submarine Found - Possibly Transatlantic
