@@ -2,7 +2,6 @@
 layout: post
 title: "Primer: North Korea's New Nuclear Submarine"
 date: "2025-12-29 22:30:00"
-modified: "2025-12-29 22:30:00"
 excerpt: |- 
   <br clear="right"/><a href="/DPRK-SSN-Update.html"><img align="left" loading="lazy" src="/images/North-Korea-SSN-20251225-317.jpg"/></a> ![Flag DPRK](/images/flag_nork.jpg) New images, published on December 25, show North Korea’s new nuclear submarine is largely complete, at least on the outside.<br/><br/>A much larger boat than previous indigenous designs, it bears some stylist similarities to South Korea’s KSS-III class, yet retains some of the peculiarities of the country's unique submarine heritage...<br/>[Read More &gt;....](/North-Korean-Submersible-Torpedo-Boat-202511.html "READ MORE")<br clear="left"/>
 ---
