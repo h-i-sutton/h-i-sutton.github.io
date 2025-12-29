@@ -6,6 +6,8 @@ layout: home
 ---
 
 {% for post in site.posts %}
+{% if post.draft %}
+{% else %}
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 {% if post.modified %}
 <p>{{ post.modified | date: "%-d %B %Y" }}</p>
@@ -13,4 +15,5 @@ layout: home
 <p>{{ post.date | date: "%-d %B %Y" }}</p>
 {% endif %}
 <p>{{ post.excerpt | markdownify }}</p>
+{% endif %}
 {% endfor %}
