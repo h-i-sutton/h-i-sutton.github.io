@@ -3,12 +3,12 @@ layout: post
 title: "Primer: North Korea's New Nuclear Submarine"
 date: "2025-12-29 22:30:00"
 modified: "2025-12-29 22:30:00"
-draft: true
 excerpt: |- 
   <br clear="right"/><a href="/DPRK-SSN-Update.html"><img align="left" loading="lazy" src="/images/North-Korea-SSN-20251225-317.jpg"/></a> ![Flag DPRK](/images/flag_nork.jpg) New images, published on December 25, show North Korea’s new nuclear submarine is largely complete, at least on the outside.<br/><br/>A much larger boat than previous indigenous designs, it bears some stylist similarities to South Korea’s KSS-III class, yet retains some of the peculiarities of the country's unique submarine heritage...<br/>[Read More &gt;....](/North-Korean-Submersible-Torpedo-Boat-202511.html "READ MORE")<br clear="left"/>
 ---
 
 North Korea’s first nuclear submarine was initially revealed to the [public in March 2025](https://apnews.com/article/north-korea-nuclear-submarine-missiles-kim-us-183cde96a36844fdce559081551fc0a7). At the time only partial images of the hull were shared. Now new images, published on December 25, show the largely complete submarine. A much larger boat than previous indigenous designs, it bears some stylist similarities to South Korea’s KSS-III class, yet retains some of the peculiarities of the Hermit Kingdom's unique submarine heritage.
+
 [![](/images/North-Korea-SSN-20251225-Size-est2-940.jpg)](/images/North-Korea-SSN-20251225-Size-est2.jpg)  
 
 *CLICK to Enlarge.*  
@@ -19,7 +19,7 @@ The red paint is likely primer and appears to have been freshly painted for the 
 
 *Although the photos may have been retouched by North Korean state media, they are overall credible and likely reflect the overall form, plus many details, of the submarine. Note that there are six torpedo tubes arranged in a two-over-four layout. North Korea produces a range of 533mm (21”) heavyweight torpedoes which, in the context of an SSBN, will be used primarily for self-defence.*
 
-Reports indicate that the submarine has a displacement of 8,700 tons. Analysis of the images using reference points methods suggests a hull diameter of around 11 meters (36 ft), which is slightly less than my previous estimate of 12.5 meters (41 ft). Length is approximately 100 meters, possibly more. Overall this makes the boat around the same size as the Royal Navy’s Astute class SSN. The main difference of course is in armament.
+The boat will be vastly larger than the boats north Korean submariners are used to. Reports indicate that it has a displacement of 8,700 tons. Analysis of the images using reference points methods suggests a hull diameter of around 11 meters (36 ft), which is slightly less than my previous estimate of 12.5 meters (41 ft). Length is approximately 100 meters, possibly more. Overall this makes the boat around the same size as the Royal Navy’s Astute class SSN. The main difference of course is in armament.
 
 The submarine is clearly, and as expected, a ballistic missile boat (SSBN). It appears to have a single row of 8 or 9 missiles mounted in a very large fin (sail). This arrangement is typical of early Cold War Soviet SSB/SSBNs but it is not clear why, with such a large hull diameter, it is still needed. The missile silos are likely to be extremely long, up to almost 18 meters (59 ft) tall. This is much taller than the largest observed North Korean submarine launched ballistic missile, the Pykuksong-6 which is around 13 meters (43 ft). North Korea received ex-Soviet Pr.629 GOLF Class ballistic missile submarines, which had the launch tubes in the fin, and also used this arrangement in its Gorae Class test boat.  
 
@@ -31,8 +31,6 @@ There have been credible reports that North Korea [received assistance](https://
 ![North Korea’s first nuclear submarine](/images/North-Korea-SSN-20251225-1-940.jpg) 
 
 *The fairing added to the lower hull is typical of flank-array sonars. It is comparatively large however and, oddly, there is no indication of the forward sonar dome under the bow.*
-
-The boat will be vastly larger than the boats north Korean submariners are used to. The layout does suggest however that the control room is relatively small and/odd oddly shaped, and the space for the navigation bridge and masts is very compact.
 
 ![North Korea’s first nuclear submarine](/images/North-Korea-SSN-20251225-5-940.jpg)
 
