@@ -3,16 +3,16 @@ layout: post
 title: "Primer: North Korea's New Nuclear Submarine"
 date: "2025-12-29 22:30:00"
 excerpt: |- 
-  <br clear="right"/><a href="/DPRK-SSN-Update.html"><img align="left" loading="lazy" src="/images/North-Korea-SSN-20251225-317.jpg"/></a> ![Flag DPRK](/images/flag_nork.jpg) New images, published on December 25, show North Korea’s new nuclear submarine is largely complete, at least on the outside.<br/><br/>A much larger boat than previous indigenous designs, it bears some stylist similarities to South Korea’s KSS-III class, yet retains some of the peculiarities of the country's unique submarine heritage...<br/>[Read More &gt;....](/North-Korean-Submersible-Torpedo-Boat-202511.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/DPRK-SSN-Update.html"><img align="left" loading="lazy" src="/images/North-Korea-SSN-20251225-317.jpg"/></a> ![Flag DPRK](/images/flag_nork.jpg) New images, published on December 25, show North Korea’s new nuclear submarine is largely complete, at least on the outside.<br/><br/>A much larger boat than previous indigenous designs, it bears some stylist similarities to South Korea’s KSS-III class, yet retains some of the peculiarities of the country's unique submarine heritage...<br/>[Read More &gt;....](/DPRK-SSN-Update.html "READ MORE")<br clear="left"/>
 ---
 
-North Korea’s first nuclear submarine was initially revealed to the [public in March 2025](https://apnews.com/article/north-korea-nuclear-submarine-missiles-kim-us-183cde96a36844fdce559081551fc0a7). At the time only partial images of the hull were shared. Now new images, published on December 25, show the largely complete submarine. A much larger boat than previous indigenous designs, it bears some stylist similarities to South Korea’s KSS-III class, yet retains some of the peculiarities of the Hermit Kingdom's unique submarine heritage.
+![Flag DPRK](/images/flag_nork.jpg) North Korea’s first nuclear submarine was initially revealed to the [public in March 2025](https://apnews.com/article/north-korea-nuclear-submarine-missiles-kim-us-183cde96a36844fdce559081551fc0a7). At the time only partial images of the hull were shared. Now new images, published on December 25, show the largely complete submarine. A much larger boat than previous indigenous designs, it bears some stylist similarities to South Korea’s KSS-III class, yet retains some of the peculiarities of the Hermit Kingdom's unique submarine heritage.
 
 [![](/images/North-Korea-SSN-20251225-Size-est2-940.jpg)](/images/North-Korea-SSN-20251225-Size-est2.jpg)  
 
 *CLICK to Enlarge.*  
 
-The red paint is likely primer and appears to have been freshly painted for the inspection of the ‘great supreme leader’. No scaffolding is present, and yet many details do not appear to have yet been added, not least the sonars. It is likely that the boat will be painted black, and/or receive anechoic tiles (if so, likely a defence technology transfer from Russia) before it is launched.   
+The red paint is likely primer and appears to have been freshly painted for the inspection of the ‘great supreme leader’. No scaffolding is present, and yet many details do not appear to have yet been added, not least the sonars. This illustrates the importance of the appearance of completion under the authoritarian regime, and the fresh paint may mask some outstanding details. Having said that, North Korea is not known for wholesale fakery in military equipment and what is shown is likely the real thing.It is likely that the boat will be painted black, and/or receive anechoic tiles (if so, likely a defence technology transfer from Russia) before it is launched.   
 
 ![North Korea’s first nuclear submarine](/images/North-Korea-SSN-20251225-2-940.jpg)
 
