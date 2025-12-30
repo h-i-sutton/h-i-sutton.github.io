@@ -12,7 +12,7 @@ excerpt: |-
 
 *CLICK to Enlarge.*  
 
-The red paint is likely primer and appears to have been freshly painted for the inspection of the ‘great supreme leader’. No scaffolding is present, and yet many details do not appear to have yet been added, not least the sonars. This illustrates the importance of the appearance of completion under the authoritarian regime, and the fresh paint may mask some outstanding details. Having said that, North Korea is not known for wholesale fakery in military equipment and what is shown is likely the real thing.It is likely that the boat will be painted black, and/or receive anechoic tiles (if so, likely a defence technology transfer from Russia) before it is launched.   
+The red paint is likely primer and appears to have been freshly painted for the inspection of the ‘great supreme leader’. No scaffolding is present, and yet many details do not appear to have yet been added, not least the sonars. This illustrates the importance of the appearance of completion under the authoritarian regime, and geopolitical motovations behind the timing of the event, so the fresh paint may mask some outstanding details. Having said that, North Korea is not known for wholesale fakery in military equipment and what is shown is likely the real thing.It is likely that the boat will be painted black, and/or receive anechoic tiles (if so, likely a defence technology transfer from Russia) before it is launched.   
 
 ![North Korea’s first nuclear submarine](/images/North-Korea-SSN-20251225-2-940.jpg)
 
