@@ -38,7 +38,7 @@ theme: minima
   #- jekyll-paginate
   #- jekyll-feed
 
-excerpt_separator: <!--more-->
+#excerpt_separator: <!--more-->
 #paginate: 50
 #paginate_path: "/:num"
 
