@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Russian XLUUV Concept: Argus-D"
-date: "2026-01-02 15:30:00"
+date: "2026-01-02 15:00:00"
 excerpt: |- 
   <br clear="right"/><a href="/Russia-XLUUV-Argus-D.html"><img align="left" loading="lazy" src="/images/Russia-XLUUV-Rubin-Argus-D_317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Argus-D is a new AUV designed by Russia’s Rubin Design Bureau as part of a family. <br/><br/>The offensive military potential is clear...<br/>[Read More &gt;....](/Russia-XLUUV-Argus-D.html "READ MORE")<br clear="left"/>
 ---
