@@ -6,30 +6,43 @@ excerpt: |-
   <br clear="right"/><a href="/Russia-XLUUV-Argus-D.html"><img align="left" loading="lazy" src="/images/Russia-XLUUV-Rubin-Argus-D_317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Argus-D is a new AUV designed by Russia’s Rubin Design Bureau as part of a family. <br/><br/>The offensive military potential is clear...<br/>[Read More &gt;....](/Russia-XLUUV-Argus-D.html "READ MORE")<br clear="left"/>
 ---
 
-![Flag Russia](/images/flag_russia.jpg)  Although Moscow remains in the top tier of modern submarine technology, they have fallen some way behind other countries autonomous underwater vehicles (AUVs). Russian design bureaus, notably Rubin and Lazurit, and maintain a steady stream of proposals which offer a path to catch up, at least with the pack. Argus-D is a new AUV designed by Russia’s Rubin Design Bureau as part of a family. It is optimised for deploying objects to the sea floor. Official materials suggest that this is for civilian or scientific purposes, such as beacons, but the offensive military potential is clear. 
+![Flag Russia](/images/flag_russia.jpg)  Although Moscow remains in the top tier of modern submarine technology, they have fallen some way behind other countries autonomous underwater vehicles (AUVs). Russian design bureaus, notably Rubin and Lazurit, and maintain a steady stream of proposals which offer a path to catch up, at least with the pack. **Argus-D** ('D' for Delivery) is a new AUV designed by Russia’s Rubin Design Bureau as part of a family. It is optimised for deploying objects to the sea floor. Official materials suggest that this is for civilian or scientific purposes, such as beacons, but the offensive military potential is clear. 
 
 ![Russia Argus-D underwater drone](/images/Russia-XLUUV-Rubin-Argus-D_940.jpg)  
 
 *Argus-D, Rubin marketing material*
 
 
-## Specifications
+## Specifications - Argus-D
 Length:  8.9 meters <br/>
 Hull diameter: 1.0 meters <br/>
 Height  overall: 1.25 meters <br/>
 Weight in the air: 5,500 kg <br/>
 Residual positive buoyancy: 10 kg <br/>
-Operating depth: 1,000 kg (optionally 3,000 kg) <br/>
+Operating depth: 1,000 meters (optionally 3,000 meters) <br/>
 Speed: 2.5-3 kt cruising, 6 kt max <br/>
 Endurance:  20 hours at 3 kt <br/>
 Power source: lithium-ion batteries <br/>
 Sensors: side-scan sonar, multibeam echosounder, doppler log, pressure sensor, sound speed sensor in water.  <br/>
 Modular Payload capacity: Payload weight in air 300 kg, Length:  2 meters, Width: 0.55 meters, Height: 0.5 meters, Volume: 550 litres <br/>
 
-The design retains many characteristics of other Rubin AUV designs. It has relatively short legs however so its operational concept and usefulness remains unclear. 
+The design retains many characteristics of other Rubin AUV designs. 
 
 ![Russia Argus-D underwater drone](/images/Russia-XLUUV-Rubin-Argus-D_compare.jpg)  
 
+The Argus-D is proposed to work in close coordination with the smaller **Argus-I** (inspector). For pipeline inspection the Argus-I is equipped with laser scanners and cameras to trace the outer surface of the pipeline, detecting and identifying potential leaks. The potential of these technologies beyond inspecting Russia’s own pipelines is clear.
+
+![Russia Argus-I underwater drone](/images/Russia-XLUUV-Rubin-Argus-I.jpg)  
+
+*The Argus-I shares muuch of the same components but is shorter than the Argus-D. The unusual fold-out fins are intended to aid pipeline tracking and inspection.*
+
+Both the Argus-D and Argus-I are intended to be supported by the much larger and unusual **Octavis** uncrewed underwater station. The sailfish-like Octavis recharges the AUVs’ batteries, analyses their technical condition and software, and issues commands. It can store their survey data and transmit it to shore.
+
+![Russian Octavis underwater drone](/images/Russia-XLUUV-Rubin-Octavis.jpg)  
+
+*Octavis is powered by lithium-ion batteries and can either be anchored to the seabed or sit on the bottom. Argus drones then dock via two large ‘shuttle cock’ like funnels, a method typical of AUV docking devices.*
+
+Octavis appears the least likely element to be built. Given Argus-D’s relatively short legs, its operational concept and usefulness without a support host platform such as Octavia remains unclear.
 
 ____________________________________________________
 
