@@ -28,12 +28,17 @@ The submarine is clearly, and as expected, a ballistic missile boat (SSBN). It a
 
 The boat, probably made necessary by the increasing size of North Korea’s strategic missiles which can no longer fit into the legacy ROMEO class hull, has been under construction for years. A ballistic missile conversion of a ROMEO appears to have been shelved c2019 although a tactical version, the Hero-Kim-Gun-Ok class, has been launched in 2023. Reports that all of North Koreas ROMEOs would be so modified have not borne fruit and the focus has instead shifted to the nuclear-powered design. 
 
-There have been credible reports that North Korea [received assistance](https://www.38north.org/2025/11/russian-nuclear-submarine-technology-will-make-north-korean-threat-more-palpable/), likely including a reactor and propulsion elements, from Russia as part payment for the former’s participation in the invasion of Ukraine. These reports have been added to in the past day by rumours that the Ursa Major, a ‘gun runner’ sunk by limpet mines in the Mediterranean on December 23 2024, was also carrying submarine reactors for North Korea. These latest reports should be treated with caution, but the wider story is that this submarine is likely built with some degree of Russian assistance. 
-
 ![North Korea’s first nuclear submarine](/images/North-Korea-SSN-20251225-3-940.jpg)
 ![North Korea’s first nuclear submarine](/images/North-Korea-SSN-20251225-1-940.jpg) 
 
 *The fairing added to the lower hull is typical of flank-array sonars. It is comparatively large however and, oddly, there is no indication of the forward sonar dome under the bow.*
+
+There have been credible reports that North Korea [received assistance](https://www.38north.org/2025/11/russian-nuclear-submarine-technology-will-make-north-korean-threat-more-palpable/), likely including a reactor and propulsion elements, from Russia as part payment for the former’s participation in the invasion of Ukraine. These reports have been added to in the past day by rumours that the Ursa Major, a ‘gun runner’ sunk by limpet mines in the Mediterranean on December 23 2024, was also carrying submarine reactors for North Korea. These latest reports should be treated with caution, but the wider story is that this submarine is likely built with some degree of Russian assistance. 
+
+![North Korea’s first nuclear submarine](/images/North-Korea-SSN-20251225-cooling-scoop.jpg)
+
+*The inlet scoop for the cooling system for the nuclear reactor. This reinforces that it is nuclear powered, and that there has been a technology transfer from Russia.*<br>
+
 
 ![North Korea’s first nuclear submarine](/images/North-Korea-SSN-20251225-5-940.jpg)
 
