@@ -55,7 +55,7 @@ The ship also mounts two large radars, one a Type-366 over-the horizon radar mou
 On the forward section two close in weapon systems (CIWS) are mounted on double stacked containers. One is a standard shipboard Type-1130 CIWS, and the other a land-based LD-3000 version. The latter appears to be mounted on top of the container with only the ammunition within. Countermeasures launchers and additional life rafts are also shown.
 After the initial arrangement described above, the vessel was reconfigured to carry a UCAV launch catapult.
 
-## Yet Not A Q-Ship In The Proper Sense
+## Not A Q-Ship In The Proper Sense
 The common notion is that shipping container weapons systems are for concealment, allowing a surprise attack on enemy coasts typically by launching overwhelming salvos of cruise missiles. A bit like a cross between Ukraine’s Operation Spiderweb and an Arsenal Ship. The concept has some merit, but is quite different from what we are seeing here. Although the containers may offer some concealment, they appear principally to be for ease of logistics and attachment to the ship. And a merchant ship with a large frigate-grade dual-face rotating AESA radar is hardly discrete. 
 
 And the new design is distinct from the classic Q-Ship concept. Those were conceived in World War One as merchant ships with concealed weaponry designed to lure German U-Boats to attack them, so that they could in turn be sunk. 
@@ -132,7 +132,7 @@ ____________________________________________________
 
 ![Flag](/images/flag_China.jpg) [![](/images/China-Semi-Sub-250.png)]({% post_url 2025-12-05-Chinese-Semi-Sub %}) China's [semi-submersible trimaran]({% post_url 2025-12-05-Chinese-Semi-Sub %}) possible arsenal ship.   
 
-![Flag](/images/flag_iran.jpg) [![](/images/Iran-IRGC-Drone-Carriers-250.png)]({% post_url 2024-12-14-Iran-Navy-IRGC-Forward-Base-Ships %})Guide To Iran's Navy & IRGC [Drone Carriers And Similar Large Ships]({% post_url 2024-12-14-Iran-Navy-IRGC-Forward-Base-Ships %}) submarine *w/Cutaway*   
+![Flag](/images/flag_iran.jpg) [![](/images/Iran-IRGC-Drone-Carriers-250.png)]({% post_url 2024-12-14-Iran-Navy-IRGC-Forward-Base-Ships %})Guide To Iran's Navy & IRGC [Drone Carriers And Similar Large Ships]({% post_url 2024-12-14-Iran-Navy-IRGC-Forward-Base-Ships %})
 
 ![Flag](/images/flag_brazil.jpg) [![](/images/Brazil-Ceara-250.png)]({% post_url 2021-11-20-Brazilian-Navy-Sip-Ceara %}) Ceara; Brazil's unique [Submarine Transport Ship With Hidden Hangar, 1915]({% post_url 2021-11-20-Brazilian-Navy-Sip-Ceara %}) *w/Cutaway*  
 
