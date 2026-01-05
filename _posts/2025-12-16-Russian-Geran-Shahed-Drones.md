@@ -80,6 +80,13 @@ A major variant is the jet turbine powered **Geran-III**, the Russian equivalent
 
 *A crashed Geran-III above and Shahed-238 below. Note that as well as missing the casing over the turbine, the Russian drone has a less streamlined air intake duct and wing control surfaces unmodified from the piston engined Geran-II.*  
 
+
+## Update
+In January 2026 a Geran drone has been observed crashed with an SA-29 GIZMO (The 9K333 Verba) MANPADS (Man-portable air-defense system) mounted above the fuselage, Unlike the AA-8 APHID modification this does not appear to require enlarged vertical stabilizers.
+
+![Russian Shahed / Geran Strike Drones](/images/Russia-Shahed-Geran-MANPADS-Verba.jpg)  
+
+
 ____________________________________________________
 
 **Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
