@@ -607,6 +607,9 @@ Dec 19: Ukraine strikes Russian gas platforms in Caspian Sea with UAVs.
 
 Dec 19: Russian FSB border guard Pr.22460 Rubin-class patrol boat *Rasul Gamzatov* (511) hit by Ukrainian UAVs in Caspian Sea.  
 
+Jan 8 2026: Palau-flagged tanker *Elbus* (IMO: 9290385) heading to Novorossiysk hit by aerial drone off Turkish coast in Black Sea. 
+
+
 ...To be continued.  
 
 ____________________________________________________
