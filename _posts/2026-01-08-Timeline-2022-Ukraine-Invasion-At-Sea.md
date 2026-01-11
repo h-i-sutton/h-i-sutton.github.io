@@ -609,6 +609,8 @@ Dec 19: Russian FSB border guard Pr.22460 Rubin-class patrol boat *Rasul Gamzato
 
 Jan 8 2026: Palau-flagged tanker *Elbus* (IMO: 9290385) heading to Novorossiysk hit by aerial drone off Turkish coast in Black Sea. 
 
+Jan 11: Ukrainian drones hit Russian *Filanovsky, Korchagin*, and *Grayfer* oil platforms in the Caspian Sea. 
+
 
 ...To be continued.  
 
