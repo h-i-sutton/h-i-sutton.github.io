@@ -18,7 +18,7 @@ The Geran-5 can be seen as part of a wider trend to make low-cost jet powered dr
 
 The missile has a reported length of 6 meters, payload of 90 kg (suggesting a standard larger-size Shahed/Geran-2 warhead) and a range of 1,000 km. This makes it significantly larger than many similar drone-missiles, yet smaller and shorter ranged than Ukraine’s [FP-5 Flamingo missile](https://www.hisutton.com/Ukrainian-FP-15-Flamingo-Cruise-Missile.html). 
 
-The fuselage is cylindrical with numerous features suggesting missile-style metal construction more than typical drone airframe.  This likely means that it is more expensive than the Shahed/Geran-2, but can withstand higher stresses and may be lighter. This would convey greater range and speed. Having said that the wings are a simple unwept and untampered form, which suggests still only modest speeds overall. The tail uses a bomber-style arrangement with endplate rudders which allows the jet turbine to be attached above the fuselage and the launch booster below. 
+The fuselage is cylindrical with numerous features suggesting missile-style metal construction more than typical drone airframe.  This likely means that it is more expensive than the Shahed/Geran-2, but can withstand higher stresses and may be lighter. This would convey greater range and speed. Having said that the wings are a unswept with a constant chord (not tapered), which suggests still only modest speeds overall. The tail uses a bomber-style arrangement with endplate rudders which allows the jet turbine to be attached above the fuselage and the launch booster below. 
 
 ![Russia's Geran-5 Low-Cost cruise missile drone crash site](/images/Russia-OWA-UAV-Geran-5-crashed1.jpg) 
 ![Russia's Geran-5 Low-Cost cruise missile drone crash site](/images/Russia-OWA-UAV-Geran-5-crashed2.jpg) 
@@ -29,7 +29,7 @@ The fuselage is cylindrical with numerous features suggesting missile-style meta
 
 ## Not An Iranian Karrar clone
 
-Parallels have been drawn to Iran’s **Karrar** combat drone which has a similar overall configuration. The Karrar has nan even more aircraft-like airframe which logically makes it even more expensive. And notably, the Karrar carries its payload under the fuselage, making it reusable. If the Geran-5 is a one-way drone then similarities to the Karrer are just coincidental; several Ukrainian low-cost drone-missiles also share a similar overall form yet are unrelated.
+Parallels have been drawn to Iran’s **Karrar** combat drone which has a similar overall configuration. The Karrar has an even more aircraft-like airframe which logically makes it even more expensive. And notably, the Karrar carries its payload under the fuselage, making it reusable. If the Geran-5 is a one-way drone then similarities to the Karrer are just coincidental; several Ukrainian low-cost drone-missiles also share a similar overall form yet are unrelated.
 
 ![Iranian Karrar cruise missile drone](/images/Iran-Drone-Karrar.jpg) 
 
