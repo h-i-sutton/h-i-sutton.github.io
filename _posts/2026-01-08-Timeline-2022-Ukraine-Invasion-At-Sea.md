@@ -611,6 +611,10 @@ Jan 8 2026: Palau-flagged tanker *Elbus* (IMO: 9290385) heading to Novorossiysk 
 
 Jan 11: Ukrainian drones hit Russian *Filanovsky, Korchagin*, and *Grayfer* oil platforms in the Caspian Sea. 
 
+Jan 12: Russia has been intensifies strikes on Odesa coast including targeting merchant ships both in harbour and at sea with drones. Several ships hit including *Ata Voyager* (IMO: 9408360) and *Blue Bead* (IMO: 9171113), the latter with a BM-35 or similar UAV.
+
+Jan 13: Russian sources report drones attacked 4 tankers in the Black Sea near Novorossiysk. *Delta Harmony* (IMO: 9408463), *Matilda* (IMO: 9407457), *Freud* (IMO: 9804461) and *Delta Supreme* (IMO: 9585895)
+
 
 ...To be continued.  
 
