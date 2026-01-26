@@ -6,7 +6,9 @@ excerpt: |-
   <br clear="right"/><a href="/China-PLAN-minesweepers.html"><img align="left" loading="lazy" src="/images/China-Minesweepers-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) With around 60 vessels the Chinese Navy (PLAN) probably has the largest mine warfare fleet of any Navy.<br/><br/>And they are as poorly reported on as anyone else’s...<br/>[Read More &gt;....](/China-PLAN-minesweepers.html "READ MORE")<br clear="left"/>
 ---
 
-![China’s  minehunters](/images/China-Minesweepers.jpg)
+[![](/images/China-Minesweepers.jpg)](/images/China-Minesweepers-guide.jpg)  
+
+*CLICK to Enlarge.*  
 
 Minesweepers are an often-overlooked corner of naval forces, especially in respect to heavily armed combatants and submarines. With around 60 vessels the Chinese Navy (PLAN) probably has the largest mine warfare fleet of any navy. And they are as poorly reported on as anyone else’s. This alone makes it an interesting topic for naval observers.
 
