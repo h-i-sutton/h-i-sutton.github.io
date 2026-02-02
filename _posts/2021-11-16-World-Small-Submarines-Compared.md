@@ -60,7 +60,7 @@ This **Covert Shores Recognition Guide**  Covers over 80 classes of submarines i
 
 ## M23, Qatars Mystery Italian X-Craft
 
-![Flag Italy](/images/flag_italy.jpg) Italian company M23 S.R.L. is building [two submarines for the Qatari Emiri Navy](http://www.hisutton.com{% post_url 2026-01-30-M23-Submarine %}) (QEN). Although it has been alluded to in announcements relating to the larger Italian naval deal with Qatar, details have only slowly come out. At the time of writing the exact model of submarine has not been revealed. However, the hints have combined to paint a decent picture (see artist’s impression above).  
+![Flag Italy](/images/flag_italy.jpg) Italian company M23 S.R.L. is building [two submarines for the Qatari Emiri Navy](http://www.hisutton.com{% post_url 2026-02-01-M23_C-Series-Submarine %}) (QEN). Although it has been alluded to in announcements relating to the larger Italian naval deal with Qatar, details have only slowly come out. At the time of writing the exact model of submarine has not been revealed. However, the hints have combined to paint a decent picture (see artist’s impression above).  
 
 ## SOV-400
 
@@ -115,7 +115,7 @@ ________________________________
 
 **Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
 
-![Flag](/images/flag_italy.jpg) [![](/images/Italy-Qatar-M23-Sub-250.png)]({% post_url 2026-01-30-M23-Submarine %}) Italian  [M23 Submarine]({% post_url 2026-01-30-M23-Submarine %}) for Qatar  
+![Flag](/images/flag_italy.jpg) [![](/images/Italy-Qatar-M23-Sub-250.png)]({% post_url 2026-02-01-M23_C-Series-Submarine %}) Italian  [M23 Submarine]({% post_url 2026-02-01-M23_C-Series-Submarine %}) for Qatar  
 
 ![Flag](/images/flag_italy.jpg) [![](/images/CE4F_250.png)]({% post_url 2017-01-29-CosMoS%20CE4F%20SDV %}) Cos.Mo.S [CE4F]({% post_url 2017-01-29-CosMoS%20CE4F%20SDV %}) 4-man SDV   
 

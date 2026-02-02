@@ -86,7 +86,7 @@ ________________________________
 
 **Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
 
-![Flag](/images/flag_italy.jpg) [![](/images/Italy-Qatar-M23-Sub-250.png)]({% post_url 2026-01-30-M23-Submarine %}) Italian  [M23 Submarine]({% post_url 2026-01-30-M23-Submarine %}) for Qatar  
+![Flag](/images/flag_italy.jpg) [![](/images/Italy-Qatar-M23-Sub-250.png)]({% post_url 2026-02-01-M23_C-Series-Submarine %}) Italian  [M23 Submarine]({% post_url 2026-02-01-M23_C-Series-Submarine %}) for Qatar  
 
 ![Flag](/images/flag_italy.jpg) [![](/images/CE4F_250.png)]({% post_url 2017-01-29-CosMoS%20CE4F%20SDV %}) Cos.Mo.S [CE4F]({% post_url 2017-01-29-CosMoS%20CE4F%20SDV %}) 4-man SDV   
 

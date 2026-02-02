@@ -42,7 +42,7 @@ ______________________________________________________________
 
 ![Flag](/images/flag_russia.jpg) [![](/images/Ru-Schilder-sub-250.png)]({% post_url 2021-06-02-Schilder-1838-Rocket-Armed-Submarine %}) K.A. Schilder's Rocket-Armed [Submarine of 1834]({% post_url 2021-06-02-Schilder-1838-Rocket-Armed-Submarine %}). *w/Cutaway*   
 
-![Flag](/images/flag_italy.jpg) [![](/images/Italy-Qatar-M23-Sub-250.png)]({% post_url 2026-01-30-M23-Submarine %}) Italian  [M23 Submarine]({% post_url 2026-01-30-M23-Submarine %}) for Qatar  
+![Flag](/images/flag_italy.jpg) [![](/images/Italy-Qatar-M23-Sub-250.png)]({% post_url 2026-02-01-M23_C-Series-Submarine %}) Italian  [M23 Submarine]({% post_url 2026-02-01-M23_C-Series-Submarine %}) for Qatar  
 
 ![Flag](/images/flag_japan.jpg) [![](/images/Japan-WW2-Type-3-250.png)]({% post_url 2021-05-22-WW2-Maru-Yu-Class-Submarine %}) Japanese [Maru Yu]({% post_url 2021-05-22-WW2-Maru-Yu-Class-Submarine %}) special transport submarine of WW2 *w/Cutaway*  
 

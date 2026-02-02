@@ -67,7 +67,7 @@ ____________________________________________________
 
 ![Flag](/images/flag_italy.jpg) [![](/images/It_DeepShadow_250.png)]({% post_url 2018-11-18-Deep_Shadow_SDV %}) [Deep Shadow SDV]({% post_url 2018-11-18-Deep_Shadow_SDV %})   
 
-![Flag](/images/flag_italy.jpg) [![](/images/Italy-Qatar-M23-Sub-250.png)]({% post_url 2026-01-30-M23-Submarine %}) Italian  [M23 Submarine]({% post_url 2026-01-30-M23-Submarine %}) for Qatar  
+![Flag](/images/flag_italy.jpg) [![](/images/Italy-Qatar-M23-Sub-250.png)]({% post_url 2026-02-01-M23_C-Series-Submarine %}) Italian  [M23 Submarine]({% post_url 2026-02-01-M23_C-Series-Submarine %}) for Qatar  
 
 ![Flag](/images/flag_italy.jpg) [![](/images/Italy-Drass-DG900-250.png)]({% post_url 2021-05-01-Drass-DG-900-Submarine %}) [Drass DG-900 Compact Submarine]({% post_url 2021-05-01-Drass-DG-900-Submarine %})  
 
