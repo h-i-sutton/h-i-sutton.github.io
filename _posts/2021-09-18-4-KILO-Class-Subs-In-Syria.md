@@ -34,6 +34,6 @@ ________________________________
 
 ![Flag](/images/flag_China.jpg) [![](/images/China-Type-039C-250.png)]({% post_url 2021-07-08-Chinese-Type-039C-Yuan-Class-Submarine %}) Chinese Navy's Advanced Submarine [Type-039C Yuan Class]({% post_url 2021-07-08-Chinese-Type-039C-Yuan-Class-Submarine %}). *w/Cutaway*   
 
-![Flag](/images/flag_italy.jpg) [![](/images/Italy-Qatar-M23-Sub-250.png)]({% post_url 2024-09-13-M23-Submarine %}) Italian  [M23 Submarine]({% post_url 2024-09-13-M23-Submarine %}) for Qatar  
+![Flag](/images/flag_italy.jpg) [![](/images/Italy-Qatar-M23-Sub-250.png)]({% post_url 2026-01-30-M23-Submarine %}) Italian  [M23 Submarine]({% post_url 2026-01-30-M23-Submarine %}) for Qatar  
 
 ![Flag](/images/flag_russia.jpg) [![](/images/Ru_Yasen_250.png)]({% post_url 2019-04-13-Pr885_Severodvinsk_Class %}) [Project 885 'YASEN']({% post_url 2019-04-13-Pr885_Severodvinsk_Class %}) (Severodvinsk Class) SSGN. *w/Cutaway*  
