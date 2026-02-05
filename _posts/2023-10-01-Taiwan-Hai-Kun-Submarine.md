@@ -6,18 +6,19 @@ excerpt: |-
   <br clear="right"/><a href="/Taiwan-Hai-Kun-Submarine.html"><img align="left" loading="lazy" src="/images/Taiwan-Hai-Kun-Submarine-317.jpg"/></a> ![Flag Taiwan](/images/flag_taiwan.jpg) Taiwan held the launch ceremony for their first indigenous submarine on September 28 2023. The **Hai Kun** was built at  CSBC Corp.'s shipyard in Kaohsiung on the country's west coast in an impressively short period of time. Keel laying to launch was less than 2 years.<br/><br/>The submarine is also an interesting design...<br/>[Read More &gt;....](/Taiwan-Hai-Kun-Submarine.html "READ MORE")<br clear="left"/>
 ---
 
-![Taiwan's Hai Kun Class Submarine](/images/Taiwan-Hai-Kun-Submarine-profile.jpg)  
+[![](/images/Taiwan-Hai-Kun-Submarine-cutaway-940.jpg)](/images/Taiwan-Hai-Kun-Submarine-cutaway.jpg)  
+*CLICK to Enlarge.*  
 
 # Taiwan's Hai Kun Class Submarine
-
 ![Flag Taiwan](/images/flag_taiwan.jpg) Taiwan held the launch ceremony for their first indigenous submarine on September 28 2023. The **Hai Kun** was built at CSBC Corp.'s shipyard in Kaohsiung on the country's west coast in an impressively short period of time. Keel laying to launch was less than 2 years.   
 
 The submarine is also an interesting design.  
 
 ![Taiwan's Hai Kun Class Submarine](/images/Taiwan-Hai-Kun-Submarine-launch.jpg)  
 
-## Dutch Design Heritage
+![Taiwan's Hai Kun Class Submarine](/images/Taiwan-Hai-Kun-Submarine-profile.jpg)  
 
+## Dutch Design Heritage
 Despite persistent reports in local media that it is in some respects a Japanese design, it is evidently based on the Dutch Zwaardvis class. This makes sense as the Zwaardvis is already in service with the ROCN (republic of China Navy) as the Hai Lung class. The new boat is essentially a reverse engineered Zwaardvis hull with many small improvements.   
 
 The hull uses the same hybrid double-single hull construction as the Zwaardvis class. This includes the U.S. Navy style light outer hull structure, inherited all the way back to the U.S. Navy's Barbel Class design.  
@@ -36,7 +37,6 @@ While the underlying design is not as modern as some others, including the lates
 *Official graphic of the Hai Kun Class*  
 
 ## Other Projects To Protect Taiwan
-
 Taiwan is also building a smaller 30 meter long midget submarine under the **Huilong** project, although [details are limited](http://www.hisutton.com{% post_url 2023-09-03-Taiwan-Huilong-Submarine %}). Meanwhile the **Seawolf 400** 4-meter long / 1 tonne autonomous underwater vehicle (AUV) is undergoing testing. This isn't weaponized but sets Taiwan on the path of developing indiginous large AUVs. And, shadowing Ukraine, the **Seashark 400** uncrewed surface vessel (USV) is clearly based on a jet ski. Unlike the Ukrainian types it is unarmed, but future iterations could be enlarged for offensive missions.   
 
 ![Naval Projects To Protect Taiwan](/images/Taiwan-Naval-Projects-to-watch.jpg)  
