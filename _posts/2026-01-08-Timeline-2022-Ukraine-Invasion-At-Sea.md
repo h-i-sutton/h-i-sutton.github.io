@@ -617,6 +617,7 @@ Jan 12: Russia continues targeting merchant ships both in harbour and at sea wit
 
 Jan 13: Russian sources report drones attacked 4 tankers in the Black Sea near Novorossiysk. *Delta Harmony* (IMO: 9408463), *Matilda* (IMO: 9407457), *Freud* (IMO: 9804461) and *Delta Supreme* (IMO: 9585895)
 
+Feb 13: Russian BK-17 assault boat reportedly destroyed by Ukrainian forces in Western Crimea. 
 
 ...To be continued.  
 
