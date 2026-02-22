@@ -619,6 +619,8 @@ Jan 13: Russian sources report drones attacked 4 tankers in the Black Sea near N
 
 Feb 13: Russian BK-17 assault boat reportedly destroyed by Ukrainian forces in Western Crimea. 
 
+Feb 21: One, possibly two, Russian Pr.22460 Rubin class FSB patrol ship hit by guided drone (possibly FP-1/2) deep in Sevastopol Harbour. Three Rubin class vessels had been berthed there for some time.
+
 ...To be continued.  
 
 ____________________________________________________
