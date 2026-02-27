@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guide To Iran's Navy & IRGC's Drone Carriers, Forward Base Ships, and Covert Intelligence Ships"
-date: "2024-12-14 22:30:00"
+date: "2026-02-127 00:30:00"
 excerpt: |-
   <br clear="right"/><a href="/Iranian-Navy-In-Port.html"><img align="left" loading="lazy" src="/images/Iran-Navy-Bandar-Abbas-Port-20260227-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) As the world speculates on U.S. strikes on Iran, the Iranian Navy and I.R.G.C Navy (Islamic Revolutionary Guard Corps) are not showing significant signs of dispersing or otherwise attempting to protect their force.<br/><br/>Vessels are in predictable locations, particularly around the major naval base at Bandar Abbas...<br/>[Read More &gt;....](/Iranian-Navy-In-Port.html "READ MORE")<br clear="left"/>
 ---
