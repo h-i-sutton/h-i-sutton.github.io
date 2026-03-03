@@ -621,6 +621,8 @@ Feb 13: Russian BK-17 assault boat reportedly destroyed by Ukrainian forces in W
 
 Feb 21: One, possibly two, Russian Pr.22460 Rubin class FSB patrol ship hit by guided drone (possibly FP-1/2) deep in Sevastopol Harbour. Three Rubin class vessels had been berthed there for some time.
 
+Mar 3: Sanctioned Russian LNG tanker *Arctic Metagaz* (IMO: 9243148) hit by USVs east of Malta in Mediterranean. Crew abandoned ship as vessel burned. 
+
 ...To be continued.  
 
 ____________________________________________________
