@@ -406,6 +406,8 @@ ______________________________________________________________
 
 ![Flag](/images/flag_USA.jpg) [![](/images/US-Navy-LCV-250.png)]({% post_url 2021-05-13-US-Navy-VSW-MCM-Dolphin-Boat %}) [Low Visibility Craft]({% post_url 2021-05-13-US-Navy-VSW-MCM-Dolphin-Boat %})  Semi-Submersible dolphin delivery vehicle.   
 
+![Flag](/images/flag_italy.jpg) [![](/images/Italy-Grillo-250.png)]({% post_url 2026-03-13-Italian-Grillo-Jumping-Boat %}) [Grillo Jumping Torpedo Boat]({% post_url 2026-03-13-Italian-Grillo-Jumping-Boat %}) of World War One
+
 ![Flag](/images/flag_USA.jpg) ![Flag](/images/flag_isreal.jpg) [![](/images/Sealion_250.png)]({% post_url 2017-02-13-SEALION%20and%20Alligator%20stealth%20boats %}) [*CCH* (Combat Craft Heavy) SEALION and Alligator]({% post_url 2017-02-13-SEALION%20and%20Alligator%20stealth%20boats %})  Semi-Submersible Boats. *w/Cutaway*   
 
 ![Flag](/images/Flag_Singapore.jpg) [![](/images/MSC_250.png)]({% post_url 2016-02-12-Special%20Operations%20Stealth%20Semi-Submarines%20demystified %}) Singaporean [Specialized Marine Craft Type-II]({% post_url 2016-02-12-Special%20Operations%20Stealth%20Semi-Submarines%20demystified %})  
