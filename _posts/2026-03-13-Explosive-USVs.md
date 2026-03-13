@@ -3,7 +3,7 @@ layout: post
 title: "Mounting Ship Losses To Explosive USVs"
 date: "2026-03-13 00:03:00"
 excerpt: |-
-  <br clear="right"/><a href="/Explosive-USVs.html"><img align="left" loading="lazy" src="/images/Explosive-USV-Tracker-HISutton-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) Iranian uncrewed surface vessels (USVs) appear to have struck several times as Iran retaliates against the US-Israeli attack.<br/><br/USVs are becoming an ever more present, and concerning, feature of war...<br/>[Read More &gt;....](/Explosive-USVs.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Explosive-USVs.html"><img align="left" loading="lazy" src="/images/Explosive-USV-Tracker-HISutton-317.jpg"/></a> ![Flag Iran](/images/flag_iran.jpg) Iranian uncrewed surface vessels (USVs) appear to have struck several times as Iran retaliates against the US-Israeli attack.<br/><br/>USVs are becoming an ever more present, and concerning, feature of war...<br/>[Read More &gt;....](/Explosive-USVs.html "READ MORE")<br clear="left"/>
 ---
 
 [![](/images/Explosive-USV-Tracker-HISutton-940.jpg)](/images/Explosive-USV-Tracker-HISutton.jpg)  
