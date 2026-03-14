@@ -629,6 +629,8 @@ Mar 4: Ukrainian Navy USVs struck Russian forces on the *Syvash* gas platform in
 
 Mar 9: Ukrainian drone strikes on Crimea include strikes on Russian small boats. BK-16 struck in Novoozerne.
 
+Mar 13: Greek flagged tanker *Maran Homer* (IMO: 9761372) struck off Novorossiysk
+
 Mar 14: Ukraine struck 2 Russian ships ferrying weapons & equipment through Kerch Strait
 
 ...To be continued.  
