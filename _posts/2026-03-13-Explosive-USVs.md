@@ -18,11 +18,13 @@ Ukraine has made USVs a recognized term, and they remain the masters of this typ
 
 *The attack on the Safesea Vishnu caused the loss of the ship and damage to another tanker, the Zefyros.*
 
-Like the types supplied to the Houthis the Iranian USVs appears to lack long-range communications and are deployed together with a command boat. They have a cockpit and can be piloted by a human who typically transfers to the command boat before the attack. Video of the attack on Safesea Vishnu suggests that the command boat was essentially at point-blank range. However Starlink is common in Iran and may be used in future. 
+The way that Ukraine uses USVs is quite different, as part of a wider naval strategy. Ukrainian USVs are also used to lay mines, launch strikes on coastal structures (bridges, gas platforms…), inland targets (air defences, aircraft on airfields…) and aircraft (both in self defence and offensively). 
 
 ![Iran IRGC USV](/images/Iran-IRGC-USV-Explosive-Boat-attack.jpg) 
 
 *The attack on the tanker Sonangol Namibe off Kuwait on March 5.*
+
+Like the types supplied to the Houthis the Iranian USVs appears to lack long-range communications and are deployed together with a command boat. They have a cockpit and can be piloted by a human who typically transfers to the command boat before the attack. Video of the attack on Safesea Vishnu suggests that the command boat was essentially at point-blank range. However Starlink is common in Iran and may be used in future. 
 
 The tally of ships struck by Iranian USVs is still much lower than either the Houthis or Ukraine’s, but it is early days yet.
 
