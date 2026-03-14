@@ -625,7 +625,11 @@ Mar 3: Sanctioned Russian LNG tanker *Arctic Metagaz* (IMO: 9243148) sunk by USV
 
 Mar 3: Large-scale Ukrainian drone srike on Novorossiysk damaged four Russian naval vessels: The Pr.11356M GRIGORVICH Class frigate *Admiral Essen*, Pr.66ME NATYA Class Seagoing Minesweeper *Valentin Pikul*, and the Pr.1124M GRISHA-III class ASW corvettes *Yeysk* and *Kasimov*.
 
-May 4: Ukrainian Navy USVs struck Russian forces on the *Syvash* gas platform in the northwest Black Sea. A Ka-27 HELIX helicopter was desroyed as it landed aboard the platform by an FPV drone. 
+Mar 4: Ukrainian Navy USVs struck Russian forces on the *Syvash* gas platform in the northwest Black Sea. A Ka-27 HELIX helicopter was desroyed as it landed aboard the platform by an FPV drone. 
+
+Mar 9: Ukrainian drone strikes on Crimea include strikes on Russian small boats. BK-16 struck in Novoozerne.
+
+Mar 14: Ukraine struck 2 Russian ships ferrying weapons & equipment through Kerch Strait
 
 ...To be continued.  
 
