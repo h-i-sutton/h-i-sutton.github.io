@@ -627,7 +627,9 @@ Mar 3: Large-scale Ukrainian drone srike on Novorossiysk damaged four Russian na
 
 Mar 4: Ukrainian Navy USVs struck Russian forces on the *Syvash* gas platform in the northwest Black Sea. A Ka-27 HELIX helicopter was desroyed as it landed aboard the platform by an FPV drone. 
 
-Mar 9: Ukrainian drone strikes on Crimea include strikes on Russian small boats. BK-16 struck in Novoozerne.
+Mar 7: Ukrainian drone strikes on Crimea include strikes on Russian small boats. Pr.03160 Raptor class assault boat destroyed on Lake Donuzlav.
+
+Mar 9: BK-16 struck in Novoozerne. Possibly same as March 7 event.
 
 Mar 13: Greek flagged tanker *Maran Homer* (IMO: 9761372) struck off Novorossiysk
 
