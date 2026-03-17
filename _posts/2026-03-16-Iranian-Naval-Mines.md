@@ -37,7 +37,7 @@ Like other Iranian influence mines it can have an arming delay of several days b
 This is a close copy of the classic Italian Manta bottom mine which was used by Iraq during the Iran-Iraq war. Its conical shape makes it difficult to detect on the sea floor, but its relatively small warhead of 120 kg limits the depth it can be laid at and still have a serious effect. 
 
 ## Self-propelled mine
-This appears to be similar to the Maham-2 bottom mine but with a torpedo propulsion unit. Possibly it was intended for submarine launch but could, feasibly, be launched from shore. Range is not reported but may be around 10-20 km. 
+This appears to be similar to the Maham-2 bottom mine but with a torpedo propulsion unit. Possibly it was intended for submarine launch but could, feasibly, be launched from shore. Range is not reported but may be around 10-20 km. This weapon is possibly the Chinese **EM-56** self-propelled mine. 
 
 ![Iran IRGC naval mine](/images/Iran-Mobile-Mine.jpg)
 
