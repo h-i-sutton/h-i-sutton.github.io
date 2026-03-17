@@ -41,6 +41,11 @@ This appears to be similar to the Maham-2 bottom mine but with a torpedo propuls
 
 ![Iran IRGC naval mine](/images/Iran-Mobile-Mine.jpg)
 
+## Other Mines
+There have been persistent reports of Iran importing **EM-52** rocket mines from China. The export version of the T-1 weapon, this is a rocket armed mine which is moored on the seabed at depths of up to 200 meters (some reports much deeper). When it detects a ship sailing overhead the rocket is released and shoots up, impacting the bottom of the victim. 
+
+There have also been reports of mines being imported from Russia, most often the **MDM-3** air-dropped bottom mine. This is broadly equivalent to Iran’s Maham-2 weapon. 
+
 
 ____________________________________________________
 
