@@ -2,7 +2,7 @@
 layout: post
 title: "Satellite Images Reveal Possible Russian Undersea Cables In Crimea"
 date: "2026-01-19 00:01:00"
-excerpt: |-
+excerpt: |- 
   <br clear="right"/><a href="/OSINT-Undersea-Cables-Crimea.html"><img align="left" loading="lazy" src="/images/Russia-Crimea-Undersea-Cables-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Recent weather conditions have revealed previously not visible marks on the seabed in Lake Donuzlav on the western coast of Crimea.<br/><br/>The most plausible explanation seems to be that they are undersea cables...<br/>[Read More &gt;....](/OSINT-Undersea-Cables-Crimea.html "READ MORE")<br clear="left"/>
 ---
 
