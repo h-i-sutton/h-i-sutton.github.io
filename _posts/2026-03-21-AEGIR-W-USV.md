@@ -8,9 +8,13 @@ excerpt: |-
 
 ![Flag Ukraine](/images/flag_ukraine.jpg) / ![Flag UK](/images/flag_UK.jpg) / ![Flag USA](/images/flag_USA.jpg) An AEGIR-W uncrewed surface vessel (USV) has washed up on a Turkish beach. The vessel is was likely armed with an explosive charge because it was blown up as a precaution by Turkish authorities. Based on the circumstances it seems likely that it was being operated by Ukraine. 
 
-![AEGIR surface drones - USVs](/images/AEGIR-W-USV-washedup.jpg)  
+![AEGIR surface drones - USVs](/images/USV-AEGIR-W.jpg)  
+
 
 The strealthily shaped wave-piercing AEGIR family of USVs are manufactured by Sierra Nevada Corporation, who operate in the UK as SNC Mission Systems UK (MS UK). The AEGIR-W model has been tested by the Royal Marines at RMB Chivenor in Devon for Exercise Trident Sprint. 
+
+![AEGIR surface drones - USVs](/images/AEGIR-W-USV-washedup.jpg) 
+
 
 The family of vessels are designed for ISR (intelligence, surveillance & reconnaissance), electronic warfare (EW), off¬ensive operations, and autonomous resupply. The mid-range AEGIR-W model can carry a 300 kg payload (e.g. warhead) around 500 nautical miles. This makes it an effective tool in the Black Sea. 
 
