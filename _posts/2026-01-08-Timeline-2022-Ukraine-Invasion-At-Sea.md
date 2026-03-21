@@ -633,7 +633,7 @@ Mar 9: BK-16 struck in Novoozerne. Possibly same as March 7 event.
 
 Mar 13: Greek flagged tanker *Maran Homer* (IMO: 9761372) struck off Novorossiysk
 
-Mar 14: Ukraine struck 2 Russian ships ferrying weapons & equipment through Kerch Strait
+Mar 14: Ukraine struck 2 Russian railway ferries, *Slavyanin* (IMO: 8300169) and *Avangard* (IMO 9522403) operating across the Kerch Strait
 
 ...To be continued.  
 
