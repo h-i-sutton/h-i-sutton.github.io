@@ -3,7 +3,7 @@ layout: post
 title: "Russian GUGI Vessel Gets Drone Cage And Add-on ECM"
 date: "2026-03-22 00:01:00"
 excerpt: |- 
-  <br clear="right"/><a href="/Russian-Navy-Ship-Gets-Drone-Cage-5.html"><img align="left" loading="lazy" src="/images/Russian-Ship-Drone-Defences-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) A Russian Navy Pr. 11982 Seliger Class research ship has been photographed in Novorossiysk fitted with a drone cage and bolt-on electronic countermeasures (ECM).<br/><br/>The measure reflect Ukraine’s growing threat to the fleet...<br/>[Read More &gt;....](/Russian-Navy-Ship-Gets-Drone-Cage.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russian-Navy-Ship-Gets-Drone-Cage.html"><img align="left" loading="lazy" src="/images/Russian-Ship-Drone-Defences-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) A Russian Navy Pr. 11982 Seliger Class research ship has been photographed in Novorossiysk fitted with a drone cage and bolt-on electronic countermeasures (ECM).<br/><br/>The measure reflect Ukraine’s growing threat to the fleet...<br/>[Read More &gt;....](/Russian-Navy-Ship-Gets-Drone-Cage.html "READ MORE")<br clear="left"/>
 ---
 
 ![Russian Naval Vessel Gets Droned Cage And Add-on ECM](/images/Russian-Ship-Drone-Defences.jpg) 
