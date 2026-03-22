@@ -8,7 +8,7 @@ excerpt: |-
 
 ![Russian Naval Vessel Gets Droned Cage And Add-on ECM](/images/Russian-Ship-Drone-Defences.jpg) 
 
-*Pr.11982 Seliger Class ship with drone cage (A) and ECM (B), Novorossiysk March 2026.*
+*Pr.11982 Seliger Class ship with drone cage (A) and ECM (B), covered forward deck (C) and netting over deck-level walkways (D), Novorossiysk March 2026.*
 
 
 ![Flag Russia](/images/flag_russia.jpg)  A Russian Main Directorate of Deep-Sea Research (GUGI) Pr.11982 Seliger class experimental & oceanographic vessel [sic], likely *Ladoga*,  has been photographed in Novorossiysk fitted with a drone cage and bolt-on electronic countermeasures (ECM). The measure reflect Ukraine’s growing threat to the fleet.
