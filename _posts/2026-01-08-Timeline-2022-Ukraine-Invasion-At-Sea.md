@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
-date: "2026-03-24 01:00:00"
+date: "2026-03-25 01:00:00"
 excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/><br/>
 ---
@@ -635,7 +635,17 @@ Mar 13: Greek flagged tanker *Maran Homer* (IMO: 9761372) struck off Novorossiys
 
 Mar 14: Ukraine struck 2 Russian railway ferries, *Slavyanin* (IMO: 8300169) and *Avangard* (IMO 9522403) operating across the Kerch Strait
 
+Mar 23: Major Ukrainian drone strike on Russian port of Primorsk near St. Petersburg.
+
 Mar 24: Ukrainian strikes on high-value targets behind the front lines continue, including on Crimea. A SS-C-5 STOOGE (K-300P Bastion-P) was destroyed.
+
+Mar 25: Ukrainian drones hit the Pr.23550 arctic patrol ship Purga (475) in Vyborg near St. Petersburg. Ship sunk and capsized at the quay.
+
+Mar 25: Major Ukrainian drone strike on Russian port of Urst Luga near St. Petersburg.
+
+![Russian shadow fleet tanker Dashan](/images/Russian-arctic-patrol-ship-Purga.jpg)  
+*Pr.23550 arctic patrol ship Purga (475) sunk in Vyborg* 
+
 
 ...To be continued.  
 
