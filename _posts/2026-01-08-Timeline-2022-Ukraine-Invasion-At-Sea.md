@@ -650,7 +650,7 @@ Late Mar / early Apr: Major Ukrainian drone strike on Russian port of Urst Luga 
 
 Early Apr: Russian Navy increasingly present in Tartus, Syria, again.
 
-Apr 5: Major Ukrainian attack on oil facilities at Novorossiysk.
+Apr 5: Major Ukrainian attack on  Novorossiysk. Oil facilities hit. A Pr.11356M GRIGORVICH Class frigate was hit by likely FP-1 type drones.
 
 ![Ukrainian attack on oil facilities at Novorossiysk](/images/Ru_Ukraine-strikes-Novorossiysk-20260405.jpg)  
 *Ukrainian attack on oil facilities at Novorossiysk, Apr 5* 
