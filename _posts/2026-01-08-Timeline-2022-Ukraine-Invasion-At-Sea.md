@@ -655,6 +655,7 @@ Apr 5: Major Ukrainian attack on  Novorossiysk. Oil facilities hit. A Pr.11356M 
 ![Ukrainian attack on oil facilities at Novorossiysk](/images/Ru_Ukraine-strikes-Novorossiysk-20260405.jpg)  
 *Ukrainian attack on oil facilities at Novorossiysk, Apr 5* 
 
+Apr 5: Ukrainian missiles, aerial drones (OWA-UAVs) and surface drones (USVs) strike Syvash (SIVASH IMO: 8763385) jack-up drilling rig in North West Black Sea.
 
 ...To be continued.  
 
