@@ -19,11 +19,9 @@ The device has been positively identified as a type developed by China and teste
 The system can be emplaced in waters between 200 and 4,000 meters deep. The device is moored by an anchor on the sea floor, connected by lines through bull-nose rings at either end of the body. The device found is the main sensor body which is essentially a moored buoy (referred to in texts as the ‘mother buoy’) which floats between 80 and 300 meters below the surface. In one example it floated at 140 meters below the surface.
 The main sensor package includes:
 
-> 2 x  Acoustic Doppler Current Profiler (ADCP) for measuring the current
-
-> 1 x Conductivity, Temperature, Depth (CTD) sensor
-
-> 1 x Acoustic sensor for gathering sound and target information
+2 x  Acoustic Doppler Current Profiler (ADCP) for measuring the current<br/>
+1 x Conductivity, Temperature, Depth (CTD) sensor<br/>
+1 x Acoustic sensor for gathering sound and target information<br/>
 
 
 ![Chinnese moored Underwater sensor](/images/Chinese-moored-underwater-sensor-indonesia-2.jpg)
