@@ -10,7 +10,7 @@ An unusual device [found by fishermen](https://bsky.app/profile/saturnax1.bsky.s
 
 ![Chinnese moored Underwater sensor](/images/Chinese-moored-underwater-sensor-profile.jpg)
 
-The device has been positively identified as a type developed by China and tested in the mid-2010s. It was developed by the 710 Research Institute, part of China Shipbuilding Industry Corporation. The institute focuses on underwater attack and defence. Known as the ‘**Deep-Sea Real-Time Transmission Mooring System**’ it was tested at least as early as 2016 by the Institute of Oceanology, Chinese Academy of Sciences. It reportedly achieved 190 days of real-time transmission of deep-sea data in the Western Pacific. It is possibly manufactured by Qingdao Haishan Marine Technology Co., Ltd (unconfirmed).
+The device has been positively identified as a type developed by China and tested in the mid-2010s. It was developed by the 710 Research Institute, part of China Shipbuilding Industry Corporation (now CSSC). The institute focuses on underwater attack and defence. Known as the ‘**Deep-Sea Real-Time Transmission Mooring System**’ it was tested at least as early as 2016 by the Institute of Oceanology, Chinese Academy of Sciences. It reportedly achieved 190 days of real-time transmission of deep-sea data in the Western Pacific. It is possibly manufactured by Qingdao Haishan Marine Technology Co., Ltd (unconfirmed).
 
 ![Chinnese moored Underwater sensor](/images/Chinese-moored-underwater-sensor-indonesia-1.jpg)
 
