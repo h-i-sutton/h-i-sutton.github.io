@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
-date: "2026-04-06 01:00:00"
+date: "2026-04-11 01:00:00"
 excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/><br/>
 ---
@@ -650,12 +650,19 @@ Late Mar / early Apr: Major Ukrainian drone strike on Russian port of Urst Luga 
 
 Early Apr: Russian Navy increasingly present in Tartus, Syria, again.
 
-Apr 5: Major Ukrainian attack on  Novorossiysk. Oil facilities hit. A Pr.11356M GRIGORVICH Class frigate was hit by likely FP-1 type drones.
+Apr 5: Major Ukrainian attack on  Novorossiysk. Oil facilities hit. A Pr.11356M GRIGORVICH Class frigate, likerly Admiral Essen, was hit by likely FP-1 type drones.
 
 ![Ukrainian attack on oil facilities at Novorossiysk](/images/Ru_Ukraine-strikes-Novorossiysk-20260405.jpg)  
 *Ukrainian attack on oil facilities at Novorossiysk, Apr 5* 
 
 Apr 5: Ukrainian missiles, aerial drones (OWA-UAVs) and surface drones (USVs) strike Syvash (SIVASH IMO: 8763385) jack-up drilling rig in North West Black Sea.
+
+Ap 6: A Russian cargo ship struck in the Sea of Azov after being attacked by Ukrainian UAVs. Ship abandoned, likely destroyed or sunk.
+
+Apr 7: Ukrainian government, reportedly SBU, arrested a 'shadow fleet' vessel tied to illegal exports from occupied Crimea, in Odesa. 
+
+Apr 10: Ukraine struck two Russian oil platforms in the Caspian Sea with multiple OWA-UAVs.
+
 
 ...To be continued.  
 
