@@ -7,7 +7,7 @@ excerpt: |-
 ---
 
 
-[![](/images/Russia-KILO-Submarine-Defences.jpg)](/images/Russia-KILO-Submarine-Defences-940.jpg)  
+[![](/images/Russia-KILO-Submarine-Defences-940.jpg)](/images/Russia-KILO-Submarine-Defences.jpg)  
 
 *CLICK to Enlarge.*  
 
