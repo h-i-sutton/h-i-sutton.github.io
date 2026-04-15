@@ -3,7 +3,7 @@ layout: post
 title: "China Is Years Ahead In Heavylift Cargo Drones"
 date: "2026-04-15 01:01:00"
 excerpt: |-
-  <br clear="right"/><a href="/Chinese-Cargo-UAVs.html"><img align="left" loading="lazy" src="/images/China-Cargo-UAVs-317.jpg.jpg"/></a> ![Flag China](/images/flag_China.jpg) Cargo UAVs are no longer limited to small electric quadcopters dropping off yor Amazon parcels in adverts. They are evolving into full-scale transport aircraft.<br/><br/>China, is clearly moving ahead of the West in this space, with a growing number of large uncrewed cargo aircraft already flying...<br/>[Read More &gt;....](/Chinese-Cargo-UAVs.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Chinese-Cargo-UAVs.html"><img align="left" loading="lazy" src="/images/China-Cargo-UAVs-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) Cargo UAVs are no longer limited to small electric quadcopters dropping off yor Amazon parcels in adverts. They are evolving into full-scale transport aircraft.<br/><br/>China, is clearly moving ahead of the West in this space, with a growing number of large uncrewed cargo aircraft already flying...<br/>[Read More &gt;....](/Chinese-Cargo-UAVs.html "READ MORE")<br clear="left"/>
 ---
 
 
