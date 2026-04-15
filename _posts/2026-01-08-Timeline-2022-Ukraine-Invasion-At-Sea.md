@@ -663,6 +663,8 @@ Apr 7: Ukrainian government, reportedly SBU, arrested a 'shadow fleet' vessel ti
 
 Apr 10: Ukraine struck two Russian oil platforms in the Caspian Sea with multiple OWA-UAVs.
 
+Apr 14: Bulk Carriert ship *Lady Maris* (MO: 9228071) hit by Russian aerial drone (OWA-UAV) in Odesa port.
+
 
 ...To be continued.  
 
