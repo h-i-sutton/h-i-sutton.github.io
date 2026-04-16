@@ -12,14 +12,22 @@ While the site itself is already of interest, its significance grows in context:
 
 Several observers have [written about the sites individually](https://www.thebarentsobserver.com/security/satellite-images-reveal-massive-upgrade-at-nenoksa-naval-missile-testing-site/429811), this attempts to bring them together. This post relies exclusively on public information. If you have additional information on these sites, or additional related sites, please share.
 
-The sites have the following common characteristics:</br>
-● Built at isolated sites, with two on land previously associated with the Russian Navy, and the other a green-field site.</br>
-● Three large (2,000-3,000m2) white semi-circular inflatable (‘pneumatic’) hangars. Exact models/shapes and sizes vary even within a site.</br>
-● A set of blue shipping containers positioned approximately centrally to the hangars and connected to them by pipes or heavy cables. </br>
-● A smaller blue shipping container positioned on its own with a blast berm on three sides. </br>
-● A double fence perimeter, although with minimal gate guard facilities.</br>
-● Numerous tall lattice masts, likely lightning conductors.</br>
-● Few new ancillary buildings, or signs of a large workforce.</br>
+The sites have the following common characteristics:
+
+● Built at isolated sites, with two on land previously associated with the Russian Navy, and the other a green-field site.
+
+● Three large (2,000-3,000m2) white semi-circular inflatable (‘pneumatic’) hangars. Exact models/shapes and sizes vary even within a site.
+
+● A set of blue shipping containers positioned approximately centrally to the hangars and connected to them by pipes or heavy cables.
+
+● A smaller blue shipping container positioned on its own with a blast berm on three sides.
+
+● A double fence perimeter, although with minimal gate guard facilities.
+
+● Numerous tall lattice masts, likely lightning conductors.
+
+● Few new ancillary buildings, or signs of a large workforce.
+
 
 At least one site has missile launch pads built connected to it, suggesting that all three are missile related. 
 
@@ -42,17 +50,26 @@ Based on low-resolution Sentinel 2 satellite imagery, land clearance was well un
 Based on low-resolution Sentinel 2 satellite imagery this appears to be the oldest of the three sites. Land clearance was well underway by August 2022 and the first hangar erected in October 2022. The Crimea sites as a couple of months behind, and the White Sea one around a year later.
 ![3 Sites of Interest in Russia/Crimea](/images/Russia-Sites-of-Interest-Baltic.jpg)
 
-This site, around 50km north east of St. Petersburg (vicinity **60.3498°, 30.7726°**) is slightly different to the other two in several ways:</br>
-● It was built at a greenfield site, not on pre-existing but disused Russian Navy land (although ownership is unclear)</br>
-● There are two missile launch pads (one initially, expanded to two)</br>
-● There is a parking place with berm blast defences amongst the hangars</br>
-● It is being expanded with additional hangars</br>
+This site, around 50km north east of St. Petersburg (vicinity **60.3498°, 30.7726°**) is slightly different to the other two in several ways:
+
+● It was built at a greenfield site, not on pre-existing but disused Russian Navy land (although ownership is unclear)
+
+● There are two missile launch pads (one initially, expanded to two)
+
+● There is a parking place with berm blast defences amongst the hangars
+
+● It is being expanded with additional hangars
+
 
 This suggests that it is the initial test site for whatever system connects the three sites. Possibly it’s expansion suggests another round of new tests.
 
 ![3 Sites of Interest in Russia/Crimea](/images/Russia-Sites-of-Interest-Baltic-pads.jpg)
 
+*Missile launch pads*
+
+
 ![3 Sites of Interest in Russia/Crimea](/images/Russia-Sites-of-Interest-Baltic-Sentinel2.jpg)
+
 *A recent Sentinel-2 low-resolution satellite image showing the expansion of the site.*
 
 
@@ -62,3 +79,13 @@ Based on low-resolution Sentinel 2 satellite imagery construction was well under
 
 ![3 Sites of Interest in Russia/Crimea](/images/Russia-Sites-of-Interest-Nenoksa.jpg)
 ![3 Sites of Interest in Russia/Crimea](/images/Russia-Sites-of-Interest-Nenoksa-plan.jpg)
+
+____________________________________________________
+
+**Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
+
+![Flag](/images/flag_ukraine.jpg) [![](/images/Ukraine-OWA-UAVs-250.png)]({% post_url 2025-07-06-Ukraine-OWA-UAVs %}) Ukraine's [long-ranged attack drones (OWA-UAVs)]({% post_url 2025-07-06-Ukraine-OWA-UAVs %})  
+
+![Flag](/images/flag_ukraine.jpg) [![](/images/Ukraine-Missiles-250.png)]({% post_url 2024-09-24-Ukraine-missiles %}) Ukraine's [longer-ranged missiles]({% post_url 2024-09-24-Ukraine-missiles %})  
+
+![Flag](/images/flag_russia.jpg) [![](/images/Russia-Shahed-Geran-250.png)]({% post_url 2025-12-16-Russian-Geran-Shahed-Drones %}) Guide to Russia's [Shahed / Geran]({% post_url 2025-12-16-Russian-Geran-Shahed-Drones %}) strike drones  
