@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
-date: "2026-04-11 01:00:00"
+date: "2026-04-20 01:00:00"
 excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/><br/>
 ---
@@ -665,6 +665,9 @@ Apr 10: Ukraine struck two Russian oil platforms in the Caspian Sea with multipl
 
 Apr 14: Bulk Carriert ship *Lady Maris* (MO: 9228071) hit by Russian aerial drone (OWA-UAV) in Odesa port.
 
+Apr 19: Ukrainian OWA-UAVs strike the Pr.775 ROPUCHA Class landing ship *Yamal* and Pr.1171 ALLIGATOR class landing ship *Nikolai Filchenkov* in Sevastopol.
+
+Mid Apr: Repeated strikes on oil facilities at port of Tuapse by Ukrainian OWA-UAVs.
 
 ...To be continued.  
 
