@@ -665,9 +665,11 @@ Apr 10: Ukraine struck two Russian oil platforms in the Caspian Sea with multipl
 
 Apr 14: Bulk Carriert ship *Lady Maris* (MO: 9228071) hit by Russian aerial drone (OWA-UAV) in Odesa port.
 
-Apr 19: Ukrainian OWA-UAVs strike the Pr.775 ROPUCHA Class landing ship *Yamal* and Pr.1171 ALLIGATOR class landing ship *Nikolai Filchenkov* in Sevastopol.
+Apr 19: Ukrainian OWA-UAVs strike the Pr.775 ROPUCHA Class landing ship *Yamal* and Pr.1171 ALLIGATOR class landing ship *Nikolai Filchenkov* in Sevastopol. Reports suggest several other ships also hit in same or earlier raids around that time including Pr.775M ROPUCHA-II Class landing ship *Azov*, Pr.775 ROPUCHA Class landing ship *Konstantin Olshansky*, and Pr.1288.4 Intelligence ship *Slavutych*. 
 
 Mid Apr: Repeated strikes on oil facilities at port of Tuapse by Ukrainian OWA-UAVs.
+
+Apr 23: Ukrainian Navy releases video of a Russian USV being destroyed off Odesa.
 
 ...To be continued.  
 
