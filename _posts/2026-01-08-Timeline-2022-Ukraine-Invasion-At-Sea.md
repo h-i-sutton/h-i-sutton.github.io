@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
-date: "2026-04-20 01:00:00"
+date: "2026-04-26 01:00:00"
 excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/><br/>
 ---
@@ -672,6 +672,8 @@ Mid Apr: Repeated strikes on oil facilities at port of Tuapse by Ukrainian OWA-U
 Apr 22: St. Kitts & Nevis flagged bulk carrier *SMS Carrera* (IMO 9140528) struck by twoRussian UAVs in southern Black Sea. Ship continued voyage.
 
 Apr 23: Ukrainian Navy releases video of a Russian USV being destroyed off Odesa.
+
+Apr 25/26: Major Ukrainian strikes on Sevastopol with OWA-UAVs. Among reported targets hit are the Pr.775 ROPUCHA Class landing ship *Yamal* and Pr.1171 ALLIGATOR class landing ship *Nikolai Filchenkov* which were hit a few days prior. The Pr.18280 Yuri Ivanov class intelligence ship *Ivan Khurs* was also reportedly hit. This ship also has been struck in port previously.
 
 ...To be continued.  
 
