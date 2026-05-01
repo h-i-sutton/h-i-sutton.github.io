@@ -675,6 +675,10 @@ Apr 23: Ukrainian Navy releases video of a Russian USV being destroyed off Odesa
 
 Apr 25/26: Major Ukrainian strikes on Sevastopol with OWA-UAVs. Among reported targets hit are the Pr.775 ROPUCHA Class landing ship *Yamal* and Pr.1171 ALLIGATOR class landing ship *Nikolai Filchenkov* which were hit a few days prior. The Pr.18280 Yuri Ivanov class intelligence ship *Ivan Khurs* was also reportedly hit. This ship also has been struck in port previously.
 
+Apr 29: Two Ukrainian USVs hit the tanker *Marquise* (IMO 9315745) around 210 km southeast of Tuapse. The attack was in the context of ongoing extensive strikes on Tuapse. 
+
+Apr 30: Ukrainian USVs attacked Russian ships guarding the Kerch Bridge. A Pr.12200 Sobol Class FSB patrol boat and Pr.21980 Grachonok class anti-sabotage boat were damaged.
+
 ...To be continued.  
 
 ____________________________________________________
