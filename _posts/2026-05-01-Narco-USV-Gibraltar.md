@@ -3,12 +3,12 @@ layout: post
 title: "Uncrewed Narco-Drone Boat (USV) Found Off Gibraltar"
 date: "2026-05-01 01:01:00"
 excerpt: |-
-  <br clear="right"/><a href="/Narco-USV-Gibraltar.html"><img align="left" loading="lazy" src="/images/Narco-USV-Gibraltar-317.jpg"/></a> An small narco-surface drone (USV – uncrewed surface vessel) has been found by Spanish authorities floating off Gibraltar. <br/><br/>Like the low-profile narco USV recently found in Colombia it appears to use Starlink...<br/>[Read More &gt;....](/Narco-USV-Gibraltar.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Narco-USV-Gibraltar.html"><img align="left" loading="lazy" src="/images/Narco-USV-Gibraltar-317.jpg"/></a> A small narco-surface drone (USV – uncrewed surface vessel) has been found by Spanish authorities floating off Gibraltar. <br/><br/>Like the low-profile narco USV recently found in Colombia it appears to use Starlink...<br/>[Read More &gt;....](/Narco-USV-Gibraltar.html "READ MORE")<br clear="left"/>
 ---
 
 ![Narco uncrewed drone](/images/Narco-USV-Gibraltar-profile.jpg)
 
-An small narco-surface drone (USV – uncrewed surface vessel) [has been found](https://elpais.com/espana/2026-04-30/encontrado-un-narcodron-submarino-con-forma-de-coche-a-la-deriva-en-el-estrecho.html) by Spanish authorities floating off Gibraltar. The black-pained device could easily be mistaken for a submersible. Like the low-profile narco [USV recently found in Colombia](https://www.navalnews.com/naval-news/2025/07/colombian-navy-captures-unmanned-narco-submarine-in-caribbean-sea/) it appears to use Starlink for communications and navigation. A camera on the nose would allow the pilot to steer it.
+A small narco-surface drone (USV – uncrewed surface vessel) [has been found](https://elpais.com/espana/2026-04-30/encontrado-un-narcodron-submarino-con-forma-de-coche-a-la-deriva-en-el-estrecho.html) by Spanish authorities floating off Gibraltar. The black-pained device could easily be mistaken for a submersible. Like the low-profile narco [USV recently found in Colombia](https://www.navalnews.com/naval-news/2025/07/colombian-navy-captures-unmanned-narco-submarine-in-caribbean-sea/) it appears to use Starlink for communications and navigation. A camera on the nose would allow the pilot to steer it.
 
 
 The device was empty but could reasonably transport a boot-load of narcotics. It is electric powered, with two small thrusters, so likely only has a very short endurance. Construction is from fiberglass. 
