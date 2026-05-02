@@ -22,18 +22,10 @@ The warhead has a single large forward-facing explosively-formed-penetrator (EFP
 *A merchant vessel was used as a static target during the MARSTRIKE-N element of the exercise*
 
 
-The Magura V7.2 is built [in Portugal by Anglo-Ukrainian company U-Force](https://www.portugalresident.com/ukrainian-company-producing-drones-in-portugal-becomes-unicorn/) and has been demonstrated at NATO exercises. It broadly represents the third generation of Ukrainian surface drones. As its designation implies it is slightly larger than the ubiquitous Magura V5, which has been used so effectively against the Russian Navy. It can also carry the Sea Dragon ‘FrankenSAM’ air-defence system with two rails for either AIM-9M Sidewinder or Soviet type AA-11 ARCHER missiles. 
+The Magura V7.2 is built [in Portugal by U-Force](https://www.portugalresident.com/ukrainian-company-producing-drones-in-portugal-becomes-unicorn/) and has been demonstrated at NATO exercises. It broadly represents the third generation of Ukrainian surface drones. As its designation implies it is slightly larger than the ubiquitous Magura V5, which has been used so effectively against the Russian Navy. It can also carry the Sea Dragon ‘FrankenSAM’ air-defence system with two rails for either AIM-9M Sidewinder or Soviet type AA-11 ARCHER missiles. 
 
 ![Magura V6 surface drone - USV](/images/Ukraine-USV-Magura-V6_Portugal.jpg)  
 *Magura V7.2 with AA-11 ARCHER missiles at NATO exercise REPMUS 25 in Portugal in September 2025.*
-
-
-## And not A Magura...
-In the United States a very similar USV is built by Red Cat Holdings as the [Variant 7](https://blueops.com/usv-solutions/variant7/). Despite the name and appearances there does not appear to be any official connection to Magura. And there are numerous detailed differences between the Variant-7s seen on the Red Cat Holdings website and the Magura seen in the Exercise. So it appears that the examples seen in the Balikatan 2026 exercise are Maguras. 
-
-![Magura V6 surface drone - USV](/images/Ukraine-USV-Magura-V6-USA-RedCat.jpg)  
-
-*'Variant-7' USV from Red Cat Holdings in USA. This is outwardly similar to the Magura V7.*
 
 
 In American service the Maguras are operated by U.S. Army Green Berets assigned to 1st Special Forces Group (Airborne).  
