@@ -22,7 +22,7 @@ The warhead has a single large forward-facing explosively-formed-penetrator (EFP
 *A merchant vessel was used as a static target during the MARSTRIKE-N element of the exercise*
 
 
-The Magura V7.2 is built [in Portugal by U-Force](https://www.portugalresident.com/ukrainian-company-producing-drones-in-portugal-becomes-unicorn/) and has been demonstrated at NATO exercises. It broadly represents the third generation of Ukrainian surface drones. As its designation implies it is slightly larger than the ubiquitous Magura V5, which has been used so effectively against the Russian Navy. It can also carry the Sea Dragon ‘FrankenSAM’ air-defence system with two rails for either AIM-9M Sidewinder or Soviet type AA-11 ARCHER missiles. 
+The Magura V7.2 is built [in Portugal](https://www.portugalresident.com/ukrainian-company-producing-drones-in-portugal-becomes-unicorn/) and has been demonstrated at NATO exercises. It broadly represents the third generation of Ukrainian surface drones. As its designation implies it is slightly larger than the ubiquitous Magura V5, which has been used so effectively against the Russian Navy. It can also carry the Sea Dragon ‘FrankenSAM’ air-defence system with two rails for either AIM-9M Sidewinder or Soviet type AA-11 ARCHER missiles. 
 
 ![Magura V6 surface drone - USV](/images/Ukraine-USV-Magura-V6_Portugal.jpg)  
 *Magura V7.2 with AA-11 ARCHER missiles at NATO exercise REPMUS 25 in Portugal in September 2025.*
