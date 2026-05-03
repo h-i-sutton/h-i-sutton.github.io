@@ -681,7 +681,7 @@ Apr 30: Ukrainian USVs attacked Russian ships guarding the Kerch Bridge. A Pr.12
 
 May 3: Ukrainian UAV hit a Pr.22800 Karakurt Class corvette during a strike on oil facilities at Primorsk, Baltic. 
 
-May 3: Russian linked tanker hit by Ukrainian USVs outside Novorossiysk.
+May 3: Two Russian linked tankers hit by Ukrainian USVs outside Novorossiysk.
 
 
 
