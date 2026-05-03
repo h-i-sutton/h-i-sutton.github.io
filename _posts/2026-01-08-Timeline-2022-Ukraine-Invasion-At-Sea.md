@@ -679,6 +679,12 @@ Apr 29: Two Ukrainian USVs hit the tanker *Marquise* (IMO 9315745) around 210 km
 
 Apr 30: Ukrainian USVs attacked Russian ships guarding the Kerch Bridge. A Pr.12200 Sobol Class FSB patrol boat and Pr.21980 Grachonok class anti-sabotage boat were damaged.
 
+May 3: Ukrainian UAV hit a Pr.22800 Karakurt Class corvette during a strike on oil facilities at Primorsk, Baltic. 
+
+May 3: Russian linked tanker hit by Ukrainian USVs outside Novorossiysk.
+
+
+
 ...To be continued.  
 
 ____________________________________________________
