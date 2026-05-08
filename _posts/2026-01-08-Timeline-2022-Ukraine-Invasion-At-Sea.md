@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
-date: "2026-04-26 01:00:00"
+date: "2026-05-08 01:00:00"
 excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/><br/>
 ---
@@ -679,10 +679,15 @@ Apr 29: Two Ukrainian USVs hit the tanker *Marquise* (IMO 9315745) around 210 km
 
 Apr 30: Ukrainian USVs attacked Russian ships guarding the Kerch Bridge. A Pr.12200 Sobol Class FSB patrol boat and Pr.21980 Grachonok class anti-sabotage boat were damaged.
 
-May 3: Ukrainian UAV hit a Pr.22800 Karakurt Class corvette during a strike on oil facilities at Primorsk, Baltic. 
+May 3: Ukrainian UAV hit a Pr.22800 Karakurt Class corvette, likely Amur (803), during a strike on oil facilities at Primorsk, Baltic. 
 
 May 3: Two Russian linked tankers hit by Ukrainian USVs outside Novorossiysk.
 
+May 5: Ukrainian OWA-UAVs hit 3 Russian Pr.05060 assault boats and a support vessel duriong raids on Northern Crimea.
+
+May 5: Russian Navy uncrewed surface vessel (USV) destroyed by Ukrainian FPV drone off Odesa coast.
+
+May 7: Ukrainian OWA-UAVs hit Russian Navy Pr.22800 Karakurt Class corvette in Kaspiysk on the Caspian Sea. 
 
 
 ...To be continued.  
