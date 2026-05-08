@@ -689,6 +689,7 @@ May 5: Russian Navy uncrewed surface vessel (USV) destroyed by Ukrainian FPV dro
 
 May 7: Ukrainian OWA-UAVs hit Russian Navy Pr.22800 Karakurt Class corvette in Kaspiysk on the Caspian Sea. 
 
+May 8: Ukrainian uncrewed surface vessel (USV) armed with a ram-charge warhead found in sea cave on Greek Island of Lefkada in Mediterranean.
 
 ...To be continued.  
 
