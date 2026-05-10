@@ -691,6 +691,9 @@ May 7: Ukrainian OWA-UAVs hit Russian Navy Pr.22800 Karakurt Class corvette in K
 
 May 8: Ukrainian uncrewed surface vessel (USV) armed with a ram-charge warhead found in sea cave on Greek Island of Lefkada in Mediterranean.
 
+May 9: Russian USVs strike Odesa. Patrol boat(s) and merchant ship(s) hit. Details to be confirmed.
+
+
 ...To be continued.  
 
 ____________________________________________________
