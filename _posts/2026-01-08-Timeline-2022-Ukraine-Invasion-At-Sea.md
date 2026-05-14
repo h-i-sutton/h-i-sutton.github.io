@@ -685,14 +685,13 @@ May 3: Two Russian linked tankers hit by Ukrainian USVs outside Novorossiysk.
 
 May 5: Ukrainian OWA-UAVs hit 3 Russian Pr.05060 assault boats and a support vessel duriong raids on Northern Crimea.
 
-May 5: Russian Navy uncrewed surface vessel (USV) destroyed by Ukrainian FPV drone off Odesa coast.
-
-May 5: Russian USVs strike Odesa. Patrol boat(s) and merchant ship(s) hit.
+May 5: Russian USVs strike Odesa. Patrol boat(s) and merchant ship(s) hit. Aa Russian Navy uncrewed surface vessel (USV) destroyed by Ukrainian FPV drone off Odesa coast.
 
 May 7: Ukrainian OWA-UAVs hit Russian Navy Pr.22800 Karakurt Class corvette in Kaspiysk on the Caspian Sea. 
 
 May 8: Ukrainian uncrewed surface vessel (USV) armed with a ram-charge warhead found in sea cave on Greek Island of Lefkada in Mediterranean.
 
+May 14: Russian cargo ship carrying ammunition hit by Ukrainian OWA-UAVs in the port of Berdiansk.
 
 
 ...To be continued.  
