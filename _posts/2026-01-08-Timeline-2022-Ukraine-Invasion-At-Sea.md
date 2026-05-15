@@ -691,7 +691,9 @@ May 7: Ukrainian OWA-UAVs hit Russian Navy Pr.22800 Karakurt Class corvette in K
 
 May 8: Ukrainian uncrewed surface vessel (USV) armed with a ram-charge warhead found in sea cave on Greek Island of Lefkada in Mediterranean.
 
-May 14: Russian cargo ship carrying ammunition hit by Ukrainian OWA-UAVs in the port of Berdiansk.
+May 14: Russian cargo ship carrying ammunition hit by at least 3 Ukrainian OWA-UAVs in the port of Berdiansk.
+
+May 15: Russian Navy Be-200 jet-powered amphibian and Ka-27 HELIX helicopter among targets destroyed by Ukrainian OWA-UAVs. 
 
 
 ...To be continued.  
