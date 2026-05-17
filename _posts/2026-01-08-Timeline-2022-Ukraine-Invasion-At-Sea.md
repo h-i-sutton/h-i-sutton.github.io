@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
-date: "2026-05-08 01:00:00"
+date: "2026-05-17 01:00:00"
 excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/><br/>
 ---
@@ -694,6 +694,8 @@ May 8: Ukrainian uncrewed surface vessel (USV) armed with a ram-charge warhead f
 May 14: Russian cargo ship carrying ammunition hit by at least 3 Ukrainian OWA-UAVs in the port of Berdiansk.
 
 May 15: Russian Navy Be-200 jet-powered amphibian and Ka-27 HELIX helicopter among targets destroyed by Ukrainian OWA-UAVs. 
+
+May 17: Russian Navy Pr.10410 Svetlyak-class patrol boat hit by Ukrainian FP-1 or FP-2 OWA-UAV while underway in Caspian Sea. 
 
 
 ...To be continued.  
