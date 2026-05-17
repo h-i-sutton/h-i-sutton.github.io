@@ -693,7 +693,9 @@ May 8: Ukrainian uncrewed surface vessel (USV) armed with a ram-charge warhead f
 
 May 14: Russian cargo ship carrying ammunition hit by at least 3 Ukrainian OWA-UAVs in the port of Berdiansk.
 
-May 15: Russian Navy Be-200 jet-powered amphibian and Ka-27 HELIX helicopter among targets destroyed by Ukrainian OWA-UAVs. 
+May 15: Russian Navy Be-200 jet-powered amphibian and Ka-27 HELIX helicopter at Yeysk air base among targets destroyed by Ukrainian OWA-UAVs. 
+
+May 15: Ukrainian OWA-UAvs hit a small missile boat and a minesweeper at the Russian naval base in Kaspiysk on the Caspian Sea.
 
 May 17: Russian Navy Pr.10410 Svetlyak-class patrol boat hit by Ukrainian FP-1 or FP-2 OWA-UAV while underway in Caspian Sea. 
 
