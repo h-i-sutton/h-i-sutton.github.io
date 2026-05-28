@@ -699,6 +699,11 @@ May 15: Ukrainian OWA-UAvs hit a small missile boat and a minesweeper at the Rus
 
 May 17: Russian Navy Pr.10410 Svetlyak-class patrol boat hit by Ukrainian FP-1 or FP-2 OWA-UAV while underway in Caspian Sea. 
 
+May 23: Major Ukrainian strikes on Novorossiysk. Oil facilities hit. Warships in the naval harbour also attacked.
+
+May 25: 4 limpet mines found on Russian linked LPG tanker *Arrhenius* (IMO: 9471032) as it arrives at Ust-Luga port outside St. Petersburg in the Baltic.
+
+May 28: 3 Russian-linked tankers attacked by USVs in southern Black Sea near the entrance to the Bosporus. Tanker *James II* (IMO: 9253909) struck, tanker *Velora* (IMO: 9290373) hit but the USVs failed to explode, and *Altura* (IMO: 9292199) damaged.
 
 ...To be continued.  
 
