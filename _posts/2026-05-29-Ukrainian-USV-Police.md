@@ -3,7 +3,7 @@ layout: post
 title: "Stop, Police Sanctions! New Ukrainian Surface Drone (USV) Involved In Attack"
 date: "2026-05-29 01:01:00"
 excerpt: |-
-  <br clear="right"/><a href="/Ukrainian-USV-Police.html"><img align="left" loading="lazy" src="/images/Ukraine-USV-hunter-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Another new attack by Ukrainian USVs (uncrewed surface vessels) reveals yet another previously unreported type. On May 28th three Russian-linked tankers attacked by USVs in southern Black Sea near the entrance to the Bosporus...<br/>[Read More &gt;....](/Ukrainian-USV-Police.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Ukrainian-USV-Police.html"><img align="left" loading="lazy" src="/images/Ukraine-USV-Police-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Another new attack by Ukrainian USVs (uncrewed surface vessels) reveals yet another previously unreported type. On May 28th three Russian-linked tankers attacked by USVs in southern Black Sea near the entrance to the Bosporus...<br/>[Read More &gt;....](/Ukrainian-USV-Police.html "READ MORE")<br clear="left"/>
 ---
 
 
