@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guide To Ukraine's Long Range Attack Drones"
-date: "2025-07-06 10:01:00"
+date: "2026-05-31 10:01:00"
 excerpt: "**UPDATED** *Originally posted Jan 24*.<br/><br clear=\"right\"><a href=\"/Ukraine-OWA-UAVs.html\"\
   ><img align=\"left\" loading=\"lazy\" src=\"/images/Ukraine-OWA-UAVs-317.jpg\"/></a>\
   \ ![Flag Ukraine](/images/flag_ukraine.jpg) Russia\u2019s use of long range drones,\
@@ -128,12 +128,13 @@ A single OFAB-100-120 aerial bomb is strapped to a rail under the fuselage. A lo
 
 ![Sky Ranger Nynja](/images/Ukraine-OWA-UAVs-SkyRanger.jpg)  
 
-## FP-1
+## FP-1 / FP-2
 
-In April 2024 the wreck of a twin-boom design was filmed in the Oryol Region of Russia. Photographs of another followed a few days later. The design matches one revealed in a Ukrainian [media interview in October 2023](https://youtu.be/8GpnRKP2JrQ?si=uzscPplmlLz1J6hM&t=14). Russian reports suggest a blast-fragmentation 40kg warhead consisting of 25 kg of tetryl high explosive surrounded by 15 kg of steel balls. The model's name was later identified by Russian sources as FP-1.   
+In April 2024 the wreck of a twin-boom design was filmed in the Oryol Region of Russia. Photographs of another followed a few days later. The design matches one revealed in a Ukrainian [media interview in October 2023](https://youtu.be/8GpnRKP2JrQ?si=uzscPplmlLz1J6hM&t=14). Russian reports suggest a blast-fragmentation 40kg warhead consisting of 25 kg of tetryl high explosive surrounded by 15 kg of steel balls. The model's name was later identified by Russian sources as FP-1. Since then, the FP-1 and improved FP-2 drones have become household names as major assets in Ukraine's campaign of strategic strikes. The drones use Starlink (or similar satellite communications) to allow FPV control during the final phase of strike. 
 
 ![Ukraine's New twin-boom Attack Drone](/images/Ukraine-OWA-UAVs-2024-04-07.jpg)  
 *Screen shots from a media report on the type, and also a crashed example in Russia.*  
+
 
 ## Dart 250
 
@@ -142,6 +143,27 @@ In April 2024 the wreck of a twin-boom design was filmed in the Oryol Region of 
 ![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-jet.jpg)  
 
 The Dart 350 is in serial production.   
+
+**UJ-08 Skyline 300**  
+
+On Feb 7, 2024, a crashed example of this jet powered drone was shared on Russian social media. It is evidently a type of one-way attack drone (OWA-UAV). See [main article]({% post_url 2024-02-07-Ukraine-Jet-Drone-2024-02 %}).  It has since been identified as the Ukrajet UJ-08 Skyline 300. 
+
+![Ukraine's New Jet-Powered Attack Drone](/images/Ukraine-OWA-UAV-jet-drone-wreck.jpg)  
+*Photographs shared online of the wreck. Note that the lower fuselage is upside down, the intake is on the bottom.*  
+
+**Nayan**  
+
+On June 27 2024 images of a crashed jet powered flying wing drone was shared on Russian social media. The design is reportedly powered by a commercially available single SW140B turbine.   It has since been identified as the Nyan, a type also deployed by the British Army;s Royal Artillery in Estonia.
+
+![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-tjet-flyingwing.jpg)  
+
+**Sichen / Behemoth**  
+
+Ukrainian flying wing UAV generally similar layout to Iranian (and Russian operated) Shahed design. Can be identified by swept endplates. Initial models had a ~30kg warhead and 45 litres of fuel. Later types, identified by their black airframe, have starlink communications, a larger 40kg warhead and additional fuel for an estimated 1,400km range. 
+
+![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-UkrShahed.jpg) 
+
+
 
 # Unnamed types
 
@@ -153,14 +175,8 @@ On December 9 2023 at least two of this type of drone were [found crashed in Rus
 
 ![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-crashed.jpg)  
 
+
 **?2**  
-
-On Feb 7, 2024, a crashed example of the jet powered drone was shared on Russian social media. It is evidently a type of one-way attack drone (OWA-UAV). See [main article]({% post_url 2024-02-07-Ukraine-Jet-Drone-2024-02 %}).  
-
-![Ukraine's New Jet-Powered Attack Drone](/images/Ukraine-OWA-UAV-jet-drone-wreck.jpg)  
-*Photographs shared online of the wreck. Note that the lower fuselage is upside down, the intake is on the bottom.*  
-
-**?3**  
 
 This type of drone was used in an attack on Russian air defences at Yevpatoriya, Crimea September 2023. Since then they have been used multiple times inside Russia.  
 
@@ -171,26 +187,21 @@ The drone is equipped with a single Chinese-made 12 hp DLE 120 piston engine in 
 
 ![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-tbc1.jpg)  
 
-**?4**  
+**?3**  
 
 A large drone around with a 'loitering munition' form. It has a 4 meters wingspan and is 2.7 meters long, and is equipped with a 14 kg warhead. Further details unclear.  
 
 ![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-Loitering1.jpg)  
 
-**?5**  
 
-On June 27 2024 images of a crashed jet powered flying wing drone was shared on Russian social media. The design is reportedly powered by a commercially available single SW140B turbine.   
-
-![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-tjet-flyingwing.jpg)  
-
-**?6**  
+**?4**  
 
 On Jan 29, 2024 a Ukrainian drone fell at an oil refinery in Yaroslavl, Russia, about 900 km from Ukraine. There are few details but we can deduce its overall layout. It has a box-like fuselage and tractor (front-mounted) propeller, a V- tail and anhedral wings (drooping down to the tips). Russian sources estimate the length as 1.5 meters, wingspan of 3 meters and warhead as 10 kg.  
 
 ![Ukrainian kamikaze drone](/images/Ukraine-Drone-2024-01-29.jpg)  
 *Note that it appears upside down*  
 
-**?7**  
+**?5**  
 
 A twin-boom design observed crashed in Russia several times over the summer of 2024. This drone is a strong visual match to a design from Aevex Aerospace in the United States. Howqever the rekationship has not been confirmed. The layout similar to FP-1 but distinct from it. Possibly carbon fiber construction.  
 
@@ -198,20 +209,15 @@ A twin-boom design observed crashed in Russia several times over the summer of 2
 *A crashed example in Russia (above), and a graphic from Aevex Aerospace's website (below).*  
 
 ![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-Twinboom-Aevex.jpg)  
+ 
 
-**?8**  
-
-Ukrainian flying wing UAV generally similar layout to Iranian (and Russian operated) Shahed design. Can be identified by swept endplates.   
-
-![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-UkrShahed.jpg)  
-
-**?9**  
+**?6**  
 
 Ukrainian delta wing UAV broadly similar to Shahed but with small canards forward, first reported on July 4 2025 during attacks on targets in Russia. The drone has been seen diving steeply to strike the target.  
 
 ![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAV-Delta.jpg)  
 
-**?10 Balloon Bomber**  
+**?7 Balloon Bomber**  
 
 Both Ukraine and Russia have used balloons. In general, the weather systems are likely to favor Ukraine in this area however, allowing very high-altitude attacks. These can be extremely difficult, and expensive, to intercept. The main challenge is navigation however since the balloons are largely at the mercy of the wind.   
 
