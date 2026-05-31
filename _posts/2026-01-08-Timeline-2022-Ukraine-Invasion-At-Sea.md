@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
-date: "2026-05-28 01:00:00"
+date: "2026-05-30 01:00:00"
 excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/><br/>
 ---
@@ -704,6 +704,12 @@ May 23: Major Ukrainian strikes on Novorossiysk. Oil facilities hit. Warships in
 May 25: 4 limpet mines found on Russian linked LPG tanker *Arrhenius* (IMO: 9471032) as it arrives at Ust-Luga port outside St. Petersburg in the Baltic.
 
 May 28: 3 Russian-linked tankers attacked by USVs in southern Black Sea near the entrance to the Bosporus. Tanker *James II* (IMO: 9253909) struck, tanker *Velora* (IMO: 9290373) hit but the USVs failed to explode, and *Altura* (IMO: 9292199) damaged.
+
+![Ukrainian attack on oil facilities at Novorossiysk](/images/Russia-Ukraine-Tu-142-20260530.jpg)  
+*Ukrainian drone's-eye view of the attack on 2 Tu-142 BEAR aircraft, May 30.* 
+
+May 30: Russian oil products tanker hit in Taganrog on the Sea of Azov. Two maritime patrol aircraft (MPA) - a Tu-142MR BEAR-J communications relay aircraft and a Tu-142M BEAR-F anti-submarine warfare aircraft, were destroyed at the nearby air base.
+
 
 ...To be continued.  
 
