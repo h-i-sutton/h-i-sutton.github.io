@@ -12,9 +12,11 @@ Free world nations in Western Europe should rapidly deploy a small but dispersed
 
 The glorious history of fast boat flotillas in the North Sea are largely forgotten. Most countries killed off this capability in successive defence cuts. Making them uncrewed, and adapting their weapons to suit, isn’t just a new 1:1 replacement, it is a massive increase in potency. Bring back coastal torpedo boats, but with this obvious twist.
 
-![Torpedo boat](/images/Royal-Navy-MBT-North-Sea.jpg)
+![Torpedo boat](/images/Royal-Navy-torpedo-boat-CM-4R.jpg)
 
-*A Royal Navy Motor Torpedo Boat (MTB) in the North Sea, World War Two. The exploits of Royal Navy torpedo boats are many, particularly during Russia's Civil War in 1919. Other European Navies also have strong yet largely abandoned traditions. Today these vessels would be uncrewed.*
+*A Royal Navy Motor Torpedo Boat (MTB). The exploits of Royal Navy torpedo boats are many, particularly during Russia's Civil War in 1919. Other European Navies also have strong yet largely abandoned traditions. Today these vessels would be uncrewed.*
+
+*Photo of the replica historic torpedo boat CMB4R, simply too beautiful to ignore. Visit it at [Portsmouth Historic Shipyard](https://historicdockyard.co.uk/). Photo from* [nationalhistoricships.org](https://www.nationalhistoricships.org.uk/register/3818/cmb4r)
 
 
 The vessels would need to be adapted to the weather, but they could still be small and cheap. Uncrewed boats don’t get seasick.
@@ -48,14 +50,6 @@ These craft should be cheap and operated at a lower level of integration to othe
 
 
 
-
-
-
-____________________________________________________
-
-![Torpedo boat](/images/RN-MBT-CM-4R-317.jpg) 
-
-*Cover thumbnail: Replica of historic torpedo boat CMB4R, simply too beautiful to ignore. Visit it at [Portsmouth Historic Shipyard](https://historicdockyard.co.uk/). Photo from* https://www.nationalhistoricships.org.uk/register/3818/cmb4r
 
 ____________________________________________________
 
