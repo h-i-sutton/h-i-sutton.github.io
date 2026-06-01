@@ -30,7 +30,7 @@ Their employment would, in many respects, build on the success of USVs in the Bl
 *Warships, such as the Type-45 Destroyer HMS Defender (seen here in March 2019 escorting the Russian frigate Admiral Gorshkov and three auxiliary ships, MOD Photo), are incredibly expensive to deploy.*
 
 
-The vessels would be discrete enough to provide an elusive threat, yet visible enough to be recognised by their quarry. They would be capable enough to represent a credible threat, yet cheap enough to be attritable in peacetime and expendable in wartime. While I am not suggesting that Western navies should attack Russian vessels, the Russians would also know that the risk calculations favour the assailant.
+The USVs would be discreet enough to pose an elusive threat, yet visible enough to ensure that their quarry ultimately recognised their presence, otherwise the deterrent effect would be lost. They would be capable enough to constitute a credible danger, while remaining sufficiently affordable to be attritable in peacetime and expendable in wartime. Although I am not suggesting that Western navies should attack Russian vessels, Russian planners would understand that the balance of risk favours the assailant in this equation.
 
 This capability would be relevant in the North Sea and Eastern North Atlantic. Similar capabilities could also be applied, although with slight differences, in the Baltic and Mediterranean.
 
