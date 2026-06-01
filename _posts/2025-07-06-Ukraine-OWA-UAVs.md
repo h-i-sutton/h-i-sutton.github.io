@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guide To Ukraine's Long Range Attack Drones"
-date: "2026-05-31 10:01:00"
+date: "2026-06-01 10:01:00"
 excerpt: "**UPDATED** *Originally posted Jan 24*.<br/><br clear=\"right\"><a href=\"/Ukraine-OWA-UAVs.html\"\
   ><img align=\"left\" loading=\"lazy\" src=\"/images/Ukraine-OWA-UAVs-317.jpg\"/></a>\
   \ ![Flag Ukraine](/images/flag_ukraine.jpg) Russia\u2019s use of long range drones,\
@@ -157,11 +157,19 @@ On June 27 2024 images of a crashed jet powered flying wing drone was shared on 
 
 ![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-tjet-flyingwing.jpg)  
 
+
 **Sichen / Behemoth**  
 
 Ukrainian flying wing UAV generally similar layout to Iranian (and Russian operated) Shahed design. Can be identified by swept endplates. Initial models had a ~30kg warhead and 45 litres of fuel. Later types, identified by their black airframe, have starlink communications, a larger 40kg warhead and additional fuel for an estimated 1,400km range. 
 
 ![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-UkrShahed.jpg) 
+
+
+**Zozulia** (zozulya)
+
+A long range drone produced by Ukrainian firm Warbirds, revealed in 2025 and increasingly visible in use during 2026. Likely Starlink connected. Range reported as 2,100km with deduced warhead, and approximately 1,000km with 50kg wargead.
+
+![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-Zozulia.jpg) 
 
 
 
