@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
-date: "2026-05-30 01:00:00"
+date: "2026-06-7 01:00:00"
 excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/><br/>
 ---
@@ -710,6 +710,19 @@ May 28: 3 Russian-linked tankers attacked by USVs in southern Black Sea near the
 
 May 30: Russian oil products tanker hit in Taganrog on the Sea of Azov. Two maritime patrol aircraft (MPA) - a Tu-142MR BEAR-J communications relay aircraft and a Tu-142M BEAR-F anti-submarine warfare aircraft, were destroyed at the nearby air base.
 
+## The Summer Of Long Range Strike
+
+Jun 1: France arrests false-flagged shadow fleet tanker *Tagor* (IMO: 9282481) sailing from Russia.
+
+Jun 3: Russian Navy Pr.20380 *Steregushchiy* class corvet *Boikiy* hit by at least two Ukrainian OWA-UAVs in dry dock at Kronstadt, St. Petersurg. Significant damage.
+
+Jun 4: Russian Pr.10410 *Svetlyak* class patrol patrol ship was struck by a Ukrainian FP-2 OWA-UAV off Yurkine, Sea of Azov.
+
+Jun 4: Swedish authorities seize Russuan linked shadow fleet cargo vessel *Caffa* (IMO: 9143611). Reports indicate that it may be handed over to Ukraine.
+
+Jun 5: Ukrainian OWA-UAVs struck 5 russian-linked merchant vessels in Mariupol, Berdiansk and offshore in Sea of Azov. Two vessels identified as *Natra* (IMO 8729975) and *Circon* (IMO 8887519).
+
+Jun 6: Ukrainian strikes on Kronstadt naval base. The marine plant and arsenal were hit. 
 
 ...To be continued.  
 
