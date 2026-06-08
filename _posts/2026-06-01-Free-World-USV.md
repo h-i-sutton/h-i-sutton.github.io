@@ -40,9 +40,8 @@ The USVs should principally be armed with anti-ship torpedoes. The Swedish Torpe
 There are suitable USV manufacturers in almost every country around Western Europe. In the UK there are Syos, Kraken, and others less publicly known. There are more companies in Norway, Denmark, Germany and so on. Ireland doesn’t seem to have one, but it would be interesting to see uncrewed torpedo boats based on the particularly robust Safehaven Marine interceptors.
 
 ![USV](/images/UK-Syos-USV.jpg)
-![USV](/images/UK-Kraken-USV.jpg)
 
-*British USV manufacturers include Syos (upper) and Kraken (lower). There are numerous European manufacturers of suitible craft.*
+*British USV manufacturers include Syos. There are numerous European manufacturers of suitible craft.*
 
 
 ## The Hardest Bit
