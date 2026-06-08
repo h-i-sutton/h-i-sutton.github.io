@@ -699,7 +699,7 @@ May 15: Ukrainian OWA-UAvs hit a small missile boat and a minesweeper at the Rus
 
 May 17: Russian Navy Pr.10410 Svetlyak-class patrol boat hit by Ukrainian FP-1 or FP-2 OWA-UAV while underway in Caspian Sea. 
 
-May 23: Major Ukrainian strikes on Novorossiysk. Oil facilities hit. Warships in the naval harbour also attacked.
+May 23: Major Ukrainian strikes on Novorossiysk. Oil facilities hit. Warships in the naval harbour also attacked. Russian shadow fleet tanker *Chrysalis* (IMO 9437684) hit off Novorossiysk.
 
 May 25: 4 limpet mines found on Russian linked LPG tanker *Arrhenius* (IMO: 9471032) as it arrives at Ust-Luga port outside St. Petersburg in the Baltic.
 
