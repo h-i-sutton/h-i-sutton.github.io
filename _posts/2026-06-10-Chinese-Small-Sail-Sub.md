@@ -30,9 +30,9 @@ At the same time, it seems too large to be a conventional or small-reactor ‘nu
 
 There has been online speculation that it may be a special mission submarine, like Russia’s seabed warfare types, but the dual-yard construction seems less likely for that.
 
-One possibility is that this is a continuation of the Type-093 ‘family’, intended to continue to advance Chinese submarine capabilities as the all-new Type-095 enters series production in the coming years. While the boat appears futuristic, the dual-yard construction suggests that it is in fact a low-risk design. And Chinese submarine naming convention is not necessarily sequential or rigidly tied to design lineage. We can speculate that the increased length, by around 10 meters, may be for a larger vertical launch system. If so, it may be driven by larger-diameter hypersonic missiles rather than more tubes. 
+One possibility is that this is a continuation of the Type-093 ‘family’, intended to continue to advance Chinese submarine capabilities as the all-new Type-095 enters series production in the coming years. While the boat appears futuristic, the dual-yard construction suggests that it is in fact a low-risk design. And Chinese submarine naming convention is not necessarily sequential or rigidly tied to design lineage. 
 
-There are also clear signs of torpedo tubes arranged in the upper hull shooting forward like the preceding Type-093 Shang Class. Possibly these are larger diameter than normal, but better information is needed before we speculate wildly on that. Watch this space.
+We can guess that the increased length, by around 10 meters, may be for a larger vertical launch system. If so, it may be driven by larger-diameter hypersonic missiles rather than more tubes. There are also clear signs of torpedo tubes arranged in the upper hull shooting forward like the preceding Type-093 Shang Class. Possibly these are larger diameter than normal, but better information is needed before we speculate wildly on that. Watch this space.
 
 
 ____________________________________________________
