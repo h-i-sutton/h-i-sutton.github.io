@@ -208,6 +208,8 @@ ______________________________________________________________
 
 # Uncrewed Vehicles (UUV, AUV, USV, UAV...)
 
+![Flag](/images/flag_ukraine.jpg) [![](/images/Ukraine-UUV-Sea-Trident-250.png)]({% post_url 2026-06-15-Ukraine-UUV-Sea-Trident-SL1000 %}) Ukraine's [Sea Triedent SL-1000 Underwater Drone (UUV)]({% post_url 2026-06-15-Ukraine-UUV-Sea-Trident-SL1000 %}) 
+
 ![Flag](/images/flag_ukraine.jpg) [![](/images/Ukraine-Marichka-250.png)]({% post_url 2023-08-23-Ukraine-Marichka-AUV %}) Ukraine's [Marichka Underwater Drone (AUV)]({% post_url 2023-08-23-Ukraine-Marichka-AUV %})  
 
 ![Flag](/images/flag_ukraine.jpg) [![](/images/Ukraine-USV-250.png)]({% post_url 2022-11-11-Ukraine-Maritime-Drones %}) Ukraine's [Maritime Drones (USVs)]({% post_url 2022-11-11-Ukraine-Maritime-Drones %})  
