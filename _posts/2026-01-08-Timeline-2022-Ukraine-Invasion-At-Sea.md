@@ -734,7 +734,7 @@ Mid-late Jun: Ukrainian campaign on logistics routes and critical infrastructure
 
 Mid-late Jun: Russian USV operations increasing in northwestern Black Sea, likely launched from Chornomors'ke area of Crimea. 
 
-Jun 22: Russian OWA-UAVs hot three merchant ships off Odesa coast. *Victress* (IMO: 9030498) confirmed, *Searena* (IMO: 9250567) probable, *Ganosaya* (IMO: 9151400) probable.
+Jun 22: Russian OWA-UAVs hit three merchant ships off Odesa coast. *Victress* (IMO: 9030498) confirmed, *Searena* (IMO: 9250567) probable, *Ganosaya* (IMO: 9151400) probable.
 
 Jun 24: Russian sources report that Ukrainian USVs are being used to launch quadcopter FPV drones which actively hunt Russian mobile air defence teams in Crimea, in support of the Ukrainian mid-range strike campaign. 
 
