@@ -32,7 +32,7 @@ Payload (warhead): 1,000 kg <br/>
 
 *The SL-1000 on display at Eurosatory-2026. Photo from* [militarnyi.com](https://militarnyi.com/en/news/ukraine-sea-trident-drone-strategic-targets/)
 
-The vehicle has an unusual contra-rotating screw (propeller) with a 6-blade screw spinning anti-clockwise in front and a 5-blade clockwise one behind. This implies a high maximum speed, possibly during the terminal phase of an attack. There are no discernable control surfaces but there are visible thrusters for attitude correction, and possibly position keeping. 
+The vehicle has an unusual contra-rotating screw (propeller) with a 6-blade screw spinning anti-clockwise in front and another 6-blade screw spinning clockwise one behind. This implies a high maximum speed, possibly during the terminal phase of an attack, although reported speed is only 10 knots. There are no discernable control surfaces but there are visible thrusters for attitude correction, and possibly position keeping. 
 
 ![Sea Trident SL-1000 underwater Drone (AUV / UUV)](/images/Ukraine-UUV-Sea-Trident-screw.jpg) 
 
