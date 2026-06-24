@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
-date: "2026-06-7 01:00:00"
+date: "2026-06-24 01:00:00"
 excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/><br/>
 ---
@@ -725,6 +725,18 @@ Jun 5: Ukrainian OWA-UAVs struck 5 russian-linked merchant vessels in Mariupol, 
 Jun 6: Ukrainian strikes on Kronstadt naval base. The marine plant and arsenal were hit. 
 
 Jun 8: Russian shadow fleet tanker *Caroline Bezengi* (IMO 9224439) attacked off Yemen, rteportedly by sabotage. Limpet mine attack unconfirmed.
+
+Jun 11: Ukrainian OWA-UAV operations in Sea of Azov include strikes on a tug boast and critical infrastructure.
+
+Jun 14: British forces intercept a Russian shadow fleet tanker, the *Smyrtos* (MO: 9389100), for the first time in English Channel.
+
+Mid-late Jun: Ukrainian campaign on logistics routes and critical infrastructure into and out of Crimea include numerous OWA-UAV strikes on coastal targets including around Kerch. 
+
+Mid-late Jun: Russian USV operations increasing in northwestern Black Sea, likely launched from Chornomors'ke area of Crimea. 
+
+Jun 22: Russian OWA-UAVs hot three merchant ships off Odesa coast. *Victress* (IMO: 9030498) confirmed, *Searena* (IMO: 9250567) probable, *Ganosaya* (IMO: 9151400) probable.
+
+Jun 24: Russian sources report that Ukrainian USVs are being used to launch quadcopter FPV drones which actively hunt Russian mobile air defence teams in Crimea, in support of the Ukrainian mid-range strike campaign. 
 
 ...To be continued.  
 
