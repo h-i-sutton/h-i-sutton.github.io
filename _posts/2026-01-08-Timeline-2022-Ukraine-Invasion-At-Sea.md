@@ -738,6 +738,8 @@ Jun 22: Russian OWA-UAVs hit three merchant ships off Odesa coast. *Victress* (I
 
 Jun 24: Russian sources report that Ukrainian USVs are being used to launch quadcopter FPV drones which actively hunt Russian mobile air defence teams in Crimea, in support of the Ukrainian mid-range strike campaign. 
 
+Jun 26: Ukrainian SBU raid on the Zaliv shiupyard near Kerch struck two Russian Pr.15310 cable-laying vessels *Volga* and *Vyatka* with OWA-UAVs. The  CNF22 cargo-passenger ferry *Petropavlovsk* was also hit.
+
 ...To be continued.  
 
 ____________________________________________________
