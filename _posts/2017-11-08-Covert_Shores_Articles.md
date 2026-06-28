@@ -226,6 +226,8 @@ ______________________________________________________________
 
 ![Flag](/images/flag_China.jpg) [![](/images/Cn_sea-wing-250.png)]({% post_url 2021-01-12-Chinese-Sea-Wing-Submarine-Drone %}) Chinese [Sea Wing UUV (Glider)]({% post_url 2021-01-12-Chinese-Sea-Wing-Submarine-Drone %})  
 
+![Flag](/images/flag_germany.jpg) [![](/images/Germany-GreyShark-250.png)]({% post_url 2026-06-28-Greyshark-AUV %}) [Greyshark AUV]({% post_url 2026-06-28-Greyshark-AUV %})  
+
 ![Flag](/images/flag_canada.jpg) [![](/images/Canada-US-Navy-Theseus-AUV-250.png)]({% post_url 2020-07-19-Canadian-Cold-War-Theseus-AUV %}) [Theseaus AUV]({% post_url 2020-07-19-Canadian-Cold-War-Theseus-AUV %})  
 
 ![Flag](/images/flag_UK.jpg) ![Sub](/images/Royal-Navy-Manta-250.png) Royal Navy [Manta XLUUV]({% post_url 2021-05-22-Royal-Navy-Manta-XLUUV %}) extra-large UUV  
