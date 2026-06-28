@@ -12,7 +12,7 @@ excerpt: |-
 
 ![Greyshark AUV](/images/Germany-GreyShark-profile.jpg) 
 
-Another unusual feature is that the screw (propeller) is mounted on a large, segmented ring around the outside of the hull and ahead of the simple cruciform control surfaces at the stern. On early prototypes this screw had a large shroud, but this has since been removed, although fixed stators remain just ahead of the screw. 
+Another unusual feature is that the screw (propeller) is mounted on a large, segmented ring around the outside of the hull and ahead of the simple X-form control surfaces at the stern. On early prototypes this screw had a large shroud, but this has since been removed, although fixed stators remain just ahead of the screw. 
 
 The Greyshark comes in two variants, the battery powered Bravo and the fuel cell AIP (air-independent power) Foxtrot. The two designs share the same profile and length-beam ratios, but the Foxtrot is larger. Both versions, however, can be road transported in a standard ISO 40 ft shipping container.
 
