@@ -3,12 +3,12 @@ layout: post
 title: "Greyshark AUV - Biologically Inspired High-Performance Underwater Drone"
 date: "2026-06-28 01:01:00"
 excerpt: |-
-  <br clear="right"/><a href="/Greyshark-AUV.html"><img align="left" loading="lazy" src="/images/Germany-GreyShark-317.jpg"/></a> ![Flag Germany](/images/flag_germany.jpg) The Greyshark Series 2 AUVs (autonomous underwater vehicles) developed by Fassmer Defence in Germany have distinctive biologically inspired hull forms to maximise efficiency.<br/><br/>They are a promising European AUV design..<br/>[Read More &gt;....](/Greyshark-AUV.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Greyshark-AUV.html"><img align="left" loading="lazy" src="/images/Germany-GreyShark-317.jpg"/></a> ![Flag Germany](/images/flag_germany.jpg) The Greyshark Series 2 AUVs (autonomous underwater vehicles) developed by Euroatlas in Germany have distinctive biologically inspired hull forms to maximise efficiency.<br/><br/>They are a promising European AUV design..<br/>[Read More &gt;....](/Greyshark-AUV.html "READ MORE")<br clear="left"/>
 ---
 
 
 
-![Flag Germany](/images/flag_germany.jpg) The Greyshark Series 2 AUVs (autonomous underwater vehicles) developed by Fassmer Defence in Germany have distinctive biologically inspired hull forms to maximise efficiency. Although named after a shark, the animal form appears closer to a penguin. This gives the craft an impressive cruising speed of 10 knots, a maximum speed of more than 12 knots, and strong agility.
+![Flag Germany](/images/flag_germany.jpg) The Greyshark Series 2 AUVs (autonomous underwater vehicles) [developed by Euroatlas](https://euroatlas.com/product/advanced-underwater-autonomy/) in Germany have distinctive biologically inspired hull forms to maximise efficiency. Although named after a shark, the animal form appears closer to a penguin. This gives the craft an impressive cruising speed of 10 knots, a maximum speed of more than 12 knots, and strong agility.
 
 ![Greyshark AUV](/images/Germany-GreyShark-profile.jpg) 
 
