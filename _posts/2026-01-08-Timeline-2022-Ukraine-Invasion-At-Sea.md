@@ -740,9 +740,12 @@ Jun 24: Russian sources report that Ukrainian USVs are being used to launch quad
 
 Jun 26: Ukrainian SBU raid on the Zaliv shiupyard near Kerch struck two Russian Pr.15310 cable-laying vessels *Volga* and *Vyatka* with OWA-UAVs. The  CNF22 cargo-passenger ferry *Petropavlovsk* was also hit.
 
-Jul 6-9: Ukrainian campaign against fuel logistics in Crimea and southeastern Ukraine focuses on products tankers in Sea of Azov area. 19 coastal tankers hiot by OWA-UAVs, plus 1 bulk carrier and 1 ferry."
+Jul 4: Ukrainian Navy (VMS-ZSU) reveals presence of NSM missiles, together with Harpoon, Neptune and RBS-15 missiles during display in Odesa. Seawolf USVs and an unnamed large AUV also shown.
 
-Jul 7: Ukraine's SBU used Sea Bavy USVs to strike the shadow fleet tanker *Blue* (IMO: 9236353) in Black Sea
+Jul 6-9: Ukrainian campaign against fuel logistics in Crimea and southeastern Ukraine focuses on products tankers in Sea of Azov area. 19 coastal tankers hit by OWA-UAVs, plus 1 bulk carrier and 1 ferry.
+
+Jul 7: Ukraine's SBU used Sea Baby USVs to strike the shadow fleet tanker *Blue* (IMO: 9236353) in Black Sea 
+
 
 
 ...To be continued.  
