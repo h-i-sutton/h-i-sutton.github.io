@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
-date: "2026-06-24 01:00:00"
+date: "2026-07-09 01:00:00"
 excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/><br/>
 ---
@@ -739,6 +739,11 @@ Jun 22: Russian OWA-UAVs hit three merchant ships off Odesa coast. *Victress* (I
 Jun 24: Russian sources report that Ukrainian USVs are being used to launch quadcopter FPV drones which actively hunt Russian mobile air defence teams in Crimea, in support of the Ukrainian mid-range strike campaign. 
 
 Jun 26: Ukrainian SBU raid on the Zaliv shiupyard near Kerch struck two Russian Pr.15310 cable-laying vessels *Volga* and *Vyatka* with OWA-UAVs. The  CNF22 cargo-passenger ferry *Petropavlovsk* was also hit.
+
+Jul 6-9: Ukrainian campaign against fuel logistics in Crimea and southeastern Ukraine focuses on products tankers in Sea of Azov area. 19 coastal tankers hiot by OWA-UAVs, plus 1 bulk carrier and 1 ferry."
+
+Jul 7: Ukraine's SBU used Sea Bavy USVs to strike the shadow fleet tanker *Blue* (IMO: 9236353) in Black Sea
+
 
 ...To be continued.  
 
