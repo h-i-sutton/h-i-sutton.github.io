@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
-date: "2026-07-09 01:00:00"
+date: "2026-07-10 01:00:00"
 excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/><br/>
 ---
@@ -747,6 +747,9 @@ Jul 6: Ukrainian campaign against fuel logistics in Crimea and southeastern Ukra
 Jul 7: Ukrainian campaign against fuel logistics in Sea of Azov: 8 tankers, 1 cargo ship, and 1 ferry hit by OWA-UAVs: _Venera-3, Sanar-1, Sanar-17, Klimena, Teti, Aleksey Savrasov, Penelopa, Ivan Cheremisinov_, plus an unnamed Cargo ship, and the Kerch ferry _SKS One_.
 
 Jul 7: Ukraine's SBU used Sea Baby USVs to strike the shadow fleet tanker *Blue* (IMO: 9236353) in Black Sea 
+
+![Ukrainian campaign against fuel logistics in Sea of Azov](/images/Ukraine-Russia-Tankers-Azov.jpg)  
+*Ukrainian drones, mostly FP-1/2 (left), struck a large number of fuel tankers and other logistics ships in Sea of Azov. Russian Su-34 FULLBACK aircraft (right) attempted to intercept the drones, with little apparent success.* 
 
 Jul 8: Ukrainian campaign against fuel logistics in Sea of Azov: 5 tankers and 4 cargo vessels hit by OWA-UAVs: _Tankers Efrosinya V, Maria, Sanar-17_ (hit again), _Sanar-4, Klimena_ (hit again), and cargo ships _Donstar, Vladimir Yarygin, Feofan Shokhirev_, and _Evgeniya Z_.
 
