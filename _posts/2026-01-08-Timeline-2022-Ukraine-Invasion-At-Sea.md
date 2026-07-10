@@ -742,11 +742,15 @@ Jun 26: Ukrainian SBU raid on the Zaliv shiupyard near Kerch struck two Russian 
 
 Jul 4: Ukrainian Navy (VMS-ZSU) reveals presence of NSM missiles, together with Harpoon, Neptune and RBS-15 missiles during display in Odesa. Seawolf USVs and an unnamed large AUV also shown.
 
-Jul 6-9: Ukrainian campaign against fuel logistics in Crimea and southeastern Ukraine focuses on products tankers in Sea of Azov area. 19 coastal tankers hit by OWA-UAVs, plus 1 bulk carrier and 1 ferry.
+Jul 6: Ukrainian campaign against fuel logistics in Crimea and southeastern Ukraine begins to focus on products tankers in Sea of Azov area. 2 tankers hit by OWA-UAVs: Captain _Barmin_ & _Sanar-3_
+
+Jul 7: Ukrainian campaign against fuel logistics in Sea of Azov: 8 tankers, 1 cargo ship, and 1 ferry hit by OWA-UAVs: _Venera-3, Sanar-1, Sanar-17, Klimena, Teti, Aleksey Savrasov, Penelopa, Ivan Cheremisinov_, plus an unnamed Cargo ship, and the Kerch ferry _SKS One_.
 
 Jul 7: Ukraine's SBU used Sea Baby USVs to strike the shadow fleet tanker *Blue* (IMO: 9236353) in Black Sea 
 
+Jul 8: Ukrainian campaign against fuel logistics in Sea of Azov: 5 tankers and 4 cargo vessels hit by OWA-UAVs: _Tankers Efrosinya V, Maria, Sanar-17_ (hit again), _Sanar-4, Klimena_ (hit again), and cargo ships _Donstar, Vladimir Yarygin, Feofan Shokhirev_, and _Evgeniya Z_.
 
+Jul 9: Ukrainian campaign against fuel logistics in Sea of Azov: 12 tankers, 1 cargo ship, and 1 tugboat hit by OWA-UAVs: Tankers _Chelsea-6, Aura, Sonar-1, Ilya Repin, Merkuriy, Galiaskar Kamal, Venera-3, Penelopa_, plus the tug boat _Alfeo_. The names of the other five vessels was not reported. 
 
 ...To be continued.  
 
