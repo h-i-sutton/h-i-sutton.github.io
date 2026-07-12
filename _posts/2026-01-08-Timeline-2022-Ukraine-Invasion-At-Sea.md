@@ -743,7 +743,7 @@ Jun 26: Ukrainian SBU raid on the Zaliv shiupyard near Kerch struck two Russian 
 Jul 4: Ukrainian Navy (VMS-ZSU) reveals presence of NSM missiles, together with Harpoon, Neptune and RBS-15 missiles during display in Odesa. Seawolf USVs and an unnamed large AUV also shown.
 
 
-##Sea of Azov Becomes Lake Magyar
+## Sea of Azov Becomes Lake Magyar
 
 Jul 6: Ukrainian campaign against fuel logistics in Crimea and southeastern Ukraine begins to focus on products tankers in Sea of Azov area. 2 tankers hit by OWA-UAVs: Captain _Barmin_ & _Sanar-3_
 
