@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Danish Naval Drones Shows What European Navies Should Do"
+title: "Danish Naval Drone Shows What European Navies Should Do"
 date: "2026-07-12 00:01:00"
 excerpt: |- 
   <br clear="right"/><a href="/Stormborn-USV-Incident.html"><img align="left" loading="lazy" src="/images/Denmark-USV-Russian-Warship-317.jpg"/></a> ![Flag Denmark](/images/Flag_Denmark.jpg) ![Flag Russia](/images/flag_russia.jpg) A Danish USV manufacturer, Stormborn, has accidently provided an excellent example of how Denmark, and other European Navies, can better monitor increased Russian Naval activity and hybrid warfare operations at sea...<br/>[Read More &gt;....](/Stormborn-USV-Incident.html "READ MORE")<br clear="left"/>
