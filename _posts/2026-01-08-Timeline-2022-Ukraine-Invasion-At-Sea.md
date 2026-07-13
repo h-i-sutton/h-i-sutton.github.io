@@ -764,6 +764,8 @@ Jul 10: Reports that Russia stopped passages throuugh Don-Azov Channel and stopp
 
 Jul 10-12: Further Ukrainian strikes on fuel tankers and other logistics vessels in Sea of Avox with OWA-UAVs.
 
+Jul 12: Ukrainian campaign against fuel logistics in Sea of Azov: 7 tankers, 5 dry cargo ships, 2 tugboats and 1 ferry hit.
+
 ...To be continued.  
 
 ____________________________________________________
