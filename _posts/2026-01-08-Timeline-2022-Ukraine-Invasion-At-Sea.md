@@ -768,11 +768,13 @@ Jul 10: Reports that Russia stopped passages throuugh Don-Azov Channel and stopp
 
 Jul 10-12: Further Ukrainian strikes on fuel tankers and other logistics vessels in Sea of Avox with OWA-UAVs.
 
-Jul 12: Ukrainian campaign against fuel logistics in Sea of Azov, operation MOLOCHKA: 7 tankers, 5 dry cargo ships, 2 tugboats and 1 ferry hit.
+Jul 12: Ukrainian campaign against fuel logistics in Sea of Azov, operation MOLOCHKA: 7 tankers, 5 cargo ships, 2 tugboats and 1 ferry hit.
 
 Jul 13: A transport USV operated by Ukraine's 123rd Territorial Defense Brigade lands an uncrewed ground vehicle (UGV) on Kinburn Spit. Likely the first time in history a USV has deployed a UGV. 
 
 Jul 13: Russian OWA-UAV reportedly struck a merchant ship in Odesa.
+
+Jul 13: Ukrainian campaign against fuel logistics in Sea of Azov, operation MOLOCHKA: 5 tankers, 5 cargo ships, and 1 tugboat.
 
 Jul 14: Russian jet-powered strike drone (OWA-UAV) struck Tanzanian flagged cargo vessel *Atlas Bey* (IMO: 8302404) off the coast of Odesa. A second merchant ship was also reportedly hit near Odesa.
 
