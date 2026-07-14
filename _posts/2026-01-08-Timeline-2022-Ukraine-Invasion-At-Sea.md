@@ -766,6 +766,14 @@ Jul 10-12: Further Ukrainian strikes on fuel tankers and other logistics vessels
 
 Jul 12: Ukrainian campaign against fuel logistics in Sea of Azov: 7 tankers, 5 dry cargo ships, 2 tugboats and 1 ferry hit.
 
+Jul 13: A transport USV operated by Ukraine's 123rd Territorial Defense Brigade lands an uncrewed ground vehicle (UGV) on Kinburn Spit. Likely the first time in history a USV has deployed a UGV. 
+
+![Russian Rubin Class FSB patrol ship sunk](/images/Russia-Rubin-FSB-Sunk-20260714.jpg) 
+
+*Russian Rubin Class FSB patrol ship sunk 14th July, 44.5648°, 37.9928°.*
+
+Jul 14: Ukrainian Navy (VMS-ZSU) destroy Russian FSB Pr.22460 Rubin Class patrol ship ‘*Izumrud*’ with a Sargan-3000 USV in the small harbour outside Gelendzhik.
+
 ...To be continued.  
 
 ____________________________________________________
