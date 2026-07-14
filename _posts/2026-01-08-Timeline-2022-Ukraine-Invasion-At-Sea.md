@@ -768,6 +768,8 @@ Jul 12: Ukrainian campaign against fuel logistics in Sea of Azov: 7 tankers, 5 d
 
 Jul 13: A transport USV operated by Ukraine's 123rd Territorial Defense Brigade lands an uncrewed ground vehicle (UGV) on Kinburn Spit. Likely the first time in history a USV has deployed a UGV. 
 
+Jul 14: Russian jet-powered strike drone (OWA-UAV) struck Tanzanian flagged cargo vessel *Atlas Bey* (IMO: 8302404) off the coast of Odesa.
+
 ![Russian Rubin Class FSB patrol ship sunk](/images/Russia-Rubin-FSB-Sunk-20260714.jpg) 
 
 *Russian Rubin Class FSB patrol ship sunk 14th July, 44.5648°, 37.9928°.*
