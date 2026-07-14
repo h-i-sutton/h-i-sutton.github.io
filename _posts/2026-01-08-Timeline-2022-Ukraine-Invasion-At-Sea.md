@@ -609,6 +609,8 @@ Dec 19: Russian FSB border guard Pr.22460 Rubin-class patrol boat *Rasul Gamzato
 
 Jan 8 2026: Palau-flagged tanker *Elbus* (IMO: 9290385) heading to Novorossiysk hit by aerial drone off Turkish coast in Black Sea. 
 
+Jan 9: Russian drones hit two merchant ships off Odesa coast. *Ladonna* (IMO: 9107033) and *Wael K* (IMO: 9001148)
+
 Jan 11: Ukrainian drones hit Russian *Filanovsky, Korchagin*, and *Grayfer* oil platforms in the Caspian Sea. 
 
 Jan 11: Russian drones hit merchant ships *Wael K* (IMO: 9001148) and *Ladonna* (IMO: 9107033) off Odesa coast.
@@ -699,6 +701,8 @@ May 15: Ukrainian OWA-UAvs hit a small missile boat and a minesweeper at the Rus
 
 May 17: Russian Navy Pr.10410 Svetlyak-class patrol boat hit by Ukrainian FP-1 or FP-2 OWA-UAV while underway in Caspian Sea. 
 
+May 18: Russian Shahed OWA-USV hit Chinese linked bulk carrier merchant ship *KSL Deyang* (IMO: 9457725) near Odesa.
+
 May 23: Major Ukrainian strikes on Novorossiysk. Oil facilities hit. Warships in the naval harbour also attacked. Russian shadow fleet tanker *Chrysalis* (IMO 9437684) hit off Novorossiysk.
 
 May 25: 4 limpet mines found on Russian linked LPG tanker *Arrhenius* (IMO: 9471032) as it arrives at Ust-Luga port outside St. Petersburg in the Baltic.
@@ -743,20 +747,20 @@ Jun 26: Ukrainian SBU raid on the Zaliv shiupyard near Kerch struck two Russian 
 Jul 4: Ukrainian Navy (VMS-ZSU) reveals presence of NSM missiles, together with Harpoon, Neptune and RBS-15 missiles during display in Odesa. Seawolf USVs and an unnamed large AUV also shown.
 
 
-## Sea of Azov Becomes Lake Magyar
+## Operation MOLOCHKA
 
 Jul 6: Ukrainian campaign against fuel logistics in Crimea and southeastern Ukraine begins to focus on products tankers in Sea of Azov area. 2 tankers hit by OWA-UAVs: Captain _Barmin_ & _Sanar-3_
 
 Jul 7: Ukrainian campaign against fuel logistics in Sea of Azov: 8 tankers, 1 cargo ship, and 1 ferry hit by OWA-UAVs: _Venera-3, Sanar-1, Sanar-17, Klimena, Teti, Aleksey Savrasov, Penelopa, Ivan Cheremisinov_, plus an unnamed Cargo ship, and the Kerch ferry _SKS One_.
 
-Jul 7: Ukraine's SBU used Sea Baby USVs to strike the shadow fleet tanker *Blue* (IMO: 9236353) in Black Sea 
+Jul 7: Ukraine's SBU used Sea Baby USVs to strike the shadow fleet tanker *Blue* (IMO: 9236353) in Black Sea. Ship disabled, towed to Turkey.
 
 ![Ukrainian campaign against fuel logistics in Sea of Azov](/images/Ukraine-Russia-Tankers-Azov.jpg)  
 *Ukrainian drones, mostly FP-1/2 (left), struck a large number of fuel tankers and other logistics ships in Sea of Azov. Russian Su-34 FULLBACK aircraft (right) attempted to intercept the drones, with little apparent success.* 
 
-Jul 8: Ukrainian campaign against fuel logistics in Sea of Azov: 5 tankers and 4 cargo vessels hit by OWA-UAVs: _Tankers Efrosinya V, Maria, Sanar-17_ (hit again), _Sanar-4, Klimena_ (hit again), and cargo ships _Donstar, Vladimir Yarygin, Feofan Shokhirev_, and _Evgeniya Z_.
+Jul 8: Ukrainian campaign against fuel logistics in Sea of Azov, operation MOLOCHKA: 5 tankers and 4 cargo vessels hit by OWA-UAVs: _Tankers Efrosinya V, Maria, Sanar-17_ (hit again), _Sanar-4, Klimena_ (hit again), and cargo ships _Donstar, Vladimir Yarygin, Feofan Shokhirev_, and _Evgeniya Z_.
 
-Jul 9: Ukrainian campaign against fuel logistics in Sea of Azov: 12 tankers, 1 cargo ship, and 1 tugboat hit by OWA-UAVs: Tankers _Chelsea-6, Aura, Sonar-1, Ilya Repin, Merkuriy, Galiaskar Kamal, Venera-3, Penelopa_, plus the tug boat _Alfeo_. The names of the other five vessels was not reported. 
+Jul 9: Ukrainian campaign against fuel logistics in Sea of Azov, operation MOLOCHKA: 12 tankers, 1 cargo ship, and 1 tugboat hit by OWA-UAVs: Tankers _Chelsea-6, Aura, Sonar-1, Ilya Repin, Merkuriy, Galiaskar Kamal, Venera-3, Penelopa_, plus the tug boat _Alfeo_. The names of the other five vessels was not reported. 
 
 Jul 10: Russian fuel tankers in Sea of Azov begin to have drone nets. Does not appear successful against OWA-UAVs. 
 
@@ -764,11 +768,13 @@ Jul 10: Reports that Russia stopped passages throuugh Don-Azov Channel and stopp
 
 Jul 10-12: Further Ukrainian strikes on fuel tankers and other logistics vessels in Sea of Avox with OWA-UAVs.
 
-Jul 12: Ukrainian campaign against fuel logistics in Sea of Azov: 7 tankers, 5 dry cargo ships, 2 tugboats and 1 ferry hit.
+Jul 12: Ukrainian campaign against fuel logistics in Sea of Azov, operation MOLOCHKA: 7 tankers, 5 dry cargo ships, 2 tugboats and 1 ferry hit.
 
 Jul 13: A transport USV operated by Ukraine's 123rd Territorial Defense Brigade lands an uncrewed ground vehicle (UGV) on Kinburn Spit. Likely the first time in history a USV has deployed a UGV. 
 
-Jul 14: Russian jet-powered strike drone (OWA-UAV) struck Tanzanian flagged cargo vessel *Atlas Bey* (IMO: 8302404) off the coast of Odesa.
+Jul 13: Russian OWA-UAV reportedly struck a merchant ship in Odesa.
+
+Jul 14: Russian jet-powered strike drone (OWA-UAV) struck Tanzanian flagged cargo vessel *Atlas Bey* (IMO: 8302404) off the coast of Odesa. A second merchant ship was also reportedly hit near Odesa.
 
 ![Russian Rubin Class FSB patrol ship sunk](/images/Russia-Rubin-FSB-Sunk-20260714.jpg) 
 
