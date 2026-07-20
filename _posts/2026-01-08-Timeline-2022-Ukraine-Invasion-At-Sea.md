@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
-date: "2026-07-14 01:00:00"
+date: "2026-07-20 01:00:00"
 excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/><br/>
 ---
@@ -749,7 +749,7 @@ Jul 4: Ukrainian Navy (VMS-ZSU) reveals presence of NSM missiles, together with 
 
 ## Operation MOLOCHKA
 
-Jul 6: Ukrainian campaign against fuel logistics in Crimea and southeastern Ukraine begins to focus on products tankers in Sea of Azov area. 2 tankers hit by OWA-UAVs: Captain _Barmin_ & _Sanar-3_
+Jul 6: Ukrainian Unmanned Systems Forces (SBS) campaign against fuel logistics in Crimea and southeastern Ukraine begins to focus on products tankers in Sea of Azov area. Campaign later reportedly name 'MOLOCHKA' meaning '_Moscow will fall because of Crimea_'. 2 tankers hit by OWA-UAVs: Captain _Barmin_ & _Sanar-3_
 
 Jul 7: Ukrainian campaign against fuel logistics in Sea of Azov: 8 tankers, 1 cargo ship, and 1 ferry hit by OWA-UAVs: _Venera-3, Sanar-1, Sanar-17, Klimena, Teti, Aleksey Savrasov, Penelopa, Ivan Cheremisinov_, plus an unnamed Cargo ship, and the Kerch ferry _SKS One_.
 
@@ -783,6 +783,22 @@ Jul 14: Russian jet-powered strike drone (OWA-UAV) struck Tanzanian flagged carg
 *Russian Rubin Class FSB patrol ship sunk 14th July, 44.5648°, 37.9928°.*
 
 Jul 14: Ukrainian Navy (VMS-ZSU) destroy Russian FSB Pr.22460 Rubin Class patrol ship ‘*Izumrud*’ with a Sargan-3000 USV in the small harbour outside Gelendzhik.
+
+Jul 15: Ukrainian Unmanned Systems Forces (SBS) struck 20 vessels as part of Operation MOLOCHKA. Breakdown not reported.
+
+Jul 16: Ukrainian Unmanned Systems Forces (SBS) struck 11 vessels as part of Operation MOLOCHKA: 5 oil tankers, 1 oil products tanker, 3 cargo vessels, 2 tugboats. Sea of Azov/Black Sea breakdown not reported.
+
+Jul 17: Ukrainian Unmanned Systems Forces (SBS) struck 12 vessels as part of Operation MOLOCHKA: 1 oil tankers, 1 oil products tanker, 9 cargo vessels, 1 tugboats. Sea of Azov/Black Sea breakdown not reported.
+
+Jul 18: Ukrainian Unmanned Systems Forces (SBS) struck 13 vessels as part of Operation MOLOCHKA. In Sea of Azov: 1 oil tanker, 8 cargo ships. In Black Sea: 1 oil products tanker. 2 cranes & 1 tugboat. 
+
+Jul 18: Ukrainian SBU strikes shadow fleet tanker _Avero_ (IMO: 9250737) with a Kozak Mamai USV in Black Sea. 
+
+Jul 19: Ukrainian Unmanned Systems Forces (SBS) struck 4 vessels as part of Operation MOLOCHKA. Breakdown not reported.
+
+Jul 19: Russian aircraft strike the Guinea Bissau-flagged grain ship _Golden Leo_ (IMO 9181833) off Odesa, reportedly with AS-13 KINGBOLT (Kh-59) or AS-22 KAZOO (Kh-69) air-launched cruise missiles.
+
+Jul 20: Ukrainian Unmanned Systems Forces (SBS) struck 7 vessels as part of Operation MOLOCHKA: 3 oil tankers, 4 cargo vessels. Sea of Azov/Black Sea breakdown not reported.
 
 ...To be continued.  
 
