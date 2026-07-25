@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guide To Ukraine's Long Range Attack Drones"
-date: "2026-06-01 10:01:00"
+date: "2026-07-2501 10:01:00"
 excerpt: "**UPDATED** *Originally posted Jan 24*.<br/><br clear=\"right\"><a href=\"/Ukraine-OWA-UAVs.html\"\
   ><img align=\"left\" loading=\"lazy\" src=\"/images/Ukraine-OWA-UAVs-317.jpg\"/></a>\
   \ ![Flag Ukraine](/images/flag_ukraine.jpg) Russia\u2019s use of long range drones,\
@@ -172,6 +172,19 @@ A long range drone produced by Ukrainian firm Warbirds, revealed in 2025 and inc
 ![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-Zozulia.jpg) 
 
 
+**Black Fury**  
+
+This type of drone was used in an attack on Russian air defences at Yevpatoriya, Crimea September 2023. Since then they have been used multiple times inside Russia.  
+
+![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-tbc2.jpg)  
+*A prototype was shown alongside Chaklun drones in November 2022. Note the different engine, winglets, and presence of landing gear.*  
+
+The drone is equipped with a single Chinese-made 12 hp DLE 120 piston engine in a pusher configuration. The engine is mounted high with a distinctive fairing in front of it. The wings include extended wing roots and small end plates. The tail is a twin-boom arrangement with tapered vertical stabilizers with a horizontal tail on top.
+
+![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-Black-Fury.jpg)
+![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-tbc1.jpg)
+
+
 
 # Unnamed types
 
@@ -184,32 +197,23 @@ On December 9 2023 at least two of this type of drone were [found crashed in Rus
 ![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-crashed.jpg)  
 
 
+
 **?2**  
-
-This type of drone was used in an attack on Russian air defences at Yevpatoriya, Crimea September 2023. Since then they have been used multiple times inside Russia.  
-
-![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-tbc2.jpg)  
-*A prototype was shown alongside Chaklun drones in November 2022. Note the different engine, winglets, and presence of landing gear.*  
-
-The drone is equipped with a single Chinese-made 12 hp DLE 120 piston engine in a pusher configuration. The engine is mounted high with a distinctive fairing in front of it. The wings include extended wing roots and small end plates. The tail is a twin-boom arrangement with tapered vertical stabilizers with a horizontal tail on top.
-
-![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-tbc1.jpg)  
-
-**?3**  
 
 A large drone around with a 'loitering munition' form. It has a 4 meters wingspan and is 2.7 meters long, and is equipped with a 14 kg warhead. Further details unclear.  
 
 ![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-Loitering1.jpg)  
 
 
-**?4**  
+**?3**  
 
 On Jan 29, 2024 a Ukrainian drone fell at an oil refinery in Yaroslavl, Russia, about 900 km from Ukraine. There are few details but we can deduce its overall layout. It has a box-like fuselage and tractor (front-mounted) propeller, a V- tail and anhedral wings (drooping down to the tips). Russian sources estimate the length as 1.5 meters, wingspan of 3 meters and warhead as 10 kg.  
 
 ![Ukrainian kamikaze drone](/images/Ukraine-Drone-2024-01-29.jpg)  
 *Note that it appears upside down*  
 
-**?5**  
+
+**?4**  
 
 A twin-boom design observed crashed in Russia several times over the summer of 2024. This drone is a strong visual match to a design from Aevex Aerospace in the United States. Howqever the rekationship has not been confirmed. The layout similar to FP-1 but distinct from it. Possibly carbon fiber construction.  
 
@@ -219,11 +223,12 @@ A twin-boom design observed crashed in Russia several times over the summer of 2
 ![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAVs-Twinboom-Aevex.jpg)  
  
 
-**?6**  
+**?5**  
 
 Ukrainian delta wing UAV broadly similar to Shahed but with small canards forward, first reported on July 4 2025 during attacks on targets in Russia. The drone has been seen diving steeply to strike the target.  
 
 ![Ukrainian kamikaze drone](/images/Ukraine-OWA-UAV-Delta.jpg)  
+
 
 **?7 Balloon Bomber**  
 
