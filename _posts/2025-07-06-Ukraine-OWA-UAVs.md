@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guide To Ukraine's Long Range Attack Drones"
-date: "2026-07-2501 10:01:00"
+date: "2026-07-25 10:01:00"
 excerpt: "**UPDATED** *Originally posted Jan 24*.<br/><br clear=\"right\"><a href=\"/Ukraine-OWA-UAVs.html\"\
   ><img align=\"left\" loading=\"lazy\" src=\"/images/Ukraine-OWA-UAVs-317.jpg\"/></a>\
   \ ![Flag Ukraine](/images/flag_ukraine.jpg) Russia\u2019s use of long range drones,\
