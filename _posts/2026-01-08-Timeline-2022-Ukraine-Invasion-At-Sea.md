@@ -794,6 +794,8 @@ Jul 18: Ukrainian Unmanned Systems Forces (SBS) struck 13 vessels as part of Ope
 
 Jul 18: Ukrainian SBU strikes shadow fleet tanker _Avero_ (IMO: 9250737) with a Kozak Mamai USV in Black Sea. 
 
+Jul 18: Oil tanker _Nordic Zenith_ (IMO 9588469) hit by likely-Ukrainian OWA-UAV sailing from Novorossiysk. 
+
 Mid Jul: Russian Navy Baltic-based Pr.22800 Karakurt Class missile corvettes _Mytishchi_ and _Burya_ observed with dazzle camouflage schemes.
 
 Jul 19: Ukrainian Unmanned Systems Forces (SBS) struck 4 vessels as part of Operation MOLOCHKA. Breakdown not reported.
@@ -806,7 +808,9 @@ Jul 21: Liberian-flagged _LPG Gas Lisbon_ exploded about 37km off Romanian coast
 
 Jul 25: Ukrainian drone (OWA-UAV) strikes in Caspian hit 2 sanctioned arms transports, _Port Olya  2_ (IMO: 9481881) and_ Begey_ (IMO: 8943210). Oil platforms & 1 x Pr.1241 TARANTUL Class missile boat also reportedly hit. Subsequent reporting indicates that Iranian vessel 'Zereh' also hit with one casualty. Iran protests. 
 
-Jul 25: Unnamed Palau flagged merchant vessel struck by Russian drones (OWA-UAV) off Danube. 
+Jul 25: Unnamed Palau flagged merchant vessel struck by Russian drones (OWA-UAV) off Danube.
+
+Jul 25: Reports that the US Government warned Ukraine against striking Non-Russian vessels sailing to-from Russian ports.
 
 Jul 26: Russian Navy Day. Parades cancelled.
 
