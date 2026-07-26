@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
-date: "2026-07-20 01:00:00"
+date: "2026-07-26 01:00:00"
 excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/><br/>
 ---
@@ -643,12 +643,12 @@ Mar 23: Major Ukrainian drone strike on Russian port of Primorsk near St. Peters
 
 Mar 24: Ukrainian strikes on high-value targets behind the front lines continue, including on Crimea. A SS-C-5 STOOGE (K-300P *Bastion-P* which fires P800 *Oniks* supersonic anti-ship / land-attack cruise missiles) was destroyed.
 
-Mar 25: Ukrainian drones hit the Pr.23550 arctic patrol ship Purga (475) in Vyborg near St. Petersburg. Ship sunk and capsized at the quay.
-
-Late Mar / early Apr: Major Ukrainian drone strike on Russian port of Urst Luga near St. Petersburg.
+Mar 25: Ukrainian drones hit the Pr.23550 arctic patrol ship Purga (475) in Vyborg near St. Petersburg. Ship sunk and capsized at the quay. No apparent attempts to salvage it.
 
 ![Russian patrol ship Purga](/images/Russian-arctic-patrol-ship-Purga.jpg)  
 *Pr.23550 arctic patrol ship Purga (475) sunk in Vyborg* 
+
+Late Mar / early Apr: Major Ukrainian drone strike on Russian port of Urst Luga near St. Petersburg.
 
 Early Apr: Russian Navy increasingly present in Tartus, Syria, again.
 
@@ -794,11 +794,23 @@ Jul 18: Ukrainian Unmanned Systems Forces (SBS) struck 13 vessels as part of Ope
 
 Jul 18: Ukrainian SBU strikes shadow fleet tanker _Avero_ (IMO: 9250737) with a Kozak Mamai USV in Black Sea. 
 
+Mid Jul: Russian Navy Baltic-based Pr.22800 Karakurt Class missile corvettes _Mytishchi_ and _Burya_ observed with dazzle camouflage schemes.
+
 Jul 19: Ukrainian Unmanned Systems Forces (SBS) struck 4 vessels as part of Operation MOLOCHKA. Breakdown not reported.
 
-Jul 19: Russian aircraft strike the Guinea Bissau-flagged grain ship _Golden Leo_ (IMO 9181833) off Odesa, reportedly with AS-13 KINGBOLT (Kh-59) or AS-22 KAZOO (Kh-69) air-launched cruise missiles.
+Jul 19: Russian aircraft strike the Guinea Bissau-flagged grain ship _Golden Leo_ (IMO 9181833) off Odesa, reportedly with AS-13 KINGBOLT (Kh-59) or AS-22 KAZOO (Kh-69) air-launched cruise missiles. Vessel sunk Jul 26.
 
 Jul 20: Ukrainian Unmanned Systems Forces (SBS) struck 7 vessels as part of Operation MOLOCHKA: 3 oil tankers, 4 cargo vessels. Sea of Azov/Black Sea breakdown not reported.
+
+Jul 21: Liberian-flagged _LPG Gas Lisbon_ exploded about 37km off Romanian coast. Reports suggest Russian OWA-UAVs responsible.
+
+Jul 25: Ukrainian drone (OWA-UAV) strikes in Caspian hit 2 sanctioned arms transports, _Port Olya  2_ (IMO: 9481881) and_ Begey_ (IMO: 8943210). Oil platforms & 1 x Pr.1241 TARANTUL Class missile boat also reportedly hit. Subsequent reporting indicates that Iranian vessel 'Zereh' also hit with one casualty. Iran protests. 
+
+Jul 25: Unnamed Palau flagged merchant vessel struck by Russian drones (OWA-UAV) off Danube. 
+
+Jul 26: Russian Navy Day. Parades cancelled.
+
+
 
 ...To be continued.  
 
