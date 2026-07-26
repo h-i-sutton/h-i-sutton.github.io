@@ -806,6 +806,8 @@ Jul 20: Ukrainian Unmanned Systems Forces (SBS) struck 7 vessels as part of Oper
 
 Jul 21: Liberian-flagged _LPG Gas Lisbon_ exploded about 37km off Romanian coast. Reports suggest Russian OWA-UAVs responsible.
 
+Jul 24. Russian bulk carrier New Victory (IMO 9159050) hit by Ukrainian FP-1 OWA-UAVs in Black Sea.
+
 Jul 25: Ukrainian drone (OWA-UAV) strikes in Caspian hit 2 sanctioned arms transports, _Port Olya  2_ (IMO: 9481881) and_ Begey_ (IMO: 8943210). Oil platforms & 1 x Pr.1241 TARANTUL Class missile boat also reportedly hit. Subsequent reporting indicates that Iranian vessel 'Zereh' also hit with one casualty. Iran protests. 
 
 Jul 25: Unnamed Palau flagged merchant vessel struck by Russian drones (OWA-UAV) off Danube.
