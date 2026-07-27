@@ -786,15 +786,23 @@ Jul 14: Ukrainian Navy (VMS-ZSU) destroy Russian FSB Pr.22460 Rubin Class patrol
 
 Jul 15: Ukrainian Unmanned Systems Forces (SBS) struck 20 vessels as part of Operation MOLOCHKA. Breakdown not reported.
 
+Jul 15: Russia struck a merchant vessel in Chernomorsk with Geran-4 (Shahed) 'Seeker' jet-powered OWA-UAVs. Also two ships at Dnepro-Bugskiy in Galitsynovo of Nikolayev region.
+
 Jul 16: Ukrainian Unmanned Systems Forces (SBS) struck 11 vessels as part of Operation MOLOCHKA: 5 oil tankers, 1 oil products tanker, 3 cargo vessels, 2 tugboats. Sea of Azov/Black Sea breakdown not reported.
 
+Jul 16: Russian Geran-2 (Shahed) OWA-UAV hit a cargo ship sailing to Chernomorsk.
+
 Jul 17: Ukrainian Unmanned Systems Forces (SBS) struck 12 vessels as part of Operation MOLOCHKA: 1 oil tankers, 1 oil products tanker, 9 cargo vessels, 1 tugboats. Sea of Azov/Black Sea breakdown not reported.
+
+Jul 17: Russian Geran-4 (Shahed) 'Seeker' jet-powered OWA-UAVs attacked three  cargo ships in Nikolayev
 
 Jul 18: Ukrainian Unmanned Systems Forces (SBS) struck 13 vessels as part of Operation MOLOCHKA. In Sea of Azov: 1 oil tanker, 8 cargo ships. In Black Sea: 1 oil products tanker. 2 cranes & 1 tugboat. 
 
 Jul 18: Ukrainian SBU strikes shadow fleet tanker _Avero_ (IMO: 9250737) with a Kozak Mamai USV in Black Sea. 
 
 Jul 18: Oil tanker _Nordic Zenith_ (IMO 9588469) hit by likely-Ukrainian OWA-UAV sailing from Novorossiysk. 
+
+Jul 18: Russian MoD reports its OWA-UAVs strike a vessel Chernomorsk and attack a vessel near Snake Island.
 
 Mid Jul: Russian Navy Baltic-based Pr.22800 Karakurt Class missile corvettes _Mytishchi_ and _Burya_ observed with dazzle camouflage schemes.
 
@@ -810,13 +818,15 @@ Jul 24. Russian bulk carrier New Victory (IMO 9159050) hit by Ukrainian FP-1 OWA
 
 Jul 25: Ukrainian drone (OWA-UAV) strikes in Caspian hit 2 sanctioned arms transports, _Port Olya  2_ (IMO: 9481881) and_ Begey_ (IMO: 8943210). Oil platforms & 1 x Pr.1241 TARANTUL Class missile boat also reportedly hit. Subsequent reporting indicates that Iranian vessel 'Zereh' also hit with one casualty. Iran protests. 
 
-Jul 25: Unnamed Palau flagged merchant vessel struck by Russian drones (OWA-UAV) off Danube.
+Jul 25: Palau-flagged merchant vessel _AGN Ragnar_ (IMO 9148104) struck by Russian drones (OWA-UAV) off Danube. Russian MoD also reports strikes on vessels in Nikolayev Port with Geran-4 'Seeker' jet-powerred OWA-UAVs.
 
 Jul 25: Reports that the US Government warned Ukraine against striking Non-Russian vessels sailing to-from Russian ports.
 
-Jul 26: Russian Navy Day. Parades cancelled.
+Jul 26: Russian Navy Day. Traditional parades cancelled.
 
+Jul 26:  Russian MoD reports its OWA-UAVs struck a vessel off Odesa and 2 vessels in Dnieper-Bug estuary
 
+Jul 27: Russian MoD reports its OWA-UAVs strike a vessel in Nikolayev
 
 ...To be continued.  
 
