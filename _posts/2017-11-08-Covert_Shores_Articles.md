@@ -272,7 +272,7 @@ ______________________________________________________________
 
 ![Flag](/images/flag_russia.jpg) [![](/images/Russia-USV-250.png)]({% post_url 2025-08-03-Russian-USVs-Russo-Ukraine-War %}) Guide to Russia's [naval drones (USVs)]({% post_url 2025-08-03-Russian-USVs-Russo-Ukraine-War %})  
 
-![Flag](/images/flag_iran.jpg) [![](/images/Iran-IRGC-Drone-Carriers-250.png)]({% post_url 2024-12-14-Iran-Navy-IRGC-Forward-Base-Ships %})Guide To Iran's Navy & IRGC [Drone Carriers And Similar Large Ships]({% post_url 2024-12-14-Iran-Navy-IRGC-Forward-Base-Ships %}) submarine *w/Cutaway*   
+![Flag](/images/flag_iran.jpg) [![](/images/Iran-IRGC-Drone-Carriers-250.png)]({% post_url 2024-12-14-Iran-Navy-IRGC-Forward-Base-Ships %})Guide To Iran's Navy & IRGC [Drone Carriers And Similar Large Ships]({% post_url 2024-12-14-Iran-Navy-IRGC-Forward-Base-Ships %})  
 
 ![Flag](/images/flag_ukraine.jpg) [![](/images/Ukraine-OWA-UAVs-250.png)]({% post_url 2025-07-06-Ukraine-OWA-UAVs %}) Ukraine's [long-ranged attack drones (OWA-UAVs)]({% post_url 2025-07-06-Ukraine-OWA-UAVs %})  
 
