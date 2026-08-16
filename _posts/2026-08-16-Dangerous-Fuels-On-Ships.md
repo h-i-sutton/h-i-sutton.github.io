@@ -13,7 +13,7 @@ There is a burning ship abandoned off the west coast of the Americas. On August 
 ![Dangerous Fuel Types Aboard Merchant Ships LNG](/images/Ship-Fuel-LNG.jpg)
 *Two very large and exposed LNG fuel tanks aboard the Chinese-built and operated Very Large Crude Carrier (VLCC) Yuan Rui Yang (IMO: 9843326)*
 
-Increasingly we are seeing new fuel types being used by ships. This trend is driven by environmental regulations (regardless of their current status at the IMO - International Maritime Organization), which pushes ship operators toward equipping merchant ships to operate on alternative fuels. The fuels of interest ate liquefied natural gas (LNG), liquefied petroleum gas (LPG), liquid ammonia (NH₃), and methanal (MeOH). 
+Increasingly we are seeing new fuel types being used by merchant ships. This trend is driven by environmental regulations (regardless of their current status at the IMO - International Maritime Organization), which pushes ship operators toward equipping merchant ships to operate on alternative fuels. The fuels of interest ate liquefied natural gas (LNG), liquefied petroleum gas (LPG), liquid ammonia (NH₃), and methanal (MeOH). 
 
 Merchant ships are increasingly fired upon by several governments and groups in different areas around the world, including Russia, Ukraine, Iran, United States, the Houthi Movement in Yemen and pirate or terrorist groups. So far no ships with these fuels appear to have been in the crosshairs but it is at this rate only a matter of time. 
 
