@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Floating Bombs: New Trend In Dangerous Fuel Types Aboard Merchant Ships"
-date: "2026-086-16 01:01:00"
+date: "2026-08-16 01:01:00"
 excerpt: |-
   <br clear="right"/><a href="/Dangerous-Fuels-On-Ships.html"><img align="left" loading="lazy" src="/images/Ship-Fuel-317.jpg"/></a> There is a burning ship abandoned off the west coast of the Americas. On August 6th there was a serious fire aboard the Chinese car carrier *Min Jiang Kou* in the Pacific.<br/><br/>This is a useful news hook for an article I have been planning for a while...<br/>[Read More &gt;....](/Dangerous-Fuels-On-Ships.html "READ MORE")<br clear="left"/>
 ---
