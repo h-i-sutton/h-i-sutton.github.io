@@ -728,6 +728,8 @@ Jun 5: Ukrainian OWA-UAVs struck 5 russian-linked merchant vessels in Mariupol, 
 
 Jun 6: Ukrainian strikes on Kronstadt naval base. The marine plant and arsenal were hit. 
 
+Jun 6: Russian Geran (Shahed) OWA-UAV strikes Ukrainian Patrol-24 rescue vessel _SAR-7_ at sea. Vessel's superstructure destroyed.
+
 Jun 8: Russian shadow fleet tanker *Caroline Bezengi* (IMO 9224439) attacked off Yemen, rteportedly by sabotage. Limpet mine attack unconfirmed.
 
 Jun 11: Ukrainian OWA-UAV operations in Sea of Azov include strikes on a tug boast and critical infrastructure.
