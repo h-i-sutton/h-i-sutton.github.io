@@ -24,6 +24,8 @@ Sending LNG tankers from the Baltic export terminals, around the top of Russia, 
 ![Russian shadow fleet LNG tanker Arctic Metagaz](/images/Ru-Arctic-Metagaz.jpg)
 *The Russian shadow fleet LNG tanker Arctic Metagaz after being struck by surface drones (USVs) in the Mediterranean. The ship wasn’t fuelled by LNG, but the massive explosions, which blew out whole sections of the double hull.*
 
+Since 2022 _Portovyy_ has been anchofred near Portovaya as floating storage unit (FSU) for LNG. But this doesn't match with her current voyage which appears fully laden, so her role has logically changed to that of a regular vessel.
+
 The NSR promises a shorter route during its summer ‘open’ season, and it avoids the war-torn Middle East. But these are unlikely to be the determining factor. It is more likely the success of Ukrainian surface drones (USVs) in blowing up LNG tankers outside the Black Sea (see Arctic Metagaz although Ukraine has not claimed credit). LNG cargoes are particularly vulnerable, and Russia is thus adapting to the Ukrainian threats to keep its important economic lifeline to fund its war in Ukraine open. 
 
 
