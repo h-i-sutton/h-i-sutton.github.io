@@ -3,14 +3,14 @@ layout: post
 title: "Previously Unknown Russian Surface Drone (USV) Found In Black Sea"
 date: "2026-08-20 00:01:00"
 excerpt: |- 
-  <br clear="right"/><a href="/Russian-USV-off-Romania.html"><img align="left" loading="lazy" src="/images/Ru-USV-Romania-202608-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) A Russian surface drone (USV) has been found off the coast of Romania, drifting close to the Neptun Alpha drilling platform. As the vessel began to drift away it was destroyed by cannon fire from a Romanian Air Force F-16 fighter. <br/><br/>It appears to be a previously unreported type...<br/>[Read More &gt;....](/Russian-USV-off-Romania.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russian-USV-off-Romania.html"><img align="left" loading="lazy" src="/images/Ru-USV-Romania-202608-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) A Russian surface drone (USV) has been found off the coast of Romania, drifting close to the Neptun Alpha drilling platform. As the vessel began to drift away it was hit by cannon fire from a Romanian Air Force F-16 fighter. <br/><br/>It appears to be a previously unreported type...<br/>[Read More &gt;....](/Russian-USV-off-Romania.html "READ MORE")<br clear="left"/>
 ---
 
 
 
 ![Russian Surface Drone (USV)](/images/Ru-USV-Romania-202608-Profile.jpg)
 
-![Flag Russia](/images/flag_russia.jpg) A surface drone (USV) has been found off the coast of Romania, drifting close to the _Neptun Alpha_ drilling platform. As the vessel began to drift away it was destroyed by cannon fire from a Romanian Air Force F-16 fighter. The black-painted craft appeared to be dead in the water, with seagulls gathering on its hull. It is reported to be of Russian origin.
+![Flag Russia](/images/flag_russia.jpg) A surface drone (USV) has been found off the coast of Romania, drifting close to the _Neptun Alpha_ drilling platform. As the vessel began to drift away it was hit by cannon fire from a Romanian Air Force F-16 fighter. It was subsequently destroyed by EOD (Explosive Ordnance Disposal) personnel. The black-painted craft appeared to be dead in the water, with seagulls gathering on its hull. It is reported to be of Russian origin.
 
 Similar in size to other USVs operated by both sides in the Black Sea, this appears to be a previously unreported type. It is not closely related to the Russian Navy-linked model of USV [observed during raids on Odesa](https://www.hisutton.com/Russian-USV-Destroyed.html).
 
