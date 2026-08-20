@@ -12,7 +12,7 @@ excerpt: |-
 
 ![Flag Russia](/images/flag_russia.jpg) A surface drone (USV) has been found off the coast of Romania, drifting close to the _Neptun Alpha_ drilling platform. As the vessel began to drift away it was destroyed by cannon fire from a Romanian Air Force F-16 fighter. The black-painted craft appeared to be dead in the water, with seagulls gathering on its hull. It is reported to be of Russian origin.
 
-Similar in size to other USVs operated by both sides in the Black Sea, this appears to be a previously unreported type. It is not closely related to the Russian Navy-linked model of USV [observed during raids on Odesa](https://bsky.app/profile/https://www.hisutton.com/Russian-USV-Destroyed.html).
+Similar in size to other USVs operated by both sides in the Black Sea, this appears to be a previously unreported type. It is not closely related to the Russian Navy-linked model of USV [observed during raids on Odesa](https://www.hisutton.com/Russian-USV-Destroyed.html).
 
 There are no signs of impact fuses on the bow so it may not have been carrying an explosive ram-warhead. However there is a large hinged hangar in the forward hull so it may have been equipped with missiles or aerial drones of some sort. 
 
