@@ -829,13 +829,19 @@ Jul 26:  Russian MoD reports its OWA-UAVs struck a vessel off Odesa and 2 vessel
 
 Jul 27: Russian MoD reports its OWA-UAVs strike a vessel in Nikolayev
 
+Aug 3: Cameroon flagged Ro-Ro ship NADEZHDA (IMO: 7702657) hit in Black Sea off Novorossiysk by Ukrainian OWA-UAV.
+
 Early Aug: Ukrainian Unmanned Systems Forces (SBS) reported hitting 12 shadow fleet vessels in Black Sea / Sea of Azov from 1st -8th August.
 
 Early Aug: Novel camouflage, anti-drone nets, hanging anti-USV defences and sandbags observed on Russian Navy vessels and shadow fleet/Russian merchant vessels in Black Sea and Baltic. General cargo vessel _Mechta S_ (IMO: 8419659) observed with full camouflage scheme. 
 
 Aug 10: Two shadow-fleet vessels hit in Black Sea
 
+Aug 10: Ukraine agrees to not attack non-Russian flagged tankers in the Black Sea heading to/from the Caspian Pipeline Consortium terminal near Novorossiysk, and not carrying Ruissian oil.
+
 Aug 12: Ukrainian OWA-UAV and missile strike on Novorossiysk reportedly hits four warships. Strikes on Pr.11356R GRIGOROVICH Class frigates Admiral Marakov and Admiral Essen confirmed. Vessels damaged. 
+
+Aug 17: Ukrainian OWA-UAVs strike Greek-linked tanker _Skiros_ (IMO: 9390628) off Novorossiysk after loading Russian oil at Caspian Pipeline Consortium terminal.
 
 Aug 17: Russian LNG tanker _Portovyy_ (IMO 9246621) departed Baltic loading with LNG, heading to far east via North Sea Route (NSR). Likely a new route to avoid Ukrainian USV threat.
 
