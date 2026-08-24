@@ -130,7 +130,6 @@ October 29. Major combined Ukrainian maritime drone (USV) and UAV attack on Seva
 *Artist's impression of maritime drones attacking Sevastopol. H I Sutton.*  
 
 Oct 8: Ukraine attacks Kerch Bridge, likely with truck bomb. Both roadway and railway connections broken. Repairs take months and in meantime Russian Navy landing ships increasingly used as transports.   
-
 Oct: U.S. Supplied Combat Boats start to be delivered to Ukraine.   
 
 Oct: Last remaining SLAVA Class cruiser Varyag and escorts left the Mediterranean via the Suez Canal. The ships arrived in Vladivostok in November.
@@ -829,6 +828,21 @@ Jul 26: Russian Navy Day. Traditional parades cancelled.
 Jul 26:  Russian MoD reports its OWA-UAVs struck a vessel off Odesa and 2 vessels in Dnieper-Bug estuary
 
 Jul 27: Russian MoD reports its OWA-UAVs strike a vessel in Nikolayev
+
+Early Aug: Ukrainian Unmanned Systems Forces (SBS) reported hitting 12 shadow fleet vessels in Black Sea / Sea of Azov from 1st -8th August.
+
+Early Aug: Novel camouflage, anti-drone nets, hanging anti-USV defences and sandbags observed on Russian Navy vessels and shadow fleet/Russian merchant vessels in Black Sea and Baltic. General cargo vessel _Mechta S_ (IMO: 8419659) observed with full camouflage scheme. 
+
+Aug 10: Two shadow-fleet vessels hit in Black Sea
+
+Aug 12: Ukrainian OWA-UAV and missile strike on Novorossiysk reportedly hits four warships. Strikes on Pr.11356R GRIGOROVICH Class frigates Admiral Marakov and Admiral Essen confirmed. Vessels damaged. 
+
+Aug 17: Russian LNG tanker _Portovyy_ (IMO 9246621) departed Baltic loading with LNG, heading to far east via North Sea Route (NSR). Likely a new route to avoid Ukrainian USV threat.
+
+Aug 20: Russian surface drone (USV) found off the coast of Romania, drifting close to the Neptun Alpha drilling platform. Destroyed by Romanian forces. 
+
+Aug 24: Ukrainian Unmanned Systems Forces (SBS) reported hitting a Russian shadow fleet tanker and a bulk carrier in the #Black_Sea.
+
 
 ...To be continued.  
 
