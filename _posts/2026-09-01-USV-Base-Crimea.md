@@ -3,7 +3,7 @@ layout: post
 title: "Russia Builds USV Base In Crimea"
 date: "2026-09-01 00:01:00"
 excerpt: |- 
-  <br clear="right"/><a href="/USV-Base-Crimea.html"><img align="left" loading="lazy" src="/images/Ru-USV-Romania-202608-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) At least 21 special covered boast hangars have been dug into the southern shore of Lake Donuzlav in Crimea. These defended positions are likely for Russian surface drone (USV – uncrewed surface vessel) use...<br/>[Read More &gt;....](/USV-Base-Crimea.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/USV-Base-Crimea.html"><img align="left" loading="lazy" src="/images/Russia-USV-Base-Crimea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) At least 21 special covered boast hangars have been dug into the southern shore of Lake Donuzlav in Crimea. These defended positions are likely for Russian surface drone (USV – uncrewed surface vessel) use...<br/>[Read More &gt;....](/USV-Base-Crimea.html "READ MORE")<br clear="left"/>
 ---
 
 
