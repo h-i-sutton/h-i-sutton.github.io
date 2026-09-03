@@ -3,7 +3,7 @@ layout: post
 title: "Shadowfin: New Danish Ultra-Low-Cost Underwater Drone"
 date: "2026-09-03 00:01:00"
 excerpt: |- 
-  <br clear="right"/><a href="/Shadowfin-AUV.html"><img align="left" loading="lazy" src="/images/Russia-USV-Base-Crimea-317.jpg"/></a> ![Flag Denmark](/images/Flag_Denmark.jpg) A 7-meter (23 ft) underwater drone exhibited at the DALO Industry Days 2026 in Denmark on 19th-20th August is of particular interest.<br/><br/>Unlike most new AUV (autonomous underwater vehicle) designs it is unambiguously low cost (around €50k) and geared to the expendable nature of modern drone warfare...<br/>[Read More &gt;....](/Shadowfin-AUV.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Shadowfin-AUV.html"><img align="left" loading="lazy" src="/images/Denmark-AUV-Shadowfin-317.jpg"/></a> ![Flag Denmark](/images/Flag_Denmark.jpg) A 7-meter (23 ft) underwater drone exhibited at the DALO Industry Days 2026 in Denmark on 19th-20th August is of particular interest.<br/><br/>Unlike most new AUV (autonomous underwater vehicle) designs it is unambiguously low cost (around €50k) and geared to the expendable nature of modern drone warfare...<br/>[Read More &gt;....](/Shadowfin-AUV.html "READ MORE")<br clear="left"/>
 ---
 
 
