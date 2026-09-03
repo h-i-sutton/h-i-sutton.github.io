@@ -8,7 +8,7 @@ excerpt: |-
 
 
 
-[![](/images/Ru-Marine-mammals-Nefrit.jpg)](/images/Ru-Marine-mammals-Nefrit-940.jpg)  
+[![](/images/Ru-Marine-mammals-Nefrit-940.jpg)](/images/Ru-Marine-mammals-Nefrit.jpg)  
 
 *CLICK to Enlarge*
 
@@ -22,7 +22,7 @@ _A Kraken USV, seen here at the Combined Naval Event (CNE) in UK, 2026._
 The harbour also has a floating boom defense fitted, but the Nefrit was tied up along the sea wall outside this defensive line. 
 
 ![Marine mammal pens Sochi](/images/Ru-Marine-mammal-pens-Sochi.jpg)
-_Reference satellite image of the pens from Google Earth. The square pens are for dolphins, and the hexagonal one for Beluga whales._
+_Reference satellite image of the pens from Google Earth. The square pens are for dolphins, and the octagonal one for Beluga whales._
 
 
 ____________________________________________________
