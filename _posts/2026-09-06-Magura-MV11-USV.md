@@ -3,7 +3,7 @@ layout: post
 title: "Ukrainian Magura MV11 Anti-Air Surface Drone (USV)"
 date: "2026-09-06 00:01:00"
 excerpt: |-
-  <br clear="right"/><a href="/Magura-MV11-USVhtml"><img align="left" loading="lazy" src="/images/Ukraine-USV-Magura-MV11-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Ukraine’s original maritime drone company, Magura are building an interceptor-drone optimised USV (uncrewed surface vessel).<br/><br/>The MV11 has been shown carrying 18 Sting interceptor drones in individual box launchers...<br/>[Read More &gt;....](/Magura-MV11-USV.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Magura-MV11-USV.html"><img align="left" loading="lazy" src="/images/Ukraine-USV-Magura-MV11-317.jpg"/></a> ![Flag Ukraine](/images/flag_ukraine.jpg) Ukraine’s original maritime drone company, Magura are building an interceptor-drone optimised USV (uncrewed surface vessel).<br/><br/>The MV11 has been shown carrying 18 Sting interceptor drones in individual box launchers...<br/>[Read More &gt;....](/Magura-MV11-USV.html "READ MORE")<br clear="left"/>
 ---
 
 
