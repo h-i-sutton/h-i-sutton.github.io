@@ -26,8 +26,8 @@ The most straightforward explanation is that this design is some sort of drone m
 _The sign reads 'no photos'_
 
 
-##Second Stealth Catamaran
-Another design, but with an open working deck. This one may be for launching underwater drones, or for towing sonar towfish.
+## Second Stealth Catamaran
+Another design, but with an open working deck. This one may be for launching underwater drones, or for towing sonar towfish. Note that the three objects along the side are fenders.
 ![Chinese stealth catamaran](/images/China-USV-catamaran.jpg)
 
 ___________________________________________________
