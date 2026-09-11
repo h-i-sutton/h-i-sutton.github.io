@@ -25,6 +25,11 @@ The most straightforward explanation is that this design is some sort of drone m
 ![Chinese stealth catamaran](/images/China-SF-Boat-no-photos.jpg)
 _The sign reads 'no photos'_
 
+
+##Second Stealth Catamaran
+Another design, but with an open working deck. This one may be for launching underwater drones, or for towing sonar towfish.
+![Chinese stealth catamaran](/images/China-USV-catamaran.jpg)
+
 ___________________________________________________
 
 **Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
