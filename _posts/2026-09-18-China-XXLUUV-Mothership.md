@@ -14,8 +14,7 @@ excerpt: |-
 
 ![Flag China](/images/flag_China.jpg) China is building a new form of drone mothership, one large enough and specially shaped and equipped, to carry drone submarines. The vessel is under construction at the Hudong-Zhonghua shipyard in Shanghai.
 
-The size and configuration points to the carriage of full-sized uncrewed submarines. Termed XXLUUVs (extra-extra large uncrewed underwater vehicles), the ones observed in China are around 35-45 meters long.
-https://www.hisutton.com/Chinese-XLUUVs.html
+The size and configuration points to the carriage of full-sized uncrewed submarines. Termed XXLUUVs (extra-extra large uncrewed underwater vehicles), the [ones observed in China](https://www.hisutton.com/Chinese-XLUUVs.html) are around 35-45 meters long.
 
 I gave a talk on Chinese submarine and XXLUUV developments a few months ago where I suggested that the construction of special floating docks would be a leading indicator of the operationalisation of China’s uncrewed submarine program. And now here we are.
 
