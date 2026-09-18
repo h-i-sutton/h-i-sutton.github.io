@@ -19,7 +19,7 @@ https://www.hisutton.com/Chinese-XLUUVs.html
 
 I gave a talk on Chinese submarine and XXLUUV developments a few months ago where I suggested that the construction of special floating docks would be a leading indicator of the operationalisation of China’s uncrewed submarine program. And now here we are.
 
-[![](/images/China-Uncrewed-Submarine-XXLUUV-Mothership-Vantor-400.jpg)](/images/China-Uncrewed-Submarine-XXLUUV-Mothership-Vanter.jpg)  
+[![](/images/China-Uncrewed-Submarine-XXLUUV-Mothership-Vantor-400.jpg)](/images/China-Uncrewed-Submarine-XXLUUV-Mothership-Vantor.jpg)  
 
 _Click to Enlarge. Satelite imagery from Vantor Technologies, shared online by ‘KAROTASU’ (@type36512) [on Twitter](https://x.com/type36512)._
 
