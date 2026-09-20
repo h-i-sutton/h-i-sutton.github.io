@@ -52,7 +52,7 @@ _Not what she might first appear. South Korea’s ROKS Dadohae (ASL-50) is a flo
 ## Outlook
 China is, as we’ve come to expect, leading the way in future naval capabilities. These special motherships will likely act as submarine tenders in port, but also transport the XXLUUVs within strike range of targets. Given that we estimate an operational range of 10,000 nautical miles, this can still be a long way from the target. 
 
-At this time the next question is whether this is a ‘grey navy’ PLAN (People’s Liberation Army Navy) hull, or a quasi-naval commercial hull operated by the shipyard. The lines between traditional navy and commercial fleets have blurred in China with full-sized drone carriers operated, ostensibly at least, by the ship building corporations. Up to a point this will be mute however, I take the construction of this vessel as a strong indication of evolving Chinese war fighting capabilities. The Chinese Navy (PLAN) is outpacing the rest of the world in naval innovation and ambition as well as just shipbuilding output. 
+At this time the next question is whether this is a ‘grey navy’ PLAN (People’s Liberation Army Navy) hull, or a quasi-naval commercial hull operated by the shipyard. The lines between traditional navy and commercial fleets have blurred in China with full-sized drone carriers operated, ostensibly at least, by the ship building corporations. Up to a point this will be moot however, I take the construction of this vessel as a strong indication of evolving Chinese war fighting capabilities. The Chinese Navy (PLAN) is outpacing the rest of the world in naval innovation and ambition as well as just shipbuilding output. 
 
 
 
