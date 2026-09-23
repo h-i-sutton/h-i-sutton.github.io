@@ -55,6 +55,10 @@ China is, as we’ve come to expect, leading the way in future naval capabilitie
 At this time the next question is whether this is a ‘grey navy’ PLAN (People’s Liberation Army Navy) hull, or a quasi-naval commercial hull operated by the shipyard. The lines between traditional navy and commercial fleets have blurred in China with full-sized drone carriers operated, ostensibly at least, by the ship building corporations. Up to a point this will be moot however, I take the construction of this vessel as a strong indication of evolving Chinese war fighting capabilities. The Chinese Navy (PLAN) is outpacing the rest of the world in naval innovation and ambition as well as just shipbuilding output. 
 
 
+## Update
+![China's XXLUUV mothership](/images/China-Uncrewed-Submarine-XXLUUV-Mothership-photo.jpg)
+_Photo shared online 23rd Sept 2026. Beware AI enhanced versions_
+
 
 ____________________________________________________
 
