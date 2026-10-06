@@ -28,7 +28,8 @@ Payload: 600 kg <br/>
 
 Other manufacturer’s USVs at FLOT-26 appear to have been relatively vanilla. Although Zala have a strong track record as a defence manufacturer for the Russian government, it is unclear whether this is a Russian military project or simply a 'me too' product strategy.
 
-
+![Russian Zala ‘Kama’ Surface Drone (USV)](/images/Russia-USV-Zala-waterjet.jpg) 
+_Image added 6th Oct 2026. Zala showcased a propulsion system based on a KAMA-150 petrol engine and inhouse KAMA-180 waterjet._
 
 ____________________________________________________
 
