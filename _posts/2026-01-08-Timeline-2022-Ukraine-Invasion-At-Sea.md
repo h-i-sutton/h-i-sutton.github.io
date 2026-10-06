@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
-date: "2026-07-26 01:00:00"
+date: "2026-10-06 01:00:00"
 excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/><br/>
 ---
@@ -849,6 +849,13 @@ Aug 20: Russian surface drone (USV) found off the coast of Romania, drifting clo
 
 Aug 24: Ukrainian Unmanned Systems Forces (SBS) reported hitting a Russian shadow fleet tanker and a bulk carrier in the #Black_Sea.
 
+Sep 17. Reports Russia struck a Tanzanian-flagged civilian vessel with a OWA-UAV in the Black Sea.
+
+Oct 5. Merchant ship Royad Mammadov (IMO 9356969), carrying Ukrainian grain to Italy, hit by likely Russian OWA-UAV off Romanian coast.
+
+Oct 5. Russia struck two merchant ships in the Bulgarian EEZ with OWA-UAVs. The general cargo ships Able (IMO 9001136) and Alfa Watan (IM: 7510884) were hit.
+
+Oct 6. Russian shadow fleet oil tanker Aframax Rio (IMO 9273844) struck by a USV off Sochi. Large burning oil slick visible from shore.
 
 ...To be continued.  
 
