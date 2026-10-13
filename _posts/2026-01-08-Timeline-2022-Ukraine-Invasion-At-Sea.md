@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
-date: "2026-10-06 01:00:00"
+date: "2026-10-13 01:00:00"
 excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/><br/>
 ---
@@ -851,11 +851,17 @@ Aug 24: Ukrainian Unmanned Systems Forces (SBS) reported hitting a Russian shado
 
 Sep 17. Reports Russia struck a Tanzanian-flagged civilian vessel with a OWA-UAV in the Black Sea.
 
-Oct 5. Merchant ship Royad Mammadov (IMO 9356969), carrying Ukrainian grain to Italy, hit by likely Russian OWA-UAV off Romanian coast.
+Oct 5. Merchant ship _Royad Mammadov_ (IMO 9356969), carrying Ukrainian grain to Italy, hit by likely Russian OWA-UAV off Romanian coast.
 
-Oct 5. Russia struck two merchant ships in the Bulgarian EEZ with OWA-UAVs. The general cargo ships Able (IMO 9001136) and Alfa Watan (IM: 7510884) were hit.
+Oct 5. Russia struck two merchant ships in the Bulgarian EEZ with OWA-UAVs. The general cargo ships _Able_ (IMO 9001136) and _Alfa Watan_ (IM: 7510884) were hit.
 
-Oct 6. Russian shadow fleet oil tanker Aframax Rio (IMO 9273844) struck by a USV off Sochi. Large burning oil slick visible from shore.
+Oct 6. Russian shadow fleet oil tanker _Aframax Rio_ (IMO 9273844) struck by a USV off Sochi. Large burning oil slick visible from shore.
+
+Oct 7. Ukrainian Navy (VMS ZSU) 'Sargans-3000' USV shot down a Russian Geran (Shahed) OWA-UAV using the onboard remote weapon station (RWS). Likely world first.
+
+Oct 10. Ukrainian OWA-UAVs struck rail bridge over Volga-Don Canal in Rostov on Don.
+
+Oct 13. Russian OWA-UAVs strike two Ukrainian merchant vessels off Bulgarian coast. _Chelsea 3_ (IMO: 9361392) and _Azov Concord_ (IMO: 9387748). Both vessels lost.
 
 ...To be continued.  
 
