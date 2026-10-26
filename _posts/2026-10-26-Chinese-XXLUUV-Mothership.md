@@ -10,10 +10,9 @@ excerpt: |-
 
 *CLICK to Enlarge*
 
-![Flag China](/images/flag_China.jpg) Unique naval technologies require unique support vessels. China’s unparalleled uncrewed submarines (XXLUUVs - _extra_-extra large uncrewed underwater vehicles) now have two special motherships. These vessels feature a unique submarine lift system in the stern which is lowered directly down through a gap in the ships bottom. The second mothership was launched in Guangzhou earlier this month.
+![Flag China](/images/flag_China.jpg) Unique naval technologies require unique support vessels. China’s unparalleled uncrewed submarines (XXLUUVs - _extra_-extra large uncrewed underwater vehicles) now have two special motherships. These vessels feature a unique submarine lift system in the stern which is lowered directly down through a gap in the ships bottom. The second mothership was [launched in Guangzhou](https://www.navalnews.com/naval-news/2026/10/second-possible-chinese-uuv-mothership-appears-in-guangzhou/) earlier this month.
 
-Although both ships appear to have the same basic layout and key features, including the submarine lift, but differ in hull size and form, the second vessel is a different design to the earlier one built in Shanghai.
-It is slightly shorter (approximately 180 meters / 590 feet versus 205 meters / 673 feet) and is a couple of decks lower along its length. We can deduce that it has a slightly shallower draught and smaller displacement. Having said that, it’s still a very large ship and likely has the same capacity to carry and launch /recover uncrewed submarines.
+Although both ships appear to have the same basic layout and key features, including the submarine lift, but differ in hull size and form, the second vessel is a different design to the [earlier one built in Shanghai](https://www.hisutton.com/China-XXLUUV-Mothership.html). It is slightly shorter (approximately 180 meters / 590 feet versus 205 meters / 673 feet) and is a couple of decks lower along its length. We can deduce that it has a slightly shallower draught and smaller displacement. Having said that, it’s still a very large ship and likely has the same capacity to carry and launch /recover uncrewed submarines.
 
 ![Chinese Uncrewed Submarine Mothership](/images/China-XXLUUV-Mothership-new.jpg)
 _The second mothership has been built in Guangzhou_.
