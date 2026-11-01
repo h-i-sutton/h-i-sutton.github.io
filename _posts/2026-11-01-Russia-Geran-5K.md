@@ -3,7 +3,7 @@ layout: post
 title: "Russia's Geran-5 Low-Cost cruise missile/drone used for first time"
 date: "2026-11-01 00:00:00"
 excerpt: |- 
-  <br clear="right"/><a href="/Russia-Geran-5K.html"><img align="left" loading="lazy" src="/images/Russia-OWA-UAV-Geran-5k-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Ukraine has been hit by a completely new Russian cruise missile-drone in recent days, the Geran-5K. Together with the Banderol and Filin cruise missiles this represents an incremental step up in the threat to Ukrainian military and civilian infrastructure and civilian population...<br/>[Read More &gt;....](/Russia-Geran-5K.html "READ MORE")<br clear="left"/>
+  <br clear="right"/><a href="/Russia-Geran-5K.html"><img align="left" loading="lazy" src="/images/Russia-OWA-UAV-Geran-5k-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) Ukraine has been hit by a completely new Russian cruise missile-drone in recent days, the Geran-5K. Together with the Banderol and Filin cruise missiles this represents an incremental step up in the threat to Ukrainian infrastructure and civilian population...<br/>[Read More &gt;....](/Russia-Geran-5K.html "READ MORE")<br clear="left"/>
 ---
 
 ![Russia's Geran-5K Low-Cost cruise missile drone](/images/Russia-OWA-UAV-Geran-5k-profile.jpg) 
