@@ -17,6 +17,31 @@ Russia’s systems tend to be larger, and longer ranged, with the Ukrainian FP-5
 *CLICK to Enlarge*
 
 
+The smallest, or at least the shortest at around 1.5 meters, is the Nyan. The design is a composite-construction flying wing with a commercial off the shelf (COTS) turbine buried in the aft fuselage. 
+![Ukraine Nyan drone](/images/Ukraine-OWA-UAV-Nyan-Brits.jpg)
+_The Nyan, seen here during training with British forces._
+
+Currently the two main Russian types are the Geran-4 jet Shahed (much improved over the Geran-3 which it replaced) and more missile-like Geran-5. Geran-5 has a much larger fuselage but lacks the wing volume. They are largely equivalent, built at the same factory in Alaguba, and use the same turbine (jet) so it is unclear whether they’ll continue to build both, or pick one. 
+![Russia Geran-4 drone](/images/Russia-OWA-UAV-Geran-4.jpg)
+_Russia’s delta-winged Geran-4 can trace its lineage directly back to the Iranian Shahed_
+
+![Russia Geran-5 drone](/images/Russia-OWA-UAV-Geran-55-launch.jpg)
+_Russian Geran-5_
+
+The new generation Russian types are the [Geran-5K](https://www.hisutton.com/Russia-Geran-5K.html) and the Filin. They look similar but actually the Geran-5K seems much larger.
+
+![Russia Geran-5K drone](/images/Russia-OWA-UAV-Geran-5k-crash2.jpg)
+_Russian Geran-5K appears much cleaner than the Geran-5, but the relative advantages are unclear. Note missing nose cone in this image._
+
+Russia-OWA-UAV-filin.jpg
+_The new Russian Filin missile is much smaller than the Geran-5 & 5K, and can use a much lighter launch rail with detachable rocket booster. Simplifications such as ground launch with fixed wings (not folding) are typical measures to make new lower-cost cruise missiles more achievable_
+
+Two air launched types (and air-launched types are normally much more expensive) are the Russian Banderol and Ukrainian-used Rusty Dagger. Similar, except again the Russian one is much larger.
+![air launched cruise missiles](/images/Russia-Ukraine-OWA-UAV-Banderol-Rusty-Dagger.jpg)
+_Russian Banderol (left) and American-built Rusty Dagger (right)_
+
+
+
 ____________________________________________________
 
 **Related articles**  [(Full index of popular Covert Shores articles)]({% post_url 2017-11-08-Covert_Shores_Articles %} "Full index of popular Covert Shores articles")  
