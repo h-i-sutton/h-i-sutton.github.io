@@ -32,7 +32,7 @@ Analysis of the historic satellite imagery, including some available on Google E
 
 
 ## Second Stealth Catamaran
-Another design, but with an open working deck. This one may be for launching underwater drones, or for towing sonar towfish. Note that the three objects along the side are fenders.
+Another design, reported here in [August 2025](https://www.hisutton.com/Chinese-Stealth-Transport.html), but with an open working deck. This one may be for launching underwater drones, or for towing sonar towfish. Note that the three objects along the side are fenders.
 ![Chinese stealth catamaran](/images/China-USV-catamaran.jpg)
 
 
