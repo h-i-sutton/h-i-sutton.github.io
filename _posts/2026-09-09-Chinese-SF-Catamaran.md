@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "No Photos! - Canid Photos Show New Chinese Stealth Catamaran"
-date: "2026-09-09 03:01:00"
+date: "2026-14-11 03:01:00"
 excerpt: |-
-  <br clear="right"/><a href="/Chinese-SF-Catamaran.html"><img align="left" loading="lazy" src="/images/China-SF-Boat-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) Hiding behind signs warning onlookers not to take photographs, a previously unreported stealth boat has been seen in at least two Chinese ports.<br/><br/>The design immediately brings to mind the American  M80 Stiletto design, used as a Special Forces transport...<br/>[Read More &gt;....](/Chinese-SF-Catamaran.html "READ MORE")<br clear="left"/>
+  **Updated - originally posted 9th Sep 2026**<br/><br clear="right"/><a href="/Chinese-SF-Catamaran.html"><img align="left" loading="lazy" src="/images/China-SF-Boat-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) Hiding behind signs warning onlookers not to take photographs, a previously unreported stealth boat has been seen in at least two Chinese ports.<br/><br/>The design immediately brings to mind the American  M80 Stiletto design, used as a Special Forces transport...<br/>[Read More &gt;....](/Chinese-SF-Catamaran.html "READ MORE")<br clear="left"/>
 ---
 
 ![Chinese stealth catamaran](/images/China-SF-Boat-water.jpg)
@@ -25,10 +25,16 @@ The most straightforward explanation is that this design is some sort of drone m
 ![Chinese stealth catamaran](/images/China-SF-Boat-no-photos.jpg)
 _The sign reads 'no photos'_
 
+## UPADTE
+Analysis of the historic satellite imagery, including some available on Google Earth, shows that the vessel was being tested since 2021/22. It was misidentified as a probable optionally crewed USV which now seems less likely. This history suggests that it is a one-off vessel. 
+![Chinese stealth catamaran](/images/China-Stealth-Catamaran-base.jpg)
+![Chinese stealth catamaran](/images/China-Stealth-Catamaran-port.jpg)
+
 
 ## Second Stealth Catamaran
 Another design, but with an open working deck. This one may be for launching underwater drones, or for towing sonar towfish. Note that the three objects along the side are fenders.
 ![Chinese stealth catamaran](/images/China-USV-catamaran.jpg)
+
 
 ___________________________________________________
 
