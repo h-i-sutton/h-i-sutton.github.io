@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No Photos! - Canid Photos Show New Chinese Stealth Catamaran"
-date: "2026-14-11 03:01:00"
+date: "2026-11-14 03:01:00"
 excerpt: |-
   **Updated - originally posted 9th Sep 2026**<br/><br clear="right"/><a href="/Chinese-SF-Catamaran.html"><img align="left" loading="lazy" src="/images/China-SF-Boat-317.jpg"/></a> ![Flag China](/images/flag_China.jpg) Hiding behind signs warning onlookers not to take photographs, a previously unreported stealth boat has been seen in at least two Chinese ports.<br/><br/>The design immediately brings to mind the American  M80 Stiletto design, used as a Special Forces transport...<br/>[Read More &gt;....](/Chinese-SF-Catamaran.html "READ MORE")<br clear="left"/>
 ---
