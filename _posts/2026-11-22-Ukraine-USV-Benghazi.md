@@ -7,13 +7,16 @@ excerpt: |-
 ---
 
 
-![Flag Ukraine](/images/flag_ukraine.jpg) The spectacular attack on a Russian Navy warship in Benghazi, Libya, was almost certainly conducted by Ukrainian surface drones (USVs). One of the USVs appears to have been disabled and has been photographed by locals. The image, shared online, is credible.
+![Flag Ukraine](/images/flag_ukraine.jpg) The spectacular desruction of a [Russian Navy warship](https://www.navalnews.com/naval-news/2026/11/russian-warship-destroyed-in-huge-explosion-in-libya/) in Benghazi, Libya, was almost certainly conducted by Ukrainian surface drones (USVs). One of the USVs appears to have been disabled and has been photographed by locals. The image, shared online, is credible.
 
 ![Ukraine USV](/images/Ukraine-USV-Benghazi.jpg)
 
 By extension, the USV is also likely the type used in the subsequent attack on a Russian government transport ship off Libya today.
 
-The USV used in the attack was therefore a variant of the family best known as the Sargan-3000. Also known as the Seawolf, and referred to as a ‘Sea Baby-II’ in SBU service. 
+![Ukraine USV](/images/Ukraine-USV-Bemghazi-Cargo.jpg)
+_A Unkrainian USV impacting the port-side stern of the Russian cargo ship_<br/>
+
+The USV used in the attack was therefore a variant of the family best known as the **Sargan-3000**. Also known as the **Seawolf**, and referred to as a **‘Sea Baby-II’** in SBU service. 
 
 
 ## Reference Images of Sea Baby-II / Sargan-3000 / Sea Wolf
