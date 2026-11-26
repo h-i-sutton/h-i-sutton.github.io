@@ -872,13 +872,17 @@ Oct 14 2026: Russian OWA-UAVs strike Chemical tanker _Yara J_ (IMO 9221803) east
 
 Oct 15 2026: Russian OWA-UAVs strike Chemical tanker _Wine Trader_ (IMO 8808707) east of the mouth of the River Danube. Vessel abandoned.
 
-Oct 28 2026: Russian OWA-UAVs strike containership Contship-Jet (IMO 9348625) in Bulgaria’s EEZ. Vessel sunk.
+Oct 28 2026: Russian USVs strike containership _Contship-Jet_ (IMO 9348625) in Bulgaria’s EEZ. Vessel sunk.
 
-Nov 11 2026: Ukrainian deep strike dromers (OWA-UAVs) raid Ust Luga port in Baltic.
+Nov 11 2026: Ukrainian deep strike dromers (OWA-UAVs) raid Ust-Luga port in Baltic.
 
+Nov 11 2026: Russian Navy Buyan-M Class missile corvette _Naro-Fominsk_ was hit by multiple Ukrainian OWA-UAVs near Gogland Island in the Gulf of Finland, Baltic.
 
+Nov 16 - 17 2026: Ukrainian OAW-UAVs and missiles struck the Kerch Bridge. The road bridge collapsed on 17th, rail bridge damaged. The Kerch Canal under the bridge was blocked.
 
-Nov 21 2026: Russian government Ro-Ro transport ship Sparta-II (IMO 9160994) struck by deep strike drones (OWA-UAVs) in gulf of Finland near St. Petersburg. Vessel caught fire. Days later she was towed back to a Russian port.
+Nov 16 2026: Russian USVs strike cargo ship _Betul-8_ (IMO 8817198) off Bulgarian coast. Ship sunk.
+
+Nov 21 2026: Russian government Ro-Ro transport ship _Sparta-II_ (IMO 9160994) struck by deep strike drones (OWA-UAVs) in gulf of Finland near St. Petersburg. Vessel caught fire. Days later she was towed back to a Russian port.
 
 Nov 21 2026: Ukrainian deep strike drones (OWA-UAVs) raided Baltiysk, Kaliningrad in Baltic for first time. The enclave is home to a major Russian naval base.
 
