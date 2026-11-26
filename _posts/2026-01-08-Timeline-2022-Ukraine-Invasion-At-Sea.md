@@ -654,219 +654,234 @@ Mar 25 2026: Ukrainian drones hit the Pr.23550 arctic patrol ship Purga (475) in
 
 Late Mar / early Apr 2026: Major Ukrainian drone strike on Russian port of Urst Luga near St. Petersburg.
 
-Early Apr: Russian Navy increasingly present in Tartus, Syria, again.
+Early Apr 2026: Russian Navy increasingly present in Tartus, Syria, again.
 
-Apr 5: Major Ukrainian attack on  Novorossiysk. Oil facilities hit. A Pr.11356M GRIGORVICH Class frigate, likerly Admiral Essen, was hit by likely FP-1 type drones.
+Apr 5 2026: Major Ukrainian attack on  Novorossiysk. Oil facilities hit. A Pr.11356M GRIGORVICH Class frigate, likerly Admiral Essen, was hit by likely FP-1 type drones.
 
 ![Ukrainian attack on oil facilities at Novorossiysk](/images/Ru_Ukraine-strikes-Novorossiysk-20260405.jpg)  
 *Ukrainian attack on oil facilities at Novorossiysk, Apr 5* 
 
-Apr 5: Ukrainian missiles, aerial drones (OWA-UAVs) and surface drones (USVs) strike Syvash (SIVASH IMO: 8763385) jack-up drilling rig in North West Black Sea.
+Apr 5 2026: Ukrainian missiles, aerial drones (OWA-UAVs) and surface drones (USVs) strike Syvash (SIVASH IMO: 8763385) jack-up drilling rig in North West Black Sea.
 
-Ap 6: A Russian cargo ship struck in the Sea of Azov after being attacked by Ukrainian UAVs. Ship abandoned, likely destroyed or sunk.
+Apr 6 2026: A Russian cargo ship struck in the Sea of Azov after being attacked by Ukrainian UAVs. Ship abandoned, likely destroyed or sunk.
 
-Apr 7: Ukrainian government, reportedly SBU, arrested a 'shadow fleet' vessel tied to illegal exports from occupied Crimea, in Odesa. 
+Apr 7 2026: Ukrainian government, reportedly SBU, arrested a 'shadow fleet' vessel tied to illegal exports from occupied Crimea, in Odesa. 
 
-Apr 10: Ukraine struck two Russian oil platforms in the Caspian Sea with multiple OWA-UAVs.
+Apr 10 2026: Ukraine struck two Russian oil platforms in the Caspian Sea with multiple OWA-UAVs.
 
-Apr 14: Bulk Carriert ship *Lady Maris* (MO: 9228071) hit by Russian aerial drone (OWA-UAV) in Odesa port.
+Apr 14 2026: Bulk Carriert ship *Lady Maris* (MO: 9228071) hit by Russian aerial drone (OWA-UAV) in Odesa port.
 
-Apr 19: Ukrainian OWA-UAVs strike the Pr.775 ROPUCHA Class landing ship *Yamal* and Pr.1171 ALLIGATOR class landing ship *Nikolai Filchenkov* in Sevastopol. Reports suggest several other ships also hit in same or earlier raids around that time including Pr.775M ROPUCHA-II Class landing ship *Azov*, Pr.775 ROPUCHA Class landing ship *Konstantin Olshansky*, and Pr.1288.4 Intelligence ship *Slavutych*m and an unnamed FSB border service Pr.22460 patrol ship.
+Apr 19 2026: Ukrainian OWA-UAVs strike the Pr.775 ROPUCHA Class landing ship *Yamal* and Pr.1171 ALLIGATOR class landing ship *Nikolai Filchenkov* in Sevastopol. Reports suggest several other ships also hit in same or earlier raids around that time including Pr.775M ROPUCHA-II Class landing ship *Azov*, Pr.775 ROPUCHA Class landing ship *Konstantin Olshansky*, and Pr.1288.4 Intelligence ship *Slavutych*m and an unnamed FSB border service Pr.22460 patrol ship.
 
-Mid Apr: Repeated strikes on oil facilities at port of Tuapse by Ukrainian OWA-UAVs.
+Mid Apr 2026: Repeated strikes on oil facilities at port of Tuapse by Ukrainian OWA-UAVs.
 
-Apr 22: St. Kitts & Nevis flagged bulk carrier *SMS Carrera* (IMO 9140528) struck by twoRussian UAVs in southern Black Sea. Ship continued voyage.
+Apr 22 2026: St. Kitts & Nevis flagged bulk carrier *SMS Carrera* (IMO 9140528) struck by twoRussian UAVs in southern Black Sea. Ship continued voyage.
 
-Apr 23: Ukrainian Navy releases video of a Russian USV being destroyed off Odesa.
+Apr 23 2026: Ukrainian Navy releases video of a Russian USV being destroyed off Odesa.
 
-Apr 25/26: Major Ukrainian strikes on Sevastopol with OWA-UAVs. Among reported targets hit are the Pr.775 ROPUCHA Class landing ship *Yamal* and Pr.1171 ALLIGATOR class landing ship *Nikolai Filchenkov* which were hit a few days prior. The Pr.18280 Yuri Ivanov class intelligence ship *Ivan Khurs* was also reportedly hit. This ship also has been struck in port previously.
+Apr 25/26 2026: Major Ukrainian strikes on Sevastopol with OWA-UAVs. Among reported targets hit are the Pr.775 ROPUCHA Class landing ship *Yamal* and Pr.1171 ALLIGATOR class landing ship *Nikolai Filchenkov* which were hit a few days prior. The Pr.18280 Yuri Ivanov class intelligence ship *Ivan Khurs* was also reportedly hit. This ship also has been struck in port previously.
 
-Apr 29: Two Ukrainian USVs hit the tanker *Marquise* (IMO 9315745) around 210 km southeast of Tuapse. The attack was in the context of ongoing extensive strikes on Tuapse. 
+Apr 29 2026: Two Ukrainian USVs hit the tanker *Marquise* (IMO 9315745) around 210 km southeast of Tuapse. The attack was in the context of ongoing extensive strikes on Tuapse. 
 
-Apr 30: Ukrainian USVs attacked Russian ships guarding the Kerch Bridge. A Pr.12200 Sobol Class FSB patrol boat and Pr.21980 Grachonok class anti-sabotage boat were damaged.
+Apr 30 2026: Ukrainian USVs attacked Russian ships guarding the Kerch Bridge. A Pr.12200 Sobol Class FSB patrol boat and Pr.21980 Grachonok class anti-sabotage boat were damaged.
 
-May 3: Ukrainian UAV hit a Pr.22800 Karakurt Class corvette, likely Amur (803), during a strike on oil facilities at Primorsk, Baltic. 
+May 3 2026: Ukrainian UAV hit a Pr.22800 Karakurt Class corvette, likely Amur (803), during a strike on oil facilities at Primorsk, Baltic. 
 
-May 3: Two Russian linked tankers hit by Ukrainian USVs outside Novorossiysk.
+May 3 2026: Two Russian linked tankers hit by Ukrainian USVs outside Novorossiysk.
 
-May 5: Ukrainian OWA-UAVs hit 3 Russian Pr.05060 assault boats and a support vessel duriong raids on Northern Crimea.
+May 5 2026: Ukrainian OWA-UAVs hit 3 Russian Pr.05060 assault boats and a support vessel duriong raids on Northern Crimea.
 
-May 5: Russian USVs strike Odesa. Patrol boat(s) and merchant ship(s) hit. Aa Russian Navy uncrewed surface vessel (USV) destroyed by Ukrainian FPV drone off Odesa coast.
+May 5 2026: Russian USVs strike Odesa. Patrol boat(s) and merchant ship(s) hit. Aa Russian Navy uncrewed surface vessel (USV) destroyed by Ukrainian FPV drone off Odesa coast.
 
-May 7: Ukrainian OWA-UAVs hit Russian Navy Pr.22800 Karakurt Class corvette in Kaspiysk on the Caspian Sea. 
+May 7 2026: Ukrainian OWA-UAVs hit Russian Navy Pr.22800 Karakurt Class corvette in Kaspiysk on the Caspian Sea. 
 
-May 8: Ukrainian uncrewed surface vessel (USV) armed with a ram-charge warhead found in sea cave on Greek Island of Lefkada in Mediterranean.
+May 8 2026: Ukrainian uncrewed surface vessel (USV) armed with a ram-charge warhead found in sea cave on Greek Island of Lefkada in Mediterranean.
 
-May 14: Russian cargo ship carrying ammunition hit by at least 3 Ukrainian OWA-UAVs in the port of Berdiansk.
+May 14 2026: Russian cargo ship carrying ammunition hit by at least 3 Ukrainian OWA-UAVs in the port of Berdiansk.
 
-May 15: Russian Navy Be-200 jet-powered amphibian and Ka-27 HELIX helicopter at Yeysk air base among targets destroyed by Ukrainian OWA-UAVs. 
+May 15 2026: Russian Navy Be-200 jet-powered amphibian and Ka-27 HELIX helicopter at Yeysk air base among targets destroyed by Ukrainian OWA-UAVs. 
 
-May 15: Ukrainian OWA-UAvs hit a small missile boat and a minesweeper at the Russian naval base in Kaspiysk on the Caspian Sea.
+May 15 2026: Ukrainian OWA-UAvs hit a small missile boat and a minesweeper at the Russian naval base in Kaspiysk on the Caspian Sea.
 
-May 17: Russian Navy Pr.10410 Svetlyak-class patrol boat hit by Ukrainian FP-1 or FP-2 OWA-UAV while underway in Caspian Sea. 
+May 17 2026: Russian Navy Pr.10410 Svetlyak-class patrol boat hit by Ukrainian FP-1 or FP-2 OWA-UAV while underway in Caspian Sea. 
 
-May 18: Russian Shahed OWA-USV hit Chinese linked bulk carrier merchant ship *KSL Deyang* (IMO: 9457725) near Odesa.
+May 18 2026: Russian Shahed OWA-USV hit Chinese linked bulk carrier merchant ship *KSL Deyang* (IMO: 9457725) near Odesa.
 
-May 23: Major Ukrainian strikes on Novorossiysk. Oil facilities hit. Warships in the naval harbour also attacked. Russian shadow fleet tanker *Chrysalis* (IMO 9437684) hit off Novorossiysk.
+May 23 2026: Major Ukrainian strikes on Novorossiysk. Oil facilities hit. Warships in the naval harbour also attacked. Russian shadow fleet tanker *Chrysalis* (IMO 9437684) hit off Novorossiysk.
 
-May 25: 4 limpet mines found on Russian linked LPG tanker *Arrhenius* (IMO: 9471032) as it arrives at Ust-Luga port outside St. Petersburg in the Baltic.
+May 25 2026: 4 limpet mines found on Russian linked LPG tanker *Arrhenius* (IMO: 9471032) as it arrives at Ust-Luga port outside St. Petersburg in the Baltic.
 
-May 28: 3 Russian-linked tankers attacked by USVs in southern Black Sea near the entrance to the Bosporus. Tanker *James II* (IMO: 9253909) struck, tanker *Velora* (IMO: 9290373) hit but the USVs failed to explode, and *Altura* (IMO: 9292199) damaged.
+May 28 2026: 3 Russian-linked tankers attacked by USVs in southern Black Sea near the entrance to the Bosporus. Tanker *James II* (IMO: 9253909) struck, tanker *Velora* (IMO: 9290373) hit but the USVs failed to explode, and *Altura* (IMO: 9292199) damaged.
 
 ![Ukrainian attack on oil facilities at Novorossiysk](/images/Russia-Ukraine-Tu-142-20260530.jpg)  
 *Ukrainian drone's-eye view of the attack on 2 Tu-142 BEAR aircraft, May 30.* 
 
-May 30: Russian oil products tanker hit in Taganrog on the Sea of Azov. Two maritime patrol aircraft (MPA) - a Tu-142MR BEAR-J communications relay aircraft and a Tu-142M BEAR-F anti-submarine warfare aircraft, were destroyed at the nearby air base.
+May 30 2026: Russian oil products tanker hit in Taganrog on the Sea of Azov. Two maritime patrol aircraft (MPA) - a Tu-142MR BEAR-J communications relay aircraft and a Tu-142M BEAR-F anti-submarine warfare aircraft, were destroyed at the nearby air base.
 
 ## The Summer Of Long Range Strike
 
-Jun 1: France arrests false-flagged shadow fleet tanker *Tagor* (IMO: 9282481) sailing from Russia.
+Jun 1 2026: France arrests false-flagged shadow fleet tanker *Tagor* (IMO: 9282481) sailing from Russia.
 
-Jun 3: Russian Navy Pr.20380 *Steregushchiy* class corvet *Boikiy* hit by at least two Ukrainian OWA-UAVs in dry dock at Kronstadt, St. Petersurg. Significant damage.
+Jun 3 2026: Russian Navy Pr.20380 *Steregushchiy* class corvet *Boikiy* hit by at least two Ukrainian OWA-UAVs in dry dock at Kronstadt, St. Petersurg. Significant damage.
 
-Jun 4: Russian Pr.10410 *Svetlyak* class patrol patrol ship was struck by a Ukrainian FP-2 OWA-UAV off Yurkine, Sea of Azov.
+Jun 4 2026: Russian Pr.10410 *Svetlyak* class patrol patrol ship was struck by a Ukrainian FP-2 OWA-UAV off Yurkine, Sea of Azov.
 
-Jun 4: Swedish authorities seize Russuan linked shadow fleet cargo vessel *Caffa* (IMO: 9143611). Reports indicate that it may be handed over to Ukraine.
+Jun 4 2026: Swedish authorities seize Russuan linked shadow fleet cargo vessel *Caffa* (IMO: 9143611). Reports indicate that it may be handed over to Ukraine.
 
-Jun 5: Ukrainian OWA-UAVs struck 5 russian-linked merchant vessels in Mariupol, Berdiansk and offshore in Sea of Azov. Two vessels identified as *Natra* (IMO 8729975) and *Circon* (IMO 8887519).
+Jun 5 2026: Ukrainian OWA-UAVs struck 5 russian-linked merchant vessels in Mariupol, Berdiansk and offshore in Sea of Azov. Two vessels identified as *Natra* (IMO 8729975) and *Circon* (IMO 8887519).
 
-Jun 6: Ukrainian strikes on Kronstadt naval base. The marine plant and arsenal were hit. 
+Jun 6 2026: Ukrainian strikes on Kronstadt naval base. The marine plant and arsenal were hit. 
 
-Jun 6: Russian Geran (Shahed) OWA-UAV strikes Ukrainian Patrol-24 rescue vessel _SAR-7_ at sea. Vessel's superstructure destroyed.
+Jun 6 2026: Russian Geran (Shahed) OWA-UAV strikes Ukrainian Patrol-24 rescue vessel _SAR-7_ at sea. Vessel's superstructure destroyed.
 
-Jun 8: Russian shadow fleet tanker *Caroline Bezengi* (IMO 9224439) attacked off Yemen, rteportedly by sabotage. Limpet mine attack unconfirmed.
+Jun 8 2026: Russian shadow fleet tanker *Caroline Bezengi* (IMO 9224439) attacked off Yemen, rteportedly by sabotage. Limpet mine attack unconfirmed.
 
-Jun 11: Ukrainian OWA-UAV operations in Sea of Azov include strikes on a tug boast and critical infrastructure.
+Jun 11 2026: Ukrainian OWA-UAV operations in Sea of Azov include strikes on a tug boast and critical infrastructure.
 
-Jun 14: British forces intercept a Russian shadow fleet tanker, the *Smyrtos* (MO: 9389100), for the first time in English Channel.
+Jun 14 2026: British forces intercept a Russian shadow fleet tanker, the *Smyrtos* (MO: 9389100), for the first time in English Channel.
 
-Mid-late Jun: Ukrainian campaign on logistics routes and critical infrastructure into and out of Crimea include numerous OWA-UAV strikes on coastal targets including around Kerch. 
+Mid-late Jun 2026: Ukrainian campaign on logistics routes and critical infrastructure into and out of Crimea include numerous OWA-UAV strikes on coastal targets including around Kerch. 
 
-Mid-late Jun: Russian USV operations increasing in northwestern Black Sea, likely launched from Chornomors'ke area of Crimea. 
+Mid-late Jun 2026: Russian USV operations increasing in northwestern Black Sea, likely launched from Chornomors'ke area of Crimea. 
 
-Jun 22: Russian OWA-UAVs hit three merchant ships off Odesa coast. *Victress* (IMO: 9030498) confirmed, *Searena* (IMO: 9250567) probable, *Ganosaya* (IMO: 9151400) probable.
+Jun 22 2026: Russian OWA-UAVs hit three merchant ships off Odesa coast. *Victress* (IMO: 9030498) confirmed, *Searena* (IMO: 9250567) probable, *Ganosaya* (IMO: 9151400) probable.
 
-Jun 24: Russian sources report that Ukrainian USVs are being used to launch quadcopter FPV drones which actively hunt Russian mobile air defence teams in Crimea, in support of the Ukrainian mid-range strike campaign. 
+Jun 24 2026: Russian sources report that Ukrainian USVs are being used to launch quadcopter FPV drones which actively hunt Russian mobile air defence teams in Crimea, in support of the Ukrainian mid-range strike campaign. 
 
-Jun 26: Ukrainian SBU raid on the Zaliv shiupyard near Kerch struck two Russian Pr.15310 cable-laying vessels *Volga* and *Vyatka* with OWA-UAVs. The  CNF22 cargo-passenger ferry *Petropavlovsk* was also hit.
+Jun 26 2026: Ukrainian SBU raid on the Zaliv shiupyard near Kerch struck two Russian Pr.15310 cable-laying vessels *Volga* and *Vyatka* with OWA-UAVs. The  CNF22 cargo-passenger ferry *Petropavlovsk* was also hit.
 
-Jul 4: Ukrainian Navy (VMS-ZSU) reveals presence of NSM missiles, together with Harpoon, Neptune and RBS-15 missiles during display in Odesa. Seawolf USVs and an unnamed large AUV also shown.
+Jul 4 2026: Ukrainian Navy (VMS-ZSU) reveals presence of NSM missiles, together with Harpoon, Neptune and RBS-15 missiles during display in Odesa. Seawolf USVs and an unnamed large AUV also shown.
 
 
 ## Operation MOLOCHKA
 
-Jul 6: Ukrainian Unmanned Systems Forces (SBS) campaign against fuel logistics in Crimea and southeastern Ukraine begins to focus on products tankers in Sea of Azov area. Campaign later reportedly name 'MOLOCHKA' meaning '_Moscow will fall because of Crimea_'. 2 tankers hit by OWA-UAVs: Captain _Barmin_ & _Sanar-3_
+Jul 6 2026: Ukrainian Unmanned Systems Forces (SBS) campaign against fuel logistics in Crimea and southeastern Ukraine begins to focus on products tankers in Sea of Azov area. Campaign later reportedly name 'MOLOCHKA' meaning '_Moscow will fall because of Crimea_'. 2 tankers hit by OWA-UAVs: Captain _Barmin_ & _Sanar-3_
 
-Jul 7: Ukrainian campaign against fuel logistics in Sea of Azov: 8 tankers, 1 cargo ship, and 1 ferry hit by OWA-UAVs: _Venera-3, Sanar-1, Sanar-17, Klimena, Teti, Aleksey Savrasov, Penelopa, Ivan Cheremisinov_, plus an unnamed Cargo ship, and the Kerch ferry _SKS One_.
+Jul 7 2026: Ukrainian campaign against fuel logistics in Sea of Azov: 8 tankers, 1 cargo ship, and 1 ferry hit by OWA-UAVs: _Venera-3, Sanar-1, Sanar-17, Klimena, Teti, Aleksey Savrasov, Penelopa, Ivan Cheremisinov_, plus an unnamed Cargo ship, and the Kerch ferry _SKS One_.
 
-Jul 7: Ukraine's SBU used Sea Baby USVs to strike the shadow fleet tanker *Blue* (IMO: 9236353) in Black Sea. Ship disabled, towed to Turkey.
+Jul 7 2026: Ukraine's SBU used Sea Baby USVs to strike the shadow fleet tanker *Blue* (IMO: 9236353) in Black Sea. Ship disabled, towed to Turkey.
 
 ![Ukrainian campaign against fuel logistics in Sea of Azov](/images/Ukraine-Russia-Tankers-Azov.jpg)  
 *Ukrainian drones, mostly FP-1/2 (left), struck a large number of fuel tankers and other logistics ships in Sea of Azov. Russian Su-34 FULLBACK aircraft (right) attempted to intercept the drones, with little apparent success.* 
 
-Jul 8: Ukrainian campaign against fuel logistics in Sea of Azov, operation MOLOCHKA: 5 tankers and 4 cargo vessels hit by OWA-UAVs: _Tankers Efrosinya V, Maria, Sanar-17_ (hit again), _Sanar-4, Klimena_ (hit again), and cargo ships _Donstar, Vladimir Yarygin, Feofan Shokhirev_, and _Evgeniya Z_.
+Jul 8 2026: Ukrainian campaign against fuel logistics in Sea of Azov, operation MOLOCHKA: 5 tankers and 4 cargo vessels hit by OWA-UAVs: _Tankers Efrosinya V, Maria, Sanar-17_ (hit again), _Sanar-4, Klimena_ (hit again), and cargo ships _Donstar, Vladimir Yarygin, Feofan Shokhirev_, and _Evgeniya Z_.
 
-Jul 9: Ukrainian campaign against fuel logistics in Sea of Azov, operation MOLOCHKA: 12 tankers, 1 cargo ship, and 1 tugboat hit by OWA-UAVs: Tankers _Chelsea-6, Aura, Sonar-1, Ilya Repin, Merkuriy, Galiaskar Kamal, Venera-3, Penelopa_, plus the tug boat _Alfeo_. The names of the other five vessels was not reported. 
+Jul 9 2026: Ukrainian campaign against fuel logistics in Sea of Azov, operation MOLOCHKA: 12 tankers, 1 cargo ship, and 1 tugboat hit by OWA-UAVs: Tankers _Chelsea-6, Aura, Sonar-1, Ilya Repin, Merkuriy, Galiaskar Kamal, Venera-3, Penelopa_, plus the tug boat _Alfeo_. The names of the other five vessels was not reported. 
 
-Jul 10: Russian fuel tankers in Sea of Azov begin to have drone nets. Does not appear successful against OWA-UAVs. 
+Jul 10 2026: Russian fuel tankers in Sea of Azov begin to have drone nets. Does not appear successful against OWA-UAVs. 
 
-Jul 10: Reports that Russia stopped passages throuugh Don-Azov Channel and stopped accepting Kerch Strait passage requests.
+Jul 10 2026: Reports that Russia stopped passages throuugh Don-Azov Channel and stopped accepting Kerch Strait passage requests.
 
-Jul 10-12: Further Ukrainian strikes on fuel tankers and other logistics vessels in Sea of Avox with OWA-UAVs.
+Jul 10-12 2026: Further Ukrainian strikes on fuel tankers and other logistics vessels in Sea of Avox with OWA-UAVs.
 
-Jul 12: Ukrainian campaign against fuel logistics in Sea of Azov, operation MOLOCHKA: 7 tankers, 5 cargo ships, 2 tugboats and 1 ferry hit.
+Jul 12 2026: Ukrainian campaign against fuel logistics in Sea of Azov, operation MOLOCHKA: 7 tankers, 5 cargo ships, 2 tugboats and 1 ferry hit.
 
-Jul 13: A transport USV operated by Ukraine's 123rd Territorial Defense Brigade lands an uncrewed ground vehicle (UGV) on Kinburn Spit. Likely the first time in history a USV has deployed a UGV. 
+Jul 13 2026: A transport USV operated by Ukraine's 123rd Territorial Defense Brigade lands an uncrewed ground vehicle (UGV) on Kinburn Spit. Likely the first time in history a USV has deployed a UGV. 
 
-Jul 13: Russian OWA-UAV reportedly struck a merchant ship in Odesa.
+Jul 13 2026: Russian OWA-UAV reportedly struck a merchant ship in Odesa.
 
-Jul 13: Ukrainian campaign against fuel logistics in Sea of Azov, operation MOLOCHKA: 5 tankers, 5 cargo ships, and 1 tugboat.
+Jul 13 2026: Ukrainian campaign against fuel logistics in Sea of Azov, operation MOLOCHKA: 5 tankers, 5 cargo ships, and 1 tugboat.
 
-Jul 14: Russian jet-powered strike drone (OWA-UAV) struck Tanzanian flagged cargo vessel *Atlas Bey* (IMO: 8302404) off the coast of Odesa. A second merchant ship was also reportedly hit near Odesa.
+Jul 14 2026: Russian jet-powered strike drone (OWA-UAV) struck Tanzanian flagged cargo vessel *Atlas Bey* (IMO: 8302404) off the coast of Odesa. A second merchant ship was also reportedly hit near Odesa.
 
 ![Russian Rubin Class FSB patrol ship sunk](/images/Russia-Rubin-FSB-Sunk-20260714.jpg) 
 
 *Russian Rubin Class FSB patrol ship sunk 14th July, 44.5648°, 37.9928°.*
 
-Jul 14: Ukrainian Navy (VMS-ZSU) destroy Russian FSB Pr.22460 Rubin Class patrol ship ‘*Izumrud*’ with a Sargan-3000 USV in the small harbour outside Gelendzhik.
+Jul 14 2026: Ukrainian Navy (VMS-ZSU) destroy Russian FSB Pr.22460 Rubin Class patrol ship ‘*Izumrud*’ with a Sargan-3000 USV in the small harbour outside Gelendzhik.
 
-Jul 15: Ukrainian Unmanned Systems Forces (SBS) struck 20 vessels as part of Operation MOLOCHKA. Breakdown not reported.
+Jul 15 2026: Ukrainian Unmanned Systems Forces (SBS) struck 20 vessels as part of Operation MOLOCHKA. Breakdown not reported.
 
-Jul 15: Russia struck a merchant vessel in Chernomorsk with Geran-4 (Shahed) 'Seeker' jet-powered OWA-UAVs. Also two ships at Dnepro-Bugskiy in Galitsynovo of Nikolayev region.
+Jul 15 2026: Russia struck a merchant vessel in Chernomorsk with Geran-4 (Shahed) 'Seeker' jet-powered OWA-UAVs. Also two ships at Dnepro-Bugskiy in Galitsynovo of Nikolayev region.
 
-Jul 16: Ukrainian Unmanned Systems Forces (SBS) struck 11 vessels as part of Operation MOLOCHKA: 5 oil tankers, 1 oil products tanker, 3 cargo vessels, 2 tugboats. Sea of Azov/Black Sea breakdown not reported.
+Jul 16 2026: Ukrainian Unmanned Systems Forces (SBS) struck 11 vessels as part of Operation MOLOCHKA: 5 oil tankers, 1 oil products tanker, 3 cargo vessels, 2 tugboats. Sea of Azov/Black Sea breakdown not reported.
 
-Jul 16: Russian Geran-2 (Shahed) OWA-UAV hit a cargo ship sailing to Chernomorsk.
+Jul 16 2026: Russian Geran-2 (Shahed) OWA-UAV hit a cargo ship sailing to Chernomorsk.
 
-Jul 17: Ukrainian Unmanned Systems Forces (SBS) struck 12 vessels as part of Operation MOLOCHKA: 1 oil tankers, 1 oil products tanker, 9 cargo vessels, 1 tugboats. Sea of Azov/Black Sea breakdown not reported.
+Jul 17 2026: Ukrainian Unmanned Systems Forces (SBS) struck 12 vessels as part of Operation MOLOCHKA: 1 oil tankers, 1 oil products tanker, 9 cargo vessels, 1 tugboats. Sea of Azov/Black Sea breakdown not reported.
 
-Jul 17: Russian Geran-4 (Shahed) 'Seeker' jet-powered OWA-UAVs attacked three  cargo ships in Nikolayev
+Jul 17 2026: Russian Geran-4 (Shahed) 'Seeker' jet-powered OWA-UAVs attacked three  cargo ships in Nikolayev
 
-Jul 18: Ukrainian Unmanned Systems Forces (SBS) struck 13 vessels as part of Operation MOLOCHKA. In Sea of Azov: 1 oil tanker, 8 cargo ships. In Black Sea: 1 oil products tanker. 2 cranes & 1 tugboat. 
+Jul 18 2026: Ukrainian Unmanned Systems Forces (SBS) struck 13 vessels as part of Operation MOLOCHKA. In Sea of Azov: 1 oil tanker, 8 cargo ships. In Black Sea: 1 oil products tanker. 2 cranes & 1 tugboat. 
 
-Jul 18: Ukrainian SBU strikes shadow fleet tanker _Avero_ (IMO: 9250737) with a Kozak Mamai USV in Black Sea. 
+Jul 18 2026: Ukrainian SBU strikes shadow fleet tanker _Avero_ (IMO: 9250737) with a Kozak Mamai USV in Black Sea. 
 
-Jul 18: Oil tanker _Nordic Zenith_ (IMO 9588469) hit by likely-Ukrainian OWA-UAV sailing from Novorossiysk. 
+Jul 18 2026: Oil tanker _Nordic Zenith_ (IMO 9588469) hit by likely-Ukrainian OWA-UAV sailing from Novorossiysk. 
 
-Jul 18: Russian MoD reports its OWA-UAVs strike a vessel Chernomorsk and attack a vessel near Snake Island.
+Jul 18 2026: Russian MoD reports its OWA-UAVs strike a vessel Chernomorsk and attack a vessel near Snake Island.
 
-Mid Jul: Russian Navy Baltic-based Pr.22800 Karakurt Class missile corvettes _Mytishchi_ and _Burya_ observed with dazzle camouflage schemes.
+Mid Jul 2026: Russian Navy Baltic-based Pr.22800 Karakurt Class missile corvettes _Mytishchi_ and _Burya_ observed with dazzle camouflage schemes.
 
-Jul 19: Ukrainian Unmanned Systems Forces (SBS) struck 4 vessels as part of Operation MOLOCHKA. Breakdown not reported.
+Jul 19 2026: Ukrainian Unmanned Systems Forces (SBS) struck 4 vessels as part of Operation MOLOCHKA. Breakdown not reported.
 
-Jul 19: Russian aircraft strike the Guinea Bissau-flagged grain ship _Golden Leo_ (IMO 9181833) off Odesa, reportedly with AS-13 KINGBOLT (Kh-59) or AS-22 KAZOO (Kh-69) air-launched cruise missiles. Vessel sunk Jul 26.
+Jul 19 2026: Russian aircraft strike the Guinea Bissau-flagged grain ship _Golden Leo_ (IMO 9181833) off Odesa, reportedly with AS-13 KINGBOLT (Kh-59) or AS-22 KAZOO (Kh-69) air-launched cruise missiles. Vessel sunk Jul 26.
 
-Jul 20: Ukrainian Unmanned Systems Forces (SBS) struck 7 vessels as part of Operation MOLOCHKA: 3 oil tankers, 4 cargo vessels. Sea of Azov/Black Sea breakdown not reported.
+Jul 20 2026: Ukrainian Unmanned Systems Forces (SBS) struck 7 vessels as part of Operation MOLOCHKA: 3 oil tankers, 4 cargo vessels. Sea of Azov/Black Sea breakdown not reported.
 
-Jul 21: Liberian-flagged _LPG Gas Lisbon_ exploded about 37km off Romanian coast. Reports suggest Russian OWA-UAVs responsible.
+Jul 21 2026: Liberian-flagged _LPG Gas Lisbon_ exploded about 37km off Romanian coast. Reports suggest Russian OWA-UAVs responsible.
 
-Jul 24. Russian bulk carrier New Victory (IMO 9159050) hit by Ukrainian FP-1 OWA-UAVs in Black Sea.
+Jul 24 2026: Russian bulk carrier New Victory (IMO 9159050) hit by Ukrainian FP-1 OWA-UAVs in Black Sea.
 
-Jul 25: Ukrainian drone (OWA-UAV) strikes in Caspian hit 2 sanctioned arms transports, _Port Olya  2_ (IMO: 9481881) and_ Begey_ (IMO: 8943210). Oil platforms & 1 x Pr.1241 TARANTUL Class missile boat also reportedly hit. Subsequent reporting indicates that Iranian vessel 'Zereh' also hit with one casualty. Iran protests. 
+Jul 25 2026: Ukrainian drone (OWA-UAV) strikes in Caspian hit 2 sanctioned arms transports, _Port Olya  2_ (IMO: 9481881) and_ Begey_ (IMO: 8943210). Oil platforms & 1 x Pr.1241 TARANTUL Class missile boat also reportedly hit. Subsequent reporting indicates that Iranian vessel 'Zereh' also hit with one casualty. Iran protests. 
 
-Jul 25: Palau-flagged merchant vessel _AGN Ragnar_ (IMO 9148104) struck by Russian drones (OWA-UAV) off Danube. Russian MoD also reports strikes on vessels in Nikolayev Port with Geran-4 'Seeker' jet-powerred OWA-UAVs.
+Jul 25 2026: Palau-flagged merchant vessel _AGN Ragnar_ (IMO 9148104) struck by Russian drones (OWA-UAV) off Danube. Russian MoD also reports strikes on vessels in Nikolayev Port with Geran-4 'Seeker' jet-powerred OWA-UAVs.
 
-Jul 25: Reports that the US Government warned Ukraine against striking Non-Russian vessels sailing to-from Russian ports.
+Jul 25 2026: Reports that the US Government warned Ukraine against striking Non-Russian vessels sailing to-from Russian ports.
 
-Jul 26: Russian Navy Day. Traditional parades cancelled.
+Jul 26 2026: Russian Navy Day. Traditional parades cancelled.
 
-Jul 26:  Russian MoD reports its OWA-UAVs struck a vessel off Odesa and 2 vessels in Dnieper-Bug estuary
+Jul 26 2026:  Russian MoD reports its OWA-UAVs struck a vessel off Odesa and 2 vessels in Dnieper-Bug estuary
 
-Jul 27: Russian MoD reports its OWA-UAVs strike a vessel in Nikolayev
+Jul 27 2026: Russian MoD reports its OWA-UAVs strike a vessel in Nikolayev
 
-Aug 3: Cameroon flagged Ro-Ro ship NADEZHDA (IMO: 7702657) hit in Black Sea off Novorossiysk by Ukrainian OWA-UAV.
+Aug 3 2026: Cameroon flagged Ro-Ro ship NADEZHDA (IMO: 7702657) hit in Black Sea off Novorossiysk by Ukrainian OWA-UAV.
 
-Early Aug: Ukrainian Unmanned Systems Forces (SBS) reported hitting 12 shadow fleet vessels in Black Sea / Sea of Azov from 1st -8th August.
+Early Aug 2026: Ukrainian Unmanned Systems Forces (SBS) reported hitting 12 shadow fleet vessels in Black Sea / Sea of Azov from 1st -8th August.
 
-Early Aug: Novel camouflage, anti-drone nets, hanging anti-USV defences and sandbags observed on Russian Navy vessels and shadow fleet/Russian merchant vessels in Black Sea and Baltic. General cargo vessel _Mechta S_ (IMO: 8419659) observed with full camouflage scheme. 
+Early Aug 2026: Novel camouflage, anti-drone nets, hanging anti-USV defences and sandbags observed on Russian Navy vessels and shadow fleet/Russian merchant vessels in Black Sea and Baltic. General cargo vessel _Mechta S_ (IMO: 8419659) observed with full camouflage scheme. 
 
-Aug 10: Two shadow-fleet vessels hit in Black Sea
+Aug 10 2026: Two shadow-fleet vessels hit in Black Sea
 
-Aug 10: Ukraine agrees to not attack non-Russian flagged tankers in the Black Sea heading to/from the Caspian Pipeline Consortium terminal near Novorossiysk, and not carrying Ruissian oil.
+Aug 10 2026: Ukraine agrees to not attack non-Russian flagged tankers in the Black Sea heading to/from the Caspian Pipeline Consortium terminal near Novorossiysk, and not carrying Ruissian oil.
 
-Aug 12: Ukrainian OWA-UAV and missile strike on Novorossiysk reportedly hits four warships. Strikes on Pr.11356R GRIGOROVICH Class frigates Admiral Marakov and Admiral Essen confirmed. Vessels damaged. 
+Aug 12 2026: Ukrainian OWA-UAV and missile strike on Novorossiysk reportedly hits four warships. Strikes on Pr.11356R GRIGOROVICH Class frigates Admiral Marakov and Admiral Essen confirmed. Vessels damaged. 
 
-Aug 17: Ukrainian OWA-UAVs strike Greek-linked tanker _Skiros_ (IMO: 9390628) off Novorossiysk after loading Russian oil at Caspian Pipeline Consortium terminal.
+Aug 17 2026: Ukrainian OWA-UAVs strike Greek-linked tanker _Skiros_ (IMO: 9390628) off Novorossiysk after loading Russian oil at Caspian Pipeline Consortium terminal.
 
-Aug 17: Russian LNG tanker _Portovyy_ (IMO 9246621) departed Baltic loading with LNG, heading to far east via North Sea Route (NSR). Likely a new route to avoid Ukrainian USV threat.
+Aug 17 2026: Russian LNG tanker _Portovyy_ (IMO 9246621) departed Baltic loading with LNG, heading to far east via North Sea Route (NSR). Likely a new route to avoid Ukrainian USV threat.
 
-Aug 20: Russian surface drone (USV) found off the coast of Romania, drifting close to the Neptun Alpha drilling platform. Destroyed by Romanian forces. 
+Aug 20 2026: Russian surface drone (USV) found off the coast of Romania, drifting close to the Neptun Alpha drilling platform. Destroyed by Romanian forces. 
 
-Aug 24: Ukrainian Unmanned Systems Forces (SBS) reported hitting a Russian shadow fleet tanker and a bulk carrier in the #Black_Sea.
+Aug 24 2026: Ukrainian Unmanned Systems Forces (SBS) reported hitting a Russian shadow fleet tanker and a bulk carrier in the #Black_Sea.
 
-Sep 17. Reports Russia struck a Tanzanian-flagged civilian vessel with a OWA-UAV in the Black Sea.
+Sep 17 2026: Reports Russia struck a Tanzanian-flagged civilian vessel with a OWA-UAV in the Black Sea.
 
-Oct 5. Merchant ship _Royad Mammadov_ (IMO 9356969), carrying Ukrainian grain to Italy, hit by likely Russian OWA-UAV off Romanian coast.
+Oct 5 2026: Merchant ship _Royad Mammadov_ (IMO 9356969), carrying Ukrainian grain to Italy, hit by likely Russian OWA-UAV off Romanian coast.
 
-Oct 5. Russia struck two merchant ships in the Bulgarian EEZ with OWA-UAVs. The general cargo ships _Able_ (IMO 9001136) and _Alfa Watan_ (IM: 7510884) were hit.
+Oct 5 2026: Russia struck two merchant ships in the Bulgarian EEZ with OWA-UAVs. The general cargo ships _Able_ (IMO 9001136) and _Alfa Watan_ (IM: 7510884) were hit.
 
-Oct 6. Russian shadow fleet oil tanker _Aframax Rio_ (IMO 9273844) struck by a USV off Sochi. Large burning oil slick visible from shore.
+Oct 6 2026: Russian shadow fleet oil tanker _Aframax Rio_ (IMO 9273844) struck by a USV off Sochi. Large burning oil slick visible from shore.
 
-Oct 7. Ukrainian Navy (VMS ZSU) 'Sargans-3000' USV shot down a Russian Geran (Shahed) OWA-UAV using the onboard remote weapon station (RWS). Likely world first.
+Oct 7 2026: Ukrainian Navy (VMS ZSU) 'Sargans-3000' USV shot down a Russian Geran (Shahed) OWA-UAV using the onboard remote weapon station (RWS). Likely world first.
 
-Oct 10. Ukrainian OWA-UAVs struck rail bridge over Volga-Don Canal in Rostov on Don.
+Oct 10 2026: Ukrainian OWA-UAVs struck rail bridge over Volga-Don Canal in Rostov on Don.
 
-Oct 13. Russian OWA-UAVs strike two Ukrainian merchant vessels off Bulgarian coast. _Chelsea 3_ (IMO: 9361392) and _Azov Concord_ (IMO: 9387748). Both vessels lost.
+Oct 13 2026: Russian OWA-UAVs strike two Ukrainian merchant vessels off Bulgarian coast. _Chelsea 3_ (IMO: 9361392) and _Azov Concord_ (IMO: 9387748). Both vessels lost.
+
+Nov 21 2026: Russian government Ro-Ro transport ship Sparta-II (IMO 9160994) struck by deep strike drones (OWA-UAVs) in gulf of Finland near St. Petersburg. Vessel caught fire. Days later she was towed back to a Russian port.
+
+Nov 21 2026: Ukrainian deep strike drones (OWA-UAVs) raided Baltiysk, Kaliningrad in Baltic for first time. The enclave is home to a major Russian naval base.
+
+Nov 21 2026: Russian-linked cargo vessel observed sinking off Gelendzhik, near Novorossiysk in Black Sea.
+
+Nov 22 2026: Ukrainian SBU-operated Sea Baby USVs (same model as Seawulf / Sargan-3000) struck Russian Project 20380 Steregushchiy-class corvette _Merkury_ in Benghazi in Libya in early hours of morning. The corvette had been escorting a convooy of Russian Government cargo ships. Vessel destroyed and sunk at quay and her Ka-27 HELIX helicopter was also lost. Later the same day the _Angara_ (IMO 9179842) was struck by a USV outside the port. Ship disabled. There were unconfirmed reports that an Iranian tanker, Alvan (IMO 9165798) was also struck. That ship had possibly been refueling Russian ships in the Mediterranean.
+
+![Russian Rubin Class FSB patrol ship sunk](/images/Ukraine-USV-Bemghazi-Merkuriy.jpg) 
+_The Russian corvette Merkury was completelty destroyed_
+
+![Russian Rubin Class FSB patrol ship sunk](/images/Ukraine-USV-Bemghazi-droneview.jpg) 
+_View from a Ukrainian USV as it approaches Angara. The ship's engine room was destroyed and the vessel disabled._
+
 
 ...To be continued.  
 
