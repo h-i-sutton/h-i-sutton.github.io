@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Timeline of Ukraine Invasion: War In The Black Sea"
-date: "2026-10-13 01:00:00"
+date: "2026-11-26 01:00:00"
 excerpt: |-
   **Regularly UPDATED**<br/><br clear="right"><a href="/Timeline-2022-Ukraine-Invasion-At-Sea.html"><img align="left" loading="lazy" src="/images/Russia-Ukraine-Black-Sea-317.jpg"/></a> ![Flag Russia](/images/flag_russia.jpg) ![Flag Ukraine](/images/flag_ukraine.jpg) Reflecting on the Russo-Ukraine War, I am putting together a timeline of the most relevant events in the Black Sea. This should provide a useful overview...<br/>[Read More &gt;....](/Timeline-2022-Ukraine-Invasion-At-Sea.html "READ MORE")<br clear="left"/><br/>
 ---
@@ -525,6 +525,11 @@ Jul 6: Overnight attack on Novorossiysk by Ukrainian aerial and surface drones (
 
 Jul 6: Ukrainian Navy Day. Meanwhile there are reports that Russia will cancel its Navy Day parade in St Petersburg on July 27 due to security concerns.   
 
+Aug 4: Russian cargo ship _Olya-4_ (IMO 9481934) sunk near Astrakhan. Vessel believed to be involved in transporting war materials from Iran to Russia.
+
+![Ukraine strike on Kerch Bridge June 3 2025](/images/Russia-Olya-4-sunk.jpg)  
+*wreck of Olya-4, filmed Autimun 2026*  
+
 Aug 7: Russian Navy Pr.21631 Buyan-M corvette 'Vyshny Volochek' reportedly collided with a civilian tanker in Temryuk Bay of the Sea of Azov, resulting in significant damage.   
 
 Aug 14: Ukrainian special operations forces sink Russian weapons transport *Port of Olya 4* (IMO 9481934, MMSI 273390550) at Olya Port near Astrakhan in the Volga Delta using OWA-UAVs.   
@@ -608,46 +613,46 @@ Dec 19: Russian FSB border guard Pr.22460 Rubin-class patrol boat *Rasul Gamzato
 
 Jan 8 2026: Palau-flagged tanker *Elbus* (IMO: 9290385) heading to Novorossiysk hit by aerial drone off Turkish coast in Black Sea. 
 
-Jan 9: Russian drones hit two merchant ships off Odesa coast. *Ladonna* (IMO: 9107033) and *Wael K* (IMO: 9001148)
+Jan 9 2026: Russian drones hit two merchant ships off Odesa coast. *Ladonna* (IMO: 9107033) and *Wael K* (IMO: 9001148)
 
-Jan 11: Ukrainian drones hit Russian *Filanovsky, Korchagin*, and *Grayfer* oil platforms in the Caspian Sea. 
+Jan 11 2026: Ukrainian drones hit Russian *Filanovsky, Korchagin*, and *Grayfer* oil platforms in the Caspian Sea. 
 
-Jan 11: Russian drones hit merchant ships *Wael K* (IMO: 9001148) and *Ladonna* (IMO: 9107033) off Odesa coast.
+Jan 11 2026: Russian drones hit merchant ships *Wael K* (IMO: 9001148) and *Ladonna* (IMO: 9107033) off Odesa coast.
 
-Jan 12: Russia continues targeting merchant ships both in harbour and at sea with drones. Several ships hit including *Ata Voyager* (IMO: 9408360) and *Blue Bead* (IMO: 9171113), the latter with a BM-35 or similar UAV.
+Jan 12 2026: Russia continues targeting merchant ships both in harbour and at sea with drones. Several ships hit including *Ata Voyager* (IMO: 9408360) and *Blue Bead* (IMO: 9171113), the latter with a BM-35 or similar UAV.
 
-Jan 13: Russian sources report drones attacked 4 tankers in the Black Sea near Novorossiysk. *Delta Harmony* (IMO: 9408463), *Matilda* (IMO: 9407457), *Freud* (IMO: 9804461) and *Delta Supreme* (IMO: 9585895)
+Jan 13 2026: Russian sources report drones attacked 4 tankers in the Black Sea near Novorossiysk. *Delta Harmony* (IMO: 9408463), *Matilda* (IMO: 9407457), *Freud* (IMO: 9804461) and *Delta Supreme* (IMO: 9585895)
 
-Feb 13: Russian BK-17 assault boat reportedly destroyed by Ukrainian forces in Western Crimea. 
+Feb 13 2026: Russian BK-17 assault boat reportedly destroyed by Ukrainian forces in Western Crimea. 
 
-Feb 21: One, possibly two, Russian Pr.22460 Rubin class FSB patrol ship hit by guided drone (possibly FP-1/2) deep in Sevastopol Harbour. Three Rubin class vessels had been berthed there for some time.
+Feb 21 2026: One, possibly two, Russian Pr.22460 Rubin class FSB patrol ship hit by guided drone (possibly FP-1/2) deep in Sevastopol Harbour. Three Rubin class vessels had been berthed there for some time.
 
 ## Ukrainian Initiative
 
-Mar 3: Sanctioned Russian LNG tanker *Arctic Metagaz* (IMO: 9243148) sunk by USVs east of Malta in Mediterranean. 
+Mar 3 2026: Sanctioned Russian LNG tanker *Arctic Metagaz* (IMO: 9243148) sunk by USVs east of Malta in Mediterranean. 
 
-Mar 3: Large-scale Ukrainian drone srike on Novorossiysk damaged four Russian naval vessels: The Pr.11356M GRIGORVICH Class frigate *Admiral Essen*, Pr.66ME NATYA Class Seagoing Minesweeper *Valentin Pikul*, and the Pr.1124M GRISHA-III class ASW corvettes *Yeysk* and *Kasimov*.
+Mar 3 2026: Large-scale Ukrainian drone srike on Novorossiysk damaged four Russian naval vessels: The Pr.11356M GRIGORVICH Class frigate *Admiral Essen*, Pr.66ME NATYA Class Seagoing Minesweeper *Valentin Pikul*, and the Pr.1124M GRISHA-III class ASW corvettes *Yeysk* and *Kasimov*.
 
-Mar 4: Ukrainian Navy USVs struck Russian forces on the *Syvash* gas platform in the northwest Black Sea. A Ka-27 HELIX helicopter was desroyed as it landed aboard the platform by an FPV drone. 
+Mar 4 2026: Ukrainian Navy USVs struck Russian forces on the *Syvash* gas platform in the northwest Black Sea. A Ka-27 HELIX helicopter was desroyed as it landed aboard the platform by an FPV drone. 
 
-Mar 7: Ukrainian drone strikes on Crimea include strikes on Russian small boats. Pr.03160 Raptor class assault boat destroyed on Lake Donuzlav.
+Mar 7 2026: Ukrainian drone strikes on Crimea include strikes on Russian small boats. Pr.03160 Raptor class assault boat destroyed on Lake Donuzlav.
 
-Mar 9: BK-16 struck in Novoozerne. Possibly same as March 7 event.
+Mar 9 2026: BK-16 struck in Novoozerne. Possibly same as March 7 event.
 
-Mar 13: Greek flagged tanker *Maran Homer* (IMO: 9761372) struck off Novorossiysk
+Mar 13 2026: Greek flagged tanker *Maran Homer* (IMO: 9761372) struck off Novorossiysk
 
-Mar 14: Ukraine struck 2 Russian railway ferries, *Slavyanin* (IMO: 8300169) and *Avangard* (IMO 9522403) operating across the Kerch Strait
+Mar 14 2026: Ukraine struck 2 Russian railway ferries, *Slavyanin* (IMO: 8300169) and *Avangard* (IMO 9522403) operating across the Kerch Strait
 
-Mar 23: Major Ukrainian drone strike on Russian port of Primorsk near St. Petersburg.
+Mar 23 2026: Major Ukrainian drone strike on Russian port of Primorsk near St. Petersburg.
 
-Mar 24: Ukrainian strikes on high-value targets behind the front lines continue, including on Crimea. A SS-C-5 STOOGE (K-300P *Bastion-P* which fires P800 *Oniks* supersonic anti-ship / land-attack cruise missiles) was destroyed.
+Mar 24 2026: Ukrainian strikes on high-value targets behind the front lines continue, including on Crimea. A SS-C-5 STOOGE (K-300P *Bastion-P* which fires P800 *Oniks* supersonic anti-ship / land-attack cruise missiles) was destroyed.
 
-Mar 25: Ukrainian drones hit the Pr.23550 arctic patrol ship Purga (475) in Vyborg near St. Petersburg. Ship sunk and capsized at the quay. No apparent attempts to salvage it.
+Mar 25 2026: Ukrainian drones hit the Pr.23550 arctic patrol ship Purga (475) in Vyborg near St. Petersburg. Ship sunk and capsized at the quay. No apparent attempts to salvage it.
 
 ![Russian patrol ship Purga](/images/Russian-arctic-patrol-ship-Purga.jpg)  
 *Pr.23550 arctic patrol ship Purga (475) sunk in Vyborg* 
 
-Late Mar / early Apr: Major Ukrainian drone strike on Russian port of Urst Luga near St. Petersburg.
+Late Mar / early Apr 2026: Major Ukrainian drone strike on Russian port of Urst Luga near St. Petersburg.
 
 Early Apr: Russian Navy increasingly present in Tartus, Syria, again.
 
