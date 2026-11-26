@@ -868,6 +868,16 @@ Oct 10 2026: Ukrainian OWA-UAVs struck rail bridge over Volga-Don Canal in Rosto
 
 Oct 13 2026: Russian OWA-UAVs strike two Ukrainian merchant vessels off Bulgarian coast. _Chelsea 3_ (IMO: 9361392) and _Azov Concord_ (IMO: 9387748). Both vessels lost.
 
+Oct 14 2026: Russian OWA-UAVs strike Chemical tanker _Yara J_ (IMO 9221803) east of the mouth of the River Danube. Vessel abandoned.
+
+Oct 15 2026: Russian OWA-UAVs strike Chemical tanker _Wine Trader_ (IMO 8808707) east of the mouth of the River Danube. Vessel abandoned.
+
+Oct 28 2026: Russian OWA-UAVs strike containership Contship-Jet (IMO 9348625) in Bulgaria’s EEZ. Vessel sunk.
+
+Nov 11 2026: Ukrainian deep strike dromers (OWA-UAVs) raid Ust Luga port in Baltic.
+
+
+
 Nov 21 2026: Russian government Ro-Ro transport ship Sparta-II (IMO 9160994) struck by deep strike drones (OWA-UAVs) in gulf of Finland near St. Petersburg. Vessel caught fire. Days later she was towed back to a Russian port.
 
 Nov 21 2026: Ukrainian deep strike drones (OWA-UAVs) raided Baltiysk, Kaliningrad in Baltic for first time. The enclave is home to a major Russian naval base.
